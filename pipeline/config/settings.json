@@ -1,0 +1,17 @@
+{
+  "timezone": "Australia/Melbourne",
+  "briefing_types": {
+    "7am": {
+      "sections": ["us_markets", "asia_markets", "commodities", "fx_snapshot", "breaking_news"],
+      "description": "Pre-market preview"
+    },
+    "8am": {
+      "sections": ["world_news", "us_markets", "asia_markets", "asx_deep_dive", "watchlist", "crypto_fx_charts", "culture"],
+      "description": "Full morning briefing"
+    },
+    "5pm": {
+      "sections": ["asx_close", "watchlist", "sector_performance", "us_preview"],
+      "description": "ASX close wrap"
+    }
+  }
+}

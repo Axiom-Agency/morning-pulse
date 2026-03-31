@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-03-31T07:00:00+11:00",
+    "date": "2026-03-31",
+    "display_date": "Tuesday 31 March 2026",
+    "display_time": "07:00 AM AEST"
+  },
+  "narrative": {
+    "us_narrative": "US markets rallied overnight with the S&P 500 up 0.29%. Tech led gains on strong NVIDIA earnings momentum.",
+    "asia_narrative": ""
+  },
+  "us_markets": [
+    { "ticker": "^GSPC", "name": "S&P 500", "price": 5842.31, "change": 16.89, "change_pct": 0.29, "trend_5d": "up" },
+    { "ticker": "^IXIC", "name": "NASDAQ", "price": 18456.22, "change": 87.44, "change_pct": 0.48, "trend_5d": "up" },
+    { "ticker": "^DJI", "name": "Dow Jones", "price": 43128.50, "change": -42.15, "change_pct": -0.10, "trend_5d": "flat" },
+    { "ticker": "^VIX", "name": "VIX", "price": 14.32, "change": -0.78, "change_pct": -5.17, "trend_5d": "down" }
+  ],
+  "commodities": [
+    { "ticker": "GC=F", "name": "Gold", "price": 2245.80, "change_pct": 0.35 },
+    { "ticker": "BZ=F", "name": "Brent Crude", "price": 82.40, "change_pct": 1.20 },
+    { "ticker": "CL=F", "name": "WTI Crude", "price": 78.15, "change_pct": 1.10 }
+  ],
+  "fx": [
+    { "ticker": "AUDUSD=X", "name": "AUD/USD", "current_rate": 0.6648, "change_pct": -0.12 }
+  ],
+  "asx200": { "level": 8142.50, "change_pct": 0.40 }
+}

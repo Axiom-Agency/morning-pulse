@@ -1,0 +1,16 @@
+{
+  "stocks": [
+    { "ticker": "AMC.AX", "name": "Amcor" },
+    { "ticker": "IHVV.AX", "name": "iShares S&P500 ETF" },
+    { "ticker": "JHX.AX", "name": "James Hardie" },
+    { "ticker": "LTR.AX", "name": "Liontown Resources" },
+    { "ticker": "MQG.AX", "name": "Macquarie Group" },
+    { "ticker": "NIC.AX", "name": "Nickel Industries" },
+    { "ticker": "PLS.AX", "name": "Pilbara Minerals" },
+    { "ticker": "QRE.AX", "name": "Qualitas Real Estate" },
+    { "ticker": "TLS.AX", "name": "Telstra" },
+    { "ticker": "WEB.AX", "name": "Webjet" },
+    { "ticker": "WOW.AX", "name": "Woolworths" },
+    { "ticker": "WQG.AX", "name": "WCM Quality Global Growth" }
+  ]
+}

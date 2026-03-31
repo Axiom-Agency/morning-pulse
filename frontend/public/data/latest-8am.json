@@ -1,0 +1,240 @@
+{
+  "meta": {
+    "briefing_type": "8am",
+    "generated_at": "2026-03-31T08:00:00+11:00",
+    "date": "2026-03-31",
+    "display_date": "Tuesday 31 March 2026",
+    "display_time": "08:00 AM AEST"
+  },
+  "narrative": {
+    "us_narrative": "US markets rallied on stronger-than-expected GDP data, with tech leading gains as NVIDIA surged 4.2% on AI infrastructure demand. The S&P 500 posted its best day in two weeks.",
+    "asia_narrative": "Asian markets were mixed overnight. Japan's Nikkei gained 0.8% on yen weakness while Hong Kong fell 0.3% on renewed property sector concerns."
+  },
+  "world_news": [
+    {
+      "headline": "EU Announces Sweeping New Sanctions on Russian Energy Exports",
+      "summary": "The European Union has agreed on its most comprehensive sanctions package targeting Russian LNG exports, affecting approximately €12 billion in annual trade. The move is expected to tighten global energy supply and could push European gas prices higher heading into the northern hemisphere winter.",
+      "severity": "high",
+      "region": "Europe",
+      "aus_impact": true,
+      "aus_impact_note": "Positive for Australian LNG exporters (WDS, STO) as European buyers seek alternative supply sources. Could support AUD via higher commodity prices.",
+      "sources": ["Reuters", "BBC"]
+    },
+    {
+      "headline": "US-China Semiconductor Restrictions Escalate After Beijing Retaliatory Measures",
+      "summary": "Beijing has announced export controls on gallium and germanium compounds in response to expanded US chip restrictions. The tit-for-tat measures raise risks of further technology decoupling between the world's two largest economies.",
+      "severity": "high",
+      "region": "Asia-Pacific",
+      "aus_impact": true,
+      "aus_impact_note": "Risk of broader trade tensions could weigh on AUD and mining stocks if China growth concerns resurface. Watch lithium and rare earth miners.",
+      "sources": ["Reuters", "Al Jazeera"]
+    },
+    {
+      "headline": "Reserve Bank of India Cuts Key Rate by 25bps in Surprise Move",
+      "summary": "The RBI unexpectedly cut its repo rate to 5.75%, citing slowing domestic growth and benign inflation. The decision signals a more dovish tilt among Asian central banks and could influence RBA thinking on rates.",
+      "severity": "medium",
+      "region": "South Asia",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": ["Reuters"]
+    },
+    {
+      "headline": "UK and India Finalise Historic Free Trade Agreement",
+      "summary": "After three years of negotiations, the UK and India have signed a comprehensive FTA covering goods, services, and digital trade. The deal is the UK's largest post-Brexit trade agreement and opens access to India's 1.4 billion consumer market.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": ["BBC", "The Guardian"]
+    },
+    {
+      "headline": "Middle East Ceasefire Talks Stall as Regional Tensions Persist",
+      "summary": "UN-brokered ceasefire negotiations have hit an impasse over prisoner exchange terms. Oil markets remain on edge with Brent crude up 1.2% on supply disruption fears.",
+      "severity": "medium",
+      "region": "Middle East",
+      "aus_impact": true,
+      "aus_impact_note": "Higher oil prices supportive for energy stocks (WDS, STO) but negative for consumer inflation outlook.",
+      "sources": ["Al Jazeera", "Reuters"]
+    },
+    {
+      "headline": "Brazil Central Bank Signals End to Tightening Cycle",
+      "summary": "Brazil's BCB held rates steady at 13.25% and signalled the hiking cycle is complete, joining a growing list of emerging market central banks shifting to neutral or easing stances.",
+      "severity": "low",
+      "region": "Americas",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": ["Reuters"]
+    }
+  ],
+  "us_markets": [
+    { "ticker": "^GSPC", "name": "S&P 500", "price": 5842.31, "change": 16.89, "change_pct": 0.29, "trend_5d": "up" },
+    { "ticker": "^IXIC", "name": "NASDAQ", "price": 18456.22, "change": 87.44, "change_pct": 0.48, "trend_5d": "up" },
+    { "ticker": "^DJI", "name": "Dow Jones", "price": 43128.50, "change": -42.15, "change_pct": -0.10, "trend_5d": "flat" },
+    { "ticker": "^VIX", "name": "VIX", "price": 14.32, "change": -0.78, "change_pct": -5.17, "trend_5d": "down" },
+    { "ticker": "^TNX", "name": "US 10yr Yield", "price": 4.28, "change": 0.03, "change_pct": 0.71, "trend_5d": "up" }
+  ],
+  "asia_markets": [
+    { "ticker": "^N225", "name": "Nikkei 225", "price": 40125.80, "change": 318.40, "change_pct": 0.80, "trend_5d": "up" },
+    { "ticker": "^HSI", "name": "Hang Seng", "price": 17842.60, "change": -53.53, "change_pct": -0.30, "trend_5d": "down" },
+    { "ticker": "000001.SS", "name": "Shanghai Composite", "price": 3088.45, "change": 12.35, "change_pct": 0.40, "trend_5d": "flat" },
+    { "ticker": "^KS11", "name": "KOSPI", "price": 2645.30, "change": 26.45, "change_pct": 1.01, "trend_5d": "up" }
+  ],
+  "asx_deep_dive": {
+    "overview": "The ASX 200 extended its winning streak to four sessions, buoyed by commodity strength and a weaker AUD. Mining stocks led gains as iron ore prices hit a 3-month high on renewed China stimulus expectations, while tech names tracked the NASDAQ higher overnight.",
+    "asx200": { "level": 8142.50, "change_pct": 0.40 },
+    "sectors": [
+      {
+        "name": "Mining & Resources",
+        "change_pct": 1.80,
+        "summary": "Best-performing sector as iron ore rallied 2.5% on Chinese steel demand optimism following PBoC comments on supporting the property sector.",
+        "movers": [
+          { "ticker": "BHP", "name": "BHP Group", "price": 45.92, "change_pct": 2.30, "explanation": "BHP rose 2.3% as iron ore prices rallied on renewed China stimulus hopes after PBoC signalled further property sector support." },
+          { "ticker": "FMG", "name": "Fortescue", "price": 22.15, "change_pct": 3.10, "explanation": "Fortescue surged 3.1%, outperforming peers on iron ore strength plus positive broker commentary on its green energy transition progress." },
+          { "ticker": "S32", "name": "South32", "price": 3.82, "change_pct": -0.80, "explanation": "South32 bucked the trend, falling 0.8% after reporting production disruptions at its Worsley alumina refinery." }
+        ]
+      },
+      {
+        "name": "Banks & Financials",
+        "change_pct": 0.20,
+        "summary": "Banks were largely flat as investors await the RBA's next meeting. Macquarie outperformed on strong asset management inflows.",
+        "movers": [
+          { "ticker": "MQG", "name": "Macquarie Group", "price": 218.50, "change_pct": 1.20, "explanation": "Macquarie gained 1.2% after reporting record Q4 asset management inflows of $18.2 billion, beating consensus estimates." },
+          { "ticker": "CBA", "name": "CommBank", "price": 142.80, "change_pct": -0.30, "explanation": "CBA edged 0.3% lower on profit-taking after last week's rally to all-time highs. No stock-specific catalysts." },
+          { "ticker": "NAB", "name": "NAB", "price": 38.25, "change_pct": 0.40, "explanation": "NAB rose modestly after an analyst upgrade from Morgan Stanley citing improving business lending margins." }
+        ]
+      },
+      {
+        "name": "Tech",
+        "change_pct": 0.90,
+        "summary": "Tech names followed the NASDAQ higher, with WiseTech and Xero both gaining on no specific news.",
+        "movers": [
+          { "ticker": "WTC", "name": "WiseTech Global", "price": 98.40, "change_pct": 1.50, "explanation": "WiseTech climbed 1.5% tracking NASDAQ gains and benefiting from continued momentum in global logistics digitalisation." },
+          { "ticker": "XRO", "name": "Xero", "price": 148.20, "change_pct": 0.80, "explanation": "Xero gained 0.8% ahead of its quarterly update next week. Consensus expects continued subscriber growth in UK and US markets." },
+          { "ticker": "CPU", "name": "Computershare", "price": 28.90, "change_pct": -0.40, "explanation": "Computershare dipped 0.4% as margin income expectations were tempered by falling US bond yields earlier in the week." }
+        ]
+      },
+      {
+        "name": "Healthcare",
+        "change_pct": -0.30,
+        "summary": "Healthcare underperformed with CSL dragging the sector lower on currency headwinds from a weaker AUD.",
+        "movers": [
+          { "ticker": "PME", "name": "Pro Medicus", "price": 245.00, "change_pct": 2.10, "explanation": "Pro Medicus surged 2.1% after announcing a $28M contract with a major US hospital network for its Visage imaging platform." },
+          { "ticker": "CSL", "name": "CSL Limited", "price": 298.50, "change_pct": -0.90, "explanation": "CSL fell 0.9% as the weaker AUD creates translation headwinds for its predominantly USD-denominated revenue." },
+          { "ticker": "RMD", "name": "ResMed", "price": 36.80, "change_pct": -0.50, "explanation": "ResMed slipped 0.5% on continued GLP-1 obesity drug competition concerns despite strong underlying device demand." }
+        ]
+      },
+      {
+        "name": "Energy",
+        "change_pct": 1.20,
+        "summary": "Energy stocks gained on higher oil and gas prices, with EU sanctions on Russian LNG providing a tailwind for Australian producers.",
+        "movers": [
+          { "ticker": "WDS", "name": "Woodside Energy", "price": 32.40, "change_pct": 1.80, "explanation": "Woodside rose 1.8% on EU Russian LNG sanctions, positioning Australian LNG exporters as alternative suppliers to European buyers." },
+          { "ticker": "STO", "name": "Santos", "price": 7.85, "change_pct": 1.40, "explanation": "Santos gained 1.4% tracking higher Brent crude prices and benefiting from the same EU sanctions catalyst as Woodside." },
+          { "ticker": "AGL", "name": "AGL Energy", "price": 12.20, "change_pct": -0.20, "explanation": "AGL was flat to slightly lower, underperforming upstream peers as it lacks direct LNG export exposure." }
+        ]
+      },
+      {
+        "name": "REITs / Property",
+        "change_pct": -0.50,
+        "summary": "REITs were the worst-performing sector as bond yields ticked higher, reducing the relative attractiveness of property yields.",
+        "movers": [
+          { "ticker": "GMG", "name": "Goodman Group", "price": 36.50, "change_pct": 0.30, "explanation": "Goodman Group bucked the REIT sell-off, gaining 0.3% on continued data centre development demand which offsets rate sensitivity." },
+          { "ticker": "SCG", "name": "Scentre Group", "price": 3.28, "change_pct": -1.20, "explanation": "Scentre fell 1.2% as rising bond yields weigh on retail REIT valuations. Foot traffic data also showed softening in discretionary retail." },
+          { "ticker": "GPT", "name": "GPT Group", "price": 4.55, "change_pct": -0.90, "explanation": "GPT dropped 0.9% with the broader REIT sector on higher bond yields. Office vacancy concerns continue to weigh on sentiment." }
+        ]
+      }
+    ]
+  },
+  "watchlist": [
+    { "ticker": "AMC", "name": "Amcor", "price": 15.82, "change_pct": 0.32, "volume_vs_avg": 0.85, "week52_high": 16.90, "week52_low": 13.20, "news_digest": "No significant news today. Trading within recent range ahead of Q3 results due mid-April.", "has_announcement": false },
+    { "ticker": "IHVV", "name": "iShares S&P500 ETF", "price": 58.40, "change_pct": 0.28, "volume_vs_avg": 1.10, "week52_high": 60.20, "week52_low": 48.50, "news_digest": "Tracking the S&P 500's modest overnight gain. ETF continues to see steady inflows from Australian retail investors.", "has_announcement": false },
+    { "ticker": "JHX", "name": "James Hardie", "price": 52.80, "change_pct": -1.30, "volume_vs_avg": 1.45, "week52_high": 58.40, "week52_low": 42.10, "news_digest": "James Hardie slipped on disappointing US housing starts data released overnight, which fell 3.2% month-on-month — a headwind for building materials demand.", "has_announcement": false },
+    { "ticker": "LTR", "name": "Liontown Resources", "price": 1.28, "change_pct": 4.50, "volume_vs_avg": 2.80, "week52_high": 1.85, "week52_low": 0.72, "news_digest": "Liontown surged on news that the Kathleen Valley lithium mine ramp-up is ahead of schedule, with first spodumene shipment confirmed for Q2. Volume significantly above average.", "has_announcement": true },
+    { "ticker": "MQG", "name": "Macquarie Group", "price": 218.50, "change_pct": 1.20, "volume_vs_avg": 1.15, "week52_high": 225.00, "week52_low": 172.30, "news_digest": "Record Q4 asset management inflows of $18.2 billion beat consensus. Approaching 52-week highs with momentum from both MAM and banking divisions.", "has_announcement": true },
+    { "ticker": "NIC", "name": "Nickel Industries", "price": 0.82, "change_pct": -2.40, "volume_vs_avg": 1.60, "week52_high": 1.15, "week52_low": 0.68, "news_digest": "Nickel Industries fell as LME nickel prices dropped to 3-month lows on Indonesian supply concerns. Market watching for any production guidance update.", "has_announcement": false },
+    { "ticker": "PLS", "name": "Pilbara Minerals", "price": 3.15, "change_pct": 3.80, "volume_vs_avg": 1.90, "week52_high": 5.50, "week52_low": 2.68, "news_digest": "Pilbara rallied after the latest Battery Metals Exchange (BMX) auction cleared at a higher-than-expected price, signalling improving lithium demand. Analysts note the stock remains well below its 52-week high.", "has_announcement": false },
+    { "ticker": "QRE", "name": "Qualitas Real Estate", "price": 2.95, "change_pct": -0.68, "volume_vs_avg": 0.70, "week52_high": 3.25, "week52_low": 2.40, "news_digest": "No significant news today. Light trading volume. Qualitas continues to build its commercial real estate debt fund pipeline.", "has_announcement": false },
+    { "ticker": "TLS", "name": "Telstra", "price": 4.12, "change_pct": 0.24, "volume_vs_avg": 0.90, "week52_high": 4.35, "week52_low": 3.60, "news_digest": "No significant news today. Telstra trading in a narrow range as investors await the ACCC's final decision on the TPG network-sharing deal.", "has_announcement": false },
+    { "ticker": "WEB", "name": "Webjet", "price": 8.45, "change_pct": 1.80, "volume_vs_avg": 1.25, "week52_high": 9.20, "week52_low": 6.10, "news_digest": "Webjet gained on broader travel sector strength. European and Asian travel bookings trending above pre-COVID levels according to latest IATA data.", "has_announcement": false },
+    { "ticker": "WOW", "name": "Woolworths", "price": 32.10, "change_pct": -0.62, "volume_vs_avg": 1.05, "week52_high": 38.50, "week52_low": 28.90, "news_digest": "Woolworths edged lower as cost-of-living pressures continue to weigh on consumer discretionary spend. Analysts watching for any impact on Big W division margins.", "has_announcement": false },
+    { "ticker": "WQG", "name": "WCM Quality Global Growth", "price": 1.48, "change_pct": 0.68, "volume_vs_avg": 0.55, "week52_high": 1.62, "week52_low": 1.18, "news_digest": "No significant news today. The LIC continues to trade at a modest discount to NTA. Portfolio benefiting from US tech exposure.", "has_announcement": false }
+  ],
+  "crypto": [
+    {
+      "coin_id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "current_price": 137420,
+      "change_24h_pct": 1.85,
+      "yoy_change_pct": 58.20,
+      "history": [
+        {"date": "2025-04-01", "price": 86850}, {"date": "2025-05-01", "price": 92100}, {"date": "2025-06-01", "price": 88400},
+        {"date": "2025-07-01", "price": 95200}, {"date": "2025-08-01", "price": 101500}, {"date": "2025-09-01", "price": 98800},
+        {"date": "2025-10-01", "price": 107300}, {"date": "2025-11-01", "price": 115800}, {"date": "2025-12-01", "price": 122400},
+        {"date": "2026-01-01", "price": 118900}, {"date": "2026-02-01", "price": 128600}, {"date": "2026-03-01", "price": 134200},
+        {"date": "2026-03-31", "price": 137420}
+      ]
+    },
+    {
+      "coin_id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "current_price": 5840,
+      "change_24h_pct": -0.42,
+      "yoy_change_pct": 32.50,
+      "history": [
+        {"date": "2025-04-01", "price": 4410}, {"date": "2025-05-01", "price": 4680}, {"date": "2025-06-01", "price": 4520},
+        {"date": "2025-07-01", "price": 4890}, {"date": "2025-08-01", "price": 5100}, {"date": "2025-09-01", "price": 4950},
+        {"date": "2025-10-01", "price": 5320}, {"date": "2025-11-01", "price": 5580}, {"date": "2025-12-01", "price": 5750},
+        {"date": "2026-01-01", "price": 5480}, {"date": "2026-02-01", "price": 5690}, {"date": "2026-03-01", "price": 5820},
+        {"date": "2026-03-31", "price": 5840}
+      ]
+    }
+  ],
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6648,
+      "change_pct": -0.12,
+      "yoy_change_pct": -2.80,
+      "history": [
+        {"date": "2025-04-01", "rate": 0.6840}, {"date": "2025-07-01", "rate": 0.6720}, {"date": "2025-10-01", "rate": 0.6580},
+        {"date": "2026-01-01", "rate": 0.6700}, {"date": "2026-03-31", "rate": 0.6648}
+      ]
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.6012,
+      "change_pct": 0.08,
+      "yoy_change_pct": -4.10,
+      "history": [
+        {"date": "2025-04-01", "rate": 0.6270}, {"date": "2025-07-01", "rate": 0.6150}, {"date": "2025-10-01", "rate": 0.5980},
+        {"date": "2026-01-01", "rate": 0.6080}, {"date": "2026-03-31", "rate": 0.6012}
+      ]
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.1058,
+      "change_pct": -0.20,
+      "yoy_change_pct": 1.40,
+      "history": [
+        {"date": "2025-04-01", "rate": 1.0908}, {"date": "2025-07-01", "rate": 1.0927}, {"date": "2025-10-01", "rate": 1.1003},
+        {"date": "2026-01-01", "rate": 1.1020}, {"date": "2026-03-31", "rate": 1.1058}
+      ]
+    }
+  ],
+  "culture": [
+    {
+      "title": "Pharaoh: King of Ancient Egypt",
+      "venue": "National Gallery of Victoria (NGV)",
+      "city": "Melbourne",
+      "dates": "Until 6 July 2026",
+      "description": "A major international loan exhibition from the British Museum featuring over 250 objects spanning 3,000 years of ancient Egyptian civilisation. Includes royal sculptures, jewellery, and papyri never before displayed in Australia.",
+      "significance_tag": "Landmark international loan exhibition",
+      "url": "https://www.ngv.vic.gov.au/exhibition/pharaoh/"
+    }
+  ]
+}

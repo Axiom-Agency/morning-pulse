@@ -1,0 +1,25 @@
+name: Morning Pulse — 8am Full Briefing
+on:
+  schedule:
+    - cron: '0 21 * * 0-4'  # 9pm UTC = 8am AEST (adjust for AEDT)
+  workflow_dispatch:
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python -m pipeline.main --briefing-type 8am
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update 8am briefing data"
+          file_pattern: "data/*.json frontend/public/data/*.json"

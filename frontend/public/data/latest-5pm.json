@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "briefing_type": "5pm",
+    "generated_at": "2026-03-31T17:00:00+11:00",
+    "date": "2026-03-31",
+    "display_date": "Tuesday 31 March 2026",
+    "display_time": "05:00 PM AEST"
+  },
+  "narrative": {
+    "us_narrative": "US futures pointing higher ahead of tonight's session. Key data: ISM Manufacturing PMI due at 12am AEST.",
+    "asia_narrative": ""
+  },
+  "asx_deep_dive": {
+    "overview": "The ASX 200 closed at session highs, up 0.4% to 8,142.50. Mining and energy led while REITs lagged on rising bond yields. Breadth was positive with advancers outnumbering decliners 3:2.",
+    "asx200": { "level": 8142.50, "change_pct": 0.40 },
+    "sectors": [
+      { "name": "Mining & Resources", "change_pct": 1.80, "summary": "Best sector on iron ore strength.", "movers": [
+        { "ticker": "FMG", "name": "Fortescue", "price": 22.15, "change_pct": 3.10, "explanation": "Led miners on iron ore rally and positive broker commentary." },
+        { "ticker": "BHP", "name": "BHP Group", "price": 45.92, "change_pct": 2.30, "explanation": "Iron ore strength and China stimulus hopes." }
+      ]},
+      { "name": "Energy", "change_pct": 1.20, "summary": "Oil and gas stocks gained on EU-Russia sanctions.", "movers": [
+        { "ticker": "WDS", "name": "Woodside Energy", "price": 32.40, "change_pct": 1.80, "explanation": "EU Russian LNG sanctions boost." }
+      ]}
+    ]
+  },
+  "watchlist": [
+    { "ticker": "LTR", "name": "Liontown Resources", "price": 1.28, "change_pct": 4.50, "volume_vs_avg": 2.80, "week52_high": 1.85, "week52_low": 0.72, "news_digest": "Kathleen Valley ramp-up ahead of schedule. First spodumene shipment confirmed for Q2.", "has_announcement": true },
+    { "ticker": "PLS", "name": "Pilbara Minerals", "price": 3.15, "change_pct": 3.80, "volume_vs_avg": 1.90, "week52_high": 5.50, "week52_low": 2.68, "news_digest": "BMX auction cleared at higher-than-expected price.", "has_announcement": false },
+    { "ticker": "MQG", "name": "Macquarie Group", "price": 218.50, "change_pct": 1.20, "volume_vs_avg": 1.15, "week52_high": 225.00, "week52_low": 172.30, "news_digest": "Record Q4 asset management inflows.", "has_announcement": true }
+  ],
+  "us_markets": [
+    { "ticker": "^GSPC", "name": "S&P 500", "price": 5842.31, "change": 16.89, "change_pct": 0.29, "trend_5d": "up" }
+  ],
+  "fx": [
+    { "ticker": "AUDUSD=X", "name": "AUD/USD", "current_rate": 0.6648, "change_pct": -0.12 }
+  ]
+}

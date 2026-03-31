@@ -1,0 +1,57 @@
+{
+  "rss_feeds": {
+    "world_news": [
+      { "name": "Reuters", "url": "http://feeds.reuters.com/Reuters/worldNews" },
+      { "name": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml" },
+      { "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+      { "name": "The Guardian", "url": "https://www.theguardian.com/world/rss" },
+      { "name": "ABC Australia", "url": "https://www.abc.net.au/news/feed/2942460/rss.xml" }
+    ],
+    "culture": [
+      { "name": "TimeOut Sydney", "url": "https://www.timeout.com/sydney/rss" },
+      { "name": "TimeOut Melbourne", "url": "https://www.timeout.com/melbourne/rss" }
+    ]
+  },
+  "culture_scrape_urls": [
+    { "name": "NGV", "url": "https://www.ngv.vic.gov.au/exhibitions/", "city": "Melbourne" },
+    { "name": "AGNSW", "url": "https://www.artgallery.nsw.gov.au/whats-on/exhibitions/", "city": "Sydney" },
+    { "name": "ACMI", "url": "https://www.acmi.net.au/whats-on/", "city": "Melbourne" }
+  ],
+  "market_tickers": {
+    "us_indices": [
+      { "ticker": "^GSPC", "name": "S&P 500" },
+      { "ticker": "^IXIC", "name": "NASDAQ" },
+      { "ticker": "^DJI", "name": "Dow Jones" },
+      { "ticker": "^VIX", "name": "VIX" },
+      { "ticker": "^TNX", "name": "US 10yr Yield" }
+    ],
+    "asia_indices": [
+      { "ticker": "^N225", "name": "Nikkei 225" },
+      { "ticker": "^HSI", "name": "Hang Seng" },
+      { "ticker": "000001.SS", "name": "Shanghai Composite" },
+      { "ticker": "^KS11", "name": "KOSPI" }
+    ],
+    "asx_sectors": {
+      "Mining & Resources": ["BHP.AX", "RIO.AX", "FMG.AX", "MIN.AX", "S32.AX"],
+      "Banks & Financials": ["CBA.AX", "NAB.AX", "WBC.AX", "ANZ.AX", "MQG.AX"],
+      "Tech": ["XRO.AX", "WTC.AX", "TNE.AX", "CPU.AX", "REA.AX"],
+      "Healthcare": ["CSL.AX", "RMD.AX", "COH.AX", "PME.AX", "SHL.AX"],
+      "Energy": ["WDS.AX", "STO.AX", "ORG.AX", "AGL.AX"],
+      "REITs / Property": ["GMG.AX", "SCG.AX", "GPT.AX", "MGR.AX", "CHC.AX"]
+    },
+    "commodities": [
+      { "ticker": "GC=F", "name": "Gold" },
+      { "ticker": "BZ=F", "name": "Brent Crude" },
+      { "ticker": "CL=F", "name": "WTI Crude" }
+    ],
+    "fx_pairs": [
+      { "ticker": "AUDUSD=X", "name": "AUD/USD" },
+      { "ticker": "NZDUSD=X", "name": "NZD/USD" },
+      { "ticker": "AUDNZD=X", "name": "AUD/NZD" }
+    ]
+  },
+  "crypto": {
+    "coins": ["bitcoin", "ethereum"],
+    "vs_currency": "aud"
+  }
+}
