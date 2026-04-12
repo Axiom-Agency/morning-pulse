@@ -75,7 +75,7 @@ def _collect_watchlist_data(stocks: list[dict]) -> list[dict]:
     return results
 
 
-def run(news_articles: list[dict] | None = None) -> list[dict]:
+def run(news_articles=None) -> list:
     """Collect watchlist data and synthesize with Gemini."""
     stocks = _load_watchlist()
     stock_data = _collect_watchlist_data(stocks)

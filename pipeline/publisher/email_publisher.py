@@ -174,7 +174,7 @@ def publish(briefing_data: dict, briefing_type: str) -> bool:
         html = _build_html(briefing_data, briefing_type, dashboard_url)
 
         params = {
-            "from": "Morning Pulse <briefing@morningpulse.dev>",
+            "from": "Morning Pulse <onboarding@resend.dev>",
             "to": [email_to],
             "subject": subject,
             "html": html,
