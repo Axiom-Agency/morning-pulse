@@ -4,6 +4,9 @@ on:
     - cron: '0 6 * * 0-4'  # 6am UTC = 5pm AEST (adjust for AEDT)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   briefing:
     runs-on: ubuntu-latest
