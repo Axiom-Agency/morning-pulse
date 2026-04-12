@@ -80,9 +80,9 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 101273,
-      "change_24h_pct": -1.74,
-      "yoy_change_pct": -25.38,
+      "current_price": 101244,
+      "change_24h_pct": -2.59,
+      "yoy_change_pct": -25.44,
       "history": [
         {
           "date": "2025-04-13",
@@ -1546,7 +1546,7 @@
         },
         {
           "date": "2026-04-12",
-          "price": 101276.26
+          "price": 101192.11
         }
       ]
     },
@@ -1554,9 +1554,9 @@
       "coin_id": "ethereum",
       "name": "Ethereum",
       "symbol": "ETH",
-      "current_price": 3132.47,
-      "change_24h_pct": -1.26,
-      "yoy_change_pct": 19.62,
+      "current_price": 3134.19,
+      "change_24h_pct": -3.72,
+      "yoy_change_pct": 19.61,
       "history": [
         {
           "date": "2025-04-13",
@@ -3020,7 +3020,7 @@
         },
         {
           "date": "2026-04-12",
-          "price": 3132.5
+          "price": 3132.24
         }
       ]
     }
@@ -3029,9 +3029,9 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7062,
-      "change_pct": -0.1901,
-      "yoy_change_pct": 15.14,
+      "current_rate": 0.7005,
+      "change_pct": -0.997,
+      "yoy_change_pct": 14.21,
       "history": [
         {
           "date": "2025-04-10",
@@ -4067,16 +4067,16 @@
         },
         {
           "date": "2026-04-12",
-          "rate": 0.7062
+          "rate": 0.7005
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5838,
-      "change_pct": -0.2183,
-      "yoy_change_pct": 3.56,
+      "current_rate": 0.5804,
+      "change_pct": -0.7974,
+      "yoy_change_pct": 2.96,
       "history": [
         {
           "date": "2025-04-10",
@@ -5112,16 +5112,16 @@
         },
         {
           "date": "2026-04-12",
-          "rate": 0.5838
+          "rate": 0.5804
         }
       ]
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2096,
-      "change_pct": 0.0116,
-      "yoy_change_pct": 11.18,
+      "current_rate": 1.207,
+      "change_pct": -0.2042,
+      "yoy_change_pct": 10.94,
       "history": [
         {
           "date": "2025-04-10",
@@ -6157,37 +6157,15 @@
         },
         {
           "date": "2026-04-12",
-          "rate": 1.2096
+          "rate": 1.207
         }
       ]
     }
   ],
   "world_news": [
     {
-      "headline": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-      "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Hungarians decide whether to end 16 years of Orb\u00e1n rule and elect rival",
-      "summary": "Most polls favour P\u00e9ter Magyar, who fronts a grassroots party, but PM Viktor Orb\u00e1n has been in a defiant mood.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Australia news live: Wong says it\u2019s \u2018disappointing\u2019 peace talks between US and Iran failed; Chalmers warns of \u2018more polarising politics\u2019",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/apr/12/new-relief-for-households-being-considered-as-albanese-government-warns-of-long-tail-from-iran-war\">New relief for households being considered as Albanese government warns of \u2018long tail\u2019 from Iran war</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Seven-year-old girl drowns at swimming spot on Brisbane River</strong></p><p>A seven-year-old girl has drowned at a popular swimming spot on the Brisbane River in the south-west of the city, AAP reports.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb\">Continue reading...</a>",
+      "headline": "Hungary election live: \u2018We have done it,\u2019 Magyar tells jubilant Budapest as Orb\u00e1n\u2019s 16-year rule ends",
+      "summary": "<p>Long-serving prime minister beaten by opposition after early results showed clear lead</p><p><em>Europe correspondent</em></p><p><strong>Not a regular observer of Hungarian politics? </strong><em>We\u2019ve got you.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6197,80 +6175,102 @@
       ]
     },
     {
-      "headline": "Watch JD Vance\u2019s full remarks after US-Iran talks end without deal",
-      "summary": "US Vice President JD Vance is leaving Pakistan, saying Tehran chose not to accept their \u2018final and best offer\u2019.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US delegation leaves Pakistan without reaching Iran deal",
-      "summary": "US Vice President JD Vance says the US delegation has failed to reach an agreement with Iran.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Live: Titans score three quick tries in quest to end 11-year Eels hoodoo",
-      "summary": "Parramatta will try to overcome the disappointment of last Monday's golden point loss as they host Gold Coast. Follow live.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Iran must not charge tolls in Strait of Hormuz, UN watchdog chief says",
-      "summary": "In interview with Al Jazeera, International Maritime\u00a0Organization chief says world should reject tolls in waterway.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Netanyahu next to Middle East map: \u2018We strangled them and have more to do\u2019",
-      "summary": "Standing by a map, Israeli Prime Minister Benjamin Netanyahu describes how six countries wanted to strangle us\u2019.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Live: Irish sharpshooter kicks Cats clear ahead of Giants vs Tigers clash",
-      "summary": "Geelong and West Coast are fighting it out at suburban Norwood Oval to kick off the last day of Gather Round, ahead of the Giants and Tigers in the Barossa and a Power-Saints finale at Adelaide Oval. Follow live.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "New relief for households being considered as Albanese government warns of \u2018long tail\u2019 from Iran war",
-      "summary": "<p>Catherine King says while peace talks were \u2018best chance\u2019 at lowering fuel prices, further help may be included in budget</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/apr/10/fuel-prices-tracker-watch-petrol-diesel-australia-shortage-reserves\">Track Australia\u2019s fuel prices, service station outages and shipments in charts</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Albanese government is contemplating further relief for struggling households and businesses in next month\u2019s federal budget, as <a href=\"https://www.theguardian.com/world/2026/apr/11/us-iran-talks-peace-deal-islamabad-pakistan\">peace talks continue between the US and Iran</a> amid a fragile ceasefire.</p><p>The infrastructure minister, Catherine King, said the success of those talks was the \u201cbest chance\u201d at bringing down fuel prices. But she warned there would be a \u201clong tail\u201d from the crisis even if the <a href=\"https://www.theguardian.com/world/2026/apr/11/iran-us-strait-of-hormuz-mines\">strait of Hormuz</a> \u2013 which was still being blocked by Iran and strangling global oil supplies \u2013 reopened imminently.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/12/new-relief-for-households-being-considered-as-albanese-government-warns-of-long-tail-from-iran-war\">Continue reading...</a>",
+      "headline": "Australia news live: PM and Wong to visit Brunei and Malaysia to shore up fuel supply",
+      "summary": "<p>Government seeks to secure Australia\u2019s supply of diesel, fertiliser and other critical goods. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Rare earths deal will be \u2018valuable economic opportunity\u2019 for Australia</strong></p><p>The trade minister, <strong>Don Farrell,</strong> said:</p><p>Australia has abundant deposits of critical minerals and rare earths, well-established resources and energy supply chains, and the expertise to extract and process those minerals.</p><p>The Albanese Labor Government stands ready to seize this valuable economic opportunity and to build investment and export opportunities for the critical minerals sector.</p><p>Alcoa Gallium Recovery Project (WA)</p><p>Arafura\u2019s Nolans Rare Earths Project (NT)</p><p>Astron\u2019s Donald Rare Earths Project (Vic)</p><p>Graphinex\u2019s Esmerelda Graphite Mine (Qld)</p><p>RZ Resources Copi Rare Earths Project (NSW)</p><p>La Trobe Magnesium (Vic)</p><p>Northern Minerals Heavy Rare Earths Project (WA)</p><p>VHM Goshen Rare Earths Project (Vic)</p><p>Global Advanced Metals (WA)</p><p>EQ Resources Mt Carbine Tungsten Project (Qld)</p><p>These materials are crucial to defence systems, advanced manufacturing and clean energy technologies that will help Australia and the world meet net zero commitments.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/13/australia-news-live-anthony-albanese-prime-minister-fuel-supply-diesel-oil-cost-of-living-inflation-budget-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "The Guardian"
+      ]
+    },
+    {
+      "headline": "These are people Israel killed in Lebanon on a single day",
+      "summary": "In a matter of minutes, Israel killed more than 350 people across Lebanon on Wednesday, April 8.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "What is a naval blockade and how would it work in Strait of Hormuz?",
+      "summary": "Donald Trump says that the US is going to start blockading the Strait of Hormuz. What does this mean in practice?",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Abuse allegations against lead Democrat shake race for California governor",
+      "summary": "Media reports detailing sexual assault allegations against US Representative Eric Swalwell prompt resignation calls.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Nigerian artisans preserve handwoven fabric amid rising global demand",
+      "summary": "Resisting mechanisation, Nigerian artisans uphold the authenticity of aso-oke, now a staple in global fashion markets.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Could the Iran war pose lasting risks to global food security?",
+      "summary": "United Nations warns impact could last well beyond conflict.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "World reacts to Peter Magyar defeating Viktor Orban, Hungary\u2019s longtime PM",
+      "summary": "Prime Minister Viktor Orban concedes defeat as early results show his Fidesz party losing parliamentary majority.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "History of flotilla campaigns to end Israel\u2019s siege of Gaza",
+      "summary": "A 70-boat flotilla sets sail from Spain, aiming to break Israel&#039;s naval blockade on Gaza amid history of interceptions.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "\u2018I\u2019ve congratulated the victorious party\u2019: Viktor Orban concedes",
+      "summary": "After 16 years as prime minister, Hungary\u2019s Viktor Orban conceded defeat to opposition leader Peter Magyar.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -6592,9 +6592,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-04-12T14:50:45.399842+10:00",
-    "date": "2026-04-12",
-    "display_date": "Sunday 12 April 2026",
-    "display_time": "02:50 PM AEST"
+    "generated_at": "2026-04-13T08:21:26.711873+10:00",
+    "date": "2026-04-13",
+    "display_date": "Monday 13 April 2026",
+    "display_time": "08:21 AM AEST"
   }
 }
