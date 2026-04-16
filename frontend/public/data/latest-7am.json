@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7022.95,
-      "change": 55.57,
-      "change_pct": 0.8,
+      "price": 7041.28,
+      "change": 18.33,
+      "change_pct": 0.26,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24016.02,
-      "change": 376.94,
-      "change_pct": 1.59,
+      "price": 24102.7,
+      "change": 86.68,
+      "change_pct": 0.36,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 48463.72,
-      "change": -72.27,
-      "change_pct": -0.15,
+      "price": 48578.72,
+      "change": 115.0,
+      "change_pct": 0.24,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.17,
-      "change": -0.19,
-      "change_pct": -1.03,
+      "price": 17.94,
+      "change": -0.23,
+      "change_pct": -1.27,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.28,
-      "change": 0.02,
-      "change_pct": 0.47,
-      "trend_5d": "down"
+      "price": 4.31,
+      "change": 0.03,
+      "change_pct": 0.7,
+      "trend_5d": "flat"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 57877.39,
-      "change": 1374.62,
-      "change_pct": 2.43,
+      "price": 58134.24,
+      "change": 256.85,
+      "change_pct": 0.44,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25872.32,
-      "change": 211.47,
-      "change_pct": 0.82,
+      "price": 25947.32,
+      "change": 75.0,
+      "change_pct": 0.29,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5967.75,
-      "change": 159.13,
-      "change_pct": 2.74,
+      "price": 6091.39,
+      "change": 123.64,
+      "change_pct": 2.07,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4818.4,
-      "change_pct": -0.14
+      "price": 4810.9,
+      "change_pct": 0.23
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 94.81,
-      "change_pct": 0.02
+      "price": 98.01,
+      "change_pct": 3.24
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 91.03,
-      "change_pct": -0.27
+      "price": 89.65,
+      "change_pct": -1.8
     }
   ],
   "asx200": {
-    "level": 8970.8,
-    "change_pct": 0.5
+    "level": 8978.7,
+    "change_pct": 0.09
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7173,
-      "change_pct": 1.0314
+      "current_rate": 0.7162,
+      "change_pct": 0.46
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5915,
-      "change_pct": 0.7394
+      "current_rate": 0.5893,
+      "change_pct": -0.1821
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2127,
-      "change_pct": 0.3027
+      "current_rate": 1.2156,
+      "change_pct": 0.6624
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Chris Bowen says Geelong refinery fire \u2018not great timing\u2019; Coalition unimpressed with defence spending promises",
-      "summary": "<p>Residents south of the refinery in Corio warned to shelter inside due to smoke. Follow the latest updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Fire officer says officials haven\u2019t detected any contaminants spreading from blaze</strong></p><p>Earlier this morning, Fire Rescue Victoria assistant chief fire officer <strong>Mick McGuinness</strong> provided an update to ABC Radio Melbourne. Shortly before 7am, he said about 50 firefighting vehicles were continuing to fight the blaze in the Mogas (motor gasoline) plant section of the refinery.</p><p>This fire has been quite large overnight. It is still burning at the moment, and we would still declare it as not yet under control. \u2026 And the fire is mainly being fed by various types of hydrocarbon fuels.<strong> So predominantly liquid petrol \u2026 and also some gas and vapours that are feeding this fire at the moment.</strong></p><p>We were concerned with the smoke that was coming off this fire, so our initial reactions were to get an alert message out to the community. We\u2019ve since been able to have our specialist hazardous materials teams come in from locally Geelong and also in Melbourne and set up some atmospheric monitoring equipment and do a lot of sensing and sampling of not only the atmosphere but also the fire water runoff that we\u2019re using to contain the fire.<strong> We\u2019ve been able to determine \u2026 that we haven\u2019t detected any sort of contaminants there.</strong></p><p>We\u2019re predicting that this still could burn for another three or four hours, if not longer. But we are starting to see a reduction in the intensity of the fire, which is an indication that the depressurising of the systems and the pipe work is occurring and that we will see a lesser amount of fuel being available to feed the fire. And of course, that allows us to continue to cool that area more rapidly and then be able to get crews in there to look at how we can start to isolate pipe work and valve systems.</p><p>It shows that we have very fragile, very thin energy security platform when it comes to refinery, only the two refineries left. And as mayor, I\u2019ve been calling this out since being elected back in 2024, that Viva is not only a significant employer and corporate citizen for Geelong, but it has a significance for Victoria and Australia.</p><p>And it just shows that we, as a country, need to invest more in this type of capability.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb\">Continue reading...</a>",
+      "headline": "News live: Trump renews accusations Australia hasn\u2019t done enough to help in strait of Hormuz; PM to visit Geelong refinery after fire",
+      "summary": "<p>Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Marles says Trump has not made a \u2018specific request\u2019 relating to the strait of Hormuz</strong></p><p>Marles, who is doing the media rounds this morning, has just been interviewed on ABC Radio National, where he said <strong>Trump </strong>has not made a \u201cspecific request\u201d of Australia regarding the strait of Hormuz.</p><p>We\u2019ve not received a specific request in relation to the strait of Hormuz, but we\u2019ll work with all partners, our allies, and that very much includes the US in terms of whatever needs to be done in relation to the strait of Hormuz.</p><p>We\u2019ve been working with the US.</p><p>We\u2019ve been working with countries like the UK, with France.</p><p>When he criticises Australia, when he posts AI generated images of himself looking like Jesus. When he picks fights with the Pope. Do you believe that that undermines the trust that Australians have in the relationship?</p><p>Look, I\u2019m not going to give a running commentary on the president\u2019s social media posts.</p><p>Our relationship with the US deeply matters.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,41 @@
       ]
     },
     {
-      "headline": "Arsenal scrap through to semis, Munich win thriller over Real Madrid",
-      "summary": "Arsenal advance to the UEFA Champions League semifinals with a goalless draw, as Bayern Munich defeat Real Madrid.",
+      "headline": "Middle East crisis live: Ceasefire between Israel and Lebanon takes effect; Hezbollah tells citizens to postpone returning home",
+      "summary": "<p>Group urges caution as it says Israel has history of \u2018breaking agreements\u2019; Israeli prime minister says key demand is that Hezbollah must be dismantled</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/16/trump-announces-10-day-ceasefire-in-lebanon-after-excellent-conversations\">Trump announces 10-day ceasefire in Lebanon after \u2018excellent conversations\u2019</a></p></li></ul><p>Iran has stopped all petrochemical exports to prioritise domestic supply and prevent shortages of raw materials, Reuters reported.</p><p>The state-owned National Petrochemical Company ordered firms to suspend exports until further notice.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Netflix cofounder Hastings to step down after it lost Warner Bros deal",
+      "summary": "The company&#039;s stock plunged about 8 percent on the news of Hastings&#039;s departure.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US House votes to extend temporary protections for Haitians in Trump rebuke",
+      "summary": "Ten Republicans join Democrats to extend Temporary Protected Status for nearly 350,000 Haitians in the United States.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "'Shattered' Blue feels he let Carlton down in narrow loss to Collingwood",
+      "summary": "Carlton coach Michael Voss says the club will support Elijah Hollands after his performance against Collingwood last night.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,91 +176,58 @@
       ]
     },
     {
-      "headline": "Brazil\u2019s police open a probe into presidential candidate Flavio Bolsonaro",
-      "summary": "Investigation centres on whether Bolsonaro committed defamation by linking Lula to crimes like drug trafficking.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Middle East crisis live: US says Iran talks \u2018productive\u2019; Israel continues Lebanon strikes as officials reportedly discuss ceasefire",
-      "summary": "<p>White House denies US asked for ceasefire extension and says negotiations are \u2018ongoing\u2019; Benjamin Netanyahu says \u2018too early to say how matter will end\u2019</p><p><strong>Donald Trump</strong> said the \u201cspecial relationship\u201d between the US and UK was in a poor state but that it will <strong>not have impact on King Charle\u2019s upcoming state visit to America.</strong></p><p>In an interview with Sky News, the US president once again criticised Keir Starmer over his policies, particularly on energy and immigration, and reiterated his disappointment that the UK and other Nato allies had not joined his war against Iran when the US \u201cneeded them\u201d.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/15/iran-war-live-news-us-naval-blockade-strait-of-hormuz-pakistan-peace-talks-middle-east-crisis-latest\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "France seeks release of 86-year-old French widow detained by ICE",
-      "summary": "<p>Agents detained Marie-Therese Ross in Alabama on 1 April after she overstayed her 90-day visa, according to DHS</p><p>The French government is pressing the US Department of Homeland Security (DHS) to release the 86-year-old French widow of a military veteran from immigration custody after she was detained earlier this month.</p><p>US Immigration and Customs Enforcement (<a href=\"https://www.theguardian.com/us-news/ice-us-immigration-and-customs-enforcement\">ICE</a>) agents detained Marie-Therese Ross in Alabama on 1 April after she overstayed her 90-day visa, according to DHS. Ross is now being held at a federal immigration detention facility in Louisiana.</p> <a href=\"https://www.theguardian.com/us-news/2026/apr/15/french-widow-detained-ice-marie-therese-ross\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Phillip Island motoring festival proposed to fill MotoGP void",
-      "summary": "Phillip Island will host its last Australian MotoGP later this year, but the local community hopes a motoring festival could help fill the $29 million economic void.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Bayern edge Real Madrid 4-3 in classic to reach Champions League semifinals",
-      "summary": "Luis Diaz and Michael Olise score late goals in Munich to give Bayern a dramatic 6-4 aggregate win over Real Madrid.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US jury finds Ticketmaster and Live Nation had anticompetitive monopoly",
-      "summary": "The verdict could cost Live Nation and Ticketmaster hundreds of millions of dollars.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Firefighters battle out-of-control blaze at one of Australia\u2019s two remaining oil refineries in Geelong",
-      "summary": "<p>Smoke warning for residents south of Viva oil refinery in Corio as Geelong mayor calls fire \u2018unprecedented\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A major oil refinery in Geelong, which supplies half of Victoria\u2019s fuel and 10% of the nation\u2019s, exploded into flames on Wednesday night and the blaze was still out of control by first light on Thursday.</p><p>Fire Rescue Victoria said they responded to an incident at the Mogas (motor gasoline) unit at Viva oil refinery in Corio around 11.15pm Thursday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victoria-fuel-prices\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+      "headline": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+      "summary": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "Turkiye grieves students killed in school shooting",
+      "summary": "Hundreds turned out to the funerals of eight students who were fatally shot at school in Turkiye\u2019s Kahramanmaras.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Pope Leo urges peace in visit to Cameroon\u2019s conflict-hit northwest",
+      "summary": "Pope Leo XIV was in Bamenda in conflict-hit northwest Cameroon, urging peace in a region beset by deadly fighting.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "What is tailgating, and has FIFA banned it at World Cup stadiums in the US?",
+      "summary": "Football fans in the US have criticised FIFA and local organisers over a move to ban tailgating at World Cup matches.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "A ceasefire in Lebanon \u2014 will it hold?",
+      "summary": "After rare talks, a ceasefire in Lebanon raises one question: what happens on the ground next?",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-04-16T08:35:13.948772+10:00",
-    "date": "2026-04-16",
-    "display_date": "Thursday 16 April 2026",
-    "display_time": "08:35 AM AEST"
+    "generated_at": "2026-04-17T08:09:20.245575+10:00",
+    "date": "2026-04-17",
+    "display_date": "Friday 17 April 2026",
+    "display_time": "08:09 AM AEST"
   }
 }
