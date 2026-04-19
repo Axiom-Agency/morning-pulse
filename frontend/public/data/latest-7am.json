@@ -3,181 +3,126 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7041.28,
-      "change": 18.33,
-      "change_pct": 0.26,
+      "price": 7126.06,
+      "change": 84.78,
+      "change_pct": 1.2,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24102.7,
-      "change": 86.68,
-      "change_pct": 0.36,
+      "price": 24468.48,
+      "change": 365.78,
+      "change_pct": 1.52,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 48578.72,
-      "change": 115.0,
-      "change_pct": 0.24,
+      "price": 49447.43,
+      "change": 868.71,
+      "change_pct": 1.79,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.94,
-      "change": -0.23,
-      "change_pct": -1.27,
+      "price": 17.48,
+      "change": -0.46,
+      "change_pct": -2.56,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.31,
-      "change": 0.03,
-      "change_pct": 0.7,
-      "trend_5d": "flat"
+      "price": 4.25,
+      "change": -0.06,
+      "change_pct": -1.39,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 58134.24,
-      "change": 256.85,
-      "change_pct": 0.44,
-      "trend_5d": "flat"
+      "price": 58475.9,
+      "change": -1042.44,
+      "change_pct": -1.75,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25947.32,
-      "change": 75.0,
-      "change_pct": 0.29,
-      "trend_5d": "flat"
+      "price": 26160.33,
+      "change": -233.93,
+      "change_pct": -0.89,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 4051.43,
+      "change": -4.12,
+      "change_pct": -0.1,
+      "trend_5d": "up"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6091.39,
-      "change": 123.64,
-      "change_pct": 2.07,
-      "trend_5d": "flat"
+      "price": 6191.92,
+      "change": -34.13,
+      "change_pct": -0.55,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4810.9,
-      "change_pct": 0.23
+      "price": 4879.6,
+      "change_pct": 1.97
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 98.01,
-      "change_pct": 3.24
+      "price": 90.38,
+      "change_pct": -9.07
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 89.65,
-      "change_pct": -1.8
+      "price": 82.59,
+      "change_pct": -12.78
     }
   ],
   "asx200": {
-    "level": 8978.7,
-    "change_pct": 0.09
+    "level": 8946.9,
+    "change_pct": -0.09
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7162,
-      "change_pct": 0.46
+      "current_rate": 0.7124,
+      "change_pct": -0.492
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5893,
-      "change_pct": -0.1821
+      "current_rate": 0.5857,
+      "change_pct": -0.5025
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2156,
-      "change_pct": 0.6624
+      "current_rate": 1.2164,
+      "change_pct": 0.0099
     }
   ],
   "world_news": [
     {
-      "headline": "News live: Trump renews accusations Australia hasn\u2019t done enough to help in strait of Hormuz; PM to visit Geelong refinery after fire",
-      "summary": "<p>Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Marles says Trump has not made a \u2018specific request\u2019 relating to the strait of Hormuz</strong></p><p>Marles, who is doing the media rounds this morning, has just been interviewed on ABC Radio National, where he said <strong>Trump </strong>has not made a \u201cspecific request\u201d of Australia regarding the strait of Hormuz.</p><p>We\u2019ve not received a specific request in relation to the strait of Hormuz, but we\u2019ll work with all partners, our allies, and that very much includes the US in terms of whatever needs to be done in relation to the strait of Hormuz.</p><p>We\u2019ve been working with the US.</p><p>We\u2019ve been working with countries like the UK, with France.</p><p>When he criticises Australia, when he posts AI generated images of himself looking like Jesus. When he picks fights with the Pope. Do you believe that that undermines the trust that Australians have in the relationship?</p><p>Look, I\u2019m not going to give a running commentary on the president\u2019s social media posts.</p><p>Our relationship with the US deeply matters.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Middle East crisis live: Ceasefire between Israel and Lebanon takes effect; Hezbollah tells citizens to postpone returning home",
-      "summary": "<p>Group urges caution as it says Israel has history of \u2018breaking agreements\u2019; Israeli prime minister says key demand is that Hezbollah must be dismantled</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/16/trump-announces-10-day-ceasefire-in-lebanon-after-excellent-conversations\">Trump announces 10-day ceasefire in Lebanon after \u2018excellent conversations\u2019</a></p></li></ul><p>Iran has stopped all petrochemical exports to prioritise domestic supply and prevent shortages of raw materials, Reuters reported.</p><p>The state-owned National Petrochemical Company ordered firms to suspend exports until further notice.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Netflix cofounder Hastings to step down after it lost Warner Bros deal",
-      "summary": "The company&#039;s stock plunged about 8 percent on the news of Hastings&#039;s departure.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US House votes to extend temporary protections for Haitians in Trump rebuke",
-      "summary": "Ten Republicans join Democrats to extend Temporary Protected Status for nearly 350,000 Haitians in the United States.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "'Shattered' Blue feels he let Carlton down in narrow loss to Collingwood",
-      "summary": "Carlton coach Michael Voss says the club will support Elijah Hollands after his performance against Collingwood last night.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Israel and Lebanon agree 10-day ceasefire, Trump says",
-      "summary": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
+      "headline": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "summary": "Tehran has not commented on the incident, which comes as the US prepares for a second round of talks.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +132,19 @@
       ]
     },
     {
-      "headline": "Turkiye grieves students killed in school shooting",
-      "summary": "Hundreds turned out to the funerals of eight students who were fatally shot at school in Turkiye\u2019s Kahramanmaras.",
+      "headline": "Australia news live: Pocock buys billboards to pressure Chalmers on gas export tax; survey reveals national gloom",
+      "summary": "<p>ACT independent David Pocock is calling for a 25% tax on gas exports to fund welfare and housing. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Labor should use the proceeds of limiting tax concessions for property investors and <a href=\"https://www.theguardian.com/australia-news/2026/apr/13/gas-tax-inquiry-greens-labor-santos-woodside-chevron-shell\">a crackdown on gas export profits</a> to fund welfare increases and build housing, charities and social service groups say.</p><p>Ahead of next month\u2019s federal budget, the Albanese government is under pressure to wind back negative gearing rules and the 50% capital gains tax discount for property investments, and to tax more of the profits from soaring commodity exports, pushed up by the global energy shock.</p><p>People on the lowest incomes are skipping meals, delaying medical care and rationing energy just to get by.</p><p>Frontline services are operating at capacity, facing growing demand and increasingly complex needs. Current policy settings are not meeting the needs of our communities \u2013 it\u2019s clear that significant and sustained public investment is essential.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/20/australia-news-live-pocock-gas-tax-fuel-crisis-jim-chalmers-anthony-albanese-budget-ben-roberts-smith-war-crimes-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Argentina\u2019s Milei backs US-Israel war on Iran in Jerusalem visit",
+      "summary": "Argentina\u2019s president reaffirmed alignment with the US and Israel during a visit to Jerusalem, backing their war on Iran",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +154,8 @@
       ]
     },
     {
-      "headline": "Pope Leo urges peace in visit to Cameroon\u2019s conflict-hit northwest",
-      "summary": "Pope Leo XIV was in Bamenda in conflict-hit northwest Cameroon, urging peace in a region beset by deadly fighting.",
+      "headline": "Schools, shops shut in northern Israel to protest the Lebanon ceasefire",
+      "summary": "Shops and schools shut in northern Israel as residents protested a 10-day ceasefire with Lebanon.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +165,19 @@
       ]
     },
     {
-      "headline": "What is tailgating, and has FIFA banned it at World Cup stadiums in the US?",
-      "summary": "Football fans in the US have criticised FIFA and local organisers over a move to ban tailgating at World Cup matches.",
+      "headline": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+      "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Protesters defy Berlin rain to call for end to global wars",
+      "summary": "Hundreds protested in Berlin against the US-Israeli aggression on Iran, and Israeli attacks on Gaza and Lebanon.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +187,41 @@
       ]
     },
     {
-      "headline": "A ceasefire in Lebanon \u2014 will it hold?",
-      "summary": "After rare talks, a ceasefire in Lebanon raises one question: what happens on the ground next?",
+      "headline": "NZ maintains rugby sevens dominance, beating Australia in another final",
+      "summary": "The Black Ferns Sevens beat Australia's women's rugby sevens team to win the Hong Kong title, marking the ninth time in the past 10 finals that the Kiwis have come out on top.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Who will shape the global agenda \u2013 the left or far right?",
+      "summary": "Left-wing leaders meet in Barcelona while far-right figures march in Milan.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Party of Bulgaria\u2019s pro-Russian former president ahead in exit polls",
+      "summary": "<p>Rumen Radev\u2019s centre-left Progressive Bulgaria group ran on anti-corruption platform in country\u2019s eighth election in five years</p><p>The party of Bulgaria\u2019s pro-Russia former president Rumen Radev has come first in the country\u2019s eighth parliamentary elections in five years, according to exit polls, but without securing a majority.</p><p>Radev, who resigned as president in January, ran on a pledge to fight corruption after an anti-graft movement triggered a long political crisis.</p> <a href=\"https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "With loss at Man City, have Arsenal lost their grip on the Premier League?",
+      "summary": "Arsenal&#039;s loss to City and a woeful end-of-season run have now cost them their once-comfortable, top-of-the-table lead.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-04-17T08:09:20.245575+10:00",
-    "date": "2026-04-17",
-    "display_date": "Friday 17 April 2026",
-    "display_time": "08:09 AM AEST"
+    "generated_at": "2026-04-20T07:53:28.691531+10:00",
+    "date": "2026-04-20",
+    "display_date": "Monday 20 April 2026",
+    "display_time": "07:53 AM AEST"
   }
 }
