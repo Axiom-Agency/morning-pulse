@@ -3,42 +3,42 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7126.06,
-      "change": 84.78,
-      "change_pct": 1.2,
+      "price": 7109.14,
+      "change": -16.92,
+      "change_pct": -0.24,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24468.48,
-      "change": 365.78,
-      "change_pct": 1.52,
+      "price": 24404.39,
+      "change": -64.09,
+      "change_pct": -0.26,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49447.43,
-      "change": 868.71,
-      "change_pct": 1.79,
+      "price": 49442.56,
+      "change": -4.87,
+      "change_pct": -0.01,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.48,
-      "change": -0.46,
-      "change_pct": -2.56,
-      "trend_5d": "down"
+      "price": 18.87,
+      "change": 1.39,
+      "change_pct": 7.95,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
       "price": 4.25,
-      "change": -0.06,
-      "change_pct": -1.39,
-      "trend_5d": "down"
+      "change": 0.0,
+      "change_pct": 0.0,
+      "trend_5d": "flat"
     }
   ],
   "asia_markets": [
@@ -48,7 +48,7 @@
       "price": 58475.9,
       "change": -1042.44,
       "change_pct": -1.75,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 26160.33,
       "change": -233.93,
       "change_pct": -0.89,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 4051.43,
-      "change": -4.12,
-      "change_pct": -0.1,
-      "trend_5d": "up"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 6191.92,
       "change": -34.13,
       "change_pct": -0.55,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4879.6,
-      "change_pct": 1.97
+      "price": 4836.7,
+      "change_pct": -0.43
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 90.38,
-      "change_pct": -9.07
+      "price": 94.95,
+      "change_pct": 5.06
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 82.59,
-      "change_pct": -12.78
+      "price": 86.83,
+      "change_pct": 3.55
     }
   ],
   "asx200": {
@@ -103,26 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7124,
-      "change_pct": -0.492
+      "current_rate": 0.7179,
+      "change_pct": 0.2809
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5857,
-      "change_pct": -0.5025
+      "current_rate": 0.5893,
+      "change_pct": 0.1131
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2164,
-      "change_pct": 0.0099
+      "current_rate": 1.2185,
+      "change_pct": 0.1833
     }
   ],
   "world_news": [
     {
-      "headline": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
-      "summary": "Tehran has not commented on the incident, which comes as the US prepares for a second round of talks.",
+      "headline": "Oil prices rise after Trump says Iranian ship seized",
+      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,30 @@
       ]
     },
     {
-      "headline": "Australia news live: Pocock buys billboards to pressure Chalmers on gas export tax; survey reveals national gloom",
-      "summary": "<p>ACT independent David Pocock is calling for a 25% tax on gas exports to fund welfare and housing. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Labor should use the proceeds of limiting tax concessions for property investors and <a href=\"https://www.theguardian.com/australia-news/2026/apr/13/gas-tax-inquiry-greens-labor-santos-woodside-chevron-shell\">a crackdown on gas export profits</a> to fund welfare increases and build housing, charities and social service groups say.</p><p>Ahead of next month\u2019s federal budget, the Albanese government is under pressure to wind back negative gearing rules and the 50% capital gains tax discount for property investments, and to tax more of the profits from soaring commodity exports, pushed up by the global energy shock.</p><p>People on the lowest incomes are skipping meals, delaying medical care and rationing energy just to get by.</p><p>Frontline services are operating at capacity, facing growing demand and increasingly complex needs. Current policy settings are not meeting the needs of our communities \u2013 it\u2019s clear that significant and sustained public investment is essential.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/20/australia-news-live-pocock-gas-tax-fuel-crisis-jim-chalmers-anthony-albanese-budget-ben-roberts-smith-war-crimes-ntwnfb\">Continue reading...</a>",
+      "headline": "Funerals held across Lebanon during 10-day ceasefire",
+      "summary": "Mourners across Lebanon are burying victims of the war with Israel during a 10-day ceasefire.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "What we know about the Iranian ship seized by the US",
+      "summary": "The US has intercepted an Iranian ship entering the Gulf as part of its naval blockade, US President Donald Trump has said.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Middle East crisis live: Iran sends mixed signals on talks after US seizes ship",
+      "summary": "<p>Official tells Reuters it is \u2018positively reviewing\u2019 involvement in negotiations after earlier saying it had no plans for a new round of talks</p><p>The US has just released some <a href=\"https://x.com/CENTCOM/status/2046079980551954702\">more footage</a> of the encounter with the Iranian flagged vessel, the <strong>M/V Touska</strong>.</p><p>In a post on X, US Central Command said US Marines had departed the amphibious assault ship <strong>USS Tripoli</strong> by helicopter and rappelled onto the Iranian-flagged vessel.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +165,8 @@
       ]
     },
     {
-      "headline": "Argentina\u2019s Milei backs US-Israel war on Iran in Jerusalem visit",
-      "summary": "Argentina\u2019s president reaffirmed alignment with the US and Israel during a visit to Jerusalem, backing their war on Iran",
+      "headline": "Rapper D4vd\u2019 charged with murder of 14-year-old girl",
+      "summary": "Prosecutors in California are charging rapper D4vd with the murder of 14-year-old Celeste Rivas Hernandez.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +176,8 @@
       ]
     },
     {
-      "headline": "Schools, shops shut in northern Israel to protest the Lebanon ceasefire",
-      "summary": "Shops and schools shut in northern Israel as residents protested a 10-day ceasefire with Lebanon.",
+      "headline": "Gunman kills Canadian woman, injures six at Mexico\u2019s Teotihuacan pyramids",
+      "summary": "Canadian tourist is killed and 6 people injured in shooting at Teotihuacan pyramid near Mexico City, government says.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +187,19 @@
       ]
     },
     {
-      "headline": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-      "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
+      "headline": "UK PM Starmer admits Mandelson mistake, rejects resignation calls",
+      "summary": "PM insists he did not know security officials had recommended Mandelson be sidelined due to Epstein links.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US singer D4vd charged with murder stemming from death of missing teenage girl",
+      "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +209,8 @@
       ]
     },
     {
-      "headline": "Protesters defy Berlin rain to call for end to global wars",
-      "summary": "Hundreds protested in Berlin against the US-Israeli aggression on Iran, and Israeli attacks on Gaza and Lebanon.",
+      "headline": "Report finds Gaza needs more than $71bn in next decade for recovery",
+      "summary": "Devastated sectors in Palestinian enclave include housing, health, education, commerce and agriculture, EU and UN find.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,47 +220,14 @@
       ]
     },
     {
-      "headline": "NZ maintains rugby sevens dominance, beating Australia in another final",
-      "summary": "The Black Ferns Sevens beat Australia's women's rugby sevens team to win the Hong Kong title, marking the ninth time in the past 10 finals that the Kiwis have come out on top.",
+      "headline": "Giant's debut and a taunted Aussie in spotlight as NBA playoffs begin",
+      "summary": "The first round of the 2026 NBA Playoffs is officially underway. Here are the key things to look out for in each series.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Who will shape the global agenda \u2013 the left or far right?",
-      "summary": "Left-wing leaders meet in Barcelona while far-right figures march in Milan.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Party of Bulgaria\u2019s pro-Russian former president ahead in exit polls",
-      "summary": "<p>Rumen Radev\u2019s centre-left Progressive Bulgaria group ran on anti-corruption platform in country\u2019s eighth election in five years</p><p>The party of Bulgaria\u2019s pro-Russia former president Rumen Radev has come first in the country\u2019s eighth parliamentary elections in five years, according to exit polls, but without securing a majority.</p><p>Radev, who resigned as president in January, ran on a pledge to fight corruption after an anti-graft movement triggered a long political crisis.</p> <a href=\"https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "With loss at Man City, have Arsenal lost their grip on the Premier League?",
-      "summary": "Arsenal&#039;s loss to City and a woeful end-of-season run have now cost them their once-comfortable, top-of-the-table lead.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-04-20T07:53:28.691531+10:00",
-    "date": "2026-04-20",
-    "display_date": "Monday 20 April 2026",
-    "display_time": "07:53 AM AEST"
+    "generated_at": "2026-04-21T06:43:33.216850+10:00",
+    "date": "2026-04-21",
+    "display_date": "Tuesday 21 April 2026",
+    "display_time": "06:43 AM AEST"
   }
 }
