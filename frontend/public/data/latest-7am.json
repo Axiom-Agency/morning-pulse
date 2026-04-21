@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7109.14,
-      "change": -16.92,
-      "change_pct": -0.24,
+      "price": 7064.01,
+      "change": -45.13,
+      "change_pct": -0.63,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24404.39,
-      "change": -64.09,
-      "change_pct": -0.26,
+      "price": 24259.96,
+      "change": -144.43,
+      "change_pct": -0.59,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49442.56,
-      "change": -4.87,
-      "change_pct": -0.01,
+      "price": 49149.38,
+      "change": -293.18,
+      "change_pct": -0.59,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.87,
-      "change": 1.39,
-      "change_pct": 7.95,
+      "price": 19.5,
+      "change": 0.63,
+      "change_pct": 3.34,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.25,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "trend_5d": "flat"
+      "price": 4.29,
+      "change": 0.04,
+      "change_pct": 0.94,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 58475.9,
-      "change": -1042.44,
-      "change_pct": -1.75,
+      "price": 58824.89,
+      "change": 348.99,
+      "change_pct": 0.6,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26160.33,
-      "change": -233.93,
-      "change_pct": -0.89,
+      "price": 26361.07,
+      "change": 200.74,
+      "change_pct": 0.77,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6191.92,
-      "change": -34.13,
-      "change_pct": -0.55,
+      "price": 6219.09,
+      "change": 27.17,
+      "change_pct": 0.44,
       "trend_5d": "flat"
     }
   ],
@@ -79,83 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4836.7,
-      "change_pct": -0.43
+      "price": 4730.0,
+      "change_pct": -1.59
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 94.95,
-      "change_pct": 5.06
+      "price": 93.87,
+      "change_pct": -1.69
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 86.83,
-      "change_pct": 3.55
+      "price": 90.29,
+      "change_pct": 0.76
     }
   ],
   "asx200": {
-    "level": 8946.9,
-    "change_pct": -0.09
+    "level": 8953.3,
+    "change_pct": 0.07
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7179,
-      "change_pct": 0.2809
+      "current_rate": 0.7154,
+      "change_pct": 0.2627
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5893,
-      "change_pct": 0.1131
+      "current_rate": 0.5896,
+      "change_pct": 0.517
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2185,
-      "change_pct": 0.1833
+      "current_rate": 1.2136,
+      "change_pct": -0.2203
     }
   ],
   "world_news": [
     {
-      "headline": "Oil prices rise after Trump says Iranian ship seized",
-      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Funerals held across Lebanon during 10-day ceasefire",
-      "summary": "Mourners across Lebanon are burying victims of the war with Israel during a 10-day ceasefire.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "What we know about the Iranian ship seized by the US",
-      "summary": "The US has intercepted an Iranian ship entering the Gulf as part of its naval blockade, US President Donald Trump has said.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Middle East crisis live: Iran sends mixed signals on talks after US seizes ship",
-      "summary": "<p>Official tells Reuters it is \u2018positively reviewing\u2019 involvement in negotiations after earlier saying it had no plans for a new round of talks</p><p>The US has just released some <a href=\"https://x.com/CENTCOM/status/2046079980551954702\">more footage</a> of the encounter with the Iranian flagged vessel, the <strong>M/V Touska</strong>.</p><p>In a post on X, US Central Command said US Marines had departed the amphibious assault ship <strong>USS Tripoli</strong> by helicopter and rappelled onto the Iranian-flagged vessel.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt\">Continue reading...</a>",
+      "headline": "Middle East crisis live: Trump says he will extend US ceasefire with Iran to allow its leadership to submit \u2018a unified proposal\u2019",
+      "summary": "<p>US president moved off earlier threat to resume bombing, saying Pakistan officials requested ceasefire extension; military blockade on Iranian ports to continue, Trump says</p><p>Iran\u2019s armed forces are ready to deliver an \u201cimmediate and decisive response\u201d to any renewed hostile action by its adversaries, Ali Abdollahi, commander of the Khatam al-Anbiya Central Headquarters, was quoted by the Tasnim news agency as having said.</p><p>He said Tehran had the upper hand militarily, including in the management of the strait of Hormuz, and would not allow Donald Trump to \u201ccreate false narratives over the situation on the ground.\u201d</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +132,19 @@
       ]
     },
     {
-      "headline": "Rapper D4vd\u2019 charged with murder of 14-year-old girl",
-      "summary": "Prosecutors in California are charging rapper D4vd with the murder of 14-year-old Celeste Rivas Hernandez.",
+      "headline": "Trump extends US-Iran ceasefire indefinitely at request of Pakistan",
+      "summary": "<p>US president says on Truth Social attacks are on hold until Iran submits proposal and talks reach end </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks\">Middle East crisis \u2013 live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>Donald Trump announced in a social media post on Tuesday that he was indefinitely extending a ceasefire with Iran at the request of Pakistan, which has been mediating talks, until the country responded to the United States\u2019 negotiating positions or until talks reached a dead end.</p><p>\u201cI have therefore directed our Military to continue the Blockade and, in all other respects, remain ready and able, and will therefore extend the Ceasefire until such time as their proposal is submitted, and discussions are concluded, one way or the other,\u201d the US president wrote on Truth Social.</p> <a href=\"https://www.theguardian.com/world/2026/apr/21/trump-resume-bombing-iran-ceasefire\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "EU eyes options as Iran conflict threatens jet fuel shortages",
+      "summary": "The blockade of the Strait of Hormuz is causing concern in Europe, which relies heavily on imported jet fuel.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +154,8 @@
       ]
     },
     {
-      "headline": "Gunman kills Canadian woman, injures six at Mexico\u2019s Teotihuacan pyramids",
-      "summary": "Canadian tourist is killed and 6 people injured in shooting at Teotihuacan pyramid near Mexico City, government says.",
+      "headline": "Sudan refugees returning home face new \u2018struggle for survival\u2019: UN",
+      "summary": "Returnees find chronic need for investment with homes, water supplies, health provision, electricity &#039;heavily damaged&#039;.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +165,8 @@
       ]
     },
     {
-      "headline": "UK PM Starmer admits Mandelson mistake, rejects resignation calls",
-      "summary": "PM insists he did not know security officials had recommended Mandelson be sidelined due to Epstein links.",
+      "headline": "Germany, Italy block bid to suspend EU-Israel trade agreement",
+      "summary": "Germany and Italy have blocked the European Union from suspending the bloc\u2019s association agreement with Israel.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +176,8 @@
       ]
     },
     {
-      "headline": "US singer D4vd charged with murder stemming from death of missing teenage girl",
-      "summary": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Report finds Gaza needs more than $71bn in next decade for recovery",
-      "summary": "Devastated sectors in Palestinian enclave include housing, health, education, commerce and agriculture, EU and UN find.",
+      "headline": "Trump\u2019s US Fed nominee Warsh vows independence, says he\u2019s no \u2018sock puppet\u2019",
+      "summary": "Kevin Warsh&#039;s confirmation hearing shines spotlight on doubts over his independence as Trump pushes again for rate cuts.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +187,47 @@
       ]
     },
     {
-      "headline": "Giant's debut and a taunted Aussie in spotlight as NBA playoffs begin",
-      "summary": "The first round of the 2026 NBA Playoffs is officially underway. Here are the key things to look out for in each series.",
+      "headline": "Two CIA agents reportedly killed in car crash in Mexican state of Chihuahua",
+      "summary": "The presence of US officials in a law enforcement convoy raises questions about respect for Mexico&#039;s sovereignty.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israeli rabbi who bulldozed Gaza honoured as torchbearer",
+      "summary": "Avraham Zarbiv, known for gleefully documenting his bulldozing of Gaza, was honoured on Israel\u2019s \u201cIndependence Day\u201d.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Video: Israeli soldiers sing national anthem on ruins of Lebanese town",
+      "summary": "Israeli soldiers were seen singing the Israeli national anthem on the ruins of a demolished town in southern Lebanon.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Russian police raid book publisher accused of pushing \u2018gay propaganda\u2019",
+      "summary": "Raid is part of Moscow&#039;s hardline social conservatism and clampdown on political life.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-04-21T06:43:33.216850+10:00",
-    "date": "2026-04-21",
-    "display_date": "Tuesday 21 April 2026",
-    "display_time": "06:43 AM AEST"
+    "generated_at": "2026-04-22T06:51:16.022556+10:00",
+    "date": "2026-04-22",
+    "display_date": "Wednesday 22 April 2026",
+    "display_time": "06:51 AM AEST"
   }
 }
