@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7137.9,
-      "change": 73.89,
-      "change_pct": 1.05,
-      "trend_5d": "up"
+      "price": 7108.4,
+      "change": -29.5,
+      "change_pct": -0.41,
+      "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24657.57,
-      "change": 397.61,
-      "change_pct": 1.64,
-      "trend_5d": "up"
+      "price": 24438.5,
+      "change": -219.07,
+      "change_pct": -0.89,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49490.03,
-      "change": 340.65,
-      "change_pct": 0.69,
-      "trend_5d": "up"
+      "price": 49310.32,
+      "change": -179.71,
+      "change_pct": -0.36,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.92,
-      "change": -0.58,
-      "change_pct": -2.97,
+      "price": 19.31,
+      "change": 0.39,
+      "change_pct": 2.06,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.29,
-      "change": -0.0,
-      "change_pct": -0.0,
-      "trend_5d": "down"
+      "price": 4.32,
+      "change": 0.03,
+      "change_pct": 0.7,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 59349.17,
-      "change": 524.28,
-      "change_pct": 0.89,
+      "price": 59585.86,
+      "change": 236.69,
+      "change_pct": 0.4,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26487.48,
-      "change": 126.41,
-      "change_pct": 0.48,
+      "price": 26163.24,
+      "change": -324.24,
+      "change_pct": -1.22,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6388.47,
-      "change": 169.38,
-      "change_pct": 2.72,
+      "price": 6417.93,
+      "change": 29.46,
+      "change_pct": 0.46,
       "trend_5d": "flat"
     }
   ],
@@ -79,72 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4755.5,
-      "change_pct": 1.22
+      "price": 4705.7,
+      "change_pct": -0.57
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 101.72,
-      "change_pct": 3.29
+      "price": 106.29,
+      "change_pct": 4.3
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 92.72,
-      "change_pct": 0.64
+      "price": 96.85,
+      "change_pct": 4.18
     }
   ],
   "asx200": {
-    "level": 8949.4,
-    "change_pct": -0.04
+    "level": 8843.6,
+    "change_pct": -1.18
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7161,
-      "change_pct": -0.1816
+      "current_rate": 0.713,
+      "change_pct": -0.3679
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5907,
-      "change_pct": 0.0165
+      "current_rate": 0.5855,
+      "change_pct": -0.7226
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2124,
-      "change_pct": -0.1869
+      "current_rate": 1.2177,
+      "change_pct": 0.3585
     }
   ],
   "world_news": [
     {
-      "headline": "Middle East crisis live: White House says Trump \u2018satisfied\u2019 with blockade after Iran says it seized two ships in strait of Hormuz",
-      "summary": "<p>White House says Trump \u2018understands Iran is in a very weak position\u2019; state media says the ships have been transferred to Iran\u2019s coast</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/22/iranian-forces-ships-seized-strait-of-hormuz-us-peace-talks\">\u2018Impossible\u2019 to reopen strait of Hormuz amid \u2018flagrant\u2019 ceasefire breaches, Iran says</a></p></li></ul><p>If you\u2019re just joining us, here\u2019s the main news of the day. It is 9.30am in Tehran, 9am in Jerusalem and Beirut, and 2am in Washington DC.</p><p><strong>Donald Trump unilaterally said he is <a href=\"https://www.theguardian.com/world/2026/apr/21/push-to-bring-us-and-iran-together-for-peace-talks-as-ceasefire-deadline-looms\">extending the ceasefire</a> with Iran at Pakistan\u2019s request while awaiting a \u201cunified proposal\u201d from Tehran</strong>, even as the US military maintains its blockade of Iranian ports.</p><p><strong>Trump made the announcement as ceasefire talks looked increasingly uncertain with a two-week truce set to expire on Wednesday</strong>. Both countries had said they were prepared to resume fighting if no deal is reached.</p><p><strong>Trump said he would \u201cextend the ceasefire until such time as [Iran\u2019s] proposal is submitted, and discussions are concluded,</strong> one way or the other\u201d.</p><p><strong>Trump later claimed in a Truth Social post that Iran is \u201ccollapsing financially\u201d and was losing $500m every day that the strait of Hormuz is effectively closed</strong>.</p><p><strong>Iran has yet to decide whether to join the negotiations in Pakistan</strong>, a foreign ministry spokesman said earlier on Tuesday, and will only take part if Tehran believes the discussions would yield results.</p><p><strong>A container ship has reported being fired at by an IRGC gunboat, </strong>the United Kingdom Maritime Trade Operations said. <strong>The incident occurred 15 nautical miles north-east of Oman. The vessel sustained \u201cheavy damage\u201d to its bridge</strong>, the master of the ship said. All crew members were reported as safe.</p><p><strong>Shares were mixed in Asia as markets waited to see if the US and Iran may resume talks. Brent crude edged higher to $98.51 a barrel</strong>, while US benchmark crude fell 0.4% to $89.29 a barrel.</p><p><strong>One person was killed and two others wounded in an Israeli drone strike overnight on the outskirts of al-Jbour in Lebanon\u2019s western Bekaa Valley</strong>, Lebanese state media reported. Israel and Lebanon agreed to a 10-day ceasefire on Friday.</p><p>Since the war started, <strong>fighting has killed at least 3,375 people in Iran and more than 2,290 in Lebanon</strong>, the Associated Press reported. Additionally, 23 people have died in Israel and more than a dozen in Gulf Arab states. Fifteen Israeli soldiers in Lebanon and 13 US service members throughout the region have been killed.</p><p><strong>Iran\u2019s Revolutionary Guards threatened to prevent oil production in the Middle East</strong> if the Islamic republic faced attacks launched from its Gulf neighbours\u2019 territory.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Australia news live: rental vacancies at record low in most big cities and prices rising",
-      "summary": "<p>Data shows the market is at its tightest ever with rents going up in most capitals. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Properties valued below the price caps of the <a href=\"https://www.theguardian.com/australia-news/2025/sep/30/first-home-guarantee-expands-buy-loan-deposit-first-home-buyers\">federal government\u2019s 5% deposit guarantee scheme</a> are rising faster than more expensive homes, according to analysis by Cotality.</p><p>Over the first six months since the scheme\u2019s expansion, homes under the price caps increased in value by 6.7%, outpacing the 3.6% rise recorded for properties valued above the caps.</p><p>Vacancy rates are lower than ever and supply remains incredibly tight, but rent growth is no longer accelerating everywhere. That tells us households simply can\u2019t stretch any further.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Marsh 50 not enough as Giants fall to Archer's pace",
-      "summary": "Australia T20 skipper Mitch Marsh did his best to bail out Lucknow Super Giants, but his half-century wasn't enough to save them from defeat to Rajasthan.",
+      "headline": "Walton's win arrests Aussie woes at Madrid Open",
+      "summary": "Queenslander Adam Walton has enjoyed a fine win at the Madrid Open to arrest a miserable sequence of Aussie losses at the clay-court event.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +132,30 @@
       ]
     },
     {
-      "headline": "Pope Leo urges justice reform in Equatorial Guinea\u2019s prisons",
-      "summary": "Equatorial Guinea&#039;s prison conditions face scrutiny as Pope Leo pushes for humane treatment and reforms during his visit.",
+      "headline": "Australia news live: Andrew Hastie says US alliance weakened Australia; Sri Lanka hackers steal millions owed to Australia",
+      "summary": "<p>Liberal frontbencher says the country\u2019s \u2018sovereign capabilities\u2019 have been eroded. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning and welcome to our live news blog. I\u2019m <strong>Martin Farrer</strong> with the top overnight stories before <strong>Nick Visser</strong> guides you through to the holiday weekend.</p><p><strong>Andrew Hastie</strong> says doubling down on the US relationship has eroded Australia\u2019s sovereign capability, including its defence industry, as he warns the country must \u201cget serious\u201d about national security to rebalance the alliance. More follows.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/24/andrew-hastie-us-defence-ndis-reform-cuts-budget-gas-export-fuel-crisis-jim-chalmers-anthony-albanese-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Middle East crisis live: Trump orders navy to attack any boats laying mines in strait of Hormuz",
+      "summary": "<p>President says forces can \u2018shoot and kill\u2019 any boat laying mines and claims the US has \u2018total control\u2019 of the strait</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/22/iranian-forces-ships-seized-strait-of-hormuz-us-peace-talks\">\u2018Impossible\u2019 to reopen strait of Hormuz amid \u2018flagrant\u2019 ceasefire breaches, Iran says</a></p></li></ul><p><strong>The Pentagon abruptly announced that the secretary of the US navy, John Phelan, would be leaving his job</strong> yesterday. No reason was given for the unexpected departure of the navy\u2019s top civilian official, who had addressed a large crowd of sailors and industry professionals at the navy\u2019s annual conference in Washington just a day before the announcement.</p><p>People familiar with the dynamics at the Pentagon told the Guardian Phelan was fired. Phelan had an increasingly rocky relationship with the US defence secretary, Pete Hegseth, and other senior staff.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Real Betis vs Real Madrid: La Liga \u2013 teams, start time, lineup",
+      "summary": "Real Madrid could close gap on La Liga leaders Barcelona to six points on Friday, three weeks shy of a Clasico meeting.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +165,19 @@
       ]
     },
     {
-      "headline": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
-      "summary": "Israeli forces raided the funeral of two Palestinians killed by settlers at a school in the occupied West Bank.",
+      "headline": "Trump may talk of regime infighting, but Iran seems united by strategy born of war",
+      "summary": "<p>Tensions around US negotiations may reflect mistake of assassinating more pragmatic and experienced figures</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates\">Middle East crisis \u2013 live updates</a></p></li></ul><p>Donald Trump has claimed that the infighting between moderates and hardliners in Iran\u2019s leadership is so intense that Iranians have \u201cno idea who their leader is\u201d, but many experts questioned his analysis, saying, given the mass <a href=\"https://www.theguardian.com/world/2026/mar/01/how-israeli-sleight-and-us-might-led-to-the-assassination-of-ali-khamenei\">assassinations of senior commanders</a>, the country had shown remarkable institutional cohesion.</p><p>Trump\u2019s allegations of \u201cCRAZY\u201d splits in the Iranian leadership \u2013 the second outing for this argument in three days \u2013 is remarkable since he has previously said either he has little knowledge of the new Iranian leadership or that there has already been regime change.</p> <a href=\"https://www.theguardian.com/world/2026/apr/23/trump-may-talk-of-regime-infighting-but-iran-seems-united-by-strategy-born-of-war\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "How Trump\u2019s Iran war is driving military dissent",
+      "summary": "From protests to quiet resistance, dissent is rising inside the United States military over the US-Israel war on Iran.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +187,8 @@
       ]
     },
     {
-      "headline": "Trump calls for Republicans to unify around budget reconciliation push",
-      "summary": "Budget reconciliation would allow conservative lawmakers to bypass Democratic opposition in Senate with simple majority.",
+      "headline": "US Department of Justice watchdog to probe release of Epstein files",
+      "summary": "Lawmakers have accused the Trump administration of using heavy redactions to protect powerful figures tied to Epstein.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +198,19 @@
       ]
     },
     {
-      "headline": "US suspect accused of stealing Kristi Noem\u2019s purse sentenced to three years",
-      "summary": "President Trump has used incidents of crime to justify ongoing National Guard deployment to the capital, Washington, DC.",
+      "headline": "After tornado warnings and midnight matches, Wallaroos are ready for NZ",
+      "summary": "Having survived the threat of tornadoes during their US tour, the Wallaroos are enjoying a distraction-free build-up to their Anzac Day Test against New Zealand.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "US Senate passes ICE funding resolution after \u2018vote-a-rama\u2019: What\u2019s next?",
+      "summary": "Republicans take first step, but long road remains to break impasse over funding Donald Trump&#039;s immigration enforcement.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,30 +220,8 @@
       ]
     },
     {
-      "headline": "Trump calls Virginia election \u2018rigged\u2019 after redistricting referendum",
-      "summary": "Trump\u2019s comments came after the Virginia measure passed by a slim margy of 51.4 in favour and 48.5 against.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians",
-      "summary": "Systematic sexual violence and harassment by Israeli soldiers, settlers displacing Palestinians in occupied West Bank.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Can a divided EU become a united voice against Israeli aggression?",
-      "summary": "Bloc&#039;s relationship with its biggest trading partner under increasing scrutiny.",
+      "headline": "South Africa president suspends police chief over $21m contract",
+      "summary": "Police chief Fannie Masemola suspended as President Cyril Ramaphosa faces pressure to tackle corruption ahead of polls.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-04-23T06:54:02.080275+10:00",
-    "date": "2026-04-23",
-    "display_date": "Thursday 23 April 2026",
-    "display_time": "06:54 AM AEST"
+    "generated_at": "2026-04-24T06:51:03.801216+10:00",
+    "date": "2026-04-24",
+    "display_date": "Friday 24 April 2026",
+    "display_time": "06:51 AM AEST"
   }
 }
