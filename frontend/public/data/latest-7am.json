@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7108.4,
-      "change": -29.5,
-      "change_pct": -0.41,
-      "trend_5d": "down"
+      "price": 7165.08,
+      "change": 56.68,
+      "change_pct": 0.8,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24438.5,
-      "change": -219.07,
-      "change_pct": -0.89,
-      "trend_5d": "flat"
+      "price": 24836.6,
+      "change": 398.1,
+      "change_pct": 1.63,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49310.32,
-      "change": -179.71,
-      "change_pct": -0.36,
+      "price": 49230.71,
+      "change": -79.61,
+      "change_pct": -0.16,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 19.31,
-      "change": 0.39,
-      "change_pct": 2.06,
-      "trend_5d": "up"
+      "price": 18.71,
+      "change": -0.6,
+      "change_pct": -3.11,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.32,
-      "change": 0.03,
-      "change_pct": 0.7,
+      "price": 4.31,
+      "change": -0.01,
+      "change_pct": -0.23,
       "trend_5d": "up"
     }
   ],
@@ -45,84 +45,84 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 59585.86,
-      "change": 236.69,
-      "change_pct": 0.4,
-      "trend_5d": "flat"
+      "price": 59716.18,
+      "change": 575.95,
+      "change_pct": 0.97,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26163.24,
-      "change": -324.24,
-      "change_pct": -1.22,
-      "trend_5d": "flat"
+      "price": 25978.07,
+      "change": 62.87,
+      "change_pct": 0.24,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
+      "price": 4079.9,
+      "change": -13.35,
+      "change_pct": -0.33,
       "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6417.93,
-      "change": 29.46,
-      "change_pct": 0.46,
-      "trend_5d": "flat"
+      "price": 6475.63,
+      "change": -0.18,
+      "change_pct": -0.0,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4705.7,
-      "change_pct": -0.57
+      "price": 4740.9,
+      "change_pct": 0.76
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 106.29,
-      "change_pct": 4.3
+      "price": 99.13,
+      "change_pct": -5.65
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 96.85,
-      "change_pct": 4.18
+      "price": 94.4,
+      "change_pct": -1.51
     }
   ],
   "asx200": {
-    "level": 8843.6,
-    "change_pct": -1.18
+    "level": 8786.5,
+    "change_pct": -0.08
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.713,
-      "change_pct": -0.3679
+      "current_rate": 0.7133,
+      "change_pct": 0.0499
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5855,
-      "change_pct": -0.7226
+      "current_rate": 0.5881,
+      "change_pct": 0.4581
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2177,
-      "change_pct": 0.3585
+      "current_rate": 1.2136,
+      "change_pct": -0.3613
     }
   ],
   "world_news": [
     {
-      "headline": "Walton's win arrests Aussie woes at Madrid Open",
-      "summary": "Queenslander Adam Walton has enjoyed a fine win at the Madrid Open to arrest a miserable sequence of Aussie losses at the clay-court event.",
+      "headline": "Foord stars for Arsenal, Kerr equals record in WSL",
+      "summary": "Arsenal's Matildas are scenting more Champions League glory after the holders beat OL Lyonnes 2-1 in the first leg of their semi-final at the Emirates Stadium, while Matildas captain Sam Kerr scored twice to keep Chelsea's slim WSL title ambitions alive in a 4-1 win over Everton.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,30 +132,8 @@
       ]
     },
     {
-      "headline": "Australia news live: Andrew Hastie says US alliance weakened Australia; Sri Lanka hackers steal millions owed to Australia",
-      "summary": "<p>Liberal frontbencher says the country\u2019s \u2018sovereign capabilities\u2019 have been eroded. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning and welcome to our live news blog. I\u2019m <strong>Martin Farrer</strong> with the top overnight stories before <strong>Nick Visser</strong> guides you through to the holiday weekend.</p><p><strong>Andrew Hastie</strong> says doubling down on the US relationship has eroded Australia\u2019s sovereign capability, including its defence industry, as he warns the country must \u201cget serious\u201d about national security to rebalance the alliance. More follows.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/24/andrew-hastie-us-defence-ndis-reform-cuts-budget-gas-export-fuel-crisis-jim-chalmers-anthony-albanese-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Middle East crisis live: Trump orders navy to attack any boats laying mines in strait of Hormuz",
-      "summary": "<p>President says forces can \u2018shoot and kill\u2019 any boat laying mines and claims the US has \u2018total control\u2019 of the strait</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/apr/22/iranian-forces-ships-seized-strait-of-hormuz-us-peace-talks\">\u2018Impossible\u2019 to reopen strait of Hormuz amid \u2018flagrant\u2019 ceasefire breaches, Iran says</a></p></li></ul><p><strong>The Pentagon abruptly announced that the secretary of the US navy, John Phelan, would be leaving his job</strong> yesterday. No reason was given for the unexpected departure of the navy\u2019s top civilian official, who had addressed a large crowd of sailors and industry professionals at the navy\u2019s annual conference in Washington just a day before the announcement.</p><p>People familiar with the dynamics at the Pentagon told the Guardian Phelan was fired. Phelan had an increasingly rocky relationship with the US defence secretary, Pete Hegseth, and other senior staff.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Real Betis vs Real Madrid: La Liga \u2013 teams, start time, lineup",
-      "summary": "Real Madrid could close gap on La Liga leaders Barcelona to six points on Friday, three weeks shy of a Clasico meeting.",
+      "headline": "Has Iran exposed the limits of what US can achieve by force?",
+      "summary": "Political scientist Vali Nasr argues that US and Israeli military options \u2018have come up short&#039;.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,30 +143,19 @@
       ]
     },
     {
-      "headline": "Trump may talk of regime infighting, but Iran seems united by strategy born of war",
-      "summary": "<p>Tensions around US negotiations may reflect mistake of assassinating more pragmatic and experienced figures</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates\">Middle East crisis \u2013 live updates</a></p></li></ul><p>Donald Trump has claimed that the infighting between moderates and hardliners in Iran\u2019s leadership is so intense that Iranians have \u201cno idea who their leader is\u201d, but many experts questioned his analysis, saying, given the mass <a href=\"https://www.theguardian.com/world/2026/mar/01/how-israeli-sleight-and-us-might-led-to-the-assassination-of-ali-khamenei\">assassinations of senior commanders</a>, the country had shown remarkable institutional cohesion.</p><p>Trump\u2019s allegations of \u201cCRAZY\u201d splits in the Iranian leadership \u2013 the second outing for this argument in three days \u2013 is remarkable since he has previously said either he has little knowledge of the new Iranian leadership or that there has already been regime change.</p> <a href=\"https://www.theguardian.com/world/2026/apr/23/trump-may-talk-of-regime-infighting-but-iran-seems-united-by-strategy-born-of-war\">Continue reading...</a>",
+      "headline": "Did Trump save eight Iranian women from execution?",
+      "summary": "The US president says he saved eight Iranian women from execution, but Iran says otherwise.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "BBC World"
       ]
     },
     {
-      "headline": "How Trump\u2019s Iran war is driving military dissent",
-      "summary": "From protests to quiet resistance, dissent is rising inside the United States military over the US-Israel war on Iran.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US Department of Justice watchdog to probe release of Epstein files",
-      "summary": "Lawmakers have accused the Trump administration of using heavy redactions to protect powerful figures tied to Epstein.",
+      "headline": "Israel issues forced evacuation orders for southern Lebanon in escalation",
+      "summary": "Hezbollah rejects allegations from Israeli PM Benjamin Netanyahu that it is undermining the Israel-Lebanon ceasefire.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +165,19 @@
       ]
     },
     {
-      "headline": "After tornado warnings and midnight matches, Wallaroos are ready for NZ",
-      "summary": "Having survived the threat of tornadoes during their US tour, the Wallaroos are enjoying a distraction-free build-up to their Anzac Day Test against New Zealand.",
+      "headline": "Kenya\u2019s Sawe shatters two-hour marathon barrier",
+      "summary": "Sabastian Sawe of Kenya shattered a world record at the London Marathon.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Hani Watson learned the importance of listening to her rogue bones and 'Nigel'",
+      "summary": "When Hani Watson settles under the barbell at the Glasgow Commonwealth Games, she will be lifting more than just the plates on the bar.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +187,19 @@
       ]
     },
     {
-      "headline": "US Senate passes ICE funding resolution after \u2018vote-a-rama\u2019: What\u2019s next?",
-      "summary": "Republicans take first step, but long road remains to break impasse over funding Donald Trump&#039;s immigration enforcement.",
+      "headline": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+      "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Accused shooter was targeting Trump and US officials, authorities say",
+      "summary": "President Donald Trump says suspect wrote an anti-Christian declaration and is &#039;sick guy&#039;.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +209,19 @@
       ]
     },
     {
-      "headline": "South Africa president suspends police chief over $21m contract",
-      "summary": "Police chief Fannie Masemola suspended as President Cyril Ramaphosa faces pressure to tackle corruption ahead of polls.",
+      "headline": "No headway in Middle East peace efforts as US and Iran refuse to yield",
+      "summary": "<p>Deepening sense of deadlock despite regional diplomacy as Washington and Tehran show no signs of compromise</p><p>Hopes of a breakthrough in negotiations between Iran and the US faded further on Sunday, amid a deepening sense of deadlock in the nearly two-month-long conflict despite intense regional diplomatic activity.</p><p>Washington and Tehran appear unwilling to moderate rhetoric or make concessions, and there are no negotiations scheduled that might bring the war to a definitive end.</p> <a href=\"https://www.theguardian.com/world/2026/apr/26/no-headway-in-middle-east-peace-efforts-as-us-and-iran-refuse-to-yield\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "First trial of Assad-era Syrian official starts in Damascus",
+      "summary": "Syria begun its first public trial of former Assad-era officials, with ex-security chief Atef Najib appearing in court.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-04-24T06:51:03.801216+10:00",
-    "date": "2026-04-24",
-    "display_date": "Friday 24 April 2026",
-    "display_time": "06:51 AM AEST"
+    "generated_at": "2026-04-27T06:36:40.093652+10:00",
+    "date": "2026-04-27",
+    "display_date": "Monday 27 April 2026",
+    "display_time": "06:36 AM AEST"
   }
 }
