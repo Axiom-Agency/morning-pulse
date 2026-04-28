@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7173.91,
-      "change": 8.83,
-      "change_pct": 0.12,
-      "trend_5d": "up"
+      "price": 7138.8,
+      "change": -35.11,
+      "change_pct": -0.49,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24887.1,
-      "change": 50.5,
-      "change_pct": 0.2,
-      "trend_5d": "up"
+      "price": 24663.8,
+      "change": -223.3,
+      "change_pct": -0.9,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49167.79,
-      "change": -62.92,
-      "change_pct": -0.13,
-      "trend_5d": "flat"
+      "price": 49141.93,
+      "change": -25.86,
+      "change_pct": -0.05,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.02,
-      "change": -0.69,
-      "change_pct": -3.69,
+      "price": 17.83,
+      "change": -0.19,
+      "change_pct": -1.05,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.34,
-      "change": 0.03,
-      "change_pct": 0.7,
+      "price": 4.35,
+      "change": 0.01,
+      "change_pct": 0.23,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 59716.18,
-      "change": 575.95,
-      "change_pct": 0.97,
+      "price": 60537.36,
+      "change": 821.18,
+      "change_pct": 1.38,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25978.07,
-      "change": 62.87,
-      "change_pct": 0.24,
+      "price": 25925.65,
+      "change": -52.42,
+      "change_pct": -0.2,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6475.63,
-      "change": -0.18,
-      "change_pct": -0.0,
+      "price": 6615.03,
+      "change": 139.4,
+      "change_pct": 2.15,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,61 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4695.4,
-      "change_pct": -0.57
+      "price": 4610.8,
+      "change_pct": -1.38
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 101.8,
-      "change_pct": -3.35
+      "price": 104.23,
+      "change_pct": -3.7
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 96.69,
-      "change_pct": 2.43
+      "price": 99.67,
+      "change_pct": 3.42
     }
   ],
   "asx200": {
-    "level": 8786.5,
-    "change_pct": -0.08
+    "level": 8766.4,
+    "change_pct": -0.23
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7189,
-      "change_pct": 0.8267
+      "current_rate": 0.7182,
+      "change_pct": 0.5368
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.591,
-      "change_pct": 0.9568
+      "current_rate": 0.5886,
+      "change_pct": 0.2602
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.216,
-      "change_pct": -0.1626
+      "current_rate": 1.2196,
+      "change_pct": 0.2342
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: RSL to review welcome to country policy; Angus Taylor vows to double fuel reserve",
-      "summary": "<p>Club chief says \u2018anodyne acknowledgements\u2019 can be \u2018overworked\u2019. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The RSL has announced it will review its guidance on welcome to country addresses at Anzac day services, after Indigenous leaders were booed at three dawn services on Saturday.</p><p>The RSL national president, <strong>Peter Tinley</strong> told the ABC on Monday that the body would review its policies on RSL organised commemorations and \u201cprovide guidance to our branches as to how they might attend to this.\u201d</p><p>It can get overworked ... so then it becomes a question of how are we going to review this process and make it more relevant?<em><br /><br /></em>I think there\u2019s a real opportunity for the RSL to lead and provide a better expression that is more tailored and appropriate for the commemorative day that it is.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb\">Continue reading...</a>",
+      "headline": "Former FBI director James Comey charged with threatening Trump's life",
+      "summary": "The indictment stems from a 2025 photo of seashells posted by Comey on social media that the justice department says is a call to violence against Trump.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "News live: King Charles praises \u2018ambitious\u2019 Aukus and expresses pride in Australia in speech to US Congress",
+      "summary": "<p>Nuclear submarine mentioned in part of king\u2019s speech that emphasised defence ties. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The federal government has pledged new funding to help the states and territories strike agreements that would allow them to assess and approve projects themselves under new federal nature laws.</p><p><strong>Anthony Albanese</strong> will make the four-year, $45m announcement in a speech to a mining industry event in Western Australia, describing the deals as a \u201ccircuit-breaker\u201d that will fast-track mining, energy and housing applications.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +143,8 @@
       ]
     },
     {
-      "headline": "Middle East crisis live: Iran\u2019s foreign ministry condemns US seizure of Iranian-linked tankers as \u2018piracy and armed robbery\u2019",
-      "summary": "<p>Spokesperson Esmail Baghaei says actions of the United States \u2018strike at the heart of international law\u2019 as blockade continues in strait of Hormuz</p><p><strong>Iran is proposing that shipping companies should pay charges for specific services when they cross the strait of Hormuz, in a move that would enable it to raise money from shipping traffic without presenting the payment as a </strong><strong>toll</strong><strong>.</strong></p><p>Iran\u2019s framing is designed to maximise political and legal support for the plan it is developing with Oman. Iran has made a solution to its demands an essential precondition to winding down the conflict, including an end to its effective blockade of the Strait and the counter-blockade of Iranian ports being mounted by the US Navy.</p> <a href=\"https://www.theguardian.com/world/live/2026/apr/27/middle-east-crisis-iran-us-israel-lebanon-trump-araghchi-putin-hormuz-oil-latest-news-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "'The world's game should belong to the world': Free World Cup fan sites for New York",
-      "summary": "New York City will host free events for soccer fans who hope to experience the excitement of the FIFA World Cup but can't afford the hefty ticket prices, Mayor Zohran Mamdani has announced.",
+      "headline": "Stoinis goes big but Royals dent crown of Ponting's Kings",
+      "summary": "Ricky Ponting's Punjab Kings record a six-wicket loss against Rajasthan Royals in the IPL, despite Marcus Stoinis's breathtaking innings.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +154,8 @@
       ]
     },
     {
-      "headline": "China seeks to block US tech giant Meta from AI acquisition",
-      "summary": "Bejing tightens scrutiny of AI industry amid intensifying geopolitical rivalry with the US over the technology.",
+      "headline": "Trump hails US-UK bond as he welcomes British royals",
+      "summary": "US President Donald Trump hailed the &quot;cherished bond&quot; between the United States and the United Kingdom.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +165,8 @@
       ]
     },
     {
-      "headline": "King Charles and Queen Camilla arrive for high-profile US state visit",
-      "summary": "The British monarch\u2019s US visit underscores shared history amid strained ties and tensions over the Iran conflict.",
+      "headline": "Northern Ireland makes arrest linked to suspected New IRA car bombing",
+      "summary": "The nationalist group has been escalating threats, nearly 30 years after a peace deal largely ended sectarian violence.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,19 +176,8 @@
       ]
     },
     {
-      "headline": "Josh Hazlewood crushes Capitals in IPL bowling clinic",
-      "summary": "Australian pace maestro Josh Hazlewood delivers his best performance of the IPL season, taking four wickets to spearhead another RCB win.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Hezbollah and Israel swap threats and strikes across Lebanon\u2019s border",
-      "summary": "Iran-linked group reiterates defiance; Israeli defence minister threatens to \u2018burn all of Lebanon&#039;.",
+      "headline": "Congress cheers King Charles for underlining \u2018checks and balances\u2019",
+      "summary": "US lawmakers gave King Charles III a standing ovation upon mentioning the importance of \u201cchecks and balances\u201d.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +187,8 @@
       ]
     },
     {
-      "headline": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle",
-      "summary": "The trial\u2019s outcome could sway the balance of power in AI, and jury selection starts on Monday.",
+      "headline": "Nearly eight million people in South Sudan at risk of acute hunger: NGOs",
+      "summary": "Aid agencies warn that time is running out to avoid an &#039;irreversible humanitarian catastrophe&#039;.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +198,8 @@
       ]
     },
     {
-      "headline": "Thousands held by paramilitary RSF in Sudan\u2019s el-Fasher: NGO",
-      "summary": "Hundreds of women and children among those detained by the rebel group, says Sudan Doctors Network.",
+      "headline": "Trump scolds Germany\u2019s Merz for criticism of Iran war",
+      "summary": "US president says German chancellor &#039;doesn&#039;t know what he&#039;s talking about&#039;, defends war on Iran as necessary.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +209,25 @@
       ]
     },
     {
-      "headline": "Aussie rugby may benefit from copying NZ's lateral thinking approach",
-      "summary": "Thinking outside the square has previously served Australian rugby well, which is why there are lessons it can take away from at least one of New Zealand's teams in Super Rugby Pacific.",
+      "headline": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
+      "summary": "The move comes as the White House pressures Disney-owned ABC to fire Kimmel after he called Melania an \"expectant widow\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
+      "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-04-28T07:00:10.885712+10:00",
-    "date": "2026-04-28",
-    "display_date": "Tuesday 28 April 2026",
-    "display_time": "07:00 AM AEST"
+    "generated_at": "2026-04-29T07:06:12.038954+10:00",
+    "date": "2026-04-29",
+    "display_date": "Wednesday 29 April 2026",
+    "display_time": "07:06 AM AEST"
   }
 }
