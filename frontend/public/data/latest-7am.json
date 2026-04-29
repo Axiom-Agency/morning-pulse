@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7138.8,
-      "change": -35.11,
-      "change_pct": -0.49,
-      "trend_5d": "flat"
+      "price": 7135.95,
+      "change": -2.85,
+      "change_pct": -0.04,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24663.8,
-      "change": -223.3,
-      "change_pct": -0.9,
-      "trend_5d": "flat"
+      "price": 24673.24,
+      "change": 9.44,
+      "change_pct": 0.04,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49141.93,
-      "change": -25.86,
-      "change_pct": -0.05,
+      "price": 48861.81,
+      "change": -280.12,
+      "change_pct": -0.57,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.83,
-      "change": -0.19,
-      "change_pct": -1.05,
+      "price": 18.81,
+      "change": 0.98,
+      "change_pct": 5.5,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.35,
-      "change": 0.01,
-      "change_pct": 0.23,
+      "price": 4.42,
+      "change": 0.07,
+      "change_pct": 1.61,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 60537.36,
-      "change": 821.18,
-      "change_pct": 1.38,
-      "trend_5d": "flat"
+      "price": 59917.46,
+      "change": -619.9,
+      "change_pct": -1.02,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25925.65,
-      "change": -52.42,
-      "change_pct": -0.2,
+      "price": 25679.78,
+      "change": -245.87,
+      "change_pct": -0.95,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6615.03,
-      "change": 139.4,
-      "change_pct": 2.15,
+      "price": 6641.02,
+      "change": 25.99,
+      "change_pct": 0.39,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4610.8,
-      "change_pct": -1.38
+      "price": 4556.9,
+      "change_pct": -0.75
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 104.23,
-      "change_pct": -3.7
+      "price": 111.79,
+      "change_pct": 0.48
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 99.67,
-      "change_pct": 3.42
+      "price": 108.25,
+      "change_pct": 8.33
     }
   ],
   "asx200": {
-    "level": 8766.4,
-    "change_pct": -0.23
+    "level": 8710.7,
+    "change_pct": -0.64
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7182,
-      "change_pct": 0.5368
+      "current_rate": 0.7116,
+      "change_pct": -1.0357
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5886,
-      "change_pct": 0.2602
+      "current_rate": 0.5831,
+      "change_pct": -1.3762
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2196,
-      "change_pct": 0.2342
+      "current_rate": 1.2186,
+      "change_pct": 0.1973
     }
   ],
   "world_news": [
     {
-      "headline": "Former FBI director James Comey charged with threatening Trump's life",
-      "summary": "The indictment stems from a 2025 photo of seashells posted by Comey on social media that the justice department says is a call to violence against Trump.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "News live: King Charles praises \u2018ambitious\u2019 Aukus and expresses pride in Australia in speech to US Congress",
-      "summary": "<p>Nuclear submarine mentioned in part of king\u2019s speech that emphasised defence ties. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The federal government has pledged new funding to help the states and territories strike agreements that would allow them to assess and approve projects themselves under new federal nature laws.</p><p><strong>Anthony Albanese</strong> will make the four-year, $45m announcement in a speech to a mining industry event in Western Australia, describing the deals as a \u201ccircuit-breaker\u201d that will fast-track mining, energy and housing applications.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Penny Wong wins jet fuel pledge from China in Beijing visit; US lawmaker says Aukus price might go up",
+      "summary": "<p>Foreign affairs minister says China has agreed to facilitate exports of jet fuel to ease supply disruptions. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>An interim report by the antisemitism royal commissioner <strong>Virginia Bell</strong> is expected to be released on Thursday.</p><p>Bell was appointed to lead the royal commission after the Bondi terror attack, and her interim report is expected to focus on intelligence and law enforcement agencies.</p><p>I don\u2019t think the US$3bn number, which is in the optimal pathway, is the 10 commandments. I think that as this enterprise unfolds,<strong>there may be a rationale for Australia to participate more,</strong>but, as I said, at this point, the commitment of US$3bn, [and] already the transmittal [sic] of US$2bn of that commitment is something that most people, certainly on Capitol Hill, still remark and comment very favourably and appreciate.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +132,8 @@
       ]
     },
     {
-      "headline": "Stoinis goes big but Royals dent crown of Ponting's Kings",
-      "summary": "Ricky Ponting's Punjab Kings record a six-wicket loss against Rajasthan Royals in the IPL, despite Marcus Stoinis's breathtaking innings.",
+      "headline": "Austrian 'lucky loser' makes WTA Tour history at Madrid Open",
+      "summary": "Anastasia Potapova experiences an \"explosion of emotions\", as her remarkable run in Madrid continues at the prestigious tournament.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +143,8 @@
       ]
     },
     {
-      "headline": "Trump hails US-UK bond as he welcomes British royals",
-      "summary": "US President Donald Trump hailed the &quot;cherished bond&quot; between the United States and the United Kingdom.",
+      "headline": "What\u2019s behind Israel\u2019s plan to move the Bnei Menashe?",
+      "summary": "The new wave of the Bnei Menashe community from Northeast India have arrived in Israel under a 2026 government plan.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,52 +154,8 @@
       ]
     },
     {
-      "headline": "Northern Ireland makes arrest linked to suspected New IRA car bombing",
-      "summary": "The nationalist group has been escalating threats, nearly 30 years after a peace deal largely ended sectarian violence.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Congress cheers King Charles for underlining \u2018checks and balances\u2019",
-      "summary": "US lawmakers gave King Charles III a standing ovation upon mentioning the importance of \u201cchecks and balances\u201d.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Nearly eight million people in South Sudan at risk of acute hunger: NGOs",
-      "summary": "Aid agencies warn that time is running out to avoid an &#039;irreversible humanitarian catastrophe&#039;.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump scolds Germany\u2019s Merz for criticism of Iran war",
-      "summary": "US president says German chancellor &#039;doesn&#039;t know what he&#039;s talking about&#039;, defends war on Iran as necessary.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
-      "summary": "The move comes as the White House pressures Disney-owned ABC to fire Kimmel after he called Melania an \"expectant widow\".",
+      "headline": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+      "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +165,63 @@
       ]
     },
     {
-      "headline": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
-      "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+      "headline": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
+      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Ukraine asks Israel to seize ship carrying grain \u2018stolen\u2019 by Russia",
+      "summary": "Kyiv requested that Israel seize the vessel and its cargo, take grain \u200csamples, and question crew \u200bmembers.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Musk accuses Altman of betraying OpenAI\u2019s nonprofit founding mission",
+      "summary": "OpenAI\u2019s lawyers argue Musk\u2019s lawsuit aims to undermine the company for his competing venture, xAI.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
+      "summary": "Acting AG Todd Blanche said the case was investigated for months, adding \"it's serious when you threaten the president.\"",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Mali\u2019s Tuareg rebels say Russian fighters must withdraw from country",
+      "summary": "As military government battles to reassert control, spokesperson for Tuareg rebels says it will fall &#039;sooner or later&#039;.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Syria trial seen as first step on long road for Assad's victims",
+      "summary": "There were highly charged scenes as former senior regime official, Atef Najib, appeared before a Damascus court.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-04-29T07:06:12.038954+10:00",
-    "date": "2026-04-29",
-    "display_date": "Wednesday 29 April 2026",
-    "display_time": "07:06 AM AEST"
+    "generated_at": "2026-04-30T07:02:29.183939+10:00",
+    "date": "2026-04-30",
+    "display_date": "Thursday 30 April 2026",
+    "display_time": "07:02 AM AEST"
   }
 }
