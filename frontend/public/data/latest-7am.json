@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7135.95,
-      "change": -2.85,
-      "change_pct": -0.04,
+      "price": 7209.01,
+      "change": 73.06,
+      "change_pct": 1.02,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24673.24,
-      "change": 9.44,
-      "change_pct": 0.04,
+      "price": 24892.31,
+      "change": 219.07,
+      "change_pct": 0.89,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 48861.81,
-      "change": -280.12,
-      "change_pct": -0.57,
-      "trend_5d": "down"
+      "price": 49652.14,
+      "change": 790.33,
+      "change_pct": 1.62,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.81,
-      "change": 0.98,
-      "change_pct": 5.5,
+      "price": 16.89,
+      "change": -1.92,
+      "change_pct": -10.21,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.42,
-      "change": 0.07,
-      "change_pct": 1.61,
+      "price": 4.39,
+      "change": -0.03,
+      "change_pct": -0.68,
       "trend_5d": "up"
     }
   ],
@@ -48,14 +48,14 @@
       "price": 59917.46,
       "change": -619.9,
       "change_pct": -1.02,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25679.78,
-      "change": -245.87,
-      "change_pct": -0.95,
+      "price": 26111.84,
+      "change": 432.06,
+      "change_pct": 1.68,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6641.02,
-      "change": 25.99,
-      "change_pct": 0.39,
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
       "trend_5d": "flat"
     }
   ],
@@ -79,83 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4556.9,
-      "change_pct": -0.75
+      "price": 4630.4,
+      "change_pct": 1.87
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 111.79,
-      "change_pct": 0.48
+      "price": 111.43,
+      "change_pct": -5.59
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 108.25,
-      "change_pct": 8.33
+      "price": 105.72,
+      "change_pct": -1.09
     }
   ],
   "asx200": {
-    "level": 8710.7,
-    "change_pct": -0.64
+    "level": 8687.0,
+    "change_pct": -0.27
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7116,
-      "change_pct": -1.0357
+      "current_rate": 0.7205,
+      "change_pct": 0.2421
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5831,
-      "change_pct": -1.3762
+      "current_rate": 0.5912,
+      "change_pct": 0.3931
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2186,
-      "change_pct": 0.1973
+      "current_rate": 1.2182,
+      "change_pct": -0.1933
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Penny Wong wins jet fuel pledge from China in Beijing visit; US lawmaker says Aukus price might go up",
-      "summary": "<p>Foreign affairs minister says China has agreed to facilitate exports of jet fuel to ease supply disruptions. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>An interim report by the antisemitism royal commissioner <strong>Virginia Bell</strong> is expected to be released on Thursday.</p><p>Bell was appointed to lead the royal commission after the Bondi terror attack, and her interim report is expected to focus on intelligence and law enforcement agencies.</p><p>I don\u2019t think the US$3bn number, which is in the optimal pathway, is the 10 commandments. I think that as this enterprise unfolds,<strong>there may be a rationale for Australia to participate more,</strong>but, as I said, at this point, the commitment of US$3bn, [and] already the transmittal [sic] of US$2bn of that commitment is something that most people, certainly on Capitol Hill, still remark and comment very favourably and appreciate.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Austrian 'lucky loser' makes WTA Tour history at Madrid Open",
-      "summary": "Anastasia Potapova experiences an \"explosion of emotions\", as her remarkable run in Madrid continues at the prestigious tournament.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "What\u2019s behind Israel\u2019s plan to move the Bnei Menashe?",
-      "summary": "The new wave of the Bnei Menashe community from Northeast India have arrived in Israel under a 2026 government plan.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-      "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+      "headline": "US House votes to end government shutdown over immigration operations",
+      "summary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,19 +132,8 @@
       ]
     },
     {
-      "headline": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
-      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Ukraine asks Israel to seize ship carrying grain \u2018stolen\u2019 by Russia",
-      "summary": "Kyiv requested that Israel seize the vessel and its cargo, take grain \u200csamples, and question crew \u200bmembers.",
+      "headline": "How is Israel replicating its Gaza tactics in Lebanon?",
+      "summary": "Widespread Israeli attacks on civilian targets in Lebanon are a repeated tactic from Gaza.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +143,8 @@
       ]
     },
     {
-      "headline": "Musk accuses Altman of betraying OpenAI\u2019s nonprofit founding mission",
-      "summary": "OpenAI\u2019s lawyers argue Musk\u2019s lawsuit aims to undermine the company for his competing venture, xAI.",
+      "headline": "Trumps says Iran can play at World Cup in US after FIFA confirmation",
+      "summary": "FIFA chief Gianni Infantino has said Iran will play their World Cup matches, leading to agreement from US President.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +154,8 @@
       ]
     },
     {
-      "headline": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
-      "summary": "Acting AG Todd Blanche said the case was investigated for months, adding \"it's serious when you threaten the president.\"",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Mali\u2019s Tuareg rebels say Russian fighters must withdraw from country",
-      "summary": "As military government battles to reassert control, spokesperson for Tuareg rebels says it will fall &#039;sooner or later&#039;.",
+      "headline": "US-Venezuela direct flights resume after seven-year suspension",
+      "summary": "The first direct US-Venezuela commercial flight in seven years departed Miami for Caracas on Thursday.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +165,69 @@
       ]
     },
     {
-      "headline": "Syria trial seen as first step on long road for Assad's victims",
-      "summary": "There were highly charged scenes as former senior regime official, Atef Najib, appeared before a Damascus court.",
+      "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "RSF condemns \u2018kidnapping\u2019 of three journalists on board Gaza aid flotilla",
+      "summary": "Among the detained journalists are Al Jazeera correspondent Hafed Mribah and cameraman Mahmut Yavuz.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "summary": "At least nine people - including two children - were killed, according to Lebanon's health ministry.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "US Congress passes bill to resume funding for DHS and end partial shutdown",
+      "summary": "House approves funding measure, which excludes ICE, ending weeks-long crisis that left many federal workers without pay.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Uganda court sentences man to death for killing four children at nursery",
+      "summary": "Christopher Okello Onyum sentenced for fatal stabbing of four children aged between one and three years old.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-04-30T07:02:29.183939+10:00",
-    "date": "2026-04-30",
-    "display_date": "Thursday 30 April 2026",
-    "display_time": "07:02 AM AEST"
+    "generated_at": "2026-05-01T06:58:49.829341+10:00",
+    "date": "2026-05-01",
+    "display_date": "Friday 01 May 2026",
+    "display_time": "06:58 AM AEST"
   }
 }
