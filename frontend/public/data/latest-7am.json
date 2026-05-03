@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7209.01,
-      "change": 73.06,
-      "change_pct": 1.02,
+      "price": 7230.12,
+      "change": 21.11,
+      "change_pct": 0.29,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24892.31,
-      "change": 219.07,
+      "price": 25114.44,
+      "change": 222.13,
       "change_pct": 0.89,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49652.14,
-      "change": 790.33,
-      "change_pct": 1.62,
+      "price": 49499.27,
+      "change": -152.87,
+      "change_pct": -0.31,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.89,
-      "change": -1.92,
-      "change_pct": -10.21,
+      "price": 16.99,
+      "change": 0.1,
+      "change_pct": 0.59,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.39,
-      "change": -0.03,
-      "change_pct": -0.68,
+      "price": 4.38,
+      "change": -0.01,
+      "change_pct": -0.23,
       "trend_5d": "up"
     }
   ],
@@ -45,84 +45,84 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 59917.46,
-      "change": -619.9,
-      "change_pct": -1.02,
-      "trend_5d": "flat"
+      "price": 59513.12,
+      "change": 228.2,
+      "change_pct": 0.38,
+      "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26111.84,
-      "change": 432.06,
-      "change_pct": 1.68,
-      "trend_5d": "flat"
+      "price": 25776.53,
+      "change": -335.31,
+      "change_pct": -1.28,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 4112.16,
+      "change": 4.65,
+      "change_pct": 0.11,
+      "trend_5d": "up"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 6598.87,
+      "change": -92.03,
+      "change_pct": -1.38,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4630.4,
-      "change_pct": 1.87
+      "price": 4644.5,
+      "change_pct": 0.65
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 111.43,
-      "change_pct": -5.59
+      "price": 108.17,
+      "change_pct": -5.12
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 105.72,
-      "change_pct": -1.09
+      "price": 101.94,
+      "change_pct": -2.98
     }
   ],
   "asx200": {
-    "level": 8687.0,
-    "change_pct": -0.27
+    "level": 8729.8,
+    "change_pct": 0.74
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7205,
-      "change_pct": 0.2421
+      "current_rate": 0.7208,
+      "change_pct": 0.1034
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5912,
-      "change_pct": 0.3931
+      "current_rate": 0.59,
+      "change_pct": -0.1115
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2182,
-      "change_pct": -0.1933
+      "current_rate": 1.2211,
+      "change_pct": 0.1723
     }
   ],
   "world_news": [
     {
-      "headline": "US House votes to end government shutdown over immigration operations",
-      "summary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
+      "headline": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,41 +132,19 @@
       ]
     },
     {
-      "headline": "How is Israel replicating its Gaza tactics in Lebanon?",
-      "summary": "Widespread Israeli attacks on civilian targets in Lebanon are a repeated tactic from Gaza.",
+      "headline": "Merz \u2018not giving up on working with Trump\u2019 despite Iran war spat",
+      "summary": "<p>German chancellor downplays US military drawbacks and president\u2019s barbs in TV interview</p><p>The German chancellor, Friedrich Merz, has said he will not give up on working with the US president, Donald Trump, despite a spat between the leaders over the war in Iran.</p><p>\u201cI am not giving up on working on the transatlantic relationship,\u201d Merz told the public broadcaster ARD in an interview due to air on Sunday night. \u201cNor am I giving up on working with Donald Trump.\u201d</p> <a href=\"https://www.theguardian.com/world/2026/may/03/merz-not-giving-up-on-working-with-trump-despite-iran-war-spat\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Trumps says Iran can play at World Cup in US after FIFA confirmation",
-      "summary": "FIFA chief Gianni Infantino has said Iran will play their World Cup matches, leading to agreement from US President.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US-Venezuela direct flights resume after seven-year suspension",
-      "summary": "The first direct US-Venezuela commercial flight in seven years departed Miami for Caracas on Thursday.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
+      "headline": "Iran says US has responded to its latest peace proposal",
+      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +154,8 @@
       ]
     },
     {
-      "headline": "RSF condemns \u2018kidnapping\u2019 of three journalists on board Gaza aid flotilla",
-      "summary": "Among the detained journalists are Al Jazeera correspondent Hafed Mribah and cameraman Mahmut Yavuz.",
+      "headline": "World Press Freedom Day marked in Gaza as journalist death toll rises",
+      "summary": "Palestinian journalists in Gaza marked World Press Freedom Day by honouring colleagues killed and targeted by Israel.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +165,52 @@
       ]
     },
     {
-      "headline": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
+      "headline": "Is Israel expanding into Gaza despite ceasefire?",
+      "summary": "Redi Tlhabi speaks to Ray Adams Row Farr from Forensic Architecture about Israel\u2019s expansion into Gaza post-ceasefire.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Germany\u2019s Merz downplays rift with Washington despite US troop drawdown",
+      "summary": "German chancellor says criticism of Donald Trump&#039;s strategy in Iran unrelated to troop withdrawal announcement.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israel\u2019s strategy of \u2018permanent war\u2019: A race against time?",
+      "summary": "Political analyst Daniel Levy says US policy is so \u2018marinated\u2019 in Israeli narratives, the two are indistinguishable.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
+      "summary": "Israeli forces have raided the city of Nablus in the occupied West Bank, killing a 26-year-old man.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Who shot a Secret Service officer at the Trump press dinner?",
+      "summary": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,36 +220,14 @@
       ]
     },
     {
-      "headline": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
-      "summary": "At least nine people - including two children - were killed, according to Lebanon's health ministry.",
+      "headline": "Two US service members reported missing in Morocco, officials say",
+      "summary": "A search and rescue operation is underway for the service members, who are believed to have been involved in an accident, according to authorities.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
-      ]
-    },
-    {
-      "headline": "US Congress passes bill to resume funding for DHS and end partial shutdown",
-      "summary": "House approves funding measure, which excludes ICE, ending weeks-long crisis that left many federal workers without pay.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Uganda court sentences man to death for killing four children at nursery",
-      "summary": "Christopher Okello Onyum sentenced for fatal stabbing of four children aged between one and three years old.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-01T06:58:49.829341+10:00",
-    "date": "2026-05-01",
-    "display_date": "Friday 01 May 2026",
-    "display_time": "06:58 AM AEST"
+    "generated_at": "2026-05-04T06:40:42.226316+10:00",
+    "date": "2026-05-04",
+    "display_date": "Monday 04 May 2026",
+    "display_time": "06:40 AM AEST"
   }
 }
