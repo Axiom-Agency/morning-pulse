@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7230.12,
-      "change": 21.11,
-      "change_pct": 0.29,
+      "price": 7200.75,
+      "change": -29.37,
+      "change_pct": -0.41,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25114.44,
-      "change": 222.13,
-      "change_pct": 0.89,
+      "price": 25067.8,
+      "change": -46.64,
+      "change_pct": -0.19,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49499.27,
-      "change": -152.87,
-      "change_pct": -0.31,
-      "trend_5d": "up"
+      "price": 48941.9,
+      "change": -557.37,
+      "change_pct": -1.13,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.99,
-      "change": 0.1,
-      "change_pct": 0.59,
-      "trend_5d": "down"
+      "price": 18.29,
+      "change": 1.3,
+      "change_pct": 7.65,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.38,
-      "change": -0.01,
-      "change_pct": -0.23,
+      "price": 4.45,
+      "change": 0.07,
+      "change_pct": 1.6,
       "trend_5d": "up"
     }
   ],
@@ -56,7 +56,7 @@
       "price": 25776.53,
       "change": -335.31,
       "change_pct": -1.28,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
@@ -69,30 +69,30 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6598.87,
-      "change": -92.03,
-      "change_pct": -1.38,
-      "trend_5d": "up"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4644.5,
-      "change_pct": 0.65
+      "price": 4532.0,
+      "change_pct": -2.11
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 108.17,
-      "change_pct": -5.12
+      "price": 113.86,
+      "change_pct": 5.26
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 101.94,
-      "change_pct": -2.98
+      "price": 105.19,
+      "change_pct": 3.19
     }
   ],
   "asx200": {
@@ -103,26 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7208,
-      "change_pct": 0.1034
+      "current_rate": 0.7169,
+      "change_pct": -0.4348
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.59,
-      "change_pct": -0.1115
+      "current_rate": 0.5876,
+      "change_pct": -0.5282
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2211,
-      "change_pct": 0.1723
+      "current_rate": 1.2189,
+      "change_pct": -0.0066
     }
   ],
   "world_news": [
     {
-      "headline": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+      "headline": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+      "summary": "A 33-year-old German citizen was detained following the incident, the authorities say.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,19 @@
       ]
     },
     {
-      "headline": "Merz \u2018not giving up on working with Trump\u2019 despite Iran war spat",
-      "summary": "<p>German chancellor downplays US military drawbacks and president\u2019s barbs in TV interview</p><p>The German chancellor, Friedrich Merz, has said he will not give up on working with the US president, Donald Trump, despite a spat between the leaders over the war in Iran.</p><p>\u201cI am not giving up on working on the transatlantic relationship,\u201d Merz told the public broadcaster ARD in an interview due to air on Sunday night. \u201cNor am I giving up on working with Donald Trump.\u201d</p> <a href=\"https://www.theguardian.com/world/2026/may/03/merz-not-giving-up-on-working-with-trump-despite-iran-war-spat\">Continue reading...</a>",
+      "headline": "Video: Modi\u2019s BJP poised to take control in India\u2019s West Bengal",
+      "summary": "India Prime Minister Narendra Modi\u2019s ruling BJP is set to GAIN (wrest) control of West Bengal.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Middle East crisis live: Trump warns Iranian forces they will be \u2018blown off the face of the Earth\u2019 if they target US ships",
+      "summary": "<p>US president\u2019s comment echoes threat that \u2018whole civilisation will die\u2019 as tension over strait of Hormuz ramps up again</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal\">Donald Trump sends warships to break Iran\u2019s strait of Hormuz blockade</a></p></li></ul><p>We have a bit more of the statement from Maj Gen Ali Abdollahi, the commander of Iran\u2019s Khatam al-Anbiya central headquarters, who said earlier that the US or any other foreign armed forces would be attacked if they entered the strait of Hormuz (see post at <a href=\"https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes?page=with%3Ablock-69f83dcb8f08ab365d7fe87e#block-69f83dcb8f08ab365d7fe87e\">07.39</a> for more details). Abdollahi also said:</p><p><em>We will maintain and vigorously manage the security of the strait of Hormuz with all our might, and we inform all commercial ships and tankers to refrain from any attempt to transit without the coordination of the armed forces stationed in the strait of Hormuz, so as not to jeopardise their security.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,19 +154,8 @@
       ]
     },
     {
-      "headline": "Iran says US has responded to its latest peace proposal",
-      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "World Press Freedom Day marked in Gaza as journalist death toll rises",
-      "summary": "Palestinian journalists in Gaza marked World Press Freedom Day by honouring colleagues killed and targeted by Israel.",
+      "headline": "Russia and Ukraine declare competing ceasefires",
+      "summary": "Moscow&#039;s declaration of May 9 truce comes as Kyiv revels in its adversary&#039;s &#039;fear&#039; of Ukrainian drones.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +165,19 @@
       ]
     },
     {
-      "headline": "Is Israel expanding into Gaza despite ceasefire?",
-      "summary": "Redi Tlhabi speaks to Ray Adams Row Farr from Forensic Architecture about Israel\u2019s expansion into Gaza post-ceasefire.",
+      "headline": "Australia news live: four Australians among passengers on luxury cruise ship hit by deadly suspected hantavirus outbreak",
+      "summary": "<p>MV Hondius remains off the coast of Cape Verde after a suspected respiratory virus outbreak killed three people and left three more seriously ill. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Four Australians are stuck on a luxury cruise ship stranded off the coast of <a href=\"https://www.theguardian.com/world/cape-verde\">Cape Verde</a>, after a suspected outbreak of a rare respiratory virus killed three people, left three others seriously ill and forced nearly 150 people from across the world to isolate onboard.</p><p>You can read the full story here:</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Police clash with protesters after ICE arrest in New York",
+      "summary": "Police clashed with protesters outside a New York hospital where a man arrested by ICE agents was being treated.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +187,8 @@
       ]
     },
     {
-      "headline": "Germany\u2019s Merz downplays rift with Washington despite US troop drawdown",
-      "summary": "German chancellor says criticism of Donald Trump&#039;s strategy in Iran unrelated to troop withdrawal announcement.",
+      "headline": "Moscow rehearses V-Day parade marking WWII victory",
+      "summary": "Russia rehearsed its Victory Day parade and declared a ceasefire with Ukraine to cover the May 9 celebrations.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +198,8 @@
       ]
     },
     {
-      "headline": "Israel\u2019s strategy of \u2018permanent war\u2019: A race against time?",
-      "summary": "Political analyst Daniel Levy says US policy is so \u2018marinated\u2019 in Israeli narratives, the two are indistinguishable.",
+      "headline": "Mali leader Goita takes defence post after minister killed",
+      "summary": "Military leader promotes himself after defence minister killed in attacks linked to al-Qaeda and Tuareg separatists.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,36 +209,25 @@
       ]
     },
     {
-      "headline": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
-      "summary": "Israeli forces have raided the city of Nablus in the occupied West Bank, killing a 26-year-old man.",
+      "headline": "What Luai's shock NRL move could mean for Australian and NZ rugby union",
+      "summary": "The NRL's expansion has ramifications for more than the existing 17 clubs, with Australian and New Zealand rugby talent also in the crosshairs.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "ABC Australia"
       ]
     },
     {
-      "headline": "Who shot a Secret Service officer at the Trump press dinner?",
-      "summary": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+      "headline": "Donald Trump sends warships to break Iran\u2019s strait of Hormuz blockade",
+      "summary": "<p>US operation announced as \u2018Project Freedom\u2019 dramatically raises stakes in conflict</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes\">Middle East crisis \u2013 live updates</a></p></li></ul><p>The US has launched Donald Trump\u2019s operation to open a route through the strait of Hormuz for hundreds of ships trapped with their crews in the Gulf, in a move that brought the region back to the brink of full-scale war as Iran sought to reassert its blockade.</p><p>The US operation, which got under way on Monday after being announced as \u201cProject Freedom\u201d by Trump on Sunday night on his social media site, dramatically raised the stakes in a conflict that had been in a month-long period of uneasy limbo.</p> <a href=\"https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Two US service members reported missing in Morocco, officials say",
-      "summary": "A search and rescue operation is underway for the service members, who are believed to have been involved in an accident, according to authorities.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
+        "The Guardian"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-04T06:40:42.226316+10:00",
-    "date": "2026-05-04",
-    "display_date": "Monday 04 May 2026",
-    "display_time": "06:40 AM AEST"
+    "generated_at": "2026-05-05T07:07:19.915782+10:00",
+    "date": "2026-05-05",
+    "display_date": "Tuesday 05 May 2026",
+    "display_time": "07:07 AM AEST"
   }
 }
