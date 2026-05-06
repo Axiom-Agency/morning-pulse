@@ -3,42 +3,42 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7259.22,
-      "change": 58.47,
-      "change_pct": 0.81,
+      "price": 7365.12,
+      "change": 105.9,
+      "change_pct": 1.46,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25326.12,
-      "change": 258.32,
-      "change_pct": 1.03,
+      "price": 25838.94,
+      "change": 512.81,
+      "change_pct": 2.02,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49298.25,
-      "change": 356.35,
-      "change_pct": 0.73,
+      "price": 49910.59,
+      "change": 612.34,
+      "change_pct": 1.24,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.38,
-      "change": -0.91,
-      "change_pct": -4.98,
-      "trend_5d": "down"
+      "price": 17.39,
+      "change": 0.01,
+      "change_pct": 0.06,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.42,
-      "change": -0.03,
-      "change_pct": -0.67,
-      "trend_5d": "flat"
+      "price": 4.36,
+      "change": -0.06,
+      "change_pct": -1.36,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
@@ -53,18 +53,18 @@
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26095.88,
-      "change": 319.35,
-      "change_pct": 1.24,
+      "price": 25898.61,
+      "change": -197.27,
+      "change_pct": -0.76,
       "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 4112.16,
-      "change": 4.65,
-      "change_pct": 0.11,
-      "trend_5d": "up"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,57 +72,57 @@
       "price": 6936.99,
       "change": 338.12,
       "change_pct": 5.12,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4566.8,
-      "change_pct": 1.05
+      "price": 4701.6,
+      "change_pct": 3.2
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 110.26,
-      "change_pct": -3.65
+      "price": 102.06,
+      "change_pct": -7.11
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 102.47,
-      "change_pct": -3.71
+      "price": 96.24,
+      "change_pct": -5.9
     }
   ],
   "asx200": {
-    "level": 8697.1,
-    "change_pct": -0.37
+    "level": 8680.5,
+    "change_pct": -0.19
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7185,
-      "change_pct": -0.3808
+      "current_rate": 0.7235,
+      "change_pct": 0.9471
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5888,
-      "change_pct": -0.315
+      "current_rate": 0.5963,
+      "change_pct": 1.5493
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2186,
-      "change_pct": -0.1589
+      "current_rate": 1.2125,
+      "change_pct": -0.6563
     }
   ],
   "world_news": [
     {
-      "headline": "Middle East crisis live: cargo vessel in strait of Hormuz struck by unknown projectile, UK maritime body says",
-      "summary": "<p>UK maritime trade agency report comes as US is keen to portray \u2018Project Freedom\u2019 as defensive rescue effort for mariners stuck in Gulf</p><p>Iran\u2019s foreign minister, Abbas Araghchi, is travelling to Beijing later today for talks with his Chinese counterpart \u201con bilateral relations and regional and international developments\u201d, his ministry said on its Telegram account.</p><p>While Beijing condemned the initial US and Israeli strikes on Iran which started the war in late February, China has largely adopted a posture of neutrality ever since and has urged for a diplomatic resolution to the conflict.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates\">Continue reading...</a>",
+      "headline": "US fires on Iranian-flagged oil tanker as Trump gives Tehran fresh ultimatum",
+      "summary": "<p>President tells Iran to accept deal to end war or face new wave of bombing at \u2018much higher level and intensity\u2019</p><p><a href=\"https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis\">Middle East crisis \u2013 live updates</a></p><p>The US military fired on an Iranian-flagged oil tanker on Wednesday, shortly after Donald Trump issued a fresh ultimatum to Tehran, telling it to accept a deal to end the war or face a new wave of US bombing \u201cat a much higher level and intensity than it was before\u201d.</p><p>The US fighter fired several rounds and \u201cdisabled the tanker\u2019s rudder\u201d as it attempted to breach the US\u2019s blockade of Iranian ports, US Central Command said in a social media post.</p> <a href=\"https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "Trump accuses pope of \u2018endangering a lot of Catholics\u2019 with Iran stance",
-      "summary": "<p>US president directs fresh criticism at pontiff days before secretary of state Marco Rubio\u2019s visit to Vatican</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates\">Middle East crisis \u2013 live updates</a></p></li></ul><p>Donald Trump has issued another verbal attack against Pope Leo, accusing the pontiff of \u201cendangering a lot of Catholics\u201d because \u201che thinks it\u2019s fine for Iran to have a nuclear weapon\u201d.</p><p>The remarks come two days before <a href=\"https://www.theguardian.com/us-news/2026/may/04/marco-rubio-to-meet-pope-leo-after-trumps-broadside-against-pontiff\">Marco Rubio, the US secretary of state, meets Leo at the Vatican</a> in an effort to ease the tensions sparked by Trump\u2019s previous broadside against the Chicago-born pontiff over his condemnation of the US-Israeli war on Iran.</p> <a href=\"https://www.theguardian.com/world/2026/may/05/donald-trump-accuses-pope-leo-of-endangering-a-lot-of-catholics-with-iran-stance\">Continue reading...</a>",
+      "headline": "Australia news live: BHP loses Brazil dam collapse case; man charged with hate speech over NSW parliament rally",
+      "summary": "<p>Mining company cannot appeal against liability for 2015 dam collapse in Brazil. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Northern Territory\u2019s child protection minister, <strong>Robyn Cahill</strong>, says there are \u201cconcerns processes weren\u2019t followed correctly\u201d in the case of <strong>Kumanjayi Little Baby, </strong>with three department workers stood down pending the outcome of an investigation.</p><p>The child protection workers were <a href=\"https://www.theguardian.com/australia-news/2026/may/06/kumanjayi-little-baby-death-child-protection-workers-ntwnfb\">stood down on Wednesday morning</a> after the minister requested an investigation into \u201cactions taken, or not taken\u201d in relation to the case of <strong>Kumanjayi Little Baby</strong>.</p><p>Clearly the processes that should have been followed appeared not to have been followed, and it was for that reason I asked for advice as to how that process has failed, which led to the investigation that has resolved today in three staff members being stood down from their positions.</p><p>The fact the investigation has led to three people being stood down from their positions would indicate that there are concerns that processes weren\u2019t followed correctly.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/07/royal-commission-antisemitism-budget-cost-of-living-jim-chalmers-anthony-albanese-tax-islamic-state-families-syria-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,52 +143,8 @@
       ]
     },
     {
-      "headline": "Could OPEC break lead to era of energy volatility?",
-      "summary": "How unstable is the global oil market?",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Mauritania\u2019s plan to close private schools sparks backlash",
-      "summary": "Mauritania\u2019s plan to shut most private primary schools and move students into free public schools is sparking backlash.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US plans to hike tariffs on EU cars to 25% will hit luxury market the most",
-      "summary": "US says it will hike tariffs to 25% because the EU has not complied with trade deal last year that set tariffs at 15%.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Miscalculation over Strait of Hormuz could \u2018bring an all-out war\u2019",
-      "summary": "Neither the US nor Iran are willing to compromise on the Strait of Hormuz, increasing the chance of miscalculation.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-      "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
+      "headline": "Gas tax: How beer fuelled a debate on Australia's energy giants",
+      "summary": "Campaigners say Australia is giving away its gas 'for free' and should tax exports like Norway and Qatar.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +154,19 @@
       ]
     },
     {
-      "headline": "US-Iran truce teeters on meltdown as stalemate takes toll on each side",
-      "summary": "<p>Conflict appears to have reached impasse, but leaders in Tehran and Washington seem to think victory is near</p><p>The month-old ceasefire between Iran and the US appeared to be in new peril on Tuesday with a fresh barrage of Iranian missiles reported to have targeted the United Arab Emirates as US naval forces pressed ahead with efforts to reopen the strait of Hormuz.</p><p>The Iranian strike on the UAE was the second in 48 hours, and came shortly after the US defence secretary, Pete Hegseth, insisted the shaky truce which has paused the war in the Middle East was intact, despite the new increase in violence.</p> <a href=\"https://www.theguardian.com/world/2026/may/05/us-iran-truce-teeters-on-meltdown-as-stalemate-takes-toll-on-each-side\">Continue reading...</a>",
+      "headline": "Nikita Tzsyu maintains incredible family record as world title bid looms",
+      "summary": "Australian boxing star Nikita Tszyu preserves his unbeaten record with a sixth-round stoppage of Spaniard Oscar Diaz in their super-welterweight showdown.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "ABC Australia"
       ]
     },
     {
-      "headline": "Sudan recalls Ethiopia ambassador after strikes on Khartoum",
-      "summary": "Sudan has recalled its ambassador to Addis Ababa, accusing Ethiopia of being behind attacks on Khartoum\u2019s airport.",
+      "headline": "Russia cuts mobile internet in Moscow citing drone security concerns",
+      "summary": "Russia has begun rolling mobile internet shutdowns in Moscow and other cities.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +176,52 @@
       ]
     },
     {
-      "headline": "Video: Trump says Iran should \u2018wave the white flag\u2019",
-      "summary": "US President Donald Trump said Iran should \u2018wave the white flag of surrender\u2019 in the war.",
+      "headline": "Middle East crisis live: Iran\u2019s top negotiator says US aims to force Tehran\u2019s \u2018surrender\u2019; Israel strikes Beirut for first time since ceasefire began",
+      "summary": "<p>Statement comes after Trump\u2019s threats to escalate bombing if Iran doesn\u2019t agree deal and IRGC suggestions the strait of Hormuz could reopen</p><p>The UK work and pensions secretary, <strong>Pat McFadden,</strong> has warned that <strong>job losses \u201ccould happen\u201d in Britain due to the economic impacts of the Iran war.</strong></p><p>He said the UK economy was \u201cgoing in the right direction\u201d at the start of the year and unemployment figures for February showed a decline. He added that interest rates were expected to come down and the markets were pricing in cuts during the course of the year.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
+      "summary": "Fighters attack &#039;Africa&#039;s Alcatraz&#039;, which detains high-value prisoners, and disrupt crucial supply chains to capital.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Infected passengers evacuated from hantavirus cruise ship",
+      "summary": "Three passengers have been evacuated from a cruise ship off the coast of Cape Verde after an outbreak of hantavirus.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "What does the BJP\u2019s victory in West Bengal mean for India\u2019s democracy?",
+      "summary": "These state elections could reshape national politics for 200 million Muslims.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
+      "summary": "At least 17 others wounded in a targeted attack on Naseem al-Kalazani&#039;s vehicle in western Khan Younis city.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-06T07:01:14.960053+10:00",
-    "date": "2026-05-06",
-    "display_date": "Wednesday 06 May 2026",
-    "display_time": "07:01 AM AEST"
+    "generated_at": "2026-05-07T07:10:05.993258+10:00",
+    "date": "2026-05-07",
+    "display_date": "Thursday 07 May 2026",
+    "display_time": "07:10 AM AEST"
   }
 }
