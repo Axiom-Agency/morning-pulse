@@ -3,126 +3,137 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7337.11,
-      "change": -28.01,
-      "change_pct": -0.38,
+      "price": 7398.93,
+      "change": 61.82,
+      "change_pct": 0.84,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25806.2,
-      "change": -32.74,
-      "change_pct": -0.13,
+      "price": 26247.08,
+      "change": 440.88,
+      "change_pct": 1.71,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49596.97,
-      "change": -313.62,
-      "change_pct": -0.63,
-      "trend_5d": "flat"
+      "price": 49609.16,
+      "change": 12.19,
+      "change_pct": 0.02,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.08,
-      "change": -0.31,
-      "change_pct": -1.78,
-      "trend_5d": "up"
+      "price": 17.19,
+      "change": 0.11,
+      "change_pct": 0.64,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.39,
-      "change": 0.03,
-      "change_pct": 0.69,
-      "trend_5d": "up"
+      "price": 4.36,
+      "change": -0.03,
+      "change_pct": -0.68,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 59513.12,
-      "change": 228.2,
-      "change_pct": 0.38,
-      "trend_5d": "flat"
+      "price": 62713.65,
+      "change": -120.19,
+      "change_pct": -0.19,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26213.78,
-      "change": 315.17,
-      "change_pct": 1.22,
-      "trend_5d": "flat"
+      "price": 26393.71,
+      "change": -232.57,
+      "change_pct": -0.87,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 4179.95,
+      "change": -0.14,
+      "change_pct": -0.0,
+      "trend_5d": "up"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7384.56,
-      "change": 447.57,
-      "change_pct": 6.45,
-      "trend_5d": "flat"
+      "price": 7498.0,
+      "change": 7.95,
+      "change_pct": 0.11,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4710.8,
-      "change_pct": 0.62
+      "price": 4730.7,
+      "change_pct": 0.66
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 102.74,
-      "change_pct": 1.45
+      "price": 101.29,
+      "change_pct": 1.23
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 97.24,
-      "change_pct": 2.27
+      "price": 95.42,
+      "change_pct": 0.64
     }
   ],
   "asx200": {
-    "level": 8793.6,
-    "change_pct": 1.3
+    "level": 8744.4,
+    "change_pct": -1.51
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7222,
-      "change_pct": 0.2482
+      "current_rate": 0.7218,
+      "change_pct": 0.1322
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5941,
-      "change_pct": 0.6458
+      "current_rate": 0.5938,
+      "change_pct": -0.0042
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2106,
-      "change_pct": -0.7916
+      "current_rate": 1.2149,
+      "change_pct": 0.0914
     }
   ],
   "world_news": [
     {
-      "headline": "Trump gives 4 July ultimatum to EU to approve trade deal with US",
-      "summary": "The US president said the European Union must enact the trade deal agreed last year and drop tariffs on American goods to zero.",
+      "headline": "Indian film star Vijay becomes chief minister of Tamil Nadu",
+      "summary": "Indian actor C Joseph Vijay has been sworn in as Tamil Nadu\u2019s chief minister after his TVK Party won in elections.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+      "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +143,8 @@
       ]
     },
     {
-      "headline": "Australia news live: woman to appear in court charged with joining Islamic State",
-      "summary": "<p>Woman arrested at Sydney airport after arriving back from Syria last night; two more women face charges in Melbourne. Follow updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning and welcome to our live news blog. I\u2019m <strong>Martin Farrer</strong> with the top overnight stories and then it will be <strong>Nick Visser</strong> with the main action.</p><p>A woman who arrived back in Australia last night after spending more than seven years in Syrian detention camps will appear at Downing Centre local court this morning charged with allegedly entering a declared conflict zone and joining Islamic State. More coming up.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/08/woman-charged-with-joining-islamic-state-syria-sydney-royal-commission-antisemitism-hearings-anthony-albanese-labor-angus-taylor-coalition-farrer-byelection-nsw-victoria-queensland-politics-ntwnfb\">Continue reading...</a>",
+      "headline": "Russia breaches three-day ceasefire with Ukraine, says Zelenskyy",
+      "summary": "<p>Ukraine president says Russian army is \u2018not complying\u2019 with the US-mediated truce and is \u2018not even really trying to\u2019</p><p>Russia has been conducting assault operations on the Ukrainian frontline in breach of a three-day ceasefire announced by US President Donald Trump, Volodymyr Zelenskyy said on Sunday.</p><p>\u201cThe Russians are continuing assault activity in sectors key for them,\u201d Zelenskyy, the Ukrainian president, said in his evening address. \u201cOn the frontline, the Russian army is not complying with the ceasefire and is not even really trying to.\u201d</p> <a href=\"https://www.theguardian.com/world/2026/may/10/vladimir-putin-suggests-ukraine-war-is-coming-to-an-end\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,19 +154,41 @@
       ]
     },
     {
-      "headline": "Palestinians expose torture and sexual violence in Israeli detention",
-      "summary": "Palestinian detainees and rights groups share disturbing accounts of rape, sexual violence and physical abuse.",
+      "headline": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
+      "summary": "The BBC visits the city of Ushuaia, where heath officials have been sent to investigate the origins of the outbreak.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "BBC World"
       ]
     },
     {
-      "headline": "Players raise fears of French Open boycott",
-      "summary": "The world's leading tennis players do not feel respected, Jannik Sinner says, as fears grow of the French Open being boycotted.",
+      "headline": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+      "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "French national shows symptoms on return from hantavirus-hit ship",
+      "summary": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "An 'outside the square' Bledisloe Cup idea can be a win for Aussie rugby",
+      "summary": "Australian rugby lacks a marquee event that captures the national imagination each year, but this could change if a bold Bledisloe Cup proposal gets approval.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +198,8 @@
       ]
     },
     {
-      "headline": "Kenyan villagers sue BP over pollution from 1980s oil exploration",
-      "summary": "Villagers in Kenya are suing British Petroleum, saying oil exploration by Amoco in the 1980s left toxic pollution.",
+      "headline": "South Korea says ship was struck by \u2018unidentified flying objects\u2019 in Hormuz",
+      "summary": "South Korea says it is investigating an incident on May 4 when two unidentified objects struck a Korean-operated cargo s",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,41 +209,8 @@
       ]
     },
     {
-      "headline": "Smashed by 1,000 points in four matches, these Dogs are refusing to lie down",
-      "summary": "The Dennington Bulldogs are a 115-year-old club that some fear might not make it to 116. But there's more to the Bulldogs' beltings this season than meets the eye.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Middle East crisis live: Iranian state media reports \u2018enemy units\u2019 around strait of Hormuz came under missile fire after attack by US military on Iranian oil tanker",
-      "summary": "<p>State broadcaster, citing unnamed military official, claims that units were forced to retreat</p><p><strong>The European Union is set to tell airlines the impact from the Iran war on tourism is not yet severe enough to justify emergency measures for the sector, draft EU guidelines seen by Reuters showed.</strong></p><p>\u201cThe current situation does not point to the need for dedicated measures for the tourism sector, unlike during the COVID-19 crisis,\u201d said the draft EU guidelines, which the European Commission is due to publish on Friday.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Aussie racers debut in Japanese all-female series",
-      "summary": "The next chapter for two promising Australian motor racing talents begins this weekend as Japan's Kyojo Cup commences its new season.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Palestinian boy mourns father killed in Israeli strike on security post",
-      "summary": "A Palestinian boy mourns his father, one of three people killed in an Israeli strike on a security post in Gaza.",
+      "headline": "Trossard scores late as Arsenal beats West Ham, moves closer to title",
+      "summary": "Winger Leandro Trossard scores the match&#039;s only goal as Arsenal survives VAR controversy to win at West Ham.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +220,14 @@
       ]
     },
     {
-      "headline": "US issues new Cuba sanctions as UN experts warn of \u2018energy starvation\u2019",
-      "summary": "Latest sanctions target military-controlled conglomerate, come as effective US fuel blockade continues.",
+      "headline": "How hotels are stopping the 'dawn dash' for sunbeds after man wins payout",
+      "summary": "Some resorts enforce allocation rules from check-in to prevent people reserving loungers with towels in the \"sunbed wars\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "BBC World"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-08T07:03:20.911401+10:00",
-    "date": "2026-05-08",
-    "display_date": "Friday 08 May 2026",
-    "display_time": "07:03 AM AEST"
+    "generated_at": "2026-05-11T06:43:44.150128+10:00",
+    "date": "2026-05-11",
+    "display_date": "Monday 11 May 2026",
+    "display_time": "06:43 AM AEST"
   }
 }
