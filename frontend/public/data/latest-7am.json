@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7412.84,
-      "change": 13.91,
-      "change_pct": 0.19,
+      "price": 7400.96,
+      "change": -11.88,
+      "change_pct": -0.16,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26274.12,
-      "change": 27.04,
-      "change_pct": 0.1,
+      "price": 26088.2,
+      "change": -185.93,
+      "change_pct": -0.71,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49704.47,
-      "change": 95.31,
-      "change_pct": 0.19,
-      "trend_5d": "up"
+      "price": 49760.56,
+      "change": 56.09,
+      "change_pct": 0.11,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.38,
-      "change": 1.19,
-      "change_pct": 6.92,
+      "price": 17.99,
+      "change": -0.39,
+      "change_pct": -2.12,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.41,
+      "price": 4.46,
       "change": 0.05,
-      "change_pct": 1.15,
-      "trend_5d": "flat"
+      "change_pct": 1.13,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 62713.65,
-      "change": -120.19,
-      "change_pct": -0.19,
+      "price": 62417.88,
+      "change": -295.77,
+      "change_pct": -0.47,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26393.71,
-      "change": -232.57,
-      "change_pct": -0.87,
+      "price": 26406.84,
+      "change": 13.13,
+      "change_pct": 0.05,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7498.0,
-      "change": 7.95,
-      "change_pct": 0.11,
+      "price": 7822.24,
+      "change": 324.24,
+      "change_pct": 4.32,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4745.6,
-      "change_pct": 0.53
+      "price": 4722.6,
+      "change_pct": 0.08
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 104.42,
-      "change_pct": 3.09
+      "price": 107.42,
+      "change_pct": 3.08
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 98.25,
-      "change_pct": 2.97
+      "price": 102.05,
+      "change_pct": 4.06
     }
   ],
   "asx200": {
-    "level": 8744.4,
-    "change_pct": -1.51
+    "level": 8701.8,
+    "change_pct": -0.49
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.725,
-      "change_pct": 0.5751
+      "current_rate": 0.7244,
+      "change_pct": 0.0933
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5962,
-      "change_pct": 0.3893
+      "current_rate": 0.5951,
+      "change_pct": 0.0095
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2145,
-      "change_pct": 0.0519
+      "current_rate": 1.2164,
+      "change_pct": 0.0477
     }
   ],
   "world_news": [
     {
-      "headline": "Federal budget 2026 live updates: treasurer Jim Chalmers to present budget speech tonight \u2013\u00a0latest news",
-      "summary": "<p>Deputy Liberal leader says Coalition should listen \u2018very carefully\u2019 to results of Farrer byelection. Follow the latest updates</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/may/11/budget-2026-what-we-know-so-far-explained-australia-federal-treasurer-jim-chalmers\">Federal budget 2026: what we know so far</a></p></li><li><p>See all our <a href=\"https://www.theguardian.com/australia-news/australian-budget-2026\">Australia budget 2026</a> coverage</p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Asked last night about a possible Liberal/National alliance with One Nation, <strong>Jane Hume</strong> refused to reject the idea outright.</p><p>Pressed on the possible scenario, she said \u201conly One Nation are in favour of that\u201d and wouldn\u2019t talk about \u201cwhat is going to happen after the next election\u201d.</p><p>The most important is to get the primary vote up for the Liberal and National party \u2026 There are so many hypotheticals \u2026 I will say that the Coalition are determined and dedicated to present to the Australian public a platform that they can vote for \u2026</p><p>There is no-one in the Coalition party room today that is telling us we need to expand the Coalition to include One Nation.</p><p>The message we sent in Farrer was that the teals vote with Greens, 70% of the time and for the people of Farrer that wasn\u2019t going to represent their interests \u2026 We will always put our preferences where we think the national interests lies, where we think the interests of the electorate lies and that is what we did in Farrer.</p><p>They wanted change. Standing on a booth with teals in orange on one side and One Nation in orange on the other, both of them were saying \u2018vote for change\u2019.</p><p>This is \u2026 a byelection that nobody wanted. It occurred only a year after the election, after a local member had retired, after a quarter of a century which is a long time to have a seat \u2026 There was no love lost for the Labor party either. It is just that the Labor party didn\u2019t have the balls to turn up \u2026 The Liberal party lost its way. The Coalition lost its way. We split twice in the last 12 months. There is frustration out there. We will take the result with humility.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/12/budget-2026-live-updates-federal-treasurer-jim-chalmers-speech-time-tonight-latest-news-ntwnfb\">Continue reading...</a>",
+      "headline": "Budget 2026 live updates: Coalition pledges to repeal Chalmers\u2019 tax reforms amid mixed reception for \u2018difficult\u2019 budget",
+      "summary": "<p>Shadow treasurer Tim Wilson says his objective is to \u2018defeat\u2019 changes to capital gains and negative gearing. Follow today\u2019s news live</p><ul><li><p>See all our <a href=\"https://www.theguardian.com/australia-news/australian-budget-2026\">Australia budget 2026</a> coverage</p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018These changes are contentious\u2019 Chalmers admits</strong></p><p>You might say <strong>Bill Shorten</strong> walked so <strong>Jim Chalmers</strong> and <strong>Anthony Albanese</strong> could run. The pair unveiled major changes last night to negative gearing and capital gains tax, a feat that lost Shorten the 2016 and 2019 budget (the latter that everyone expected him to win).</p><p>These changes are contentious. There\u2019s no use pretending otherwise, but it\u2019s the right thing to do. The easiest thing that we could have done from a political point of view would be to see these challenges in the housing market, particularly for young people, and to see the issues in the tax system and to leave everything exactly as it was. And we didn\u2019t think that was an acceptable outcome.</p><p>One of the issues in the tax system is that it\u2019s become out of whack. And so that new Working Australians tax offset \u2026 It\u2019s effectively lifted the tax-free threshold for workers, but not for others. And that does give us the architecture, I think. In the future, when successive governments can afford to return more bracket creep, it\u2019s another way that we can do that.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/13/budget-2026-live-updates-reaction-jim-chalmers-tim-wilson-cost-of-living-capital-gains-negative-gearing-housing-tax-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,63 @@
       ]
     },
     {
-      "headline": "Last passengers leave virus-hit cruise ship as three more test positive",
-      "summary": "An American, a Spaniard and a French national who have returned home have tested positive for hantavirus.",
+      "headline": "Sinner equals Djokovic's 31-match Masters record at Italian Open",
+      "summary": "World number one Jannik Sinner extended his Masters 1000 winning streak to 31 matches, equalling Novak Djokovic's all-time record.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Middle East crisis live: US war on Iran has cost around $29bn, Pentagon says",
+      "summary": "<p>Pete Hegseth and other officials appear before House to face grilling on Iran war expenditure and military operations</p><p>Iran has expanded its definition of the strait of Hormuz into a \u201cvast operational area\u201d far wider than before the war, according to a senior officer in the Islamic Revolutionary Guard Corps (IRGC) Navy in comments likely to anger the US.</p><p>The strait is no longer viewed as a narrow stretch around a handful of islands but instead has been greatly enlarged in scope and military significance, according to Mohammad Akbarzadeh, deputy political director of the IRGC Navy, the state-affiliated Fars news agency reported this morning.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "NBA player Brandon Clarke dies aged 29",
+      "summary": "Memphis Grizzlies forward Clarke has died, the team, his agency and the NBA have confirmed.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham",
+      "summary": "US president lauds Islamabad, but his Republican ally says he does not trust Pakistan to facilitate Iran diplomacy.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "LIV Golf has triggered a turf war in Adelaide's park lands \u2014 here are the battlelines",
+      "summary": "The felling of hundreds of trees on the edge of the Adelaide CBD has seen a war erupt between the state government and environmentalists. Here's a look at how things have got here.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "How the Trump-Xi summit could set superpower relations for many years to come",
+      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +198,19 @@
       ]
     },
     {
-      "headline": "Lamine Yamal waves Palestine flag as Barcelona celebrate La Liga win",
-      "summary": "Tens of thousands of Barcelona fans pack streets of Spanish city during open-top bus parade after league victory.",
+      "headline": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+      "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Why have peace efforts failed to end conflict in Sudan?",
+      "summary": "The UN says the use of drones is making the conflict more dangerous.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,74 +220,8 @@
       ]
     },
     {
-      "headline": "Middle East crisis live: Trump rejects Iran\u2019s response to US peace deal; UN urges \u2018genuine ceasefire\u2019 as Israel intensifies Lebanon strikes",
-      "summary": "<p>US president said Iran\u2019s response to the US peace proposal was \u2018stupid\u2019 and that the ceasefire is \u2018unbelievable weak\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/10/iran-us-peace-proposal-pakistan-reported-drone-strikes-strain-ceasefire\">Trump calls Iran\u2019s response to peace plan \u2018totally unacceptable\u2019 as ceasefire frays</a></p></li></ul><p>Turkey\u2019s foreign minister, Hakan Fidan, will visit Qatar later today for talks on the war, its impact on the region and efforts to ensure navigational safety in the strait of Hormuz is resumed, a Turkish diplomatic source told the Reuters news agency.</p><p>Turkey, which neighbours Iran, has been in close contact with the US, Iran and mediator Pakistan since the start of the conflict. It condemnded the US and Israel for launching the war, widely seen to have been done illegally, but also criticised Iran\u2019s counter strikes on Gulf states.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "EU sanctions violent Israeli settlers after months of deadlock",
-      "summary": "The assets of violent Israeli settlers and settler organisations are being targeted in a new EU sanctions package.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Rebranding Francafrique",
-      "summary": "France is trying to rebrand itself during a summit with African heads of states in Kenya.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Palestinians mark 78 years since Nakba amid ongoing displacement",
-      "summary": "78 years of memory: Palestinians rally in Khan Yunis to mark the Nakba.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Could the latest violence in DR Congo undermine truce efforts?",
-      "summary": "Lesser-known armed groups have carried out a spate of attacks in the country&#039;s northeast.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "South Africa plans presidential impeachment probe over \u2018Farmgate\u2019 scandal",
-      "summary": "The country&#039;s parliament says its speaker will begin the process of setting up the impeachment committee.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump says he will discuss arms sales to Taiwan in meeting with China\u2019s Xi",
-      "summary": "US weapons sales to Taiwan have been longstanding source of tension with Beijing, which claims island as its territory.",
+      "headline": "Red Cross says people displaced by conflict in Colombia doubled last year",
+      "summary": "Annual report by ICRC finds worsening conditions for Colombian civilians amid continued fighting between armed groups.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-12T07:15:19.562570+10:00",
-    "date": "2026-05-12",
-    "display_date": "Tuesday 12 May 2026",
-    "display_time": "07:15 AM AEST"
+    "generated_at": "2026-05-13T07:18:33.517111+10:00",
+    "date": "2026-05-13",
+    "display_date": "Wednesday 13 May 2026",
+    "display_time": "07:18 AM AEST"
   }
 }
