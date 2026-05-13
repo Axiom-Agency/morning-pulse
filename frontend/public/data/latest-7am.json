@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7400.96,
-      "change": -11.88,
-      "change_pct": -0.16,
+      "price": 7444.25,
+      "change": 43.29,
+      "change_pct": 0.58,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26088.2,
-      "change": -185.93,
-      "change_pct": -0.71,
+      "price": 26402.34,
+      "change": 314.14,
+      "change_pct": 1.2,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49760.56,
-      "change": 56.09,
-      "change_pct": 0.11,
-      "trend_5d": "down"
+      "price": 49693.2,
+      "change": -67.36,
+      "change_pct": -0.14,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.99,
-      "change": -0.39,
-      "change_pct": -2.12,
+      "price": 17.87,
+      "change": -0.12,
+      "change_pct": -0.67,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.46,
-      "change": 0.05,
-      "change_pct": 1.13,
+      "price": 4.48,
+      "change": 0.02,
+      "change_pct": 0.45,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 62417.88,
-      "change": -295.77,
-      "change_pct": -0.47,
+      "price": 62742.57,
+      "change": 324.69,
+      "change_pct": 0.52,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26406.84,
-      "change": 13.13,
-      "change_pct": 0.05,
+      "price": 26347.91,
+      "change": -58.93,
+      "change_pct": -0.22,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7822.24,
-      "change": 324.24,
-      "change_pct": 4.32,
+      "price": 7643.15,
+      "change": -179.09,
+      "change_pct": -2.29,
       "trend_5d": "flat"
     }
   ],
@@ -79,116 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4722.6,
-      "change_pct": 0.08
+      "price": 4697.1,
+      "change_pct": 0.42
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 107.42,
-      "change_pct": 3.08
+      "price": 105.55,
+      "change_pct": -2.06
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 102.05,
-      "change_pct": 4.06
+      "price": 101.0,
+      "change_pct": -1.15
     }
   ],
   "asx200": {
-    "level": 8701.8,
-    "change_pct": -0.49
+    "level": 8670.7,
+    "change_pct": -0.36
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7244,
-      "change_pct": 0.0933
+      "current_rate": 0.7264,
+      "change_pct": 0.2419
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5951,
-      "change_pct": 0.0095
+      "current_rate": 0.594,
+      "change_pct": -0.4181
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2164,
-      "change_pct": 0.0477
+      "current_rate": 1.2216,
+      "change_pct": 0.573
     }
   ],
   "world_news": [
     {
-      "headline": "Budget 2026 live updates: Coalition pledges to repeal Chalmers\u2019 tax reforms amid mixed reception for \u2018difficult\u2019 budget",
-      "summary": "<p>Shadow treasurer Tim Wilson says his objective is to \u2018defeat\u2019 changes to capital gains and negative gearing. Follow today\u2019s news live</p><ul><li><p>See all our <a href=\"https://www.theguardian.com/australia-news/australian-budget-2026\">Australia budget 2026</a> coverage</p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018These changes are contentious\u2019 Chalmers admits</strong></p><p>You might say <strong>Bill Shorten</strong> walked so <strong>Jim Chalmers</strong> and <strong>Anthony Albanese</strong> could run. The pair unveiled major changes last night to negative gearing and capital gains tax, a feat that lost Shorten the 2016 and 2019 budget (the latter that everyone expected him to win).</p><p>These changes are contentious. There\u2019s no use pretending otherwise, but it\u2019s the right thing to do. The easiest thing that we could have done from a political point of view would be to see these challenges in the housing market, particularly for young people, and to see the issues in the tax system and to leave everything exactly as it was. And we didn\u2019t think that was an acceptable outcome.</p><p>One of the issues in the tax system is that it\u2019s become out of whack. And so that new Working Australians tax offset \u2026 It\u2019s effectively lifted the tax-free threshold for workers, but not for others. And that does give us the architecture, I think. In the future, when successive governments can afford to return more bracket creep, it\u2019s another way that we can do that.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/13/budget-2026-live-updates-reaction-jim-chalmers-tim-wilson-cost-of-living-capital-gains-negative-gearing-housing-tax-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Sinner equals Djokovic's 31-match Masters record at Italian Open",
-      "summary": "World number one Jannik Sinner extended his Masters 1000 winning streak to 31 matches, equalling Novak Djokovic's all-time record.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Middle East crisis live: US war on Iran has cost around $29bn, Pentagon says",
-      "summary": "<p>Pete Hegseth and other officials appear before House to face grilling on Iran war expenditure and military operations</p><p>Iran has expanded its definition of the strait of Hormuz into a \u201cvast operational area\u201d far wider than before the war, according to a senior officer in the Islamic Revolutionary Guard Corps (IRGC) Navy in comments likely to anger the US.</p><p>The strait is no longer viewed as a narrow stretch around a handful of islands but instead has been greatly enlarged in scope and military significance, according to Mohammad Akbarzadeh, deputy political director of the IRGC Navy, the state-affiliated Fars news agency reported this morning.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "NBA player Brandon Clarke dies aged 29",
-      "summary": "Memphis Grizzlies forward Clarke has died, the team, his agency and the NBA have confirmed.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham",
-      "summary": "US president lauds Islamabad, but his Republican ally says he does not trust Pakistan to facilitate Iran diplomacy.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "LIV Golf has triggered a turf war in Adelaide's park lands \u2014 here are the battlelines",
-      "summary": "The felling of hundreds of trees on the edge of the Adelaide CBD has seen a war erupt between the state government and environmentalists. Here's a look at how things have got here.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "How the Trump-Xi summit could set superpower relations for many years to come",
-      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
+      "headline": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
+      "summary": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +132,63 @@
       ]
     },
     {
-      "headline": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-      "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+      "headline": "Australia politics live: Albanese denies tax reforms aimed at courting votes from growing gen Z cohort",
+      "summary": "<p>Angus Taylor to give budget reply speech tonight. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning, <strong>Nick Visser </strong>here to pick up the blog. Let\u2019s get to it.</p><p><strong>PM expects productivity gains from CGT reforms</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Why Louisiana paused its US House primary election amid redistricting push",
+      "summary": "Louisiana governor suspends vote following Supreme Court ruling; critics say move sows confusion and violates law.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Crowds gather in Tehran to send off Iran\u2019s World Cup team",
+      "summary": "Huge crowds gathered in Tehran\u2019s Revolution Square to celebrate and send off Iran\u2019s national football team.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US waives visa bonds of up to $15,000 for FIFA World Cup ticket holders",
+      "summary": "Trump administration&#039;s visa bond programme had raised concerns about soaring costs for World Cup travellers to US.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Voss exit shuts door on Carlton's premiership era that never was",
+      "summary": "Michael Voss leaves Carlton having taken the club to places it has rarely been in a quarter of a century, but still adrift from where it ultimately wants to be.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Passengers allowed to leave norovirus-hit cruise ship",
+      "summary": "Passengers on the ship showing no symptoms are allowed to leave, authorities say, after 49 people fell ill from gastrointestinal sickness.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +198,19 @@
       ]
     },
     {
-      "headline": "Why have peace efforts failed to end conflict in Sudan?",
-      "summary": "The UN says the use of drones is making the conflict more dangerous.",
+      "headline": "Swans move annual Pride Game away from St Kilda after Collard case",
+      "summary": "The fallout continues from the Lance Collard AFL tribunal case, with St Kilda cut from the annual Pride Game against Sydney.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Five things you may not know about US-China ties",
+      "summary": "Al Jazeera\u2019s @avawarrinerr explains five things you may not know about the ties connecting China and the US.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +220,14 @@
       ]
     },
     {
-      "headline": "Red Cross says people displaced by conflict in Colombia doubled last year",
-      "summary": "Annual report by ICRC finds worsening conditions for Colombian civilians amid continued fighting between armed groups.",
+      "headline": "Former Australian cricketer named first foreign English selector",
+      "summary": "The appointment of its first Australian selector, its first female coach and a new-look team has made it a landmark day for England's men's cricket team as it prepares to plunge into its post-Ashes Test recovery.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "ABC Australia"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-13T07:18:33.517111+10:00",
-    "date": "2026-05-13",
-    "display_date": "Wednesday 13 May 2026",
-    "display_time": "07:18 AM AEST"
+    "generated_at": "2026-05-14T07:25:10.844994+10:00",
+    "date": "2026-05-14",
+    "display_date": "Thursday 14 May 2026",
+    "display_time": "07:25 AM AEST"
   }
 }
