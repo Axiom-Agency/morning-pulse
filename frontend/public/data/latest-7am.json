@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7444.25,
-      "change": 43.29,
-      "change_pct": 0.58,
+      "price": 7501.24,
+      "change": 56.99,
+      "change_pct": 0.77,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26402.34,
-      "change": 314.14,
-      "change_pct": 1.2,
+      "price": 26635.22,
+      "change": 232.88,
+      "change_pct": 0.88,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49693.2,
-      "change": -67.36,
-      "change_pct": -0.14,
-      "trend_5d": "flat"
+      "price": 50063.46,
+      "change": 370.26,
+      "change_pct": 0.75,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.87,
-      "change": -0.12,
-      "change_pct": -0.67,
+      "price": 17.26,
+      "change": -0.61,
+      "change_pct": -3.41,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.48,
-      "change": 0.02,
-      "change_pct": 0.45,
+      "price": 4.46,
+      "change": -0.02,
+      "change_pct": -0.45,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 62742.57,
-      "change": 324.69,
-      "change_pct": 0.52,
+      "price": 63272.11,
+      "change": 529.54,
+      "change_pct": 0.84,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26347.91,
-      "change": -58.93,
-      "change_pct": -0.22,
+      "price": 26388.44,
+      "change": 40.53,
+      "change_pct": 0.15,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7643.15,
-      "change": -179.09,
-      "change_pct": -2.29,
+      "price": 7844.01,
+      "change": 200.86,
+      "change_pct": 2.63,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4697.1,
-      "change_pct": 0.42
+      "price": 4656.0,
+      "change_pct": -0.89
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 105.55,
-      "change_pct": -2.06
+      "price": 106.58,
+      "change_pct": 0.9
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 101.0,
-      "change_pct": -1.15
+      "price": 102.04,
+      "change_pct": 1.01
     }
   ],
   "asx200": {
-    "level": 8670.7,
-    "change_pct": -0.36
+    "level": 8630.4,
+    "change_pct": -0.46
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7264,
-      "change_pct": 0.2419
+      "current_rate": 0.7224,
+      "change_pct": -0.1925
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.594,
-      "change_pct": -0.4181
+      "current_rate": 0.5915,
+      "change_pct": -0.6276
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2216,
-      "change_pct": 0.573
+      "current_rate": 1.2208,
+      "change_pct": 0.4019
     }
   ],
   "world_news": [
     {
-      "headline": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
-      "summary": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut.",
+      "headline": "Cuba tells US to lift blockade instead of offering aid as energy crisis worsens",
+      "summary": "The Communist-run island has seen rare protests over worsening power cuts due to shortages of fuel.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "Australia politics live: Albanese denies tax reforms aimed at courting votes from growing gen Z cohort",
-      "summary": "<p>Angus Taylor to give budget reply speech tonight. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning, <strong>Nick Visser </strong>here to pick up the blog. Let\u2019s get to it.</p><p><strong>PM expects productivity gains from CGT reforms</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Delta Goodrem hits the stage in Eurovision semi; Angus Taylor accused of \u2018dog whistle\u2019 budget reply",
+      "summary": "<p>Australian pop star performs song Eclipse in second semi-final before Sunday\u2019s final. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>It\u2019s worth noting the controversy around this year\u2019s Eurovision, which is likely to continue as Israel\u2019s Noam Bettan won through to the final in the first semi two days ago.</p><p>Bettan was booed by some in the crowd during his performance in Tuesday\u2019s first semi-final.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/15/australia-news-live-delta-goodrem-eurovision-budget-reply-angus-taylor-immigration-income-tax-bracket-creep-jim-chalmers-inflation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +143,8 @@
       ]
     },
     {
-      "headline": "Why Louisiana paused its US House primary election amid redistricting push",
-      "summary": "Louisiana governor suspends vote following Supreme Court ruling; critics say move sows confusion and violates law.",
+      "headline": "\u2018China is gaining from what the US is doing in Iran\u2019",
+      "summary": "Geopolitical analyst Steve Okun says says China is benefiting from the war on Iran.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +154,8 @@
       ]
     },
     {
-      "headline": "Crowds gather in Tehran to send off Iran\u2019s World Cup team",
-      "summary": "Huge crowds gathered in Tehran\u2019s Revolution Square to celebrate and send off Iran\u2019s national football team.",
+      "headline": "Border Patrol chief Mike Banks resigns in latest Trump immigration shakeup",
+      "summary": "The US Department of Homeland Security has seen several high-profile departures, including Todd Lyons and Kristi Noem.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,19 +165,19 @@
       ]
     },
     {
-      "headline": "US waives visa bonds of up to $15,000 for FIFA World Cup ticket holders",
-      "summary": "Trump administration&#039;s visa bond programme had raised concerns about soaring costs for World Cup travellers to US.",
+      "headline": "Oversight Democrats demand resignation of Trump\u2019s commerce secretary after testimony over Epstein ties \u2013 live",
+      "summary": "<p>\u2018Secretary [Howard] Lutnick spent his interview trying to cover up his lie and hide from the truth,\u2019 Robert Garcia, ranking member of the House committee, says</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email</a><br /></p></li></ul><p><strong>Donald Trump will drive through a Chinese capital that is smoggier than it was on his last visit in 2017</strong>, when the authorities launched emergency measures to clear the skies of pollution days before his first state visit to Beijing.</p><p>Factories were ordered to halt production and heavily polluting cars were banned from the roads in the days ahead of the US president\u2019s trip nearly a decade ago, an era in which China had declared war on air pollution and made special efforts to clear the skies ahead of important political events such as visiting dignitaries and the Beijing Olympics.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Voss exit shuts door on Carlton's premiership era that never was",
-      "summary": "Michael Voss leaves Carlton having taken the club to places it has rarely been in a quarter of a century, but still adrift from where it ultimately wants to be.",
+      "headline": "Giro crash hands young Aussie 'Bradbury moment' for best stage finish",
+      "summary": "Jensen Plowright never expected to be contesting for stage victories at this year's Giro d'Italia. But the withdrawal of Kaden Groves and yet another calamitous crash gave him his first chance on stage six.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,30 +187,8 @@
       ]
     },
     {
-      "headline": "Passengers allowed to leave norovirus-hit cruise ship",
-      "summary": "Passengers on the ship showing no symptoms are allowed to leave, authorities say, after 49 people fell ill from gastrointestinal sickness.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Swans move annual Pride Game away from St Kilda after Collard case",
-      "summary": "The fallout continues from the Lance Collard AFL tribunal case, with St Kilda cut from the annual Pride Game against Sydney.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Five things you may not know about US-China ties",
-      "summary": "Al Jazeera\u2019s @avawarrinerr explains five things you may not know about the ties connecting China and the US.",
+      "headline": "Cautious optimism in Lebanon as direct talks with Israel progress",
+      "summary": "Lebanese officials are hoping that two-day ambassador-level negotiations in the US will yield a new ceasefire deal.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +198,36 @@
       ]
     },
     {
-      "headline": "Former Australian cricketer named first foreign English selector",
-      "summary": "The appointment of its first Australian selector, its first female coach and a new-look team has made it a landmark day for England's men's cricket team as it prepares to plunge into its post-Ashes Test recovery.",
+      "headline": "Iran\u2019s FM urges BRICS states to condemn US-Israeli aggression",
+      "summary": "Iran\u2019s Foreign Minister, Abbas Araghchi, spoke at a gathering of foreign ministers in New Delhi on Thursday.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Palestinian President Abbas pledges elections, reform at Fatah conference",
+      "summary": "Palestinian Authority President Mahmoud Abbas has been unanimously re-elected leader of the Fatah movement.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Mbappe and Dembele head up star-studded France World Cup squad",
+      "summary": "Kylian Mbappe will spearhead France at the World Cup as national team coach Didier Deschamps announces his 26-man squad.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-14T07:25:10.844994+10:00",
-    "date": "2026-05-14",
-    "display_date": "Thursday 14 May 2026",
-    "display_time": "07:25 AM AEST"
+    "generated_at": "2026-05-15T07:08:27.242437+10:00",
+    "date": "2026-05-15",
+    "display_date": "Friday 15 May 2026",
+    "display_time": "07:08 AM AEST"
   }
 }
