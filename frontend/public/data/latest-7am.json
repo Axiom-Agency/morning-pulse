@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7501.24,
-      "change": 56.99,
-      "change_pct": 0.77,
-      "trend_5d": "up"
+      "price": 7408.5,
+      "change": -92.74,
+      "change_pct": -1.24,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26635.22,
-      "change": 232.88,
-      "change_pct": 0.88,
-      "trend_5d": "up"
+      "price": 26225.14,
+      "change": -410.08,
+      "change_pct": -1.54,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50063.46,
-      "change": 370.26,
-      "change_pct": 0.75,
-      "trend_5d": "up"
+      "price": 49526.17,
+      "change": -537.29,
+      "change_pct": -1.07,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.26,
-      "change": -0.61,
-      "change_pct": -3.41,
+      "price": 18.43,
+      "change": 1.17,
+      "change_pct": 6.78,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.46,
-      "change": -0.02,
-      "change_pct": -0.45,
+      "price": 4.59,
+      "change": 0.13,
+      "change_pct": 2.91,
       "trend_5d": "up"
     }
   ],
@@ -45,139 +45,84 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 63272.11,
-      "change": 529.54,
-      "change_pct": 0.84,
-      "trend_5d": "flat"
+      "price": 61409.29,
+      "change": -1244.76,
+      "change_pct": -1.99,
+      "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26388.44,
-      "change": 40.53,
-      "change_pct": 0.15,
-      "trend_5d": "flat"
+      "price": 25962.73,
+      "change": -426.31,
+      "change_pct": -1.62,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 4135.39,
+      "change": -42.53,
+      "change_pct": -1.02,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7844.01,
-      "change": 200.86,
-      "change_pct": 2.63,
-      "trend_5d": "flat"
+      "price": 7493.18,
+      "change": -488.23,
+      "change_pct": -6.12,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4656.0,
-      "change_pct": -0.89
+      "price": 4561.9,
+      "change_pct": -2.48
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 106.58,
-      "change_pct": 0.9
+      "price": 109.26,
+      "change_pct": 3.35
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 102.04,
-      "change_pct": 1.01
+      "price": 101.02,
+      "change_pct": -0.15
     }
   ],
   "asx200": {
-    "level": 8630.4,
-    "change_pct": -0.46
+    "level": 8630.8,
+    "change_pct": -0.11
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7224,
-      "change_pct": -0.1925
+      "current_rate": 0.7148,
+      "change_pct": -0.9195
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5915,
-      "change_pct": -0.6276
+      "current_rate": 0.5844,
+      "change_pct": -1.0046
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2208,
-      "change_pct": 0.4019
+      "current_rate": 1.2235,
+      "change_pct": 0.1146
     }
   ],
   "world_news": [
     {
-      "headline": "Cuba tells US to lift blockade instead of offering aid as energy crisis worsens",
-      "summary": "The Communist-run island has seen rare protests over worsening power cuts due to shortages of fuel.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Australia news live: Delta Goodrem hits the stage in Eurovision semi; Angus Taylor accused of \u2018dog whistle\u2019 budget reply",
-      "summary": "<p>Australian pop star performs song Eclipse in second semi-final before Sunday\u2019s final. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>It\u2019s worth noting the controversy around this year\u2019s Eurovision, which is likely to continue as Israel\u2019s Noam Bettan won through to the final in the first semi two days ago.</p><p>Bettan was booed by some in the crowd during his performance in Tuesday\u2019s first semi-final.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/15/australia-news-live-delta-goodrem-eurovision-budget-reply-angus-taylor-immigration-income-tax-bracket-creep-jim-chalmers-inflation-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "\u2018China is gaining from what the US is doing in Iran\u2019",
-      "summary": "Geopolitical analyst Steve Okun says says China is benefiting from the war on Iran.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Border Patrol chief Mike Banks resigns in latest Trump immigration shakeup",
-      "summary": "The US Department of Homeland Security has seen several high-profile departures, including Todd Lyons and Kristi Noem.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Oversight Democrats demand resignation of Trump\u2019s commerce secretary after testimony over Epstein ties \u2013 live",
-      "summary": "<p>\u2018Secretary [Howard] Lutnick spent his interview trying to cover up his lie and hide from the truth,\u2019 Robert Garcia, ranking member of the House committee, says</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email</a><br /></p></li></ul><p><strong>Donald Trump will drive through a Chinese capital that is smoggier than it was on his last visit in 2017</strong>, when the authorities launched emergency measures to clear the skies of pollution days before his first state visit to Beijing.</p><p>Factories were ordered to halt production and heavily polluting cars were banned from the roads in the days ahead of the US president\u2019s trip nearly a decade ago, an era in which China had declared war on air pollution and made special efforts to clear the skies ahead of important political events such as visiting dignitaries and the Beijing Olympics.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Giro crash hands young Aussie 'Bradbury moment' for best stage finish",
-      "summary": "Jensen Plowright never expected to be contesting for stage victories at this year's Giro d'Italia. But the withdrawal of Kaden Groves and yet another calamitous crash gave him his first chance on stage six.",
+      "headline": "Cameron Smith surges within one stroke of PGA Championship lead",
+      "summary": "Australian Cameron Smith makes a hot start to the final round at the PGA Championship, putting himself right in the mix to end his major drought.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +132,8 @@
       ]
     },
     {
-      "headline": "Cautious optimism in Lebanon as direct talks with Israel progress",
-      "summary": "Lebanese officials are hoping that two-day ambassador-level negotiations in the US will yield a new ceasefire deal.",
+      "headline": "\u2018Won\u2019t be anything left\u2019: Trump issues threat to Iran amid stalled talks",
+      "summary": "The US president has pressured Iran to concede to demands including dismantling nuclear programme and missile stocks.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +143,8 @@
       ]
     },
     {
-      "headline": "Iran\u2019s FM urges BRICS states to condemn US-Israeli aggression",
-      "summary": "Iran\u2019s Foreign Minister, Abbas Araghchi, spoke at a gathering of foreign ministers in New Delhi on Thursday.",
+      "headline": "Israel kills at least five in Lebanon after \u2018ceasefire\u2019 extended",
+      "summary": "At least five people have been killed in Israeli air attacks on several locations in southern and eastern Lebanon.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +154,8 @@
       ]
     },
     {
-      "headline": "Palestinian President Abbas pledges elections, reform at Fatah conference",
-      "summary": "Palestinian Authority President Mahmoud Abbas has been unanimously re-elected leader of the Fatah movement.",
+      "headline": "DRC struggling to contain Ebola outbreak as cases spread",
+      "summary": "The Democratic Republic of Congo has faced repeated Ebola outbreaks.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +165,69 @@
       ]
     },
     {
-      "headline": "Mbappe and Dembele head up star-studded France World Cup squad",
-      "summary": "Kylian Mbappe will spearhead France at the World Cup as national team coach Didier Deschamps announces his 26-man squad.",
+      "headline": "Will the latest Ebola outbreak in DR Congo and Uganda spread further?",
+      "summary": "The World Health Organization declares the epidemic a global health emergency.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "UAE blames Iran or its proxies for drone strike fire near nuclear plant",
+      "summary": "<p>Abu Dhabi denounces \u2018dangerous escalation\u2019 as Iran war ceasefire grows more precarious</p><p>The United Arab Emirates has blamed a fire near its nuclear power plant on a drone launched by Iran or one of its proxies in what the UAE called a \u201cdangerous escalation\u201d.</p><p>The fire was just outside the Barakah nuclear plant and caused no injuries or radiation alerts, but it came at an extremely tense moment in the sixth week of a ceasefire in the Iran war, with peace talks stalled and Donald Trump voicing impatience at the deadlock.</p> <a href=\"https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Mexican officials announce 10 dead in early-morning shooting in Tehuitzingo",
+      "summary": "Officials blamed the shooting on &#039;armed individuals&#039;, though no details were provided about attackers or their motives.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "The dilemma Wallabies and All Blacks face when players head overseas",
+      "summary": "Both Australia and New Zealand strive to protect Super Rugby Pacific as their premier domestic competition, even it if it has consequences for the Wallabies and All Blacks.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
+      "summary": "Israel bombed a kitchen that provided meals to the displaced in Gaza, killing three and injuring others.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "France\u2019s top film producer says it will blacklist figures who petitioned against rightwing billionaire",
+      "summary": "<p>Canal+ head says he will not work with hundreds of actors and directors who signed protest against Vincent Bollor\u00e9\u2019s political sway</p><p>The head of France\u2019s biggest film producer, Canal+, has said the group will no longer work with hundreds of cinema figures who signed a petition voicing concern over the growing influence of the rightwing billionaire owner Vincent Bollor\u00e9.</p><p>The open letter, published earlier this week to coincide with the opening of the Cannes film festival, <a href=\"https://www.theguardian.com/film/2026/may/12/french-film-risk-from-far-right-juliette-binoche-actors-directors\">was signed by more than 600 figures</a>, including the actor-director Juliette Binoche, the director and photographer Raymond Depardon, the French-Iranian film-maker Sepideh Farsi and the director <a href=\"https://www.theguardian.com/film/article/2024/sep/01/arthur-harari-the-goldman-case-interview-anatomy-of-a-fall-justine-triet\">Arthur Harari</a>, who co-wrote the Oscar-winning Anatomy of a Fall and is premiering his film The Unknown in the main competition in Cannes.</p> <a href=\"https://www.theguardian.com/film/2026/may/17/frances-top-film-producer-says-it-will-blacklist-figures-who-petitioned-against-rightwing-billionaire\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-15T07:08:27.242437+10:00",
-    "date": "2026-05-15",
-    "display_date": "Friday 15 May 2026",
-    "display_time": "07:08 AM AEST"
+    "generated_at": "2026-05-18T06:48:11.447447+10:00",
+    "date": "2026-05-18",
+    "display_date": "Monday 18 May 2026",
+    "display_time": "06:48 AM AEST"
   }
 }
