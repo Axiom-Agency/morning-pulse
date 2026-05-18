@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7408.5,
-      "change": -92.74,
-      "change_pct": -1.24,
+      "price": 7403.05,
+      "change": -5.45,
+      "change_pct": -0.07,
       "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26225.14,
-      "change": -410.08,
-      "change_pct": -1.54,
+      "price": 26090.73,
+      "change": -134.41,
+      "change_pct": -0.51,
       "trend_5d": "flat"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49526.17,
-      "change": -537.29,
-      "change_pct": -1.07,
-      "trend_5d": "down"
+      "price": 49686.12,
+      "change": 159.95,
+      "change_pct": 0.32,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.43,
-      "change": 1.17,
-      "change_pct": 6.78,
-      "trend_5d": "up"
+      "price": 17.82,
+      "change": -0.61,
+      "change_pct": -3.31,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.59,
-      "change": 0.13,
-      "change_pct": 2.91,
+      "price": 4.62,
+      "change": 0.03,
+      "change_pct": 0.65,
       "trend_5d": "up"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 61409.29,
       "change": -1244.76,
       "change_pct": -1.99,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 25962.73,
       "change": -426.31,
       "change_pct": -1.62,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 4135.39,
-      "change": -42.53,
-      "change_pct": -1.02,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 7493.18,
       "change": -488.23,
       "change_pct": -6.12,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4561.9,
-      "change_pct": -2.48
+      "price": 4570.8,
+      "change_pct": 0.33
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 109.26,
-      "change_pct": 3.35
+      "price": 109.28,
+      "change_pct": 0.02
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 101.02,
-      "change_pct": -0.15
+      "price": 102.49,
+      "change_pct": -2.78
     }
   ],
   "asx200": {
@@ -103,26 +103,70 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7148,
-      "change_pct": -0.9195
+      "current_rate": 0.7169,
+      "change_pct": -0.6283
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5844,
-      "change_pct": -1.0046
+      "current_rate": 0.5875,
+      "change_pct": -0.487
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2235,
-      "change_pct": 0.1146
+      "current_rate": 1.2185,
+      "change_pct": -0.2946
     }
   ],
   "world_news": [
     {
-      "headline": "Cameron Smith surges within one stroke of PGA Championship lead",
-      "summary": "Australian Cameron Smith makes a hot start to the final round at the PGA Championship, putting himself right in the mix to end his major drought.",
+      "headline": "Trump says he called off new Iran attack at request of Gulf states",
+      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "US drops fraud charges after billionaire Adani pledges $10bn investment",
+      "summary": "Adani was accused of bribing Indian officials and misleading US investors to secure a solar power plant project in India.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Will Cuba be forced to accept the US president\u2019s demands?",
+      "summary": "Cuba struggles to keep the lights on, as Washington ramps up economic pressure and military threats.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Cummins stars as Sunrisers Hyderabad book spot in IPL playoffs",
+      "summary": "Pat Cummins delivers when his team needs it most with crucial wickets as Sunrisers Hyderabad beat Chennai Super Kings.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +176,8 @@
       ]
     },
     {
-      "headline": "\u2018Won\u2019t be anything left\u2019: Trump issues threat to Iran amid stalled talks",
-      "summary": "The US president has pressured Iran to concede to demands including dismantling nuclear programme and missile stocks.",
+      "headline": "Police respond to shooting at US mosque",
+      "summary": "Police have responded to a shooting at a mosque in California, with officials saying the threat had been \u2018neutralised&#039;.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +187,8 @@
       ]
     },
     {
-      "headline": "Israel kills at least five in Lebanon after \u2018ceasefire\u2019 extended",
-      "summary": "At least five people have been killed in Israeli air attacks on several locations in southern and eastern Lebanon.",
+      "headline": "Massie race breaks spending record as pro-Israel groups target Trump critic",
+      "summary": "Pro-Israel groups and donors spend heavily in Kentucky&#039;s Republican primary to defeat US Congressman Thomas Massie.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +198,8 @@
       ]
     },
     {
-      "headline": "DRC struggling to contain Ebola outbreak as cases spread",
-      "summary": "The Democratic Republic of Congo has faced repeated Ebola outbreaks.",
+      "headline": "Trump delays \u2018scheduled attack\u2019 on Iran, crediting \u2018serious negotiations\u2019",
+      "summary": "Gulf states push Donald Trump to avoid any escalation in the US-Israel war on Iran, which prompted regional attacks.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +209,8 @@
       ]
     },
     {
-      "headline": "Will the latest Ebola outbreak in DR Congo and Uganda spread further?",
-      "summary": "The World Health Organization declares the epidemic a global health emergency.",
+      "headline": "Four reported killed, 30 injured, in Kenyan fuel price protests",
+      "summary": "Nationwide protests disrupt cities as fuel price hikes trigger unrest.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,58 +220,14 @@
       ]
     },
     {
-      "headline": "UAE blames Iran or its proxies for drone strike fire near nuclear plant",
-      "summary": "<p>Abu Dhabi denounces \u2018dangerous escalation\u2019 as Iran war ceasefire grows more precarious</p><p>The United Arab Emirates has blamed a fire near its nuclear power plant on a drone launched by Iran or one of its proxies in what the UAE called a \u201cdangerous escalation\u201d.</p><p>The fire was just outside the Barakah nuclear plant and caused no injuries or radiation alerts, but it came at an extremely tense moment in the sixth week of a ceasefire in the Iran war, with peace talks stalled and Donald Trump voicing impatience at the deadlock.</p> <a href=\"https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Mexican officials announce 10 dead in early-morning shooting in Tehuitzingo",
-      "summary": "Officials blamed the shooting on &#039;armed individuals&#039;, though no details were provided about attackers or their motives.",
+      "headline": "Heavy sandstorm hits Iraq as hospitals battle respiratory issues",
+      "summary": "A powerful dust storm has swept across Iraq, including Najaf and Baghdad.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "The dilemma Wallabies and All Blacks face when players head overseas",
-      "summary": "Both Australia and New Zealand strive to protect Super Rugby Pacific as their premier domestic competition, even it if it has consequences for the Wallabies and All Blacks.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
-      "summary": "Israel bombed a kitchen that provided meals to the displaced in Gaza, killing three and injuring others.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "France\u2019s top film producer says it will blacklist figures who petitioned against rightwing billionaire",
-      "summary": "<p>Canal+ head says he will not work with hundreds of actors and directors who signed protest against Vincent Bollor\u00e9\u2019s political sway</p><p>The head of France\u2019s biggest film producer, Canal+, has said the group will no longer work with hundreds of cinema figures who signed a petition voicing concern over the growing influence of the rightwing billionaire owner Vincent Bollor\u00e9.</p><p>The open letter, published earlier this week to coincide with the opening of the Cannes film festival, <a href=\"https://www.theguardian.com/film/2026/may/12/french-film-risk-from-far-right-juliette-binoche-actors-directors\">was signed by more than 600 figures</a>, including the actor-director Juliette Binoche, the director and photographer Raymond Depardon, the French-Iranian film-maker Sepideh Farsi and the director <a href=\"https://www.theguardian.com/film/article/2024/sep/01/arthur-harari-the-goldman-case-interview-anatomy-of-a-fall-justine-triet\">Arthur Harari</a>, who co-wrote the Oscar-winning Anatomy of a Fall and is premiering his film The Unknown in the main competition in Cannes.</p> <a href=\"https://www.theguardian.com/film/2026/may/17/frances-top-film-producer-says-it-will-blacklist-figures-who-petitioned-against-rightwing-billionaire\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-18T06:48:11.447447+10:00",
-    "date": "2026-05-18",
-    "display_date": "Monday 18 May 2026",
-    "display_time": "06:48 AM AEST"
+    "generated_at": "2026-05-19T07:10:47.731337+10:00",
+    "date": "2026-05-19",
+    "display_date": "Tuesday 19 May 2026",
+    "display_time": "07:10 AM AEST"
   }
 }
