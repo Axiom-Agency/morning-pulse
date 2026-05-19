@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7403.05,
-      "change": -5.45,
-      "change_pct": -0.07,
-      "trend_5d": "flat"
+      "price": 7353.61,
+      "change": -49.44,
+      "change_pct": -0.67,
+      "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26090.73,
-      "change": -134.41,
-      "change_pct": -0.51,
-      "trend_5d": "flat"
+      "price": 25870.71,
+      "change": -220.02,
+      "change_pct": -0.84,
+      "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49686.12,
-      "change": 159.95,
-      "change_pct": 0.32,
-      "trend_5d": "flat"
+      "price": 49363.88,
+      "change": -322.24,
+      "change_pct": -0.65,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.82,
-      "change": -0.61,
-      "change_pct": -3.31,
-      "trend_5d": "down"
+      "price": 18.06,
+      "change": 0.24,
+      "change_pct": 1.35,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.62,
-      "change": 0.03,
-      "change_pct": 0.65,
+      "price": 4.67,
+      "change": 0.05,
+      "change_pct": 1.08,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 61409.29,
-      "change": -1244.76,
-      "change_pct": -1.99,
+      "price": 60815.95,
+      "change": -593.34,
+      "change_pct": -0.97,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25962.73,
-      "change": -426.31,
-      "change_pct": -1.62,
+      "price": 25675.18,
+      "change": -287.55,
+      "change_pct": -1.11,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7493.18,
-      "change": -488.23,
-      "change_pct": -6.12,
+      "price": 7516.04,
+      "change": 22.86,
+      "change_pct": 0.31,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4570.8,
-      "change_pct": 0.33
+      "price": 4485.4,
+      "change_pct": -1.47
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 109.28,
-      "change_pct": 0.02
+      "price": 111.0,
+      "change_pct": -0.98
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 102.49,
-      "change_pct": -2.78
+      "price": 104.03,
+      "change_pct": -4.26
     }
   ],
   "asx200": {
-    "level": 8630.8,
-    "change_pct": -0.11
+    "level": 8505.3,
+    "change_pct": -1.45
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7169,
-      "change_pct": -0.6283
+      "current_rate": 0.7111,
+      "change_pct": -0.2713
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5875,
-      "change_pct": -0.487
+      "current_rate": 0.5834,
+      "change_pct": 0.0292
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2185,
-      "change_pct": -0.2946
+      "current_rate": 1.2171,
+      "change_pct": -0.4401
     }
   ],
   "world_news": [
     {
-      "headline": "Trump says he called off new Iran attack at request of Gulf states",
-      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "US drops fraud charges after billionaire Adani pledges $10bn investment",
-      "summary": "Adani was accused of bribing Indian officials and misleading US investors to secure a solar power plant project in India.",
+      "headline": "Video shows oil spill on Iranian island after refinery attack last month",
+      "summary": "The impact of an oil spill caused by an attack on Iran\u2019s Lavan refinery last month has been revealed.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +132,8 @@
       ]
     },
     {
-      "headline": "Will Cuba be forced to accept the US president\u2019s demands?",
-      "summary": "Cuba struggles to keep the lights on, as Washington ramps up economic pressure and military threats.",
+      "headline": "Arsenal\u2019s Arteta claims Premier League to step from Guardiola\u2019s shadow",
+      "summary": "Arsenal&#039;s Mikel Arteta was Pep Guardiola&#039;s assistant at Man City, but pips his former tutor to Premier League title.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,19 +143,19 @@
       ]
     },
     {
-      "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+      "headline": "Australia news live: Peter Hollingworth dies aged 91; one dead and four injured in Sydney shooting",
+      "summary": "<p>Former governor general resigned over his handling of child sexual abuse in the Anglican church. Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Wilson launches \u2018stand with small\u2019 campaign for small businesses</strong></p><p>Following <strong>Angus Taylor</strong>\u2018s proposal to index income tax brackets and remove non-citizens from receiving social welfare, <strong>Tim Wilson</strong> will announce a campaign to support small businesses called ... \u201cstand with small\u201d.</p><p>Over the past year I have been speaking with small businesses across the country, and particularly about how the rules of the economy increasingly feel rigged against them.</p><p>And I have reached a conclusion: we have an economy designed for the 20th century, and I am no longer convinced tinkering at the margins will fix it. We need new economic structures for the 21st century.\u201d</p><p>The innovators, disruptors, risk takers and builders of this country have worked this prime minister out: he\u2019s the guy in that group assignment that does none of the work, but still takes the grade.</p><p>This was a budget of narrative, over numbers. Revenue, without reform. A budget crafted by a paper tiger treasurer ... The treasurer is the inflation arsonist cosplaying as the firefighter. He says he has the habit under control, but he keeps reaching for the fiscal jerry can.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/20/federal-budget-tim-wilson-reply-national-press-club-coalition-liberal-national-angus-taylor-labor-anthony-albanese-jim-chalmers-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Cummins stars as Sunrisers Hyderabad book spot in IPL playoffs",
-      "summary": "Pat Cummins delivers when his team needs it most with crucial wickets as Sunrisers Hyderabad beat Chennai Super Kings.",
+      "headline": "Arsenal ends 22-year Premier League drought after Man City draw",
+      "summary": "Arsenal's long wait for a Premier League title comes to an end as title challengers Manchester City drop points at Bournemouth.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +165,8 @@
       ]
     },
     {
-      "headline": "Police respond to shooting at US mosque",
-      "summary": "Police have responded to a shooting at a mosque in California, with officials saying the threat had been \u2018neutralised&#039;.",
+      "headline": "Trump showcases new \u2018drone-protected\u2019 White House ballroom",
+      "summary": "US President Donald Trump has given reporters a tour around the construction site of his White House ballroom.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +176,19 @@
       ]
     },
     {
-      "headline": "Massie race breaks spending record as pro-Israel groups target Trump critic",
-      "summary": "Pro-Israel groups and donors spend heavily in Kentucky&#039;s Republican primary to defeat US Congressman Thomas Massie.",
+      "headline": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
+      "summary": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\".",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "More than 15,800 people killed in Russia\u2019s all-out war on Ukraine: UN",
+      "summary": "Nearly 800 children are among those killed in Ukraine since Russia&#039;s full-scale invasion in February 2022, the UN says.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +198,8 @@
       ]
     },
     {
-      "headline": "Trump delays \u2018scheduled attack\u2019 on Iran, crediting \u2018serious negotiations\u2019",
-      "summary": "Gulf states push Donald Trump to avoid any escalation in the US-Israel war on Iran, which prompted regional attacks.",
+      "headline": "Norway journalist calls out Modi over avoiding media questions",
+      "summary": "A Norwegian reporter asked Narendra Modi why he wouldn\u2019t speak to the media after a press conference in Oslo on Monday.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +209,8 @@
       ]
     },
     {
-      "headline": "Four reported killed, 30 injured, in Kenyan fuel price protests",
-      "summary": "Nationwide protests disrupt cities as fuel price hikes trigger unrest.",
+      "headline": "Does Ukraine have the advantage at the moment?",
+      "summary": "Kyiv takes the war deeper into Russia with a huge attack on the Moscow region.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +220,8 @@
       ]
     },
     {
-      "headline": "Heavy sandstorm hits Iraq as hospitals battle respiratory issues",
-      "summary": "A powerful dust storm has swept across Iraq, including Najaf and Baghdad.",
+      "headline": "Southampton expelled from world\u2019s most lucrative football match for spying",
+      "summary": "Southampton out of EFL championship playoff final after spying on Middlesbrough, who face Hull for Premier League place.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-19T07:10:47.731337+10:00",
-    "date": "2026-05-19",
-    "display_date": "Tuesday 19 May 2026",
-    "display_time": "07:10 AM AEST"
+    "generated_at": "2026-05-20T07:18:26.430529+10:00",
+    "date": "2026-05-20",
+    "display_date": "Wednesday 20 May 2026",
+    "display_time": "07:18 AM AEST"
   }
 }
