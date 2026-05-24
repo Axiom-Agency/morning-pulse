@@ -3,126 +3,192 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7445.72,
-      "change": 12.75,
-      "change_pct": 0.17,
+      "price": 7473.47,
+      "change": 27.75,
+      "change_pct": 0.37,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26293.1,
-      "change": 22.74,
-      "change_pct": 0.09,
+      "price": 26343.97,
+      "change": 50.87,
+      "change_pct": 0.19,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50285.66,
-      "change": 276.31,
-      "change_pct": 0.55,
+      "price": 50579.7,
+      "change": 294.04,
+      "change_pct": 0.58,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.76,
-      "change": -0.68,
-      "change_pct": -3.9,
+      "price": 16.7,
+      "change": -0.06,
+      "change_pct": -0.36,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.59,
-      "change": 0.02,
-      "change_pct": 0.44,
-      "trend_5d": "flat"
+      "price": 4.56,
+      "change": -0.03,
+      "change_pct": -0.65,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 59804.41,
-      "change": -746.18,
-      "change_pct": -1.23,
-      "trend_5d": "flat"
+      "price": 63339.07,
+      "change": 1654.93,
+      "change_pct": 2.68,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25651.12,
-      "change": -146.73,
-      "change_pct": -0.57,
-      "trend_5d": "flat"
+      "price": 25606.03,
+      "change": 219.51,
+      "change_pct": 0.86,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 4112.9,
+      "change": 35.62,
+      "change_pct": 0.87,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7208.95,
-      "change": -62.71,
-      "change_pct": -0.86,
-      "trend_5d": "flat"
+      "price": 7847.71,
+      "change": 32.12,
+      "change_pct": 0.41,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4544.2,
-      "change_pct": 0.28
+      "price": 4523.2,
+      "change_pct": -0.37
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 104.88,
-      "change_pct": -0.13
+      "price": 100.21,
+      "change_pct": -2.31
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 98.0,
-      "change_pct": -0.26
+      "price": 96.6,
+      "change_pct": 0.26
     }
   ],
   "asx200": {
-    "level": 8496.6,
-    "change_pct": -1.26
+    "level": 8657.0,
+    "change_pct": 0.41
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7157,
-      "change_pct": 0.7044
+      "current_rate": 0.7159,
+      "change_pct": 0.1456
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5881,
-      "change_pct": 0.8216
+      "current_rate": 0.5878,
+      "change_pct": -0.0112
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2154,
-      "change_pct": -0.2102
+      "current_rate": 1.2176,
+      "change_pct": 0.1291
     }
   ],
   "world_news": [
     {
-      "headline": "Berlin approves bid to host Olympics on 100th anniversary of Nazi-run Games",
-      "summary": "Berlin's state parliament approves a bid to host the Olympics in 2036, on the 100-year anniversary of the Games hosted by Adolf Hitler and the Nazis.",
+      "headline": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "\u2018Trump needs a deal, no matter how bad it is\u2019",
+      "summary": "Harlan Ullman argues that US President Donald Trump is chasing any Iran deal to relieve mounting pressure at home.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Middle East crisis live: Trump claims \u2018I don\u2019t make bad deals\u2019 as questions remain over negotiation progress",
+      "summary": "<p>US president says \u2018if I make a deal with Iran, it will be a good and proper one\u2019 as Iranian state media claims US government obstructing some clauses in agreement</p><p><strong>In Lebanon, the civil defence agency said early on Sunday its regional facility in the southern city of Nabatieh had been destroyed by an Israeli strike</strong>.</p><p>The Directorate General of Civil Defence said the building had collapsed and a large number of vehicles and equipment had been damaged by a \u201cdirect hit in a hostile Israeli strike\u201d.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Ebola spreads in the DRC as authorities struggle to contain outbreak",
+      "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo is spreading as cases been confirmed in Uganda.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Turkish riot police storm opposition offices after leaders ousted",
+      "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Israeli strikes pound Lebanon despite signs US and Iran are close to peace deal",
+      "summary": "<p>Some casualties after attacks on multiple locations in south and east of country on Sunday, state media reports</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live\">Middle East crisis: live updates</a></p></li></ul><p>Israeli strikes hit southern and eastern Lebanon on Sunday, a day after 11 people were killed in a single raid on the south despite a ceasefire in the Israel-Hezbollah war and claims that the US and Iran are about to reach a peace deal.</p><p>Saturday\u2019s strike in Sir al-Gharbiyeh \u201cresulted in a massacre whose final toll is 11 dead including a child and six women, and nine wounded including four children and a woman\u201d, Lebanon\u2019s health ministry said.</p> <a href=\"https://www.theguardian.com/world/2026/may/24/israeli-strikes-pound-lebanon\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Tottenham saves EPL status with win as West Ham goes down",
+      "summary": "Tottenham Hotspur salvages its Premier League status in the nick of time, with Joao Palhinha's first-half goal earning a priceless 1-0 home victory over Everton.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +198,8 @@
       ]
     },
     {
-      "headline": "Board of Peace envoy warns \u2018permanent\u2019 Gaza divide under current status quo",
-      "summary": "UN Security Council urged to press for Israeli obligations and Hamas disarmament under Gaza &#039;ceasefire&#039; roadmap.",
+      "headline": "How will Iran war fallout impact upcoming US elections?",
+      "summary": "Trump purges Republican critics, but are the prospects for his party in upcoming elections heading up or down?",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +209,8 @@
       ]
     },
     {
-      "headline": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
-      "summary": "Portugal forward Cristiano Ronaldo leads Al-Nassr to Saudi Pro League title in last game before World Cup 2026.",
+      "headline": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
+      "summary": "Israel&#039;s attacks in southern Lebanon are expanding despite supposed ceasefire.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,80 +220,14 @@
       ]
     },
     {
-      "headline": "Ebola treatment hospital burned down in DRC as outbreak spreads",
-      "summary": "Protesters set a hospital on fire in the Democratic of Congo, as authorities struggle to contain an Ebola outbreak.",
+      "headline": "Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages",
+      "summary": "<p>World Health Organization says outbreak poses \u2018very high\u2019 risk for Congo, but risk of disease spreading globally remains low</p><p>Congolese authorities say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country.</p><p>The Congolese ministry of communication, in a post on X on Sunday, said there were 904 suspected cases and 119 suspected deaths.</p> <a href=\"https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "NYC launches lottery for $50 World Cup football tickets",
-      "summary": "New York City is launching a lottery for 1,000 discounted World Cup tickets priced at $50.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Danes try to tow dead whale from island beach after failed German rescue",
-      "summary": "An environmental team want to move the whale from Anholt to the Danish mainland, but they have had to pause the operation.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
-      "summary": "Activists from the Global Sumud Flotilla arrived in Istanbul on Thursday and described Israeli violence.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-      "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "US sanctions elected Hezbollah MPs and Lebanese security officials",
-      "summary": "Hezbollah says the sanctions will have &#039;absolutely no effect&#039; on its strategy amid ongoing Israeli attacks on Lebanon.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Fans create AI-generated team songs ahead of World Cup",
-      "summary": "Fan-made football anthems are raking in millions of plays on social media, rivalling FIFA commissions from musicians.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-22T07:26:40.001770+10:00",
-    "date": "2026-05-22",
-    "display_date": "Friday 22 May 2026",
-    "display_time": "07:26 AM AEST"
+    "generated_at": "2026-05-25T06:53:42.736580+10:00",
+    "date": "2026-05-25",
+    "display_date": "Monday 25 May 2026",
+    "display_time": "06:53 AM AEST"
   }
 }
