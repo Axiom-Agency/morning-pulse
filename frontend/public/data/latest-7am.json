@@ -27,9 +27,9 @@
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.7,
-      "change": -0.06,
-      "change_pct": -0.36,
+      "price": 16.59,
+      "change": -0.11,
+      "change_pct": -0.66,
       "trend_5d": "down"
     },
     {
@@ -38,7 +38,7 @@
       "price": 4.56,
       "change": -0.03,
       "change_pct": -0.65,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "asia_markets": [
@@ -48,7 +48,7 @@
       "price": 63339.07,
       "change": 1654.93,
       "change_pct": 2.68,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -61,10 +61,10 @@
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 4112.9,
-      "change": 35.62,
-      "change_pct": 0.87,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -80,19 +80,19 @@
       "ticker": "GC=F",
       "name": "Gold",
       "price": 4523.2,
-      "change_pct": -0.37
+      "change_pct": 0.05
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
       "price": 100.21,
-      "change_pct": -2.31
+      "change_pct": -3.22
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
       "price": 96.6,
-      "change_pct": 0.26
+      "change_pct": 0.0
     }
   ],
   "asx200": {
@@ -103,48 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7159,
-      "change_pct": 0.1456
+      "current_rate": 0.7175,
+      "change_pct": 0.3683
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5878,
-      "change_pct": -0.0112
+      "current_rate": 0.5874,
+      "change_pct": -0.0758
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2176,
-      "change_pct": 0.1291
+      "current_rate": 1.2208,
+      "change_pct": 0.3939
     }
   ],
   "world_news": [
     {
-      "headline": "Trump tells US negotiators 'not to rush' into deal with Iran",
-      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "\u2018Trump needs a deal, no matter how bad it is\u2019",
-      "summary": "Harlan Ullman argues that US President Donald Trump is chasing any Iran deal to relieve mounting pressure at home.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Middle East crisis live: Trump claims \u2018I don\u2019t make bad deals\u2019 as questions remain over negotiation progress",
-      "summary": "<p>US president says \u2018if I make a deal with Iran, it will be a good and proper one\u2019 as Iranian state media claims US government obstructing some clauses in agreement</p><p><strong>In Lebanon, the civil defence agency said early on Sunday its regional facility in the southern city of Nabatieh had been destroyed by an Israeli strike</strong>.</p><p>The Directorate General of Civil Defence said the building had collapsed and a large number of vehicles and equipment had been damaged by a \u201cdirect hit in a hostile Israeli strike\u201d.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live\">Continue reading...</a>",
+      "headline": "Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal",
+      "summary": "<p>Writing on social media, US president says countries should make settlement with Iran \u2018a far more Historic Event\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz\">Iran denies deal with US is imminent, despite some progress</a></p></li></ul><p>Ebrahim Rezaei, the spokesperson of the Iranian parliament\u2019s national security and foreign policy commission, has said that time is working against the US and warned that Iran does not respond well to threats.</p><p><a href=\"https://x.com/EbrahimRezaei14/status/2058789365589938281\">In a post on X</a>, he wrote:</p><p><em>During the military war, our tactic was an eye for an eye; in the diplomatic war, it is action against action. Do not believe the bluff of the failed president; time is against the Americans. </em></p><p><em>If they want an agreement, they should negotiate; if they want $6 gas, they should stand firm and bluff until the grass grows under their feet. Iran does not bow to force or threats.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,30 +132,8 @@
       ]
     },
     {
-      "headline": "Ebola spreads in the DRC as authorities struggle to contain outbreak",
-      "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo is spreading as cases been confirmed in Uganda.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Turkish riot police storm opposition offices after leaders ousted",
-      "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Israeli strikes pound Lebanon despite signs US and Iran are close to peace deal",
-      "summary": "<p>Some casualties after attacks on multiple locations in south and east of country on Sunday, state media reports</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live\">Middle East crisis: live updates</a></p></li></ul><p>Israeli strikes hit southern and eastern Lebanon on Sunday, a day after 11 people were killed in a single raid on the south despite a ceasefire in the Israel-Hezbollah war and claims that the US and Iran are about to reach a peace deal.</p><p>Saturday\u2019s strike in Sir al-Gharbiyeh \u201cresulted in a massacre whose final toll is 11 dead including a child and six women, and nine wounded including four children and a woman\u201d, Lebanon\u2019s health ministry said.</p> <a href=\"https://www.theguardian.com/world/2026/may/24/israeli-strikes-pound-lebanon\">Continue reading...</a>",
+      "headline": "Australia politics live: renewables and batteries soar but \u2018critical\u2019 moment coming; WiseTech staff face AI redundancy",
+      "summary": "<p>Australia now the world\u2019s third-biggest nation for utility-scale batteries behind China and the US.  Follow today\u2019s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>WiseTech\u2019s founder and chair, <strong>Richard White </strong>wrote to staff late on Sunday evening to allege there had been \u201cpersonal attacks, vitriol, and deeply offensive behaviour in group chats\u201d regarding the restructure of the software company due to AI.</p><p>The company did not provide any examples of this when asked on Monday.</p><p>We recognise that a process of this scale, nature and complexity creates uncertainty for our people. We\u2019ve taken a careful, deliberate approach to ensure our decisions are well informed and made with full regard to our business and our people.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/26/australia-politics-live-renewables-climate-bhp-files-budget-capital-gains-tax-jim-chalmers-anthony-albanese-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +143,30 @@
       ]
     },
     {
-      "headline": "Tottenham saves EPL status with win as West Ham goes down",
-      "summary": "Tottenham Hotspur salvages its Premier League status in the nick of time, with Joao Palhinha's first-half goal earning a priceless 1-0 home victory over Everton.",
+      "headline": "Israel to intensify Lebanon offensive in bid to \u2018crush\u2019 Hezbollah",
+      "summary": "PM Netanyahu said Israel will &#039;intensify&#039; strikes, while the Israeli military said it was attacking the armed group.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Kokkinakis wins French Open five-set thriller on mixed day for Aussies",
+      "summary": "Thanasi Kokkinakis has roared back from the brink of defeat after four-and-a-quarter hours in sweltering Paris heat to launch another trademark five-set comeback at the French Open.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +176,8 @@
       ]
     },
     {
-      "headline": "How will Iran war fallout impact upcoming US elections?",
-      "summary": "Trump purges Republican critics, but are the prospects for his party in upcoming elections heading up or down?",
+      "headline": "Bolivia\u2019s president cuts salary in half amid protests",
+      "summary": "Bolivian President Rodrigo Paz says he and his cabinet ministers will cut their salaries by 50 percent.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +187,8 @@
       ]
     },
     {
-      "headline": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
-      "summary": "Israel&#039;s attacks in southern Lebanon are expanding despite supposed ceasefire.",
+      "headline": "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
+      "summary": "US President Donald Trump marked Memorial Day at Arlington National Cemetery, paying tribute to US troops killed.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +198,36 @@
       ]
     },
     {
-      "headline": "Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages",
-      "summary": "<p>World Health Organization says outbreak poses \u2018very high\u2019 risk for Congo, but risk of disease spreading globally remains low</p><p>Congolese authorities say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country.</p><p>The Congolese ministry of communication, in a post on X on Sunday, said there were 904 suspected cases and 119 suspected deaths.</p> <a href=\"https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks\">Continue reading...</a>",
+      "headline": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
+      "summary": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Ex-Scottish National Party chief pleads guilty to embezzling funds",
+      "summary": "Peter Murrell admitted the offences at the High Court in Edinburgh after an investigation into the party&#039;s finances.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump dangles normalisation amid pro-Israel criticism of possible Iran deal",
+      "summary": "US president says he is &#039;mandatorily requesting&#039; that regional countries establish formal relations with Israel.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-25T06:53:42.736580+10:00",
-    "date": "2026-05-25",
-    "display_date": "Monday 25 May 2026",
-    "display_time": "06:53 AM AEST"
+    "generated_at": "2026-05-26T07:04:43.638862+10:00",
+    "date": "2026-05-26",
+    "display_date": "Tuesday 26 May 2026",
+    "display_time": "07:04 AM AEST"
   }
 }
