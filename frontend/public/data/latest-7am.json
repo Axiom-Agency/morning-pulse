@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7473.47,
-      "change": 27.75,
-      "change_pct": 0.37,
+      "price": 7519.12,
+      "change": 45.65,
+      "change_pct": 0.61,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26343.97,
-      "change": 50.87,
-      "change_pct": 0.19,
+      "price": 26656.18,
+      "change": 312.21,
+      "change_pct": 1.19,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50579.7,
-      "change": 294.04,
-      "change_pct": 0.58,
+      "price": 50461.68,
+      "change": -118.02,
+      "change_pct": -0.23,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.59,
-      "change": -0.11,
-      "change_pct": -0.66,
+      "price": 17.01,
+      "change": 0.42,
+      "change_pct": 2.53,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.56,
-      "change": -0.03,
-      "change_pct": -0.65,
+      "price": 4.49,
+      "change": -0.07,
+      "change_pct": -1.54,
       "trend_5d": "flat"
     }
   ],
@@ -45,9 +45,9 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 63339.07,
-      "change": 1654.93,
-      "change_pct": 2.68,
+      "price": 65158.19,
+      "change": 1819.12,
+      "change_pct": 2.87,
       "trend_5d": "flat"
     },
     {
@@ -56,7 +56,7 @@
       "price": 25606.03,
       "change": 219.51,
       "change_pct": 0.86,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
@@ -72,57 +72,57 @@
       "price": 7847.71,
       "change": 32.12,
       "change_pct": 0.41,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4523.2,
-      "change_pct": 0.05
+      "price": 4507.3,
+      "change_pct": -0.3
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 100.21,
-      "change_pct": -3.22
+      "price": 96.59,
+      "change_pct": -6.71
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 96.6,
-      "change_pct": 0.0
+      "price": 93.57,
+      "change_pct": -3.14
     }
   ],
   "asx200": {
-    "level": 8657.0,
-    "change_pct": 0.41
+    "level": 8692.0,
+    "change_pct": 0.4
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7175,
-      "change_pct": 0.3683
+      "current_rate": 0.7171,
+      "change_pct": 0.186
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5874,
-      "change_pct": -0.0758
+      "current_rate": 0.5839,
+      "change_pct": -0.5835
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2208,
-      "change_pct": 0.3939
+      "current_rate": 1.2276,
+      "change_pct": 0.741
     }
   ],
   "world_news": [
     {
-      "headline": "Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal",
-      "summary": "<p>Writing on social media, US president says countries should make settlement with Iran \u2018a far more Historic Event\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz\">Iran denies deal with US is imminent, despite some progress</a></p></li></ul><p>Ebrahim Rezaei, the spokesperson of the Iranian parliament\u2019s national security and foreign policy commission, has said that time is working against the US and warned that Iran does not respond well to threats.</p><p><a href=\"https://x.com/EbrahimRezaei14/status/2058789365589938281\">In a post on X</a>, he wrote:</p><p><em>During the military war, our tactic was an eye for an eye; in the diplomatic war, it is action against action. Do not believe the bluff of the failed president; time is against the Americans. </em></p><p><em>If they want an agreement, they should negotiate; if they want $6 gas, they should stand firm and bluff until the grass grows under their feet. Iran does not bow to force or threats.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz\">Continue reading...</a>",
+      "headline": "Australia politics live: Quad countries ink deal to build surveillance network and Fiji port to counter China",
+      "summary": "<p>Australia\u2019s foreign affairs minister Penny Wong met with US secretary of state Marco Rubio in New Delhi meeting. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Are we safer with them here?\u2019 Minister grilled on return of Syrian women and children</strong></p><p>Housing minister <strong>Clare O\u2019Neil</strong> is being grilled on the security arrangements surrounding the women and children who returned from a Syrian detention camp to Australia last night.</p><p>We are working with national security agencies on this. This is a difficult issue and a long running issue for the country. We are lucky to have some of the best national security agencies in the world supporting us here in Australia, and they will be monitoring this situation extremely closely.</p><p>And we do trust them to support the country to be safe.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/27/australia-politics-live-quad-wong-jobseeker-capital-gains-tax-budget-anthony-albanese-angus-taylor-labor-coalition-one-nation-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,41 +132,8 @@
       ]
     },
     {
-      "headline": "Australia politics live: renewables and batteries soar but \u2018critical\u2019 moment coming; WiseTech staff face AI redundancy",
-      "summary": "<p>Australia now the world\u2019s third-biggest nation for utility-scale batteries behind China and the US.  Follow today\u2019s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>WiseTech\u2019s founder and chair, <strong>Richard White </strong>wrote to staff late on Sunday evening to allege there had been \u201cpersonal attacks, vitriol, and deeply offensive behaviour in group chats\u201d regarding the restructure of the software company due to AI.</p><p>The company did not provide any examples of this when asked on Monday.</p><p>We recognise that a process of this scale, nature and complexity creates uncertainty for our people. We\u2019ve taken a careful, deliberate approach to ensure our decisions are well informed and made with full regard to our business and our people.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/26/australia-politics-live-renewables-climate-bhp-files-budget-capital-gains-tax-jim-chalmers-anthony-albanese-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Israel to intensify Lebanon offensive in bid to \u2018crush\u2019 Hezbollah",
-      "summary": "PM Netanyahu said Israel will &#039;intensify&#039; strikes, while the Israeli military said it was attacking the armed group.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Kokkinakis wins French Open five-set thriller on mixed day for Aussies",
-      "summary": "Thanasi Kokkinakis has roared back from the brink of defeat after four-and-a-quarter hours in sweltering Paris heat to launch another trademark five-set comeback at the French Open.",
+      "headline": "Brad Scott reveals he wanted Essendon to trade Zach Merrett, confirms bumper Harley Reid offer",
+      "summary": "The ousted Essendon coach reveals he was against the decision to keep Zach Merrett at the club despite a late trade offer from Hawthorn.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +143,30 @@
       ]
     },
     {
-      "headline": "Bolivia\u2019s president cuts salary in half amid protests",
-      "summary": "Bolivian President Rodrigo Paz says he and his cabinet ministers will cut their salaries by 50 percent.",
+      "headline": "Australian underdog stuns former world number one at French Open",
+      "summary": "Queenslander Adam Walton makes it through the heat and five-set grind to down former world number one Daniil Medvedev at the French Open.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "'Can't put it into words': Origin star's mum reveals heartbreaking call",
+      "summary": "Cameron Munster's mum reveals the heartbreaking call she had to make before her superstar son led Queensland to victory days after the shock death of his dad.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Four people killed after minibus collides with train in Belgium",
+      "summary": "The minibus, carrying nine people, drove through closed crossing barriers during the morning rush hour.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +176,8 @@
       ]
     },
     {
-      "headline": "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
-      "summary": "US President Donald Trump marked Memorial Day at Arlington National Cemetery, paying tribute to US troops killed.",
+      "headline": "Climber carries kite with Palestinian children\u2019s dreams to Everest summit",
+      "summary": "Climber carries kite with Palestinian children\u2019s dreams to Everest summit",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +187,30 @@
       ]
     },
     {
-      "headline": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
-      "summary": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
+      "headline": "Seven heat-related deaths in France as May records set in several countries",
+      "summary": "<p>Extreme early summer event across western Europe also brings highest temperatures for month in UK and Ireland</p><p>Seven people have died in France in an extreme early summer heat event affecting a swathe of western Europe, with record high temperatures for May recorded for a second day in several countries.</p><p>In France, which logged its hottest ever May day on Monday and again on Tuesday, the weather agency M\u00e9t\u00e9o France said the heatwave could last through the week and predicted temperatures could reach 39C in some areas.</p> <a href=\"https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Ex-Scottish National Party chief pleads guilty to embezzling funds",
-      "summary": "Peter Murrell admitted the offences at the High Court in Edinburgh after an investigation into the party&#039;s finances.",
+      "headline": "Middle East crisis: Iran\u2019s foreign ministry says US broke ceasefire with overnight strikes \u2013 as it happened",
+      "summary": "<p>This live blog is now closed. For the latest, read our full report:</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/26/iran-peace-deal-talks-us-bombing-ceasefire-strait-hormuz\">Iran remains in peace talks despite first US strikes since ceasefire</a></p></li></ul><p>Iranian supreme leader <strong>Mojtaba Khamenei</strong> said on his Telegram channel that Gulf powers will no longer be a shield for US bases and the US will no longer have a safe haven in the region, as <strong>Tehran</strong> and <strong>Washington</strong> discuss a framework to end their three-month-old war, Reuters reports.</p><p>The post follows overnight attacks on Iran by the US, testing the ceasefire agreed in April. The strikes came as Iran\u2019s top negotiator and its foreign minister were in Qatar for talks with Qatar\u2019s prime minister over the potential deal to end the war.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "US picks potential partners for using Cold War-era plutonium as fuel",
+      "summary": "Trump gov&#039;t plans to make about 20 tonnes of plutonium from dismantled nuclear warheads available to US power firms.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +220,8 @@
       ]
     },
     {
-      "headline": "Trump dangles normalisation amid pro-Israel criticism of possible Iran deal",
-      "summary": "US president says he is &#039;mandatorily requesting&#039; that regional countries establish formal relations with Israel.",
+      "headline": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
+      "summary": "State lawmakers reject a new map in South Carolina as judges strike down newly drawn US House districts one in Alabama.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-26T07:04:43.638862+10:00",
-    "date": "2026-05-26",
-    "display_date": "Tuesday 26 May 2026",
-    "display_time": "07:04 AM AEST"
+    "generated_at": "2026-05-27T07:43:16.288065+10:00",
+    "date": "2026-05-27",
+    "display_date": "Wednesday 27 May 2026",
+    "display_time": "07:43 AM AEST"
   }
 }
