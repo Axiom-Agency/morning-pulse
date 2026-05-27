@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7519.12,
-      "change": 45.65,
-      "change_pct": 0.61,
+      "price": 7520.36,
+      "change": 1.24,
+      "change_pct": 0.02,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26656.18,
-      "change": 312.21,
-      "change_pct": 1.19,
+      "price": 26674.73,
+      "change": 18.55,
+      "change_pct": 0.07,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50461.68,
-      "change": -118.02,
-      "change_pct": -0.23,
+      "price": 50644.28,
+      "change": 182.6,
+      "change_pct": 0.36,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.01,
-      "change": 0.42,
-      "change_pct": 2.53,
+      "price": 16.29,
+      "change": -0.72,
+      "change_pct": -4.23,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.49,
-      "change": -0.07,
-      "change_pct": -1.54,
+      "price": 4.48,
+      "change": -0.01,
+      "change_pct": -0.22,
       "trend_5d": "flat"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 65158.19,
-      "change": 1819.12,
-      "change_pct": 2.87,
+      "price": 64996.09,
+      "change": -162.1,
+      "change_pct": -0.25,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25606.03,
-      "change": 219.51,
-      "change_pct": 0.86,
+      "price": 25599.45,
+      "change": -6.58,
+      "change_pct": -0.03,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7847.71,
-      "change": 32.12,
-      "change_pct": 0.41,
+      "price": 8047.51,
+      "change": 199.8,
+      "change_pct": 2.55,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4507.3,
-      "change_pct": -0.3
+      "price": 4488.5,
+      "change_pct": -0.26
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 96.59,
-      "change_pct": -6.71
+      "price": 92.86,
+      "change_pct": -6.75
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 93.57,
-      "change_pct": -3.14
+      "price": 89.41,
+      "change_pct": -4.77
     }
   ],
   "asx200": {
-    "level": 8692.0,
-    "change_pct": 0.4
+    "level": 8657.8,
+    "change_pct": -0.39
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7171,
-      "change_pct": 0.186
+      "current_rate": 0.7142,
+      "change_pct": -0.3898
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5839,
-      "change_pct": -0.5835
+      "current_rate": 0.5901,
+      "change_pct": 0.671
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2276,
-      "change_pct": 0.741
+      "current_rate": 1.2093,
+      "change_pct": -1.1087
     }
   ],
   "world_news": [
     {
-      "headline": "Australia politics live: Quad countries ink deal to build surveillance network and Fiji port to counter China",
-      "summary": "<p>Australia\u2019s foreign affairs minister Penny Wong met with US secretary of state Marco Rubio in New Delhi meeting. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Are we safer with them here?\u2019 Minister grilled on return of Syrian women and children</strong></p><p>Housing minister <strong>Clare O\u2019Neil</strong> is being grilled on the security arrangements surrounding the women and children who returned from a Syrian detention camp to Australia last night.</p><p>We are working with national security agencies on this. This is a difficult issue and a long running issue for the country. We are lucky to have some of the best national security agencies in the world supporting us here in Australia, and they will be monitoring this situation extremely closely.</p><p>And we do trust them to support the country to be safe.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/27/australia-politics-live-quad-wong-jobseeker-capital-gains-tax-budget-anthony-albanese-angus-taylor-labor-coalition-one-nation-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia politics live: Rishworth says jobseeker changes to address \u2018varying quality\u2019 of for-profit job providers",
+      "summary": "<p>Social services minister \u2018concerned\u2019 by some providers meant to help welfare recipients find work</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Government considers automatic reimbursement for scams under $3,000</strong></p><p>Scams come in all shapes and sizes (and none of them are nice), and the government is considering creating rules that would force banks, telcos and digital platforms to automatically reimburse victims of smaller scams of up to $3,000.</p><p>For smaller losses, $3,000 and under, what we\u2019re proposing is that there should be automatic payment to consumers where they can verify that there has been a scam.</p><p>Scams that get into the six figures: some investment scams, some romance scams. And that\u2019s where dispute resolution processes would come into play.</p><p>What we want to do is to make sure that we don\u2019t have the wrong incentives for perpetrators to see Australia as a soft target. But <strong>the balance is that with very small claims we don\u2019t want to have processes that are completely disproportionate to the value of the sum in dispute.</strong></p><p>Taxpayer funds should never be used for private business, nor were they in this case.</p><p>When we\u2019re undertaking whether it be community engagement, media engagement, stakeholder meetings, you know, assisting colleagues, there are arrangements in place to assist us to do that work that is right and appropriate, and it is not right and appropriate to bill the taxpayer, as you say, for personal activities. And I did not do that.</p><p>Yep.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "Brad Scott reveals he wanted Essendon to trade Zach Merrett, confirms bumper Harley Reid offer",
-      "summary": "The ousted Essendon coach reveals he was against the decision to keep Zach Merrett at the club despite a late trade offer from Hawthorn.",
+      "headline": "Slater refuses to guarantee Walsh recall despite Maroons' collapse",
+      "summary": "Queensland's coach bats away questions about the notable absence of Brisbane's star fullback after seeing his side cough up a 20-point lead.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,30 +143,8 @@
       ]
     },
     {
-      "headline": "Australian underdog stuns former world number one at French Open",
-      "summary": "Queenslander Adam Walton makes it through the heat and five-set grind to down former world number one Daniil Medvedev at the French Open.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "'Can't put it into words': Origin star's mum reveals heartbreaking call",
-      "summary": "Cameron Munster's mum reveals the heartbreaking call she had to make before her superstar son led Queensland to victory days after the shock death of his dad.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Four people killed after minibus collides with train in Belgium",
-      "summary": "The minibus, carrying nine people, drove through closed crossing barriers during the morning rush hour.",
+      "headline": "Markets rally amid hopes of US-Iran deal",
+      "summary": "Markets betting a deal will reopen the Strait of Hormuz and soothe the deep global economic uncertainty.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +154,8 @@
       ]
     },
     {
-      "headline": "Climber carries kite with Palestinian children\u2019s dreams to Everest summit",
-      "summary": "Climber carries kite with Palestinian children\u2019s dreams to Everest summit",
+      "headline": "Former assistant to TV star Matthew Perry sentenced to 41 months in prison",
+      "summary": "Sentencing of Kenneth Iwamasa concludes prosecution of five people in connection with Perry&#039;s death from drug ketamine.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,30 +165,8 @@
       ]
     },
     {
-      "headline": "Seven heat-related deaths in France as May records set in several countries",
-      "summary": "<p>Extreme early summer event across western Europe also brings highest temperatures for month in UK and Ireland</p><p>Seven people have died in France in an extreme early summer heat event affecting a swathe of western Europe, with record high temperatures for May recorded for a second day in several countries.</p><p>In France, which logged its hottest ever May day on Monday and again on Tuesday, the weather agency M\u00e9t\u00e9o France said the heatwave could last through the week and predicted temperatures could reach 39C in some areas.</p> <a href=\"https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Middle East crisis: Iran\u2019s foreign ministry says US broke ceasefire with overnight strikes \u2013 as it happened",
-      "summary": "<p>This live blog is now closed. For the latest, read our full report:</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/26/iran-peace-deal-talks-us-bombing-ceasefire-strait-hormuz\">Iran remains in peace talks despite first US strikes since ceasefire</a></p></li></ul><p>Iranian supreme leader <strong>Mojtaba Khamenei</strong> said on his Telegram channel that Gulf powers will no longer be a shield for US bases and the US will no longer have a safe haven in the region, as <strong>Tehran</strong> and <strong>Washington</strong> discuss a framework to end their three-month-old war, Reuters reports.</p><p>The post follows overnight attacks on Iran by the US, testing the ceasefire agreed in April. The strikes came as Iran\u2019s top negotiator and its foreign minister were in Qatar for talks with Qatar\u2019s prime minister over the potential deal to end the war.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "US picks potential partners for using Cold War-era plutonium as fuel",
-      "summary": "Trump gov&#039;t plans to make about 20 tonnes of plutonium from dismantled nuclear warheads available to US power firms.",
+      "headline": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
+      "summary": "Intensification comes while US-Iran indirect talks continue.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +176,58 @@
       ]
     },
     {
-      "headline": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
-      "summary": "State lawmakers reject a new map in South Carolina as judges strike down newly drawn US House districts one in Alabama.",
+      "headline": "Trump says no one will control Strait of Hormuz",
+      "summary": "Donald Trump says he won\u2019t allow Iran to control \u2060the Strait of \u2060Hormuz under the terms of any deal reached with Tehran.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Ghana welcomes first group fleeing South African anti-immigration protests",
+      "summary": "The repatriation came following a wave of anti-immigration protests in recent weeks.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Alabama pushes US Supreme Court to approve congressional map for midterms",
+      "summary": "Republicans have revived a push to implement a congressional map that was rejected in 2023 for racial discrimination.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump appears to threaten Oman over Strait of Hormuz impasse",
+      "summary": "The US president warns that Oman, a US ally, &#039;will behave just like everybody else, or we will have to blow them up&#039;.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israel issues evacuation order for swathes of southern Lebanon",
+      "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-27T07:43:16.288065+10:00",
-    "date": "2026-05-27",
-    "display_date": "Wednesday 27 May 2026",
-    "display_time": "07:43 AM AEST"
+    "generated_at": "2026-05-28T07:52:37.993391+10:00",
+    "date": "2026-05-28",
+    "display_date": "Thursday 28 May 2026",
+    "display_time": "07:52 AM AEST"
   }
 }
