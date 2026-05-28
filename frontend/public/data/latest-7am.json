@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7520.36,
-      "change": 1.24,
-      "change_pct": 0.02,
+      "price": 7563.63,
+      "change": 43.27,
+      "change_pct": 0.58,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26674.73,
-      "change": 18.55,
-      "change_pct": 0.07,
+      "price": 26917.47,
+      "change": 242.74,
+      "change_pct": 0.91,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50644.28,
-      "change": 182.6,
-      "change_pct": 0.36,
+      "price": 50668.97,
+      "change": 24.69,
+      "change_pct": 0.05,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.29,
-      "change": -0.72,
-      "change_pct": -4.23,
+      "price": 15.74,
+      "change": -0.55,
+      "change_pct": -3.38,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.48,
-      "change": -0.01,
-      "change_pct": -0.22,
+      "price": 4.45,
+      "change": -0.03,
+      "change_pct": -0.67,
       "trend_5d": "flat"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64996.09,
-      "change": -162.1,
-      "change_pct": -0.25,
+      "price": 64999.41,
+      "change": 3.32,
+      "change_pct": 0.01,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25599.45,
-      "change": -6.58,
-      "change_pct": -0.03,
+      "price": 25328.23,
+      "change": -271.22,
+      "change_pct": -1.06,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8047.51,
-      "change": 199.8,
-      "change_pct": 2.55,
+      "price": 8228.7,
+      "change": 181.19,
+      "change_pct": 2.25,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,61 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4488.5,
-      "change_pct": -0.26
+      "price": 4527.3,
+      "change_pct": 1.79
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 92.86,
-      "change_pct": -6.75
+      "price": 92.48,
+      "change_pct": -1.92
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 89.41,
-      "change_pct": -4.77
+      "price": 88.53,
+      "change_pct": -0.17
     }
   ],
   "asx200": {
-    "level": 8657.8,
-    "change_pct": -0.39
+    "level": 8717.7,
+    "change_pct": 0.69
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7142,
-      "change_pct": -0.3898
+      "current_rate": 0.7165,
+      "change_pct": -0.0756
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5901,
-      "change_pct": 0.671
+      "current_rate": 0.5932,
+      "change_pct": 1.5365
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2093,
-      "change_pct": -1.1087
+      "current_rate": 1.2071,
+      "change_pct": -1.6547
     }
   ],
   "world_news": [
     {
-      "headline": "Australia politics live: Rishworth says jobseeker changes to address \u2018varying quality\u2019 of for-profit job providers",
-      "summary": "<p>Social services minister \u2018concerned\u2019 by some providers meant to help welfare recipients find work</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Government considers automatic reimbursement for scams under $3,000</strong></p><p>Scams come in all shapes and sizes (and none of them are nice), and the government is considering creating rules that would force banks, telcos and digital platforms to automatically reimburse victims of smaller scams of up to $3,000.</p><p>For smaller losses, $3,000 and under, what we\u2019re proposing is that there should be automatic payment to consumers where they can verify that there has been a scam.</p><p>Scams that get into the six figures: some investment scams, some romance scams. And that\u2019s where dispute resolution processes would come into play.</p><p>What we want to do is to make sure that we don\u2019t have the wrong incentives for perpetrators to see Australia as a soft target. But <strong>the balance is that with very small claims we don\u2019t want to have processes that are completely disproportionate to the value of the sum in dispute.</strong></p><p>Taxpayer funds should never be used for private business, nor were they in this case.</p><p>When we\u2019re undertaking whether it be community engagement, media engagement, stakeholder meetings, you know, assisting colleagues, there are arrangements in place to assist us to do that work that is right and appropriate, and it is not right and appropriate to bill the taxpayer, as you say, for personal activities. And I did not do that.</p><p>Yep.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
+      "headline": "Guatemala denies agreeing to US strikes against drug traffickers",
+      "summary": "President Bernardo Arevalo&#039;s government says it requested security cooperation but did not approve US attacks.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Australia news live: Asio warns politicians that internet-connected cars could be bugged; flood warnings after wild weather",
+      "summary": "<p>Spy agency says politicians and public servants \u2018should be conscious of the things that they are discussing\u2019 in internet-connected cars. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Attorney general says Nacc could use a \u2018reset\u2019 after commissioner says he will step down</strong></p><p>Rowland also said the <strong>National Anti Corruption Commission (Nacc)</strong> could get a \u201creset\u201d after <strong>Paul Brereton</strong>, the body\u2019s first commissioner, said he would step down from the role in July.</p><p>I\u2019ve never stated anything but support for the commissioner and confidence in Commissioner Brereton. But this does give us an opportunity with these new appointments to have a reset and I will be engaging across the parliament to make sure that that happens.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +143,30 @@
       ]
     },
     {
-      "headline": "Slater refuses to guarantee Walsh recall despite Maroons' collapse",
-      "summary": "Queensland's coach bats away questions about the notable absence of Brisbane's star fullback after seeing his side cough up a 20-point lead.",
+      "headline": "Defiant Lebanese families refuse to leave Tyre after homes bombed",
+      "summary": "Families in the Lebanese city of Tyre saw their homes destroyed by Israeli bombs just hours after they were ordered evac",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US judge rejects immediate block on Trump\u2019s mail-in voting executive order",
+      "summary": "Judge Carl Nichols says Democrats\u2019 legal challenge is premature as the administration moves to implement the measure.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Australia's Kasatkina sets up French Open clash with top seed Sabalenka",
+      "summary": "Daria Kasatkina will face world number one Aryna Sabalenka in the third round as fellow Australian Kimberly Birrell departs the singles draw in Paris.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,91 +176,58 @@
       ]
     },
     {
-      "headline": "Markets rally amid hopes of US-Iran deal",
-      "summary": "Markets betting a deal will reopen the Strait of Hormuz and soothe the deep global economic uncertainty.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Former assistant to TV star Matthew Perry sentenced to 41 months in prison",
-      "summary": "Sentencing of Kenneth Iwamasa concludes prosecution of five people in connection with Perry&#039;s death from drug ketamine.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
-      "summary": "Intensification comes while US-Iran indirect talks continue.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump says no one will control Strait of Hormuz",
-      "summary": "Donald Trump says he won\u2019t allow Iran to control \u2060the Strait of \u2060Hormuz under the terms of any deal reached with Tehran.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Ghana welcomes first group fleeing South African anti-immigration protests",
-      "summary": "The repatriation came following a wave of anti-immigration protests in recent weeks.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Alabama pushes US Supreme Court to approve congressional map for midterms",
-      "summary": "Republicans have revived a push to implement a congressional map that was rejected in 2023 for racial discrimination.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump appears to threaten Oman over Strait of Hormuz impasse",
-      "summary": "The US president warns that Oman, a US ally, &#039;will behave just like everybody else, or we will have to blow them up&#039;.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Israel issues evacuation order for swathes of southern Lebanon",
-      "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+      "headline": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
+      "summary": "A 21-year-old Austrian man is found guilty of planning the attack and other terrorism-related offences.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "Middle East crisis live: Lebanon\u2019s prime minister condemns latest attacks by Israel as \u2018collective punishment\u2019 of peaceful civilians",
+      "summary": "<p>\u201cNothing can justify the ongoing assaults on my regions of Tyre and Nabatieh\u2026 nor the continuous threats targeting our peaceful people there\u201d, Nawaf Salam wrote on X</p><p><strong>Hezbollah has claimed dozens of drone and rocket attacks that it said targeted Israeli troops</strong> in southern Lebanon and northern Israel.</p><p>The group said it launched <strong>several attacks on Israeli soldiers and tanks that crossed the Litani river into the town of Zawtar al-Sharqiyah near Nabatieh,</strong> as close-range fighting continues.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Europe hit by record-breaking heatwave",
+      "summary": "European countries are issuing heat warnings as an unseasonal heatwave drives record temperatures across the continent.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Demands grow for closure of US detention centre over inhumane conditions",
+      "summary": "A group of US lawmakers are joining protesters in demanding a controversial immigration detention centre be shut down.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "'Dizzy' Sinner exits French Open in stunning upset loss to world number 56",
+      "summary": "Jannik Sinner's French Open campaign is over after the world number one struggled with illness in a shock second-round defeat to Juan Manuel Cer\u00fandolo.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-05-28T07:52:37.993391+10:00",
-    "date": "2026-05-28",
-    "display_date": "Thursday 28 May 2026",
-    "display_time": "07:52 AM AEST"
+    "generated_at": "2026-05-29T07:54:07.033200+10:00",
+    "date": "2026-05-29",
+    "display_date": "Friday 29 May 2026",
+    "display_time": "07:54 AM AEST"
   }
 }
