@@ -3,42 +3,42 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7580.06,
-      "change": 16.43,
-      "change_pct": 0.22,
+      "price": 7599.96,
+      "change": 19.9,
+      "change_pct": 0.26,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26972.62,
-      "change": 55.15,
-      "change_pct": 0.2,
+      "price": 27086.81,
+      "change": 114.19,
+      "change_pct": 0.42,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51032.46,
-      "change": 363.49,
-      "change_pct": 0.72,
+      "price": 51078.88,
+      "change": 46.42,
+      "change_pct": 0.09,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.32,
-      "change": -0.42,
-      "change_pct": -2.67,
+      "price": 16.05,
+      "change": 0.73,
+      "change_pct": 4.77,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.45,
-      "change": -0.0,
-      "change_pct": -0.0,
-      "trend_5d": "flat"
+      "price": 4.47,
+      "change": 0.02,
+      "change_pct": 0.45,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
@@ -48,7 +48,7 @@
       "price": 66329.5,
       "change": 1636.38,
       "change_pct": 2.53,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 25182.39,
       "change": 176.23,
       "change_pct": 0.7,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 4068.57,
-      "change": -30.07,
-      "change_pct": -0.73,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 8476.15,
       "change": 290.86,
       "change_pct": 3.55,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4593.0,
-      "change_pct": 2.08
+      "price": 4511.5,
+      "change_pct": -1.07
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 91.12,
-      "change_pct": -2.76
+      "price": 95.09,
+      "change_pct": 3.3
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 87.36,
-      "change_pct": -1.73
+      "price": 92.25,
+      "change_pct": 5.6
     }
   ],
   "asx200": {
@@ -103,26 +103,59 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7173,
-      "change_pct": 0.124
+      "current_rate": 0.7163,
+      "change_pct": -0.0123
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.599,
-      "change_pct": 0.7482
+      "current_rate": 0.5936,
+      "change_pct": -0.1668
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.1967,
-      "change_pct": -0.674
+      "current_rate": 1.2065,
+      "change_pct": 0.1394
     }
   ],
   "world_news": [
     {
-      "headline": "Breaking: Two new faces named as Socceroos reveal World Cup squad",
-      "summary": "Recently realigned Cristian Volpato and Japan-born Tete Yengi are in line for potential national debuts after being named in Australia's squad for this year's World Cup.",
+      "headline": "Australia politics live: Chalmers says economic woes driving voters to One Nation; Wong sanctions Israelis over West Bank violence",
+      "summary": "<p>Treasurer says Labor wants to address economic frustration whereas One Nation wants to benefit politically from it. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The foreign minister, <strong>Penny Wong</strong>, has announced new sanctions by the commonwealth over three Israeli individuals and four entities in response to \u201cescalating settler violence against Palestinians in the West Bank\u201d.</p><p>The entities will receive targeted financial sanctions while the individuals will receive travel bans to Australia.</p><p>For the first time, designated entities now include farming outposts that serve as hubs for settler violence.</p><p>Settler violence is used to displace Palestinians and perpetuate the settlement enterprise, through destruction of property, displacement of families, beatings, sexual assault, and torture, resulting in serious injuries and deaths.</p><p>This is another beat up. It\u2019s not unusual in tax legislation for the definitions to be settled in what\u2019s called legislative instruments.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Middle East crisis live: Lebanon\u2019s US embassy says Hezbollah has agreed to \u2018reciprocal\u2019 ceasefire with Israel under US proposal",
+      "summary": "<p>Israeli prime minister Benjamin Netanyahu has meanwhile threatened to strike Beirut and says IDF will continue operations in southern Lebanon</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences\">Iran suspends all peace talks in protest at Israeli offensive in Lebanon</a></p></li></ul><p><strong>The exchange of strikes between the US and Iran reflects the fragility of the current ceasefire, which has seen repeated violations even as American and Iranian officials try to negotiate a deal to extend it.</strong></p><p>Iran has maintained its chokehold on the strait of Hormuz, disrupting global energy supplies as a fifth of all oil and natural gas traded once passed through the narrow mouth of the Persian Gulf. The US continues to enforce its own blockade on the strait, as it pressures Tehran to reach an agreement.</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Bowen: Trump needs this war to end but Iran is not backing down",
+      "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "French Open Sabalenka's for the taking as draw opens up for number one",
+      "summary": "A series of upsets across Roland Garros leaves world number one Aryna Sabalenka in the box seat to win the claycourt grand slam after beating Naomi Osaka.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +165,8 @@
       ]
     },
     {
-      "headline": "Between celebration and confrontation: Paris after PSG victory",
-      "summary": "Nearly 800 people were arrested after clashes with police following the Champions League final.",
+      "headline": "Two possible Ebola cases in Brazil ruled out as patients test negative",
+      "summary": "The two patients had recently returned from the DR Congo and Uganda respectively.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +176,19 @@
       ]
     },
     {
-      "headline": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
+      "headline": "Mexico City police teargas teachers\u2019 protest 10 days before World Cup",
+      "summary": "<p>Clash began when teachers broke through metal barrier at entrance to Zocalo plaza, where fans will watch game</p><p>Mexico City police hurled teargas at protesting teachers to keep them from reaching the historic square where the \u201cFan fest\u201d for the 2026 World Cup is under construction, according to AFP journalists.</p><p>The clash started when teachers broke through one of the metal barriers that have been set up at the entrance to the Zocalo plaza, a block from the government palace and a giant screen where fans will watch Mexico\u2019s first World Cup game on 11 June.</p> <a href=\"https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+      "summary": "Israel's PM Netanyahu warns that strikes on Beirut will go ahead if Hezbollah does not abide by the US proposal.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +198,8 @@
       ]
     },
     {
-      "headline": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
-      "summary": "New Jersey Governor Mikie Sherrill has called for the establishment of protest zones to minimise clashes with police.",
+      "headline": "Who attended this year\u2019s Israel Day Parade in New York?",
+      "summary": "Al Jazeera\u2019s Ava Warriner takes a look at the Israeli and US officials who joined the annual Israel Day parade.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +209,8 @@
       ]
     },
     {
-      "headline": "What\u2019s at stake in Ethiopia\u2019s elections?",
-      "summary": "Ethiopia&#039;s governing party is seeking to cement its grip on power amid a fragmented electorate.",
+      "headline": "Video: Presidential election has Colombia on edge",
+      "summary": "Abelardo de la Espriella will face left-wing Senator Ivan Cepeda in the run-off for Colombia\u2019s presidential election.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,52 +220,8 @@
       ]
     },
     {
-      "headline": "Explosives store blast kills dozens in Myanmar village",
-      "summary": "Explosives store blast kills dozens in Myanmar village.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Brazil monitors two patients for possible Ebola infection",
-      "summary": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Dead whale towed ashore in Denmark ahead of autopsy",
-      "summary": "\"Timmy\" was found dead off the coast of Anholt despite multiple attempts to rescue it.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Building collapses in New Delhi, some people rescued, more feared trapped",
-      "summary": "Nine people have reportedly been rescued from the rubble of a collapsed five-storey building in New Delhi, India.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US measure to deepen Israel military cooperation faces bipartisan pushback",
-      "summary": "Democrat Ro Khanna and Republican Thomas Massie say they will try to remove the pro-Israel section from US defence bill.",
+      "headline": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
+      "summary": "\u2018Lord, please forgive us for all the things that we did that we did not support Israel.\u2019",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-01T06:57:15.672971+10:00",
-    "date": "2026-06-01",
-    "display_date": "Monday 01 June 2026",
-    "display_time": "06:57 AM AEST"
+    "generated_at": "2026-06-02T08:33:00.131604+10:00",
+    "date": "2026-06-02",
+    "display_date": "Tuesday 02 June 2026",
+    "display_time": "08:33 AM AEST"
   }
 }
