@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7599.96,
-      "change": 19.9,
-      "change_pct": 0.26,
+      "price": 7609.78,
+      "change": 9.82,
+      "change_pct": 0.13,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 27086.81,
-      "change": 114.19,
-      "change_pct": 0.42,
+      "price": 27093.9,
+      "change": 7.09,
+      "change_pct": 0.03,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51078.88,
-      "change": 46.42,
-      "change_pct": 0.09,
+      "price": 51307.79,
+      "change": 228.91,
+      "change_pct": 0.45,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.05,
-      "change": 0.73,
-      "change_pct": 4.77,
+      "price": 15.77,
+      "change": -0.28,
+      "change_pct": -1.74,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.47,
-      "change": 0.02,
-      "change_pct": 0.45,
+      "price": 4.45,
+      "change": -0.02,
+      "change_pct": -0.45,
       "trend_5d": "down"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66329.5,
-      "change": 1636.38,
-      "change_pct": 2.53,
+      "price": 66934.33,
+      "change": 604.83,
+      "change_pct": 0.91,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25182.39,
-      "change": 176.23,
-      "change_pct": 0.7,
+      "price": 25398.18,
+      "change": 215.79,
+      "change_pct": 0.86,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8476.15,
-      "change": 290.86,
-      "change_pct": 3.55,
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4511.5,
-      "change_pct": -1.07
+      "price": 4520.8,
+      "change_pct": 1.02
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 95.09,
-      "change_pct": 3.3
+      "price": 96.11,
+      "change_pct": 1.19
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 92.25,
-      "change_pct": 5.6
+      "price": 93.86,
+      "change_pct": 1.84
     }
   ],
   "asx200": {
-    "level": 8731.7,
-    "change_pct": 1.62
+    "level": 8729.4,
+    "change_pct": -0.03
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7163,
-      "change_pct": -0.0123
+      "current_rate": 0.7181,
+      "change_pct": 0.0116
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5936,
-      "change_pct": -0.1668
+      "current_rate": 0.5927,
+      "change_pct": -0.9087
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2065,
-      "change_pct": 0.1394
+      "current_rate": 1.2114,
+      "change_pct": 0.9105
     }
   ],
   "world_news": [
     {
-      "headline": "Australia politics live: Chalmers says economic woes driving voters to One Nation; Wong sanctions Israelis over West Bank violence",
-      "summary": "<p>Treasurer says Labor wants to address economic frustration whereas One Nation wants to benefit politically from it. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The foreign minister, <strong>Penny Wong</strong>, has announced new sanctions by the commonwealth over three Israeli individuals and four entities in response to \u201cescalating settler violence against Palestinians in the West Bank\u201d.</p><p>The entities will receive targeted financial sanctions while the individuals will receive travel bans to Australia.</p><p>For the first time, designated entities now include farming outposts that serve as hubs for settler violence.</p><p>Settler violence is used to displace Palestinians and perpetuate the settlement enterprise, through destruction of property, displacement of families, beatings, sexual assault, and torture, resulting in serious injuries and deaths.</p><p>This is another beat up. It\u2019s not unusual in tax legislation for the definitions to be settled in what\u2019s called legislative instruments.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
+      "headline": "Politics live: Australia always preferred secondhand Aukus submarines, defence secretary says",
+      "summary": "<p>Senate estimates told it was a \u2018joint idea\u2019 to rework the nuclear submarine deal. Follow today\u2019s news live </p><ul><li><p><strong>Get our </strong><a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"><strong>breaking news email</strong></a><strong>, </strong><a href=\"https://app.adjust.com/w4u7jx3\"><strong>free app</strong></a><strong> or </strong><a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\"><strong>daily news podcast</strong></a></p></li></ul><p>Chaney said:<em> </em></p><p>AI companies should be able to unlock the majority of global content with a handful of individual deals \u2013 in the same way that every other industry licenses copyrighted content.</p><p>Government could further work to facilitate this process for the remainder of the copyrighted content, either directly or through a centralised mechanism.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +132,30 @@
       ]
     },
     {
-      "headline": "Middle East crisis live: Lebanon\u2019s US embassy says Hezbollah has agreed to \u2018reciprocal\u2019 ceasefire with Israel under US proposal",
-      "summary": "<p>Israeli prime minister Benjamin Netanyahu has meanwhile threatened to strike Beirut and says IDF will continue operations in southern Lebanon</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences\">Iran suspends all peace talks in protest at Israeli offensive in Lebanon</a></p></li></ul><p><strong>The exchange of strikes between the US and Iran reflects the fragility of the current ceasefire, which has seen repeated violations even as American and Iranian officials try to negotiate a deal to extend it.</strong></p><p>Iran has maintained its chokehold on the strait of Hormuz, disrupting global energy supplies as a fifth of all oil and natural gas traded once passed through the narrow mouth of the Persian Gulf. The US continues to enforce its own blockade on the strait, as it pressures Tehran to reach an agreement.</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites\">Continue reading...</a>",
+      "headline": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
+      "summary": "Analysts say &#039;strategic leaks&#039; aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Bowen: Trump needs this war to end but Iran is not backing down",
-      "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+      "headline": "Drones light up Taipei\u2019s night sky for Computex trade show",
+      "summary": "Drones lit up the evening sky near Taiwan\u2019s Taipei 101 skyscraper in a dazzling display for the Computex trade show.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+      "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +165,30 @@
       ]
     },
     {
-      "headline": "French Open Sabalenka's for the taking as draw opens up for number one",
-      "summary": "A series of upsets across Roland Garros leaves world number one Aryna Sabalenka in the box seat to win the claycourt grand slam after beating Naomi Osaka.",
+      "headline": "US says it fired missile at Iran-bound oil tanker",
+      "summary": "The US military says the vessel's engine room was hit after the crew \"ignored repeated warnings\".",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Trump administration is scrapping the $1.8bn \u2018anti-weaponisation fund\u2019",
+      "summary": "DOJ&#039;s agreement with President Donald Trump to bar future audits into his or his family&#039;s past tax records will remain.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Green top-scores and Ellis stands tall as Australia levels ODI series",
+      "summary": "Nathan Ellis shines with the ball, while Cameron Green tops the run-scoring for Australia in a 41-run ODI victory over Pakistan in Lahore.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,69 +198,36 @@
       ]
     },
     {
-      "headline": "Two possible Ebola cases in Brazil ruled out as patients test negative",
-      "summary": "The two patients had recently returned from the DR Congo and Uganda respectively.",
+      "headline": "Russia launches massive overnight attack on Ukraine",
+      "summary": "Russia launched a massive overnight attack on cities across Ukraine, killing at least 22 people including children.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Emotional Ukrainian star not accepting silence from Russian players",
+      "summary": "Ukrainian star Marta Kostyuk says it is unacceptable for Russians to stay silent on the war, especially after Daria Kasatkina's defection to Australia.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Trump taps housing official Bill Pulte to be US spymaster",
+      "summary": "The head of the Federal Housing Finance Agency, who pushed for criminal charges against Trump's foes, will step in as acting Director of National Intelligence.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
-      ]
-    },
-    {
-      "headline": "Mexico City police teargas teachers\u2019 protest 10 days before World Cup",
-      "summary": "<p>Clash began when teachers broke through metal barrier at entrance to Zocalo plaza, where fans will watch game</p><p>Mexico City police hurled teargas at protesting teachers to keep them from reaching the historic square where the \u201cFan fest\u201d for the 2026 World Cup is under construction, according to AFP journalists.</p><p>The clash started when teachers broke through one of the metal barriers that have been set up at the entrance to the Zocalo plaza, a block from the government palace and a giant screen where fans will watch Mexico\u2019s first World Cup game on 11 June.</p> <a href=\"https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-      "summary": "Israel's PM Netanyahu warns that strikes on Beirut will go ahead if Hezbollah does not abide by the US proposal.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Who attended this year\u2019s Israel Day Parade in New York?",
-      "summary": "Al Jazeera\u2019s Ava Warriner takes a look at the Israeli and US officials who joined the annual Israel Day parade.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Video: Presidential election has Colombia on edge",
-      "summary": "Abelardo de la Espriella will face left-wing Senator Ivan Cepeda in the run-off for Colombia\u2019s presidential election.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
-      "summary": "\u2018Lord, please forgive us for all the things that we did that we did not support Israel.\u2019",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-02T08:33:00.131604+10:00",
-    "date": "2026-06-02",
-    "display_date": "Tuesday 02 June 2026",
-    "display_time": "08:33 AM AEST"
+    "generated_at": "2026-06-03T08:21:46.248033+10:00",
+    "date": "2026-06-03",
+    "display_date": "Wednesday 03 June 2026",
+    "display_time": "08:21 AM AEST"
   }
 }
