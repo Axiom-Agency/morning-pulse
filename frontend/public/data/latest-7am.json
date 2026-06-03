@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7609.78,
-      "change": 9.82,
-      "change_pct": 0.13,
-      "trend_5d": "up"
+      "price": 7553.68,
+      "change": -56.1,
+      "change_pct": -0.74,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 27093.9,
-      "change": 7.09,
-      "change_pct": 0.03,
-      "trend_5d": "up"
+      "price": 26853.98,
+      "change": -239.92,
+      "change_pct": -0.89,
+      "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51307.79,
-      "change": 228.91,
-      "change_pct": 0.45,
-      "trend_5d": "up"
+      "price": 50687.07,
+      "change": -620.72,
+      "change_pct": -1.21,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.77,
-      "change": -0.28,
-      "change_pct": -1.74,
-      "trend_5d": "down"
+      "price": 16.06,
+      "change": 0.29,
+      "change_pct": 1.84,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.45,
-      "change": -0.02,
-      "change_pct": -0.45,
-      "trend_5d": "down"
+      "price": 4.49,
+      "change": 0.04,
+      "change_pct": 0.9,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66934.33,
-      "change": 604.83,
-      "change_pct": 0.91,
+      "price": 66734.24,
+      "change": -200.09,
+      "change_pct": -0.3,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25398.18,
-      "change": 215.79,
-      "change_pct": 0.86,
+      "price": 26038.32,
+      "change": 640.14,
+      "change_pct": 2.52,
       "trend_5d": "flat"
     },
     {
@@ -69,60 +69,60 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 8801.49,
+      "change": 13.11,
+      "change_pct": 0.15,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4520.8,
-      "change_pct": 1.02
+      "price": 4452.1,
+      "change_pct": -0.82
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 96.11,
-      "change_pct": 1.19
+      "price": 97.27,
+      "change_pct": 1.32
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 93.86,
-      "change_pct": 1.84
+      "price": 95.66,
+      "change_pct": 2.03
     }
   ],
   "asx200": {
-    "level": 8729.4,
-    "change_pct": -0.03
+    "level": 8724.4,
+    "change_pct": -0.06
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7181,
-      "change_pct": 0.0116
+      "current_rate": 0.7131,
+      "change_pct": -0.4628
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5927,
-      "change_pct": -0.9087
+      "current_rate": 0.5865,
+      "change_pct": -1.1836
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2114,
-      "change_pct": 0.9105
+      "current_rate": 1.2155,
+      "change_pct": 0.7076
     }
   ],
   "world_news": [
     {
-      "headline": "Politics live: Australia always preferred secondhand Aukus submarines, defence secretary says",
-      "summary": "<p>Senate estimates told it was a \u2018joint idea\u2019 to rework the nuclear submarine deal. Follow today\u2019s news live </p><ul><li><p><strong>Get our </strong><a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"><strong>breaking news email</strong></a><strong>, </strong><a href=\"https://app.adjust.com/w4u7jx3\"><strong>free app</strong></a><strong> or </strong><a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\"><strong>daily news podcast</strong></a></p></li></ul><p>Chaney said:<em> </em></p><p>AI companies should be able to unlock the majority of global content with a handful of individual deals \u2013 in the same way that every other industry licenses copyrighted content.</p><p>Government could further work to facilitate this process for the remainder of the copyrighted content, either directly or through a centralised mechanism.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia politics live: PM says \u2018unwarranted\u2019 tariffs announced by US on Australia came without warning; parliament to vote on tax changes",
+      "summary": "<p>Prime minister says there is \u2018an ideological disagreement\u2019 with the United States. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Jim Chalmers</strong>\u2019 budget bill will face debate and a vote in the House today, and he poses the legislation as a \u201creally simple choice\u201d for the Coalition.</p><p>As we know, the government has set up the bill as a wedge for the opposition, by including both tax changes to CGT and negative gearing and tax cuts for workers.</p><p>Really simple choice in the parliament today: Labor lower taxes on workers, a fair go for first home buyers. The Coalition opposing both of those things.</p><p>Yet another beat-up about the sensible, commonsense tax reforms at the core of the budget. Not unusual, as I said, for definitions to be settled this way, and the parliament can disallow them if they want.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/04/australia-politics-live-capital-gains-tax-property-prices-economy-budget-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-senate-estimates-question-time-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,30 +132,8 @@
       ]
     },
     {
-      "headline": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-      "summary": "Analysts say &#039;strategic leaks&#039; aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Drones light up Taipei\u2019s night sky for Computex trade show",
-      "summary": "Drones lit up the evening sky near Taiwan\u2019s Taipei 101 skyscraper in a dazzling display for the Computex trade show.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-      "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
+      "headline": "Grab what you can while you can: The  new reality in the South China Sea",
+      "summary": "After years of watching China create land to back its expansive claims, others are doing the same.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,19 +143,8 @@
       ]
     },
     {
-      "headline": "US says it fired missile at Iran-bound oil tanker",
-      "summary": "The US military says the vessel's engine room was hit after the crew \"ignored repeated warnings\".",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Trump administration is scrapping the $1.8bn \u2018anti-weaponisation fund\u2019",
-      "summary": "DOJ&#039;s agreement with President Donald Trump to bar future audits into his or his family&#039;s past tax records will remain.",
+      "headline": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
+      "summary": "Hamawy&#039;s victory in New Jersey likely to make him a rare US Congress member with firsthand experience in besieged Gaza.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +154,8 @@
       ]
     },
     {
-      "headline": "Green top-scores and Ellis stands tall as Australia levels ODI series",
-      "summary": "Nathan Ellis shines with the ball, while Cameron Green tops the run-scoring for Australia in a 41-run ODI victory over Pakistan in Lahore.",
+      "headline": "Injury-plagued star forced into another injury withdrawal at Roland Garros",
+      "summary": "Matteo Berrettini is once again forced out of a match by injury, retiring in the second set of his French Open quarterfinal with compatriot Matteo Arnaldi.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +165,19 @@
       ]
     },
     {
-      "headline": "Russia launches massive overnight attack on Ukraine",
-      "summary": "Russia launched a massive overnight attack on cities across Ukraine, killing at least 22 people including children.",
+      "headline": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Kuwait labels Iran attack \u2018heinous aggression\u2019",
+      "summary": "Kuwait\u2019s defence ministry has labelled an attack on the country\u2019s international airport as \u2018heinous Iranian aggression\u2019.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,25 +187,47 @@
       ]
     },
     {
-      "headline": "Emotional Ukrainian star not accepting silence from Russian players",
-      "summary": "Ukrainian star Marta Kostyuk says it is unacceptable for Russians to stay silent on the war, especially after Daria Kasatkina's defection to Australia.",
+      "headline": "Ukraine attacks St Petersburg as Russia hosts its own \u2018Davos\u2019",
+      "summary": "Ukraine launched a series of air strikes targeting an oil facility and a naval air base near St Petersburg late Tuesday.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Deadly fire rips through New Delhi hotel",
+      "summary": "A fire has ripped through a hotel in New Delhi, killing at least 21 people including 18 foreign nationals.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Japan\u2019s football team sports cowboy hats ahead of World Cup",
+      "summary": "Japan&#039;s national football team wore cowboy hats as fans welcomed them to Monterrey, Mexico.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "World number one gutted after 'dirty' loss in French Open quarterfinal",
+      "summary": "Aryna Sabalenka feels the pain of a shock loss in the quarterfinals of the French Open, saying she just feels like smashing things.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Trump taps housing official Bill Pulte to be US spymaster",
-      "summary": "The head of the Federal Housing Finance Agency, who pushed for criminal charges against Trump's foes, will step in as acting Director of National Intelligence.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-03T08:21:46.248033+10:00",
-    "date": "2026-06-03",
-    "display_date": "Wednesday 03 June 2026",
-    "display_time": "08:21 AM AEST"
+    "generated_at": "2026-06-04T08:27:49.607750+10:00",
+    "date": "2026-06-04",
+    "display_date": "Thursday 04 June 2026",
+    "display_time": "08:27 AM AEST"
   }
 }
