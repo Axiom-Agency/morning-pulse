@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7553.68,
-      "change": -56.1,
-      "change_pct": -0.74,
+      "price": 7584.31,
+      "change": 30.63,
+      "change_pct": 0.41,
       "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26853.98,
-      "change": -239.92,
-      "change_pct": -0.89,
+      "price": 26830.96,
+      "change": -23.02,
+      "change_pct": -0.09,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50687.07,
-      "change": -620.72,
-      "change_pct": -1.21,
-      "trend_5d": "flat"
+      "price": 51561.93,
+      "change": 874.86,
+      "change_pct": 1.73,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.06,
-      "change": 0.29,
-      "change_pct": 1.84,
+      "price": 15.4,
+      "change": -0.66,
+      "change_pct": -4.11,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.49,
-      "change": 0.04,
-      "change_pct": 0.9,
+      "price": 4.48,
+      "change": -0.01,
+      "change_pct": -0.22,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66734.24,
-      "change": -200.09,
-      "change_pct": -0.3,
+      "price": 68402.13,
+      "change": 1667.89,
+      "change_pct": 2.5,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26038.32,
-      "change": 640.14,
-      "change_pct": 2.52,
+      "price": 25633.21,
+      "change": -405.11,
+      "change_pct": -1.56,
       "trend_5d": "flat"
     },
     {
@@ -72,57 +72,57 @@
       "price": 8801.49,
       "change": 13.11,
       "change_pct": 0.15,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4452.1,
-      "change_pct": -0.82
+      "price": 4502.4,
+      "change_pct": 1.48
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 97.27,
-      "change_pct": 1.32
+      "price": 95.14,
+      "change_pct": -2.73
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 95.66,
-      "change_pct": 2.03
+      "price": 92.91,
+      "change_pct": -3.24
     }
   ],
   "asx200": {
-    "level": 8724.4,
-    "change_pct": -0.06
+    "level": 8785.7,
+    "change_pct": 0.7
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7131,
-      "change_pct": -0.4628
+      "current_rate": 0.7138,
+      "change_pct": -0.5068
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5865,
-      "change_pct": -1.1836
+      "current_rate": 0.5868,
+      "change_pct": -0.9224
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2155,
-      "change_pct": 0.7076
+      "current_rate": 1.2151,
+      "change_pct": 0.3137
     }
   ],
   "world_news": [
     {
-      "headline": "Australia politics live: PM says \u2018unwarranted\u2019 tariffs announced by US on Australia came without warning; parliament to vote on tax changes",
-      "summary": "<p>Prime minister says there is \u2018an ideological disagreement\u2019 with the United States. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Jim Chalmers</strong>\u2019 budget bill will face debate and a vote in the House today, and he poses the legislation as a \u201creally simple choice\u201d for the Coalition.</p><p>As we know, the government has set up the bill as a wedge for the opposition, by including both tax changes to CGT and negative gearing and tax cuts for workers.</p><p>Really simple choice in the parliament today: Labor lower taxes on workers, a fair go for first home buyers. The Coalition opposing both of those things.</p><p>Yet another beat-up about the sensible, commonsense tax reforms at the core of the budget. Not unusual, as I said, for definitions to be settled this way, and the parliament can disallow them if they want.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/04/australia-politics-live-capital-gains-tax-property-prices-economy-budget-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-senate-estimates-question-time-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Julian Hill claims Labor has \u2018won the debate\u2019 on housing tax changes; homelessness soars in NSW",
+      "summary": "<p>Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Housing Australia officials have revealed 2,589 applications had been approved under Labor\u2019s Help to Buy scheme.</p><p><strong>Alia Ayoub</strong>, executive leader of the help to buy scheme, told Senate estimates it had received 5,323 applications from 5 December 2025 to 30 April 2026, of which 2,589 applications had \u201cfound a home\u201d.</p><p>We had a forecast that we would do 10,000 applications in a year. However, the scheme started on the 5th of December. Had it been running for the full year, it would receive the 10,000.</p><p>We don\u2019t know whether that will be a cost or a benefit to the balance sheet of the Commonwealth at this point. If house prices continue to grow gradually over time, it will actually benefit the Commonwealth.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,30 +132,19 @@
       ]
     },
     {
-      "headline": "Grab what you can while you can: The  new reality in the South China Sea",
-      "summary": "After years of watching China create land to back its expansive claims, others are doing the same.",
+      "headline": "Microsoft to tighten human rights measures after inquiry into Israel\u2019s use of its tech",
+      "summary": "<p>Announcement seeks to close a difficult chapter for the company after the Guardian revealed its platform was used in mass surveillance of Palestinians</p><p>Microsoft has said it will tighten human rights controls when working with national security agencies after an inquiry into how the Israeli military used its cloud technology for the mass surveillance of Palestinians.</p><p>On Thursday, Microsoft announced the completion of the inquiry and a series of new measures that include changes to how the company oversees employees with security clearances issued by foreign governments.</p> <a href=\"https://www.theguardian.com/technology/2026/jun/04/microsoft-to-tighten-human-rights-measures-after-inquiry-into-israels-use-of-its-tech\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
-      "summary": "Hamawy&#039;s victory in New Jersey likely to make him a rare US Congress member with firsthand experience in besieged Gaza.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Injury-plagued star forced into another injury withdrawal at Roland Garros",
-      "summary": "Matteo Berrettini is once again forced out of a match by injury, retiring in the second set of his French Open quarterfinal with compatriot Matteo Arnaldi.",
+      "headline": "Qualifier makes French Open history, reaching final against Russian teen star",
+      "summary": "Nineteen-year-old Mirra Andreeva reaches her first grand slam final at the French Open where she will take on Poland's Maja Chwali\u0144ska, the first qualifier to reach the Paris decider in the Open Era.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +154,19 @@
       ]
     },
     {
-      "headline": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
+      "headline": "Australia drops ODI series in Pakistan after losing third game",
+      "summary": "Pakistan comfortably chases down 158 to win the third one-day international in Lahore, beating Australia 2-1 in their series.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +176,8 @@
       ]
     },
     {
-      "headline": "Kuwait labels Iran attack \u2018heinous aggression\u2019",
-      "summary": "Kuwait\u2019s defence ministry has labelled an attack on the country\u2019s international airport as \u2018heinous Iranian aggression\u2019.",
+      "headline": "Lufthansa employees injured after Boeing 787 collapses in Frankfurt",
+      "summary": "Several Lufthansa staff members were injured when the nose gear of a Boeing 787 jetliner collapsed at Frankfurt airport.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,47 +187,47 @@
       ]
     },
     {
-      "headline": "Ukraine attacks St Petersburg as Russia hosts its own \u2018Davos\u2019",
-      "summary": "Ukraine launched a series of air strikes targeting an oil facility and a naval air base near St Petersburg late Tuesday.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Deadly fire rips through New Delhi hotel",
-      "summary": "A fire has ripped through a hotel in New Delhi, killing at least 21 people including 18 foreign nationals.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Japan\u2019s football team sports cowboy hats ahead of World Cup",
-      "summary": "Japan&#039;s national football team wore cowboy hats as fans welcomed them to Monterrey, Mexico.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "World number one gutted after 'dirty' loss in French Open quarterfinal",
-      "summary": "Aryna Sabalenka feels the pain of a shock loss in the quarterfinals of the French Open, saying she just feels like smashing things.",
+      "headline": "Aussie 7s star has 'unfinished business' after injury ended 2024 Olympic debut",
+      "summary": "For an athlete still in the early stages of her professional career, Australian rugby 7s player Kaitlin Shave has already experienced the highs and lows of sport.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Public apology after Nepal's women's national team violates 'spirit of cricket'",
+      "summary": "Nepal's cricket board has offered a public apology after its women's team successfully had a batter timed out.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Block the bombs: Support grows for US bill to restrict arms for Israel",
+      "summary": "&#039;Long road&#039; remains ahead as bill garners 73 co-sponsors one year after its introduction in Congress, advocates say.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "John Bolton expected to plead guilty in classified documents case, sources confirm",
+      "summary": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-04T08:27:49.607750+10:00",
-    "date": "2026-06-04",
-    "display_date": "Thursday 04 June 2026",
-    "display_time": "08:27 AM AEST"
+    "generated_at": "2026-06-05T07:29:26.155722+10:00",
+    "date": "2026-06-05",
+    "display_date": "Friday 05 June 2026",
+    "display_time": "07:29 AM AEST"
   }
 }
