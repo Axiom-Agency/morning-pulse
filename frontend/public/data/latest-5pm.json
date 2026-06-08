@@ -27,9 +27,9 @@
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 21.51,
-      "change": 6.11,
-      "change_pct": 39.68,
+      "price": 19.55,
+      "change": -1.96,
+      "change_pct": -9.11,
       "trend_5d": "up"
     },
     {
@@ -356,27 +356,27 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.705,
-      "change_pct": -1.1561
+      "current_rate": 0.706,
+      "change_pct": -1.0096
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5798,
-      "change_pct": -1.2228
+      "current_rate": 0.5817,
+      "change_pct": -0.9068
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2152,
-      "change_pct": 0.1096
+      "current_rate": 1.2136,
+      "change_pct": -0.0239
     }
   ],
   "meta": {
     "briefing_type": "5pm",
-    "generated_at": "2026-06-07T18:57:29.014286+10:00",
-    "date": "2026-06-07",
-    "display_date": "Sunday 07 June 2026",
-    "display_time": "06:57 PM AEST"
+    "generated_at": "2026-06-08T20:58:25.839380+10:00",
+    "date": "2026-06-08",
+    "display_date": "Monday 08 June 2026",
+    "display_time": "08:58 PM AEST"
   }
 }
