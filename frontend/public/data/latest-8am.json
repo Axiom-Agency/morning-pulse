@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7383.74,
-      "change": -200.57,
-      "change_pct": -2.64,
+      "price": 7405.73,
+      "change": 21.99,
+      "change_pct": 0.3,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25709.43,
-      "change": -1121.53,
-      "change_pct": -4.18,
+      "price": 25929.66,
+      "change": 220.23,
+      "change_pct": 0.86,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50866.78,
-      "change": -695.15,
-      "change_pct": -1.35,
+      "price": 50786.01,
+      "change": -80.77,
+      "change_pct": -0.16,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 21.51,
-      "change": 6.11,
-      "change_pct": 39.68,
+      "price": 18.92,
+      "change": -2.59,
+      "change_pct": -12.04,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.54,
-      "change": 0.06,
-      "change_pct": 1.34,
+      "price": 4.55,
+      "change": 0.01,
+      "change_pct": 0.22,
       "trend_5d": "up"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 66588.12,
       "change": -882.57,
       "change_pct": -1.31,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 24961.95,
       "change": -291.45,
       "change_pct": -1.15,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 4027.74,
-      "change": -30.04,
-      "change_pct": -0.74,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,7 +72,7 @@
       "price": 8160.59,
       "change": -478.82,
       "change_pct": -5.54,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "crypto": [
@@ -80,14 +80,10 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 87885,
-      "change_24h_pct": 2.27,
-      "yoy_change_pct": -46.0,
+      "current_price": 89886,
+      "change_24h_pct": 0.21,
+      "yoy_change_pct": -44.74,
       "history": [
-        {
-          "date": "2025-06-08",
-          "price": 162737.08
-        },
         {
           "date": "2025-06-09",
           "price": 162653.5
@@ -1545,8 +1541,12 @@
           "price": 86304.46
         },
         {
-          "date": "2026-06-07",
-          "price": 87881.41
+          "date": "2026-06-08",
+          "price": 89821.11
+        },
+        {
+          "date": "2026-06-08",
+          "price": 89878.82
         }
       ]
     },
@@ -1554,14 +1554,10 @@
       "coin_id": "ethereum",
       "name": "Ethereum",
       "symbol": "ETH",
-      "current_price": 2321.91,
-      "change_24h_pct": 5.34,
-      "yoy_change_pct": -40.31,
+      "current_price": 2407.15,
+      "change_24h_pct": 0.78,
+      "yoy_change_pct": -37.65,
       "history": [
-        {
-          "date": "2025-06-08",
-          "price": 3890.19
-        },
         {
           "date": "2025-06-09",
           "price": 3860.86
@@ -3019,8 +3015,12 @@
           "price": 2224.57
         },
         {
-          "date": "2026-06-07",
-          "price": 2321.87
+          "date": "2026-06-08",
+          "price": 2395.59
+        },
+        {
+          "date": "2026-06-08",
+          "price": 2407.15
         }
       ]
     }
@@ -3029,18 +3029,10 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7035,
-      "change_pct": -1.3578,
+      "current_rate": 0.7046,
+      "change_pct": -1.2119,
       "yoy_change_pct": 8.39,
       "history": [
-        {
-          "date": "2025-06-05",
-          "rate": 0.6491
-        },
-        {
-          "date": "2025-06-06",
-          "rate": 0.6511
-        },
         {
           "date": "2025-06-09",
           "rate": 0.65
@@ -4074,26 +4066,18 @@
           "rate": 0.7132
         },
         {
-          "date": "2026-06-07",
-          "rate": 0.7035
+          "date": "2026-06-08",
+          "rate": 0.7046
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5789,
-      "change_pct": -1.3772,
-      "yoy_change_pct": -3.95,
+      "current_rate": 0.581,
+      "change_pct": -1.0277,
+      "yoy_change_pct": -3.56,
       "history": [
-        {
-          "date": "2025-06-05",
-          "rate": 0.6027
-        },
-        {
-          "date": "2025-06-06",
-          "rate": 0.6042
-        },
         {
           "date": "2025-06-09",
           "rate": 0.6024
@@ -5127,26 +5111,18 @@
           "rate": 0.587
         },
         {
-          "date": "2026-06-07",
-          "rate": 0.5789
+          "date": "2026-06-08",
+          "rate": 0.581
         }
       ]
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.215,
-      "change_pct": 0.0914,
-      "yoy_change_pct": 12.84,
+      "current_rate": 1.2126,
+      "change_pct": -0.1104,
+      "yoy_change_pct": 12.38,
       "history": [
-        {
-          "date": "2025-06-05",
-          "rate": 1.0768
-        },
-        {
-          "date": "2025-06-06",
-          "rate": 1.0774
-        },
         {
           "date": "2025-06-09",
           "rate": 1.0789
@@ -6180,16 +6156,27 @@
           "rate": 1.2139
         },
         {
-          "date": "2026-06-07",
-          "rate": 1.215
+          "date": "2026-06-08",
+          "rate": 1.2126
         }
       ]
     }
   ],
   "world_news": [
     {
-      "headline": "Live: Walsh set for Origin recall as Maroons reveal Game II team",
-      "summary": "Queensland coach Billy Slater is naming his team for State of Origin II, with injuries forcing a reshuffle for the Maroons ahead of their must-win clash at the MCG. Follow live.",
+      "headline": "Australia news live: ABC boss says Pickering did not violate code with Tame comments: Hanson claims \u2018no wonder\u2019 Victorian premier called \u2018witch\u2019",
+      "summary": "<p>Hugh Marks says Charlie Pickering\u2019s comments to Avi Yemini about Grace Tame hosting an ABC podcast were \u2018his own view\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018If Australian datacentres are going to power the AI revolution, we deserve a fair return\u2019 \u2013 David Pocock</strong></p><p>Independent senator <strong>David Pocock </strong>has published an opinion piece about the growth of AI datacentres in Australia and how the gold rush should benefit Australians. He writes:</p><p>Huge investment in this space is pouring into Australia. In the past year, Microsoft has announced $25bn will go into Australian datacentres and Amazon Web Services has committed another $20bn.</p><p>The prime minister has posed for photos with the CEOs of both companies, welcoming the investment with open arms despite a growing backlash by communities against AI and datacentre construction. At a time when economic growth is sluggish, the government sees billions of dollars in investment as making for a good headline.</p><p>I think if you look at the programme itself, it\u2019s a great podcast that she\u2019s done a great job on a topic that I\u2019m sure will be of real interest and real importance to many Australians who suffer from those conditions, and particularly young Australians and young Australian women.</p><p>So there\u2019s a balance in all these things \u2026 for the ABC to be ensuring that we bring great content to air and <strong>also acknowledging that, you know, with some of the people that we work with, sometimes there will be controversy.</strong></p><p>Obviously we\u2019ve looked at Charlie\u2019s comments. I think he did express that they were his own view. They weren\u2019t represented at the ABC. It was a little bit on the hop and a little bit not. So I think we felt comfortable that we were able to accept that his comments weren\u2019t a breach of the ABC code of conduct.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/09/anthony-albanese-labor-one-nation-pauline-hanson-coalition-angus-taylor-ndis-jacinta-allan-victoria-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Aussies dominate England in Women's T20 World Cup warm-up",
+      "summary": "Australia cruises to a five-wicket victory over England in its penultimate Women's T20 World Cup warm-up match in Cardiff.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6199,8 +6186,8 @@
       ]
     },
     {
-      "headline": "Iran launches missiles at Israel in response to strikes on Beirut",
-      "summary": "<p>Tehran official had promised \u2018decisive and painful\u2019 reply to Israeli bombing of apartment buildings in Beirut\u2019s southern suburbs</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates\">Middle East crisis \u2013 live updates</a></p></li></ul><p>Iran launched missiles at Israel on Sunday in response to Israeli strikes on Beirut\u2019s southern suburbs, shattering a fragile ceasefire and marking the most serious escalation since April, after 100 days of war.</p><p>A senior Iranian official has promised a \u201cdecisive and painful\u201d response to Israel\u2019s airstrikes on the southern suburbs of Beirut and, a few hours later, sirens sounded across northern Israel.</p> <a href=\"https://www.theguardian.com/world/2026/jun/07/israel-escalates-war-hezbollah-airstrikes-beirut\">Continue reading...</a>",
+      "headline": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
+      "summary": "<p>Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say</p><p>Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negotiations, authorities and residents said on Monday, highlighting the region\u2019s worsening security.</p><p>According to local police, 39 people were seized on Sunday during a meeting in the forest near Magamin Diddi village in the Maradun municipality of north-west Zamfara state. But some residents and officials believe the number of those abducted could be as high as 50.</p> <a href=\"https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6210,8 +6197,8 @@
       ]
     },
     {
-      "headline": "Australia news live: support for One Nation edges ahead of Labor in new poll; RSV warning for older Australians",
-      "summary": "<p>Support for prime minister Anthony Albanese slumps; King\u2019s Birthday honours awarded</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Julia Gillard \u2018disgusted\u2019 by \u2018ditch the witch\u2019 ads targeting Victorian premier</strong></p><p>Former prime minister <strong>Julia Gillard</strong> issued a rare political comment after a Melbourne brothel owner admitted to funding advertisements targeting Victoria premier <strong>Jacinta Allan</strong> using the phrase \u201cDitch the Witch\u201d.</p><p>This was a slogan used against me as prime minister fifteen years ago.</p><p>It was roundly condemned then. In the years since, my view has been that things were slowly improving for women in politics. More women are leading, sexism hasn\u2019t gone away but it is less ferocious in the political mainstream, though social media continues to be a toxic sewer.</p> <a href=\"https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb\">Continue reading...</a>",
+      "headline": "Lebanon\u2019s president refuses to meet Netanyahu until war ends \u2013 as it happened",
+      "summary": "<p>This live blog is now closed. For the latest, read more of our coverage on the Middle East conflict <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\"><strong>here</strong></a>. </p><p>Iranian media is reporting that there were no immediate casualties following apparent Israeli strikes on the Karun petrochemical plant in Mahshahr, a city in Iran\u2019s southwestern Khuzestan province.</p><p>According to the Fars news agency, Iran\u2019s Revolutionary Guards said they responded to what they described as an American-Israeli strike on the Iranian petrochemical site by launching a missile attack on a similar plant in the northern Israeli city of Haifa.</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6221,8 +6208,30 @@
       ]
     },
     {
-      "headline": "Zelensky's close European allies set out five conditions for peace talks",
-      "summary": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran.",
+      "headline": "Somali referee denied entry to US days out from start of World Cup",
+      "summary": "Highly rated Somali referee Omar Artan is turned away from the US just days before he was expected to officiate in the FIFA World Cup.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "UN human rights leader calls for Cuba sanctions to be \u2018lifted immediately\u2019",
+      "summary": "Volker Turk, the UN&#039;s high commissioner for human rights, warns that &#039;children are dying&#039; as result of US oil blockade.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Somali referee Artan barred from entering USA",
+      "summary": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6232,8 +6241,19 @@
       ]
     },
     {
-      "headline": "Iran\u2019s attack on Israel aims to restore deterrence but avoid return to war",
-      "summary": "Iran&#039;s attack on Israel aims to restore deterrence but avoid return to war.",
+      "headline": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+      "summary": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Pope Leo makes visit to Spain\u2019s Almudena Cathedral",
+      "summary": "Crowds in Madrid were delighted to see Pope Leo make a visit to Santa Maria de la Almudena Cathedral with Queen Sofia.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6243,52 +6263,8 @@
       ]
     },
     {
-      "headline": "Italian rescuers recover 10 bodies after migrant boat capsizes off Malta",
-      "summary": "<p>About 48 people rescued alive after vessel reportedly left Libya carrying about 60 passengers</p><p>Italian rescuers have recovered 10 bodies after a migrant boat capsized in waters off Malta, a coastguard statement said on Sunday.</p><p>The vessel, which had departed from Libya carrying about 60 people, overturned about 45 nautical miles east-south-east of Malta, the Italian coastguard said.</p> <a href=\"https://www.theguardian.com/world/2026/jun/07/italian-rescuers-recover-10-bodies-after-migrant-boat-capsizes-off-malta\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Aussie pole vaulter hands Duplantis first loss in more than 1,000 days",
-      "summary": "Kurtis Marschall pulls off a major upset, defeating world record holder Armand \"Mondo\" Duplantis at the Stockholm Diamond League meet.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Videos show missiles launched from Iran into Israel",
-      "summary": "Iranian media has released video showing missiles being launched towards Israel.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Richard Scolyer, cancer researcher and former Australian of the year, dies aged 59",
-      "summary": "<p>Scolyer, who did pioneering work on immunotherapy, was diagnosed with inoperable brain cancer in 2023</p><ul><li><p><a href=\"https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Prof Richard Scolyer, the world-renowned cancer researcher and former Australian of the Year, has died at the age of 59.</p><p>Scolyer\u2019s family shared a statement the eminent pathologist and melanoma expert penned before his final stages of illness.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/08/richard-scolyer-cancer-researcher-and-former-australian-of-the-year-dies-aged-59\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
-      "summary": "Iranian state TV broadcast scenes of celebration in Tehran as missiles flew overhead en route to Israel.",
+      "headline": "EU planning to add to $1.5 trillion sanctions hit on Russia",
+      "summary": "New proposed listings target Russia&#039;s &#039;military industrial complex, human rights violators and propagandists&#039;.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6616,9 +6592,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-06-08T08:07:44.788649+10:00",
-    "date": "2026-06-08",
-    "display_date": "Monday 08 June 2026",
-    "display_time": "08:07 AM AEST"
+    "generated_at": "2026-06-09T08:42:56.077472+10:00",
+    "date": "2026-06-09",
+    "display_date": "Tuesday 09 June 2026",
+    "display_time": "08:42 AM AEST"
   }
 }
