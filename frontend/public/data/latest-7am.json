@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7386.65,
-      "change": -19.08,
-      "change_pct": -0.26,
+      "price": 7266.99,
+      "change": -119.66,
+      "change_pct": -1.62,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25678.82,
-      "change": -250.84,
-      "change_pct": -0.97,
+      "price": 25169.5,
+      "change": -509.32,
+      "change_pct": -1.98,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50872.11,
-      "change": 86.1,
-      "change_pct": 0.17,
-      "trend_5d": "up"
+      "price": 49918.78,
+      "change": -953.33,
+      "change_pct": -1.87,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 19.87,
-      "change": 0.95,
-      "change_pct": 5.02,
+      "price": 22.22,
+      "change": 2.35,
+      "change_pct": 11.83,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.53,
-      "change": -0.02,
-      "change_pct": -0.44,
+      "price": 4.54,
+      "change": 0.01,
+      "change_pct": 0.22,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64024.6,
-      "change": -2563.52,
-      "change_pct": -3.85,
+      "price": 65416.63,
+      "change": 1392.03,
+      "change_pct": 2.17,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24657.06,
-      "change": -304.89,
-      "change_pct": -1.22,
+      "price": 24565.9,
+      "change": -91.16,
+      "change_pct": -0.37,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7484.41,
-      "change": -676.18,
-      "change_pct": -8.29,
+      "price": 8096.93,
+      "change": 612.52,
+      "change_pct": 8.18,
       "trend_5d": "flat"
     }
   ],
@@ -79,72 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4284.8,
-      "change_pct": -1.18
+      "price": 4094.1,
+      "change_pct": -3.89
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 91.83,
-      "change_pct": -2.57
+      "price": 94.71,
+      "change_pct": 3.56
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 88.7,
-      "change_pct": -2.85
+      "price": 91.85,
+      "change_pct": 4.14
     }
   ],
   "asx200": {
-    "level": 8625.1,
-    "change_pct": -0.7
+    "level": 8604.2,
+    "change_pct": -0.24
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7026,
-      "change_pct": -0.2495
+      "current_rate": 0.6999,
+      "change_pct": -0.5911
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5826,
-      "change_pct": 0.508
+      "current_rate": 0.5795,
+      "change_pct": -0.1524
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2066,
-      "change_pct": -0.693
+      "current_rate": 1.2069,
+      "change_pct": -0.5004
     }
   ],
   "world_news": [
     {
-      "headline": "US striking Iran in response to downing of helicopter, military says",
-      "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Kyrgios wins Stuttgart opener after five-month tour absence",
-      "summary": "Nick Kyrgios makes a successful return to the court, claiming only his second singles victory since 2022.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Australia news live: Australia joins sanctions against \u2018extremist settlers\u2019 in West Bank; Barbecues Galore no more",
-      "summary": "<p>Penny Wong issues statement overnight announcing joint action with western allies to combat \u2018horrific levels of settler violence against Palestinian civilians\u2019</p><ul><li><p><strong>Get our </strong><a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"><strong>breaking news email</strong></a><strong>, </strong><a href=\"https://app.adjust.com/w4u7jx3\"><strong>free app</strong></a><strong> or </strong><a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\"><strong>daily news podcast</strong></a></p></li></ul><p><strong>Climate change minister says world is having an \u2018electrification moment\u2019 at major conference </strong></p><p>The climate change minister, <strong>Chris Bowen</strong>, said he think the world is having an \u201celectrification moment\u201d during a climate change conference in Bonn, Germany, this week.</p><p>One thing that we have been getting right in Australia is that the journey to net zero runs through households, and it becomes a self-fulfilling prophecy in many ways.</p><p>I think what\u2019s happening is this: a lot of households are saying, well, now that we have solar panels on the roof and a battery in the garage, why don\u2019t we get an EV? Because we can charge that EV at night off our battery and pay nothing. And I think these things become self-fulfilling and self-reinforcing.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/10/australia-news-live-penny-wong-sanctions-west-bank-settlers-australian-politics-high-court-israel-palestine-settlers-immigration-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Angus Taylor rejects proposal to \u2018carve up\u2019 seats between Coalition and One Nation; $100m for new arthritis research",
+      "summary": "<p>Liberal leader says there is \u2018no plan\u2019 for the parties to collaborate on which seats to run in.  Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Wong not \u2018interested\u2019 in One Nation\u2019s fundraising</strong></p><p>Wong she isn\u2019t concerned about One Nation\u2019s fundraising efforts, but more about their policies. Pauline Hanson\u2019s party says it\u2019s raised more than $1.5m in the last day, although those claims are unverified.</p><p>I\u2019m less interested in what Pauline Hanson fundraises and am more concerned about One Nation\u2019s policies. Just as I am concerned about the fact that the Liberal Party and One Nation seem to be working together and that it appears to be very clearly that a vote for One Nation is actually a vote for the Liberal Party, and a vote for the Liberal Party is actually a vote for One Nation.</p><p>We\u2019ve said for some time it\u2019s obviously a fragile ceasefire, but we\u2019ve also said that what Australia wants is a negotiated end to the war. That\u2019s what we\u2019re calling for, and that\u2019s what we will continue to press for \u2026</p><p>We\u2019re not a central player in the Middle East, as we have said. What we can do is add our voice to others who are calling for a negotiated end to the conflict. It\u2019s obviously one of the things we discuss today with the United Kingdom.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/11/australia-news-live-labor-coalition-one-nation-anthony-albanese-pauline-hanson-capital-gains-housing-peptides-arthritis-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +132,8 @@
       ]
     },
     {
-      "headline": "Concerns over US company\u2019s plan to frack world\u2019s most intact tropical savanna in WA revealed",
-      "summary": "<p>Federal environment department says Black Mountain Energy has provided insufficient data as it seeks to drill 20 gas wells in the Kimberley region  </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The federal government has repeatedly raised concerns about an American company\u2019s bid to frack for gas in Western Australia\u2019s Kimberley region, part of the world\u2019s largest and most intact tropical savanna.</p><p>Texas-based Black Mountain Energy, through its subsidiary Bennett Resources, is seeking federal approval to drill 20 gas wells for its Valhalla project west of Fitzroy Crossing.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/10/wa-fracking-gas-us-company-federal-environment-department-concern\">Continue reading...</a>",
+      "headline": "Middle East crisis live: US military begins launching more airstrikes at \u2018multiple targets\u2019 Iran",
+      "summary": "<p>The strikes began at 5.15pm EST on Wednesday \u2013 after midnight on Thursday local time \u2013 \u2018at the Commander in Chief\u2019s direction\u2019, Centcom says</p><p><strong>If the US genuinely wants a deal it will have to engage with Iranian demands on sanctions relief, says Danny Citrinowicz, the former head of the Iran branch of Israeli military intelligence.</strong></p><p>Today\u2019s exchange of strikes shows how easily both Iran and the US can slide towards another round of escalation, says Citrinowicz, who is now a nonresident fellow at the Atlantic Council.</p><p>If Washington is unwilling to accept that reality, it should recognize the likely alternative: continued confrontations with Iran that could eventually spiral beyond anyone\u2019s control and lead to military conflict under less favorable conditions.</p><p>Even a limited military campaign designed to weaken Iran would not fundamentally alter Tehran\u2019s negotiating position. It has not happened in the past, and there is little reason to believe it would happen now. Iran emerges from the latest exchange of blows convinced that it can absorb pressure and respond to attacks.\u201d</p><p>Legal and moral responsibility of all countries in the region (especially those located along the southern shores of the Persian Gulf) to prevent the US military and Israel from using their territory or facilities to plan, organise, execute, or support hostile actions against Iran.</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,19 +143,8 @@
       ]
     },
     {
-      "headline": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
-      "summary": "President Trump accused Iran of shooting down a US Apache helicopter over the Strait of Hormuz",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Inside Myanmar, rebels are losing ground as military forces men into army",
-      "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+      "headline": "Fireworks illuminate Barcelona's Sagrada Fam\u00edlia during Pope visit",
+      "summary": "Pope Leo XIV says Barcelona's iconic Sagrada Fam\u00edlia is a masterpiece of \"stones, colours and light\" during his visit to Spain.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,47 +154,80 @@
       ]
     },
     {
-      "headline": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
-      "summary": "Israeli forces killed nine people in Tyre in the past 24 hours after it issued forced displacement orders on the city.",
+      "headline": "Trump says US will hit Iran 'hard' again today",
+      "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "BBC World"
       ]
     },
     {
-      "headline": "Canada confirms opening of Gordie Howe Bridge, despite Trump\u2019s threats",
-      "summary": "Trump had threatened to halt the opening of the cross-border bridge, which is jointly owned by Michigan and Canada.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Bear captured after days of panic and school closures in Japan",
-      "summary": "A bear that triggered days of disruption in the Japanese city of Utsunomiya was captured.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Serena Williams makes winning return to court at Queen's",
-      "summary": "Serena Williams steals the show at Queen's Club, as the American icon marks her eagerly awaited return to competitive action with a doubles victory nearly four years after her last match.",
+      "headline": "Voll stars as Aussies hammer Windies in final T20 World Cup warm-up",
+      "summary": "Australia goes into the Women's T20 World Cup in a positive frame of mind, after Georgia Voll leads a dominant win over West Indies in their final warm-up match in Cardiff.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Trump directs interim US intelligence chief Bill Pulte to downsize agency",
+      "summary": "Interim ODNI chief Bill Pulte has been slammed by Democrats as a Donald Trump loyalist with no intelligence background.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "French singer Patrick Bruel faces rape charges",
+      "summary": "Bruel has been placed under judicial investigation, which means an examining magistrate will look more deeply into the case.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Mexico City welcomes World Cup but reality bites for many",
+      "summary": "As Mexicans prepare to host or co-host the FIFA World Cup for a record third time, many locals are frustrated by being locked out of the tournament, while others are more optimistic.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Pro-Palestinian activists accused of intimidation campaign against University of Michigan officials",
+      "summary": "<p>Federal prosecutors unsealed indictment against activists trying to force the school to cut financial ties to Israel</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>Federal prosecutors unsealed an indictment on Wednesday against eight pro-Palestinian activists who are accused of conspiring to run a criminal intimidation campaign against University of Michigan officials while trying to force the school to cut financial ties to <a href=\"https://www.theguardian.com/world/israel\">Israel</a>.</p><p>The indictment also describes vandalism against some companies that operate in <a href=\"https://www.theguardian.com/us-news/michigan\">Michigan</a> and against the Jewish Federation of Metropolitan Detroit.</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/10/pro-palestinian-activists-accused-intimidation-campaign-university-michigan\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Israel kills 16 in Lebanon, UN to probe international law violations",
+      "summary": "UN investigators to arrive in Lebanon next week to assess potential violations of international law by all parties.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-10T07:46:33.833720+10:00",
-    "date": "2026-06-10",
-    "display_date": "Wednesday 10 June 2026",
-    "display_time": "07:46 AM AEST"
+    "generated_at": "2026-06-11T07:59:38.063163+10:00",
+    "date": "2026-06-11",
+    "display_date": "Thursday 11 June 2026",
+    "display_time": "07:59 AM AEST"
   }
 }
