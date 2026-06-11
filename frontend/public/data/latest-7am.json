@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7266.99,
-      "change": -119.66,
-      "change_pct": -1.62,
-      "trend_5d": "down"
+      "price": 7394.3,
+      "change": 127.31,
+      "change_pct": 1.75,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25169.5,
-      "change": -509.32,
-      "change_pct": -1.98,
-      "trend_5d": "down"
+      "price": 25809.66,
+      "change": 640.16,
+      "change_pct": 2.54,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49918.78,
-      "change": -953.33,
-      "change_pct": -1.87,
-      "trend_5d": "down"
+      "price": 50848.75,
+      "change": 929.97,
+      "change_pct": 1.86,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 22.22,
-      "change": 2.35,
-      "change_pct": 11.83,
-      "trend_5d": "up"
+      "price": 19.44,
+      "change": -2.78,
+      "change_pct": -12.51,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.54,
-      "change": 0.01,
-      "change_pct": 0.22,
-      "trend_5d": "up"
+      "price": 4.46,
+      "change": -0.08,
+      "change_pct": -1.76,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 65416.63,
-      "change": 1392.03,
-      "change_pct": 2.17,
+      "price": 64179.27,
+      "change": -1237.36,
+      "change_pct": -1.89,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24565.9,
-      "change": -91.16,
-      "change_pct": -0.37,
+      "price": 24407.96,
+      "change": -157.94,
+      "change_pct": -0.64,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8096.93,
-      "change": 612.52,
-      "change_pct": 8.18,
+      "price": 7730.82,
+      "change": -366.11,
+      "change_pct": -4.52,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4094.1,
-      "change_pct": -3.89
+      "price": 4233.8,
+      "change_pct": 3.06
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 94.71,
-      "change_pct": 3.56
+      "price": 89.09,
+      "change_pct": -4.31
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 91.85,
-      "change_pct": 4.14
+      "price": 86.42,
+      "change_pct": -4.01
     }
   ],
   "asx200": {
-    "level": 8604.2,
-    "change_pct": -0.24
+    "level": 8653.3,
+    "change_pct": 0.57
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6999,
-      "change_pct": -0.5911
+      "current_rate": 0.7051,
+      "change_pct": 0.3998
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5795,
-      "change_pct": -0.1524
+      "current_rate": 0.5834,
+      "change_pct": 0.4556
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2069,
-      "change_pct": -0.5004
+      "current_rate": 1.2081,
+      "change_pct": 0.0936
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Angus Taylor rejects proposal to \u2018carve up\u2019 seats between Coalition and One Nation; $100m for new arthritis research",
-      "summary": "<p>Liberal leader says there is \u2018no plan\u2019 for the parties to collaborate on which seats to run in.  Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Wong not \u2018interested\u2019 in One Nation\u2019s fundraising</strong></p><p>Wong she isn\u2019t concerned about One Nation\u2019s fundraising efforts, but more about their policies. Pauline Hanson\u2019s party says it\u2019s raised more than $1.5m in the last day, although those claims are unverified.</p><p>I\u2019m less interested in what Pauline Hanson fundraises and am more concerned about One Nation\u2019s policies. Just as I am concerned about the fact that the Liberal Party and One Nation seem to be working together and that it appears to be very clearly that a vote for One Nation is actually a vote for the Liberal Party, and a vote for the Liberal Party is actually a vote for One Nation.</p><p>We\u2019ve said for some time it\u2019s obviously a fragile ceasefire, but we\u2019ve also said that what Australia wants is a negotiated end to the war. That\u2019s what we\u2019re calling for, and that\u2019s what we will continue to press for \u2026</p><p>We\u2019re not a central player in the Middle East, as we have said. What we can do is add our voice to others who are calling for a negotiated end to the conflict. It\u2019s obviously one of the things we discuss today with the United Kingdom.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/11/australia-news-live-labor-coalition-one-nation-anthony-albanese-pauline-hanson-capital-gains-housing-peptides-arthritis-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Richard Marles left adrift as UK counterpart quits hours before scheduled visit to naval yard",
+      "summary": "<p>Australia\u2019s defence minister had been due to visit a naval base in Portsmouth with British defence secretary John Healey. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Resignation of Britain\u2019s defence secretary will have \u2018no effect\u2019 on Aukus, minister says</strong></p><p><strong>Tim Ayres,</strong> the minister for innovation, said the resignation of <strong>John Healey</strong> in the UK, Britain\u2019s defence secretary, will have \u201cno effect\u201d on the Aukus partnership.</p><p>This is a partnership that has deep support across all three countries\u2019 political systems, within the public service and the defence agencies in all three countries, and indeed with the defence industry, because it\u2019s in the interests of all three countries.</p><p><strong>Over the life of this agreement \u2026 there will be many ministers for defence</strong> for all three countries, many secretaries for war in the United States case, who are there charged with delivering this program.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "Middle East crisis live: US military begins launching more airstrikes at \u2018multiple targets\u2019 Iran",
-      "summary": "<p>The strikes began at 5.15pm EST on Wednesday \u2013 after midnight on Thursday local time \u2013 \u2018at the Commander in Chief\u2019s direction\u2019, Centcom says</p><p><strong>If the US genuinely wants a deal it will have to engage with Iranian demands on sanctions relief, says Danny Citrinowicz, the former head of the Iran branch of Israeli military intelligence.</strong></p><p>Today\u2019s exchange of strikes shows how easily both Iran and the US can slide towards another round of escalation, says Citrinowicz, who is now a nonresident fellow at the Atlantic Council.</p><p>If Washington is unwilling to accept that reality, it should recognize the likely alternative: continued confrontations with Iran that could eventually spiral beyond anyone\u2019s control and lead to military conflict under less favorable conditions.</p><p>Even a limited military campaign designed to weaken Iran would not fundamentally alter Tehran\u2019s negotiating position. It has not happened in the past, and there is little reason to believe it would happen now. Iran emerges from the latest exchange of blows convinced that it can absorb pressure and respond to attacks.\u201d</p><p>Legal and moral responsibility of all countries in the region (especially those located along the southern shores of the Persian Gulf) to prevent the US military and Israel from using their territory or facilities to plan, organise, execute, or support hostile actions against Iran.</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live\">Continue reading...</a>",
+      "headline": "Man charged with kidnap and murder of Sydney woman whose body has not been found",
+      "summary": "<p>Woman, 58, was last heard from Monday afternoon and her car was found the next day</p><p>A man has been charged over the alleged kidnapping and murder of a woman whose body is yet to be found.</p><p>Police have been investigating the disappearance of a 58-year-old woman who failed to returned to her home in Sydney\u2019s northwest on Tuesday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/12/man-charged-with-after-sydney-woman-allegedly-kidnapped-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,41 +143,19 @@
       ]
     },
     {
-      "headline": "Fireworks illuminate Barcelona's Sagrada Fam\u00edlia during Pope visit",
-      "summary": "Pope Leo XIV says Barcelona's iconic Sagrada Fam\u00edlia is a masterpiece of \"stones, colours and light\" during his visit to Spain.",
+      "headline": "Middle East crisis live: Trump says strait of Hormuz to open \u2018as soon as\u2019 US and Iran sign deal as Iran says no final decision made",
+      "summary": "<p>US president claims signing will probably happen in Europe at the weekend; Iranian foreign ministry says it will not compromise on \u2018red lines\u2019 in negotiations</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire\">Full report: Trump says US and Iran on verge of signing peace agreement</a></p></li></ul><p><strong>Three Indian seafarers were killed in a US attack on an oil tanker earlier this week,</strong> India\u2019s shipping minister, \u200cSarbananda Sonowal, said.</p><p>\u201cIt is deeply unfortunate to learn of the tragic incident aboard the Palau-flagged MT Settebello. Sadly, three Indian seafarers initially reported missing are now confirmed dead after bodies have been located and identified,\u201d he wrote in a post on X.</p><p>The Middle East is being pulled deeper into crisis &amp; the consequences reach far beyond the region.\u201d</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Trump says US will hit Iran 'hard' again today",
-      "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Voll stars as Aussies hammer Windies in final T20 World Cup warm-up",
-      "summary": "Australia goes into the Women's T20 World Cup in a positive frame of mind, after Georgia Voll leads a dominant win over West Indies in their final warm-up match in Cardiff.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Trump directs interim US intelligence chief Bill Pulte to downsize agency",
-      "summary": "Interim ODNI chief Bill Pulte has been slammed by Democrats as a Donald Trump loyalist with no intelligence background.",
+      "headline": "Man pleads guilty to slaying top Democrat and her husband in Minnesota",
+      "summary": "Murder of Melissa and Mark Hortman by man disguised as police officer prompted concerns about political violence in US.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,47 +165,69 @@
       ]
     },
     {
-      "headline": "French singer Patrick Bruel faces rape charges",
-      "summary": "Bruel has been placed under judicial investigation, which means an examining magistrate will look more deeply into the case.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Mexico City welcomes World Cup but reality bites for many",
-      "summary": "As Mexicans prepare to host or co-host the FIFA World Cup for a record third time, many locals are frustrated by being locked out of the tournament, while others are more optimistic.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Pro-Palestinian activists accused of intimidation campaign against University of Michigan officials",
-      "summary": "<p>Federal prosecutors unsealed indictment against activists trying to force the school to cut financial ties to Israel</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>Federal prosecutors unsealed an indictment on Wednesday against eight pro-Palestinian activists who are accused of conspiring to run a criminal intimidation campaign against University of Michigan officials while trying to force the school to cut financial ties to <a href=\"https://www.theguardian.com/world/israel\">Israel</a>.</p><p>The indictment also describes vandalism against some companies that operate in <a href=\"https://www.theguardian.com/us-news/michigan\">Michigan</a> and against the Jewish Federation of Metropolitan Detroit.</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/10/pro-palestinian-activists-accused-intimidation-campaign-university-michigan\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Israel kills 16 in Lebanon, UN to probe international law violations",
-      "summary": "UN investigators to arrive in Lebanon next week to assess potential violations of international law by all parties.",
+      "headline": "Jimenez and Quinones net as Mexico beat South Africa in World Cup opener",
+      "summary": "World Cup 2026 cohosts Mexico open the tournament with 2-0 win against South Africa, who were reduced to nine men.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "World Cup mania at Mexico\u2019s Zocalo Square",
+      "summary": "Jubilant football fans at Mexico City\u2019s Zocalo Square are ready for the World Cup Opener at the city\u2019s centre.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "What happened, and who performed at the World Cup 2026 opening ceremony?",
+      "summary": "Musical performances, colour, and fan excitement precede the World Cup&#039;s opening game in Mexico City.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "How puppets are helping women and children in Gaza cope with trauma",
+      "summary": "A puppet show project in Gaza is using storytelling and creative workshops to help women and children process trauma.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Minister condemns \u2018racist thuggery\u2019 as violence returns to Northern Ireland",
+      "summary": "The return of unrest to the province, which suffered decades of sectarian violence, has provoked deep concern.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Military strikes on water facilities in Iran may constitute a war crime, experts say",
+      "summary": "<p>Strikes on Bemani damaged key water reservoir for 20,000 people living in area amid a historic drought in the country</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis\">Middle East crisis \u2013 live updates</a></p></li></ul><p>Military strikes that damaged two water storage facilities in southern Iran may constitute a war crime, military and legal experts say, after reviewing media reports and visual evidence of a 10 June strike on Bemani, a small district about 2 miles from the strait of Hormuz.</p><p>It\u2019s unclear if the strikes deliberately targeted the district\u2019s water tanks, or if they unintentionally destroyed a key reservoir for about 20,000 people living nearby. But if the tanks were the target, then the legal question becomes critical, Brian Finucane, a former state department lawyer, said. \u201cIt\u2019s either a military objective or it\u2019s a civilian object: attacking one is lawful, attacking the other is a war crime,\u201d Finucane said.</p> <a href=\"https://www.theguardian.com/world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-11T07:59:38.063163+10:00",
-    "date": "2026-06-11",
-    "display_date": "Thursday 11 June 2026",
-    "display_time": "07:59 AM AEST"
+    "generated_at": "2026-06-12T08:01:09.200896+10:00",
+    "date": "2026-06-12",
+    "display_date": "Friday 12 June 2026",
+    "display_time": "08:01 AM AEST"
   }
 }
