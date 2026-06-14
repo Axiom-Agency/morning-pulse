@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7394.3,
-      "change": 127.31,
-      "change_pct": 1.75,
-      "trend_5d": "flat"
+      "price": 7431.46,
+      "change": 37.16,
+      "change_pct": 0.5,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25809.66,
-      "change": 640.16,
-      "change_pct": 2.54,
-      "trend_5d": "up"
+      "price": 25888.84,
+      "change": 79.18,
+      "change_pct": 0.31,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50848.75,
-      "change": 929.97,
-      "change_pct": 1.86,
-      "trend_5d": "flat"
+      "price": 51202.26,
+      "change": 353.51,
+      "change_pct": 0.7,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 19.44,
-      "change": -2.78,
-      "change_pct": -12.51,
+      "price": 17.68,
+      "change": -1.76,
+      "change_pct": -9.05,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.46,
-      "change": -0.08,
-      "change_pct": -1.76,
+      "price": 4.49,
+      "change": 0.03,
+      "change_pct": 0.67,
       "trend_5d": "down"
     }
   ],
@@ -45,84 +45,95 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64179.27,
-      "change": -1237.36,
-      "change_pct": -1.89,
-      "trend_5d": "flat"
+      "price": 66020.04,
+      "change": 1802.77,
+      "change_pct": 2.81,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24407.96,
-      "change": -157.94,
-      "change_pct": -0.64,
-      "trend_5d": "flat"
+      "price": 24718.1,
+      "change": 468.81,
+      "change_pct": 1.93,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 4031.51,
+      "change": 44.5,
+      "change_pct": 1.12,
+      "trend_5d": "up"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7730.82,
-      "change": -366.11,
-      "change_pct": -4.52,
-      "trend_5d": "flat"
+      "price": 8123.62,
+      "change": 359.67,
+      "change_pct": 4.63,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4233.8,
-      "change_pct": 3.06
+      "price": 4238.8,
+      "change_pct": 3.63
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 89.09,
-      "change_pct": -4.31
+      "price": 87.33,
+      "change_pct": -3.37
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 86.42,
-      "change_pct": -4.01
+      "price": 84.88,
+      "change_pct": -3.23
     }
   ],
   "asx200": {
-    "level": 8653.3,
-    "change_pct": 0.57
+    "level": 8804.0,
+    "change_pct": 1.98
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7051,
-      "change_pct": 0.3998
+      "current_rate": 0.7046,
+      "change_pct": -0.0238
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5834,
-      "change_pct": 0.4556
+      "current_rate": 0.5831,
+      "change_pct": -0.0385
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2081,
-      "change_pct": 0.0936
+      "current_rate": 1.2069,
+      "change_pct": -0.1225
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Richard Marles left adrift as UK counterpart quits hours before scheduled visit to naval yard",
-      "summary": "<p>Australia\u2019s defence minister had been due to visit a naval base in Portsmouth with British defence secretary John Healey. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Resignation of Britain\u2019s defence secretary will have \u2018no effect\u2019 on Aukus, minister says</strong></p><p><strong>Tim Ayres,</strong> the minister for innovation, said the resignation of <strong>John Healey</strong> in the UK, Britain\u2019s defence secretary, will have \u201cno effect\u201d on the Aukus partnership.</p><p>This is a partnership that has deep support across all three countries\u2019 political systems, within the public service and the defence agencies in all three countries, and indeed with the defence industry, because it\u2019s in the interests of all three countries.</p><p><strong>Over the life of this agreement \u2026 there will be many ministers for defence</strong> for all three countries, many secretaries for war in the United States case, who are there charged with delivering this program.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb\">Continue reading...</a>",
+      "headline": "Gaza mourns four killed in Israeli strike",
+      "summary": "Cries of grief echoed through Gaza City for four Palestinians killed near the Jabalia refugee camp in northern Gaza.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Middle East crisis live: Iran warns of \u2018imminent\u2019 response to Israeli strike on Beirut as ceasefire deal looks shaky",
+      "summary": "<p>Iran\u2019s highest national security body appears unswayed by US president\u2019s call for restraint; Trump says Israel should not have attacked Beirut</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal\">Trump calls for restraint after Israel airstrikes on Beirut</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/jun/14/iranian-hardliners-in-vociferous-push-to-reject-proposed-peace-deal-with-us\">Iranian hardliners in vociferous push to reject US peace deal</a></p></li></ul><p>Israel says it has struck Beirut\u2019s south suburbs, with explosions heard in the city. The Israeli military claimed the attacks on the Lebanese capital were in response to Hezbollah firing into Israeli territory.</p><p>The military were reportedly targeting Hezbollah targets in Beirut\u2019s southern suburbs, the group\u2019s stronghold known as Dahiyeh, according to a joint statement by prime minister Benjamin Netanyahu and defense minister Israel Katz.</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,30 +143,19 @@
       ]
     },
     {
-      "headline": "Man charged with kidnap and murder of Sydney woman whose body has not been found",
-      "summary": "<p>Woman, 58, was last heard from Monday afternoon and her car was found the next day</p><p>A man has been charged over the alleged kidnapping and murder of a woman whose body is yet to be found.</p><p>Police have been investigating the disappearance of a 58-year-old woman who failed to returned to her home in Sydney\u2019s northwest on Tuesday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/12/man-charged-with-after-sydney-woman-allegedly-kidnapped-ntwnfb\">Continue reading...</a>",
+      "headline": "Rising star Connolly fights cramp to hit stunning ton in Aussie victory",
+      "summary": "Cooper Connolly fights off his body going into shock due to cramps to record his maiden international century.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "ABC Australia"
       ]
     },
     {
-      "headline": "Middle East crisis live: Trump says strait of Hormuz to open \u2018as soon as\u2019 US and Iran sign deal as Iran says no final decision made",
-      "summary": "<p>US president claims signing will probably happen in Europe at the weekend; Iranian foreign ministry says it will not compromise on \u2018red lines\u2019 in negotiations</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire\">Full report: Trump says US and Iran on verge of signing peace agreement</a></p></li></ul><p><strong>Three Indian seafarers were killed in a US attack on an oil tanker earlier this week,</strong> India\u2019s shipping minister, \u200cSarbananda Sonowal, said.</p><p>\u201cIt is deeply unfortunate to learn of the tragic incident aboard the Palau-flagged MT Settebello. Sadly, three Indian seafarers initially reported missing are now confirmed dead after bodies have been located and identified,\u201d he wrote in a post on X.</p><p>The Middle East is being pulled deeper into crisis &amp; the consequences reach far beyond the region.\u201d</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Man pleads guilty to slaying top Democrat and her husband in Minnesota",
-      "summary": "Murder of Melissa and Mark Hortman by man disguised as police officer prompted concerns about political violence in US.",
+      "headline": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+      "summary": "Violence erupts during anti-G7 protests in Geneva on eve of summit.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +165,8 @@
       ]
     },
     {
-      "headline": "Jimenez and Quinones net as Mexico beat South Africa in World Cup opener",
-      "summary": "World Cup 2026 cohosts Mexico open the tournament with 2-0 win against South Africa, who were reduced to nine men.",
+      "headline": "Swiss right-wing plan to cap population rejected by narrow margins",
+      "summary": "Swiss voters reject a proposed population cap that would cap the country\u2019s population at 10 million.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +176,19 @@
       ]
     },
     {
-      "headline": "World Cup mania at Mexico\u2019s Zocalo Square",
-      "summary": "Jubilant football fans at Mexico City\u2019s Zocalo Square are ready for the World Cup Opener at the city\u2019s centre.",
+      "headline": "UK and Japan agree \u00a318bn investment deal",
+      "summary": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Medical teams in Goma face mistrust from relatives of Ebola victims",
+      "summary": "Confirmed Ebola cases in the Democratic Republic of Congo have spiked up to 782.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +198,19 @@
       ]
     },
     {
-      "headline": "What happened, and who performed at the World Cup 2026 opening ceremony?",
-      "summary": "Musical performances, colour, and fan excitement precede the World Cup&#039;s opening game in Mexico City.",
+      "headline": "Beach's dream is Ryan's nightmare, and Schwarzer can relate to both",
+      "summary": "Pat Beach became a surprise national hero with his performance against T\u00fcrkiye, while incumbent goalkeeper Mat Ryan watched from the bench. Mark Schwarzer has experienced both sides of that coin.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Six people killed as helicopters collide over Brazil\u2019s Rio de Janeiro",
+      "summary": "Two helicopters collided in midair before crashing into car park of electric vehicle dealership, fire service says.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,36 +220,14 @@
       ]
     },
     {
-      "headline": "How puppets are helping women and children in Gaza cope with trauma",
-      "summary": "A puppet show project in Gaza is using storytelling and creative workshops to help women and children process trauma.",
+      "headline": "Lewis Hamilton wins first F1 race with Ferrari in Barcelona",
+      "summary": "Seven-time world champion&#039;s maiden victory for the Italian manufacturer is also his first F1 win in nearly two years.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Minister condemns \u2018racist thuggery\u2019 as violence returns to Northern Ireland",
-      "summary": "The return of unrest to the province, which suffered decades of sectarian violence, has provoked deep concern.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Military strikes on water facilities in Iran may constitute a war crime, experts say",
-      "summary": "<p>Strikes on Bemani damaged key water reservoir for 20,000 people living in area amid a historic drought in the country</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis\">Middle East crisis \u2013 live updates</a></p></li></ul><p>Military strikes that damaged two water storage facilities in southern Iran may constitute a war crime, military and legal experts say, after reviewing media reports and visual evidence of a 10 June strike on Bemani, a small district about 2 miles from the strait of Hormuz.</p><p>It\u2019s unclear if the strikes deliberately targeted the district\u2019s water tanks, or if they unintentionally destroyed a key reservoir for about 20,000 people living nearby. But if the tanks were the target, then the legal question becomes critical, Brian Finucane, a former state department lawyer, said. \u201cIt\u2019s either a military objective or it\u2019s a civilian object: attacking one is lawful, attacking the other is a war crime,\u201d Finucane said.</p> <a href=\"https://www.theguardian.com/world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-12T08:01:09.200896+10:00",
-    "date": "2026-06-12",
-    "display_date": "Friday 12 June 2026",
-    "display_time": "08:01 AM AEST"
+    "generated_at": "2026-06-15T07:10:15.150202+10:00",
+    "date": "2026-06-15",
+    "display_date": "Monday 15 June 2026",
+    "display_time": "07:10 AM AEST"
   }
 }
