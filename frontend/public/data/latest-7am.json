@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7554.29,
-      "change": 122.83,
-      "change_pct": 1.65,
+      "price": 7511.35,
+      "change": -42.94,
+      "change_pct": -0.57,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26683.94,
-      "change": 795.1,
-      "change_pct": 3.07,
+      "price": 26376.34,
+      "change": -307.6,
+      "change_pct": -1.15,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51671.03,
-      "change": 468.77,
-      "change_pct": 0.92,
+      "price": 51999.67,
+      "change": 328.64,
+      "change_pct": 0.64,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.2,
-      "change": -1.48,
-      "change_pct": -8.37,
+      "price": 16.41,
+      "change": 0.21,
+      "change_pct": 1.3,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.47,
-      "change": -0.02,
-      "change_pct": -0.45,
-      "trend_5d": "down"
+      "price": 4.43,
+      "change": -0.06,
+      "change_pct": -1.34,
+      "trend_5d": "flat"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66020.04,
-      "change": 1802.77,
-      "change_pct": 2.81,
+      "price": 69317.5,
+      "change": 3297.46,
+      "change_pct": 4.99,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24718.1,
-      "change": 468.81,
-      "change_pct": 1.93,
+      "price": 24842.67,
+      "change": 124.57,
+      "change_pct": 0.5,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8123.62,
-      "change": 359.67,
-      "change_pct": 4.63,
+      "price": 8545.98,
+      "change": 422.36,
+      "change_pct": 5.2,
       "trend_5d": "flat"
     }
   ],
@@ -79,83 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4336.2,
-      "change_pct": 2.88
+      "price": 4353.0,
+      "change_pct": 0.58
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 83.28,
-      "change_pct": -4.64
+      "price": 79.46,
+      "change_pct": -4.46
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 81.03,
-      "change_pct": -4.54
+      "price": 75.83,
+      "change_pct": -6.09
     }
   ],
   "asx200": {
-    "level": 8804.0,
-    "change_pct": 1.98
+    "level": 8914.0,
+    "change_pct": 1.25
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7073,
-      "change_pct": 0.358
+      "current_rate": 0.707,
+      "change_pct": -0.0786
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5823,
-      "change_pct": -0.1607
+      "current_rate": 0.5833,
+      "change_pct": -0.389
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2144,
-      "change_pct": 0.4982
+      "current_rate": 1.2117,
+      "change_pct": 0.2756
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: police to investigate Gaza flotilla activist allegations; Victorian law set to enshrine right to WFH",
-      "summary": "<p>Police meet activists and will inquire into abuse and sexual assault allegations. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Katy Gallagher</strong> was also asked about the surge in One Nation, saying there was an obvious \u201creorganisation on the conservative side of politics\u201d.</p><p>The finance minister said she wouldn\u2019t comment too deeply on opinion polls, but the Labor government had attempted to address broad concerns from Australians with its latest budget.</p><p>I think there is a lot of uncertainty and worry about events that are happening across the world, the impact that that has here. Cost of living is the number one issue with anyone you talk to right now, and the government just has to remain focused on that, and that\u2019s what we intend to do.</p><p>Opinion polls will come and go, they do. Our job is to make sure we\u2019re making the right decisions for the right time and that it\u2019s focused on the Australian people.<strong> And when there\u2019s controversy about that, and we know we\u2019ve had a lot of feedback around the budget, you know, our job is to front up and explain why we\u2019ve taken those decisions.</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Journalist hit by Israeli strike while reporting in Lebanon",
-      "summary": "A journalist for Press TV has been hit by shrapnel while filming a report on Israeli attacks in southern Lebanon.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
-      "summary": "<p>G7 told \u2018we will stand with Ukraine for as long as it takes\u2019, with Russia\u2019s finance networks and shadow fleet targeted</p><p>Keir Starmer has vowed to \u201cchoke off\u201d Russian revenue with further sanctions and to provide hundreds of millions of pounds worth of energy support for Ukraine, as he met world leaders in France for the G7.</p><p>After <a href=\"https://www.theguardian.com/politics/2026/jun/12/keir-starmer-john-healey-defence-secretary-exit\">a torrid political week at home</a>, the British prime minister sought to put himself on the front foot on the international stage at the meeting of the group of seven, which kicked off on Monday in the French spa town of \u00c9vian-les-Bains, on the shore of Lake Geneva.</p> <a href=\"https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "'Subconscious twitch': Australian referee responds to hate symbol claims",
-      "summary": "The Australian referee at the centre of a controversy around an alleged hate symbol being used during the World Cup broadcast has responded.",
+      "headline": "'We don't take s***': American star's ominous warning to Socceroos ahead of clash",
+      "summary": "American midfielder Sebastian Berhalter sends a tough warning to the Socceroos after a physical encounter between the US and Australia in a friendly last year. The two teams meet again on Saturday morning.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,41 +132,30 @@
       ]
     },
     {
-      "headline": "Egypt draw 1\u20131 with Belgium at World Cup group game",
-      "summary": "Emam Ashour&#039;s first international goal gave Egypt the lead, before veteran Romelu Lukaku forced an own goal to equalise.",
+      "headline": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
+      "summary": "The Russian frigate fired warning shots near a British retired couple on a yacht in the English Channel.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "BBC World"
       ]
     },
     {
-      "headline": "Oil prices hit three-month low and markets reach record high amid Iran deal breakthrough",
-      "summary": "<p>Donald Trump posts \u2018Let the oil flow\u2019 as US-Iran peace deal sparks immediate drop for Brent crude</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz\">Analysis: Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens</a></p></li><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/15/iran-us-peace-deal-live-updates-trump-israel-lebanon-hormuz-nuclear-program-europe-response\">Middle East crisis: live updates</a></p></li></ul><p>Global oil prices have tumbled to a three-month low and stock markets closed at a record high amid fresh hopes that a US-Iran peace deal could end the greatest energy supply crisis in the history of the market.</p><p>The price of Brent crude dropped about 4% to about $83 (\u00a362) on Monday amid optimism that the strait of Hormuz could reopen shortly and bring a return of Gulf oil exports to the market. Wholesale gas prices fell 6% in Europe.</p> <a href=\"https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal\">Continue reading...</a>",
+      "headline": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+      "summary": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "BBC World"
       ]
     },
     {
-      "headline": "McCullum goes from 'angry to gutted' after Stokes nightclub incident",
-      "summary": "England coach Brendon McCullum says he went from \"bewildered to angry to gutted\" after hearing captain Ben Stokes was involved in another late-night incident.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Netanyahu declares victory over Iran \u2013 and rules out withdrawal from Lebanon",
-      "summary": "<p>Preliminary agreement between Washington and Tehran has prompted anger in Israel, and criticism of Netanyahu</p><p>Benjamin Netanyahu has hailed a historic victory over Iran and ruled out any immediate withdrawal from Lebanon, saying that Israel\u2019s forces would remain there \u201cfor as long as necessary\u201d.</p><p>\u201cWe established deep security zones around the state of Israel. We did this in Gaza, in Lebanon and in Syria,\u201d the Israeli prime minister said in a televised press conference on Monday. \u201cAnd I want to make it clear: we will remain in these security zones \u2026 to protect our country.\u201d</p> <a href=\"https://www.theguardian.com/world/2026/jun/15/israel-territory-lebanon-defence-minister-israel-katz\">Continue reading...</a>",
+      "headline": "Australia news live: US marines plan permanent weapons stockpile in Victoria; Pauline Hanson to address National Press Club",
+      "summary": "<p>Tender documents show plans for store beyond the range of Chinese missiles, report says. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Greens refer Labor public housing tower redevelopment to Ombudsman</strong></p><p>The Victorian Greens have referred the state Labor government\u2019s plan to demolish and redevelop the state\u2019s 44 high-rise public housing towers to the state ombudsman and will use parliament today to try to expedite an investigation.</p><p>The inquiry heard evidence of residents being pressured to relocate, deceived about their rights and fearful of losing their homes and communities. Those allegations are serious, but Labor\u2019s response shows they haven\u2019t taken them seriously \u2026 They don\u2019t care what the experts say or what people think. We\u2019ve had to send in the Ombudsman to hold Labor to account before they do irreparable damage.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/17/australia-news-live-victoria-marines-weapons-pauline-hanson-one-nation-national-press-club-labor-childcare-medicare-anthony-albanese-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +165,30 @@
       ]
     },
     {
-      "headline": "Iran vs New Zealand live: World Cup 2026",
-      "summary": "Follow our live build-up, protest news, score, team sheets, score, photos and text commentary stream from Los Angeles.",
+      "headline": "Brazilian court convicts Jair Bolsonaro\u2019s son of seeking US help for his father",
+      "summary": "<p>Supreme court finds Eduardo Bolsonaro tried to get sanctions put on judges trying ex-president over coup plot</p><p>A panel of \u2060Brazil\u2019s supreme court has voted \u2060to convict Eduardo Bolsonaro of courting US \u2060interference in the coup plot trial of his father, the former president Jair Bolsonaro.</p><p>The panel\u2019s four justices each backed the conviction on Tuesday and were expected to discuss the sentence later in the day.</p> <a href=\"https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Ghana\u2019s Partey loses appeal to overturn Canadian visa refusal for World Cup",
+      "summary": "Thomas Partey will not be able to enter Canada for Ghana&#039;s first World Cup match against Panama on Wednesday.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +198,30 @@
       ]
     },
     {
-      "headline": "Can a social media ban protect young users?",
-      "summary": "The UK says it&#039;s banning access to social media for those under age 16.",
+      "headline": "Mbappe brace fires France to 3-1 win over Senegal in World Cup 2026 opener",
+      "summary": "Mbappe becomes France&#039;s all-time top scorer with 58 goals and is two goals off record World Cup scorer Miroslav Klose.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US and Iran deal to end war allows Tehran to sell oil and fuel \u2013 Middle East crisis live",
+      "summary": "<p>The countries are expected to sign a memorandum of understanding on Friday before proceeding to the next stage of talks</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/15/trump-declares-us-iran-peace-deal-all-signed-g7\">Full report: Trump declares deal \u2018all signed\u2019 as G7 leaders try to tie loose ends</a></p></li></ul><p><em>You can follow all the latest developments from the G7 summit in our Europe live blog:</em></p><p>We will be including any Iran-related news from the summit in our Middle East crisis live blog.</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/16/iran-us-deal-trump-vance-strait-hormuz-israel-lebanon-middle-east-latest-news-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Argentina vs Algeria live: World Cup 2026",
+      "summary": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream service.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-16T08:17:33.305848+10:00",
-    "date": "2026-06-16",
-    "display_date": "Tuesday 16 June 2026",
-    "display_time": "08:17 AM AEST"
+    "generated_at": "2026-06-17T08:09:48.694458+10:00",
+    "date": "2026-06-17",
+    "display_date": "Wednesday 17 June 2026",
+    "display_time": "08:09 AM AEST"
   }
 }
