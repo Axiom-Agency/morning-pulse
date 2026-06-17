@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7511.35,
-      "change": -42.94,
-      "change_pct": -0.57,
+      "price": 7420.1,
+      "change": -91.25,
+      "change_pct": -1.21,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26376.34,
-      "change": -307.6,
-      "change_pct": -1.15,
+      "price": 26021.66,
+      "change": -354.68,
+      "change_pct": -1.34,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51999.67,
-      "change": 328.64,
-      "change_pct": 0.64,
+      "price": 51492.55,
+      "change": -507.12,
+      "change_pct": -0.98,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.41,
-      "change": 0.21,
-      "change_pct": 1.3,
+      "price": 18.44,
+      "change": 2.03,
+      "change_pct": 12.37,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.43,
-      "change": -0.06,
-      "change_pct": -1.34,
+      "price": 4.46,
+      "change": -0.03,
+      "change_pct": -0.67,
       "trend_5d": "flat"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69317.5,
-      "change": 3297.46,
-      "change_pct": 4.99,
+      "price": 69404.5,
+      "change": 87.0,
+      "change_pct": 0.13,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24842.67,
-      "change": 124.57,
-      "change_pct": 0.5,
+      "price": 24493.95,
+      "change": -348.72,
+      "change_pct": -1.4,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8545.98,
-      "change": 422.36,
-      "change_pct": 5.2,
+      "price": 8726.6,
+      "change": 180.62,
+      "change_pct": 2.11,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,72 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4353.0,
-      "change_pct": 0.58
+      "price": 4276.3,
+      "change_pct": -1.26
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 79.46,
-      "change_pct": -4.46
+      "price": 78.69,
+      "change_pct": -0.34
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 75.83,
-      "change_pct": -6.09
+      "price": 75.01,
+      "change_pct": -1.37
     }
   ],
   "asx200": {
-    "level": 8914.0,
-    "change_pct": 1.25
+    "level": 8917.7,
+    "change_pct": 0.04
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.707,
-      "change_pct": -0.0786
+      "current_rate": 0.7018,
+      "change_pct": -0.7771
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5833,
-      "change_pct": -0.389
+      "current_rate": 0.5772,
+      "change_pct": -0.9593
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2117,
-      "change_pct": 0.2756
+      "current_rate": 1.2149,
+      "change_pct": 0.1088
     }
   ],
   "world_news": [
     {
-      "headline": "'We don't take s***': American star's ominous warning to Socceroos ahead of clash",
-      "summary": "American midfielder Sebastian Berhalter sends a tough warning to the Socceroos after a physical encounter between the US and Australia in a friendly last year. The two teams meet again on Saturday morning.",
+      "headline": "Australia news live: nonstop Sydney-London flights delayed again; anti-abortion bill blocked in SA",
+      "summary": "<p>Qantas now says first Project Sunrise flight due to take off in November 2027. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>New One Nation MP details Hanson\u2019s \u2018monocultural Australia\u2019 plans</strong></p><p><strong>David Farley</strong>, the recently elected One Nation MP for Farrer, is praising Hanson\u2019s speech yesterday and detailing what he believes a \u201cmonocultural Australia\u201d looks like.</p><p>If you\u2019re coming to Australia to have a better life, you become an Australian. That\u2019s what we\u2019re referring to as a monocultured Australia. You\u2019re an Australian first, and your ethnicity or your creed comes second. \u2026</p><p>The reality is, we\u2019re a Christian Judeo society with a law structure around us, and they\u2019ve come with one clear objective: to have a better life. And that one clear objective should be, if they want to have a better life here, is to live within our culture and live within our laws and rules.</p><p>It was direct shooting. It hit the targets. It was clear. It was successful. And it addressed a number of the elephants in the room. \u2026 So the speech hit the target for where Australians are today.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/18/australia-news-live-non-stop-sydney-london-flights-qantas-one-nation-pauline-hanson-labor-anthony-albanese-economy-cost-of-living-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Middle East crisis live: Iran agrees to destroy enriched uranium stockpile, memorandum read out by US officials says",
+      "summary": "<p>Senior US officials read out MOU text to journalists, insisting down-blending is a starting point; deal says sanctions relief tied to nuclear action</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/16/us-iran-deal-israel-relationship\">Analysis: Where does Iran deal leave US-Israel relationship?</a></p></li></ul><p>Trump also addressed media reports of a leaked US-Iran deal (see post at <a href=\"https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated?page=with%3Ablock-6a3279fb8f08bd83c766ba5d#block-6a3279fb8f08bd83c766ba5d\">11:57</a>), <strong>denying claims it includes a $300bn reconstruction fund for Tehran.</strong></p><p>\u201cWe\u2019re not putting up 10 cents,\u201d he said. \u201cWe are not investing and we do not have a fund.\u201d</p><p>It\u2019s not final. It\u2019s a memorandum of understanding, and <strong>if I don\u2019t like it, we\u2019ll go back to shooting at them</strong>, dropping bombs on their head.</p><p>If I don\u2019t like it, <strong>if they don\u2019t behave, we\u2019ll go right back to dropping bombs right smack in the middle of their head,</strong> okay, because they\u2019ve misbehaved for 47 years.\u201d</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Walker's breakout Origin performance showed us both sides of his coin",
+      "summary": "On Wednesday night, Queensland coach Billy Slater got a glimpse of a glistening Sam Walker-led future, even if the present wasn't quite perfect.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,63 +154,8 @@
       ]
     },
     {
-      "headline": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
-      "summary": "The Russian frigate fired warning shots near a British retired couple on a yacht in the English Channel.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Group planned to attack White House UFC event using snipers and drones, FBI says",
-      "summary": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Australia news live: US marines plan permanent weapons stockpile in Victoria; Pauline Hanson to address National Press Club",
-      "summary": "<p>Tender documents show plans for store beyond the range of Chinese missiles, report says. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Greens refer Labor public housing tower redevelopment to Ombudsman</strong></p><p>The Victorian Greens have referred the state Labor government\u2019s plan to demolish and redevelop the state\u2019s 44 high-rise public housing towers to the state ombudsman and will use parliament today to try to expedite an investigation.</p><p>The inquiry heard evidence of residents being pressured to relocate, deceived about their rights and fearful of losing their homes and communities. Those allegations are serious, but Labor\u2019s response shows they haven\u2019t taken them seriously \u2026 They don\u2019t care what the experts say or what people think. We\u2019ve had to send in the Ombudsman to hold Labor to account before they do irreparable damage.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/17/australia-news-live-victoria-marines-weapons-pauline-hanson-one-nation-national-press-club-labor-childcare-medicare-anthony-albanese-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Brazilian court convicts Jair Bolsonaro\u2019s son of seeking US help for his father",
-      "summary": "<p>Supreme court finds Eduardo Bolsonaro tried to get sanctions put on judges trying ex-president over coup plot</p><p>A panel of \u2060Brazil\u2019s supreme court has voted \u2060to convict Eduardo Bolsonaro of courting US \u2060interference in the coup plot trial of his father, the former president Jair Bolsonaro.</p><p>The panel\u2019s four justices each backed the conviction on Tuesday and were expected to discuss the sentence later in the day.</p> <a href=\"https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-      "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Ghana\u2019s Partey loses appeal to overturn Canadian visa refusal for World Cup",
-      "summary": "Thomas Partey will not be able to enter Canada for Ghana&#039;s first World Cup match against Panama on Wednesday.",
+      "headline": "Al Jazeera journalist reunited with family in Khartoum after years of war",
+      "summary": "Al Jazeera journalist Al-Tahir al-Mardi has been reunited with his family in Khartoum after three years of separation.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +165,8 @@
       ]
     },
     {
-      "headline": "Mbappe brace fires France to 3-1 win over Senegal in World Cup 2026 opener",
-      "summary": "Mbappe becomes France&#039;s all-time top scorer with 58 goals and is two goals off record World Cup scorer Miroslav Klose.",
+      "headline": "Huawei CFO\u2019s admissions can be used at criminal trial, US judge rules",
+      "summary": "CFO Meng Wanzhou said in 2021 that Huawei illegally conducted business in Iran.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +176,19 @@
       ]
     },
     {
-      "headline": "US and Iran deal to end war allows Tehran to sell oil and fuel \u2013 Middle East crisis live",
-      "summary": "<p>The countries are expected to sign a memorandum of understanding on Friday before proceeding to the next stage of talks</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/15/trump-declares-us-iran-peace-deal-all-signed-g7\">Full report: Trump declares deal \u2018all signed\u2019 as G7 leaders try to tie loose ends</a></p></li></ul><p><em>You can follow all the latest developments from the G7 summit in our Europe live blog:</em></p><p>We will be including any Iran-related news from the summit in our Middle East crisis live blog.</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/16/iran-us-deal-trump-vance-strait-hormuz-israel-lebanon-middle-east-latest-news-updates\">Continue reading...</a>",
+      "headline": "Maroons star reveals dad's message before heartbreaking death",
+      "summary": "Tino Fa'asuamaleaui shares the advice his dad gave him before his death after a long battle with cancer.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "US releases text of Iran peace plan as Trump says deal averts \u2018worldwide depression\u2019",
+      "summary": "<p>Details of 14-point agreement revealed as senior US officials claim \u2018major win\u2019 despite significant concessions to Tehran</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated\">Middle East crisis \u2013 live updates</a></p></li></ul><p>The Trump administration has released the text of its 14-point agreement with Iran, claiming it delivered a \u201cmajor win\u201d for the United States \u2013 even as it made significant political and financial concessions to Iran to reopen the strait of Hormuz and prevent a \u201cworldwide depression\u201d.</p><p>In extraordinary remarks on Wednesday, Donald Trump went from threatening Iran with a new wave of attacks to suggesting the country had basic rights to enrich uranium for civilian use, that he would not pressure Tehran to abandon its ballistic missiles programme and the US was \u201cgoing to have to give back\u201d billions of dollars in frozen Iranian assets.</p> <a href=\"https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +198,30 @@
       ]
     },
     {
-      "headline": "Argentina vs Algeria live: World Cup 2026",
-      "summary": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream service.",
+      "headline": "Hope turns to expectation as Fremantle flexes flag muscle",
+      "summary": "Hard-bitten Fremantle fans won't want to say it out loud, but as the Dockers flex more muscle with each passing week, hope is slowly turning to expectation that a first premiership is within reach.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Thieves with bulldozer carry out ATM heist in 4 minutes",
+      "summary": "CCTV footage released by police shows thieves using a bulldozer to tear an ATM from the front of a bank.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Meet Yoane Wissa, who scored DR Congo\u2019s first-ever goal at a World Cup",
+      "summary": "Wissa, who nearly lost his sight in 2021, scored a header marking DR Congo\u2019s historic return to the World Cup.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-17T08:09:48.694458+10:00",
-    "date": "2026-06-17",
-    "display_date": "Wednesday 17 June 2026",
-    "display_time": "08:09 AM AEST"
+    "generated_at": "2026-06-18T07:59:32.493264+10:00",
+    "date": "2026-06-18",
+    "display_date": "Thursday 18 June 2026",
+    "display_time": "07:59 AM AEST"
   }
 }
