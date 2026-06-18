@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7420.1,
-      "change": -91.25,
-      "change_pct": -1.21,
+      "price": 7500.58,
+      "change": 80.48,
+      "change_pct": 1.08,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26021.66,
-      "change": -354.68,
-      "change_pct": -1.34,
+      "price": 26517.93,
+      "change": 496.27,
+      "change_pct": 1.91,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51492.55,
-      "change": -507.12,
-      "change_pct": -0.98,
+      "price": 51564.7,
+      "change": 72.15,
+      "change_pct": 0.14,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.44,
-      "change": 2.03,
-      "change_pct": 12.37,
+      "price": 16.4,
+      "change": -2.04,
+      "change_pct": -11.06,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.46,
-      "change": -0.03,
-      "change_pct": -0.67,
+      "price": 4.45,
+      "change": -0.04,
+      "change_pct": -0.89,
       "trend_5d": "flat"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69404.5,
-      "change": 87.0,
-      "change_pct": 0.13,
+      "price": 69902.25,
+      "change": 497.75,
+      "change_pct": 0.72,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24493.95,
-      "change": -348.72,
-      "change_pct": -1.4,
+      "price": 24312.16,
+      "change": -181.79,
+      "change_pct": -0.74,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8726.6,
-      "change": 180.62,
-      "change_pct": 2.11,
+      "price": 8864.24,
+      "change": 137.64,
+      "change_pct": 1.58,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4276.3,
-      "change_pct": -1.26
+      "price": 4227.9,
+      "change_pct": -3.01
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 78.69,
-      "change_pct": -0.34
+      "price": 79.44,
+      "change_pct": -0.14
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 75.01,
-      "change_pct": -1.37
+      "price": 75.52,
+      "change_pct": -1.65
     }
   ],
   "asx200": {
-    "level": 8917.7,
-    "change_pct": 0.04
+    "level": 8966.3,
+    "change_pct": 0.54
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
       "current_rate": 0.7018,
-      "change_pct": -0.7771
+      "change_pct": -0.6787
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5772,
-      "change_pct": -0.9593
+      "current_rate": 0.5754,
+      "change_pct": -1.3172
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2149,
-      "change_pct": 0.1088
+      "current_rate": 1.2191,
+      "change_pct": 0.614
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: nonstop Sydney-London flights delayed again; anti-abortion bill blocked in SA",
-      "summary": "<p>Qantas now says first Project Sunrise flight due to take off in November 2027. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>New One Nation MP details Hanson\u2019s \u2018monocultural Australia\u2019 plans</strong></p><p><strong>David Farley</strong>, the recently elected One Nation MP for Farrer, is praising Hanson\u2019s speech yesterday and detailing what he believes a \u201cmonocultural Australia\u201d looks like.</p><p>If you\u2019re coming to Australia to have a better life, you become an Australian. That\u2019s what we\u2019re referring to as a monocultured Australia. You\u2019re an Australian first, and your ethnicity or your creed comes second. \u2026</p><p>The reality is, we\u2019re a Christian Judeo society with a law structure around us, and they\u2019ve come with one clear objective: to have a better life. And that one clear objective should be, if they want to have a better life here, is to live within our culture and live within our laws and rules.</p><p>It was direct shooting. It hit the targets. It was clear. It was successful. And it addressed a number of the elephants in the room. \u2026 So the speech hit the target for where Australians are today.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/18/australia-news-live-non-stop-sydney-london-flights-qantas-one-nation-pauline-hanson-labor-anthony-albanese-economy-cost-of-living-ntwnfb\">Continue reading...</a>",
+      "headline": "News live: Australia gives Ukraine another $100m for fight against Russia; AFL great in hospital after truck crash",
+      "summary": "<p>Two payments of $50m will boost Ukraine\u2019s air defence and munitions supply. Follow today\u2019s news live</p><p>\u2022 Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p><p><strong>Chalmers says government has lost some political goodwill after backtracking on CGT promises</strong></p><p>The treasurer said he does think the Labor party has lost some \u201cpolitical paint\u201d after the changes to the capital gains tax discount and negative gearing, \u201cbut it\u2019s worth it because we\u2019re doing the right thing here\u201d.</p><p>If we\u2019re given the choice between taking the easier path politically or doing the more difficult thing, but the right thing in the interests of particularly first home buyers, young people, workers in the tax system, then it will be worth it.</p><p>Obviously, there\u2019s a big partisan political campaign against these changes. We understand that. We anticipated that. We expected that. But it\u2019s worth it because our job isn\u2019t just to take the easy political options.</p><p>The more important thing than the politics of this is to get the policy right, to get the substance right. Because at the end of the day, what matters most is the tax system and the housing market are broken. We are acting to fix it.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/19/news-live-australia-ukraine-jim-chalmers-anthony-albanese-capital-gains-tax-concessions-business-pauline-hanson-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +132,30 @@
       ]
     },
     {
-      "headline": "Middle East crisis live: Iran agrees to destroy enriched uranium stockpile, memorandum read out by US officials says",
-      "summary": "<p>Senior US officials read out MOU text to journalists, insisting down-blending is a starting point; deal says sanctions relief tied to nuclear action</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jun/16/us-iran-deal-israel-relationship\">Analysis: Where does Iran deal leave US-Israel relationship?</a></p></li></ul><p>Trump also addressed media reports of a leaked US-Iran deal (see post at <a href=\"https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated?page=with%3Ablock-6a3279fb8f08bd83c766ba5d#block-6a3279fb8f08bd83c766ba5d\">11:57</a>), <strong>denying claims it includes a $300bn reconstruction fund for Tehran.</strong></p><p>\u201cWe\u2019re not putting up 10 cents,\u201d he said. \u201cWe are not investing and we do not have a fund.\u201d</p><p>It\u2019s not final. It\u2019s a memorandum of understanding, and <strong>if I don\u2019t like it, we\u2019ll go back to shooting at them</strong>, dropping bombs on their head.</p><p>If I don\u2019t like it, <strong>if they don\u2019t behave, we\u2019ll go right back to dropping bombs right smack in the middle of their head,</strong> okay, because they\u2019ve misbehaved for 47 years.\u201d</p> <a href=\"https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated\">Continue reading...</a>",
+      "headline": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "BBC World"
       ]
     },
     {
-      "headline": "Walker's breakout Origin performance showed us both sides of his coin",
-      "summary": "On Wednesday night, Queensland coach Billy Slater got a glimpse of a glistening Sam Walker-led future, even if the present wasn't quite perfect.",
+      "headline": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "summary": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "The little-known sport unlocking Florence's competitive edge",
+      "summary": "An introduction to the little-known sport of boccia has given 10-year-old Florence Nickel a new sense of competition and community.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +165,8 @@
       ]
     },
     {
-      "headline": "Al Jazeera journalist reunited with family in Khartoum after years of war",
-      "summary": "Al Jazeera journalist Al-Tahir al-Mardi has been reunited with his family in Khartoum after three years of separation.",
+      "headline": "Are prices really dropping in the US, as Trump claims?",
+      "summary": "Donald Trump boasts on social media that since signing of MoU for peace deal, oil is flowing and prices are dropping.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +176,8 @@
       ]
     },
     {
-      "headline": "Huawei CFO\u2019s admissions can be used at criminal trial, US judge rules",
-      "summary": "CFO Meng Wanzhou said in 2021 that Huawei illegally conducted business in Iran.",
+      "headline": "Cuba\u2019s Communist Party approves opening economy in unprecedented move",
+      "summary": "The emergency economic package comes amid an ongoing US pressure campaign that has left the island nation reeling.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +187,8 @@
       ]
     },
     {
-      "headline": "Maroons star reveals dad's message before heartbreaking death",
-      "summary": "Tino Fa'asuamaleaui shares the advice his dad gave him before his death after a long battle with cancer.",
+      "headline": "'Pumped' Australian battler stuns Czech star in Queen's Club boilover",
+      "summary": "Australia's Rinky Hijikata scores one of the wins of his career at the Queen's Club Championships.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,47 +198,36 @@
       ]
     },
     {
-      "headline": "US releases text of Iran peace plan as Trump says deal averts \u2018worldwide depression\u2019",
-      "summary": "<p>Details of 14-point agreement revealed as senior US officials claim \u2018major win\u2019 despite significant concessions to Tehran</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated\">Middle East crisis \u2013 live updates</a></p></li></ul><p>The Trump administration has released the text of its 14-point agreement with Iran, claiming it delivered a \u201cmajor win\u201d for the United States \u2013 even as it made significant political and financial concessions to Iran to reopen the strait of Hormuz and prevent a \u201cworldwide depression\u201d.</p><p>In extraordinary remarks on Wednesday, Donald Trump went from threatening Iran with a new wave of attacks to suggesting the country had basic rights to enrich uranium for civilian use, that he would not pressure Tehran to abandon its ballistic missiles programme and the US was \u201cgoing to have to give back\u201d billions of dollars in frozen Iranian assets.</p> <a href=\"https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal\">Continue reading...</a>",
+      "headline": "Myanmar military airstrike kills seven civilians in Rakhine state",
+      "summary": "A Myanmar military airstrike on the Rakhine state town of Kyauktaw killed at least seven civilians.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Hope turns to expectation as Fremantle flexes flag muscle",
-      "summary": "Hard-bitten Fremantle fans won't want to say it out loud, but as the Dockers flex more muscle with each passing week, hope is slowly turning to expectation that a first premiership is within reach.",
+      "headline": "Brazil executes warrant against Lula ally in widening financial scandal",
+      "summary": "Left-wing Senator Jaques Wagner was the latest prominent figure to be swept up in investigations into Banco Master.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Messi calls for 'humanity' as father receives treatment",
+      "summary": "Argentina superstar Lionel Messi and his family ask the media for \"humanity\" amid rumours about his father Jorge Messi's health.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Thieves with bulldozer carry out ATM heist in 4 minutes",
-      "summary": "CCTV footage released by police shows thieves using a bulldozer to tear an ATM from the front of a bank.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Meet Yoane Wissa, who scored DR Congo\u2019s first-ever goal at a World Cup",
-      "summary": "Wissa, who nearly lost his sight in 2021, scored a header marking DR Congo\u2019s historic return to the World Cup.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-18T07:59:32.493264+10:00",
-    "date": "2026-06-18",
-    "display_date": "Thursday 18 June 2026",
-    "display_time": "07:59 AM AEST"
+    "generated_at": "2026-06-19T08:05:47.472871+10:00",
+    "date": "2026-06-19",
+    "display_date": "Friday 19 June 2026",
+    "display_time": "08:05 AM AEST"
   }
 }
