@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7500.58,
-      "change": 80.48,
-      "change_pct": 1.08,
-      "trend_5d": "up"
+      "price": 7472.79,
+      "change": -27.79,
+      "change_pct": -0.37,
+      "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26517.93,
-      "change": 496.27,
-      "change_pct": 1.91,
-      "trend_5d": "up"
+      "price": 26166.6,
+      "change": -351.33,
+      "change_pct": -1.32,
+      "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51564.7,
-      "change": 72.15,
-      "change_pct": 0.14,
-      "trend_5d": "up"
+      "price": 51712.71,
+      "change": 148.01,
+      "change_pct": 0.29,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.4,
-      "change": -2.04,
-      "change_pct": -11.06,
+      "price": 17.28,
+      "change": 0.88,
+      "change_pct": 5.37,
       "trend_5d": "flat"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.45,
-      "change": -0.01,
-      "change_pct": -0.22,
+      "price": 4.51,
+      "change": 0.06,
+      "change_pct": 1.35,
       "trend_5d": "flat"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 71250.06,
       "change": 196.57,
       "change_pct": 0.28,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 23924.81,
       "change": -387.35,
       "change_pct": -1.59,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 4090.48,
-      "change": -17.6,
-      "change_pct": -0.43,
-      "trend_5d": "up"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,7 +72,7 @@
       "price": 9052.42,
       "change": -11.42,
       "change_pct": -0.13,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
@@ -103,26 +103,37 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7014,
-      "change_pct": 0.0142
+      "current_rate": 0.7003,
+      "change_pct": 0.0056
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5736,
-      "change_pct": -0.3355
+      "current_rate": 0.5715,
+      "change_pct": -0.3486
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2215,
-      "change_pct": 0.2495
+      "current_rate": 1.225,
+      "change_pct": 0.312
     }
   ],
   "world_news": [
     {
-      "headline": "Stokes returns to England captaincy for third Test against New Zealand",
-      "summary": "Captain Ben Stokes and Gus Atkinson have returned to England's squad for the third Test against New Zealand at Trent Bridge following the conclusion of a disciplinary hearing.",
+      "headline": "Australia politics live: NSW to lower road toll cap and Queensland to promise infrastructure in today\u2019s state budgets",
+      "summary": "<p>Weekly toll cap in NSW to fall from $60 to $50 for one year. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Appropriate\u2019 Ben Roberts-Smith invited to war memorial event, says Marles</strong></p><p><strong>Richard Marles</strong> says it\u2019s appropriate the accused war criminal, <strong>Ben Roberts-Smith</strong> will attend the official opening for the centrepiece of the revamped Australian war memorial.</p><p>It\u2019s appropriate that Ben Roberts\u2013Smith be given an invite to this, as a Victoria Cross recipient.</p><p>The Victoria Cross recipients have been invited to this, which is appropriate, I\u2019m comfortable about that. What will be opened \u2013 the Australian War Memorial, it\u2019s an utterly fantastic extension to what is, I think, the most sacred building in our country. And we are very much looking forward to that. The Prime Minister will be there. It\u2019s a very significant moment for the nation.</p><p>If we look over the longer term, and people buy houses over the longer term, we will see housing prices continue to grow. What this is about, though, is trying to see a greater alignment in the growth of housing prices with the growth of wages. We do want to see housing become more affordable, see more Australians get into the housing market, see more first-time buyers, but we\u2019ll obviously see house prices continue to grow.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Blues dealt fresh blow with Mitchell ruled out of Origin III",
+      "summary": "After a demoralising defeat to the Maroons, the Blues learn Latrell Mitchell will be unavailable for selection in the series-deciding State of Origin III.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +143,41 @@
       ]
     },
     {
-      "headline": "Australia posts seven-wicket T20I win over Bangladesh as Spencer Johnson stars with ball",
-      "summary": "Spencer Johnson proves to be a menace with the ball for Australia, as the tourists complete a T20I series clean sweep against Bangladesh.",
+      "headline": "Hungary\u2019s PM launches drive to free country from Orban\u2019s \u2018mafia\u2019",
+      "summary": "The raft of proposed changes includes a new constitution and anti-corruption office, and the ousting of the president.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Czech public media staff strike, citing government threat to independence",
+      "summary": "Plan to put funding under direct control has sparked widespread opposition, with critics fearing political interference.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US judge blocks Trump administration subpoena against Minnesota officials",
+      "summary": "Ruling represents setback for investigation that targeted state Democratic officials who criticised immigration raids.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Ex-Wimbledon champ handed four-year suspension for refusing doping test",
+      "summary": "Mark\u00e9ta Vondrou\u0161ov\u00e1, who lifted the Wimbledon trophy in 2023, is given a \"significant ban\" by the International Tennis Integrity Agency.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +187,8 @@
       ]
     },
     {
-      "headline": "Mourners gather to remember Lebanese conservationist killed by Israel",
-      "summary": "People gathered in Beirut in memory of beloved turtle conservationist Mona Khalil, killed in Israeli attack.",
+      "headline": "\u2018Another day, another leader\u2019: Britons react to Keir Starmer\u2019s exit",
+      "summary": "Londoners shared mixed reactions to Keir Starmer&#039;s resignation.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +198,8 @@
       ]
     },
     {
-      "headline": "Remembering Al Jazeera cameraman Ahmed Wishah\u2019s life\u2019s work",
-      "summary": "Al Jazeera cameraman Ahmed Wishah dedicated his life to documenting life in Gaza before he was killed by Israel.",
+      "headline": "Fire at animation studio in India\u2019s Lucknow kills at least 14",
+      "summary": "The blaze broke out in a commercial building with a library and animation studio, killing mostly college students.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +209,8 @@
       ]
     },
     {
-      "headline": "Serena Williams to play women\u2019s singles at Wimbledon as wildcard entrant",
-      "summary": "The seven-time ladies&#039; singles champion will make her Grand Slam return at Wimbledon, six years after her last appearance.",
+      "headline": "Palestinian children \u2018unprotected\u2019 as NGOs forced out of Gaza and West Bank",
+      "summary": "Israel is pushing humanitarian groups and rights defenders to scale down operations in occupied Palestinian territories.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,52 +220,8 @@
       ]
     },
     {
-      "headline": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-      "summary": "Displaced residents returned to Nabatieh after Israel ordered a halt to fighting in southern Lebanon.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Colombia elections take place as Abelardo de la Espriella leads polls",
-      "summary": "Colombians are voting in an election where senator Ivan Cepeda is racing against Abelardo de la Espriella.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Japan fans celebrate 4-0 World Cup win in Tokyo",
-      "summary": "Fans gathered at Tokyo&#039;s Shibuya Crossing after Japan beat Tunisia 4-0 in a World Cup group-stage match.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Ramiro Valdes, one of Cuba\u2019s last living revolutionary figures, dies at 94",
-      "summary": "Valdes was close ally of Castro brothers and helped found Cuba&#039;s notorious intelligence apparatus.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "How Australia's World Cup chef knows the players like his food",
-      "summary": "Chef Vini Capovilla has learnt a thing or two catering for the Socceroos at four World Cups. And one is finding out if they like his food.",
+      "headline": "Australian sprinter feels 'absolutely robbed' after Commonwealth Games snub",
+      "summary": "Josh Azzopardi opens up after missing out on selection as a 100 metres runner in Australia's athletics team for the Glasgow Commonwealth Games.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-22T07:11:59.061457+10:00",
-    "date": "2026-06-22",
-    "display_date": "Monday 22 June 2026",
-    "display_time": "07:11 AM AEST"
+    "generated_at": "2026-06-23T08:01:17.016456+10:00",
+    "date": "2026-06-23",
+    "display_date": "Tuesday 23 June 2026",
+    "display_time": "08:01 AM AEST"
   }
 }
