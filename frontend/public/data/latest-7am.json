@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7472.79,
-      "change": -27.79,
-      "change_pct": -0.37,
+      "price": 7365.46,
+      "change": -107.33,
+      "change_pct": -1.44,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26166.6,
-      "change": -351.33,
-      "change_pct": -1.32,
+      "price": 25587.04,
+      "change": -579.56,
+      "change_pct": -2.21,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51712.71,
-      "change": 148.01,
-      "change_pct": 0.29,
-      "trend_5d": "flat"
+      "price": 51666.84,
+      "change": -45.87,
+      "change_pct": -0.09,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.28,
-      "change": 0.88,
-      "change_pct": 5.37,
+      "price": 19.49,
+      "change": 2.21,
+      "change_pct": 12.79,
       "trend_5d": "flat"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.51,
-      "change": 0.06,
-      "change_pct": 1.35,
+      "price": 4.49,
+      "change": 0.04,
+      "change_pct": 0.9,
       "trend_5d": "flat"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 71250.06,
-      "change": 196.57,
-      "change_pct": 0.28,
+      "price": 72353.96,
+      "change": 1103.9,
+      "change_pct": 1.55,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23924.81,
-      "change": -387.35,
-      "change_pct": -1.59,
+      "price": 23768.52,
+      "change": -156.29,
+      "change_pct": -0.65,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 9052.42,
-      "change": -11.42,
-      "change_pct": -0.13,
+      "price": 9114.55,
+      "change": 62.13,
+      "change_pct": 0.69,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,61 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4172.9,
-      "change_pct": -1.21
+      "price": 4129.0,
+      "change_pct": -1.26
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 80.59,
-      "change_pct": 0.93
+      "price": 76.88,
+      "change_pct": -1.31
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 76.54,
-      "change_pct": -0.08
+      "price": 73.05,
+      "change_pct": -2.37
     }
   ],
   "asx200": {
-    "level": 8828.7,
-    "change_pct": -0.92
+    "level": 8816.1,
+    "change_pct": -0.14
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7003,
-      "change_pct": 0.0056
+      "current_rate": 0.6919,
+      "change_pct": -1.1984
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5715,
-      "change_pct": -0.3486
+      "current_rate": 0.5672,
+      "change_pct": -1.0947
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.225,
-      "change_pct": 0.312
+      "current_rate": 1.2198,
+      "change_pct": -0.1122
     }
   ],
   "world_news": [
     {
-      "headline": "Australia politics live: NSW to lower road toll cap and Queensland to promise infrastructure in today\u2019s state budgets",
-      "summary": "<p>Weekly toll cap in NSW to fall from $60 to $50 for one year. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Appropriate\u2019 Ben Roberts-Smith invited to war memorial event, says Marles</strong></p><p><strong>Richard Marles</strong> says it\u2019s appropriate the accused war criminal, <strong>Ben Roberts-Smith</strong> will attend the official opening for the centrepiece of the revamped Australian war memorial.</p><p>It\u2019s appropriate that Ben Roberts\u2013Smith be given an invite to this, as a Victoria Cross recipient.</p><p>The Victoria Cross recipients have been invited to this, which is appropriate, I\u2019m comfortable about that. What will be opened \u2013 the Australian War Memorial, it\u2019s an utterly fantastic extension to what is, I think, the most sacred building in our country. And we are very much looking forward to that. The Prime Minister will be there. It\u2019s a very significant moment for the nation.</p><p>If we look over the longer term, and people buy houses over the longer term, we will see housing prices continue to grow. What this is about, though, is trying to see a greater alignment in the growth of housing prices with the growth of wages. We do want to see housing become more affordable, see more Australians get into the housing market, see more first-time buyers, but we\u2019ll obviously see house prices continue to grow.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
+      "headline": "Injury mars Australia's crushing T20 World Cup win over Pakistan",
+      "summary": "Australia cruises to a comfortable 113-run victory over Pakistan at Headingley, but there may be concern over a finger injury to one of their stars.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Australia politics live: \u2018Keep the flame of memory burning\u2019, PM tells opening of new Australian War Memorial gallery",
+      "summary": "<p>Anthony Albanese presided over ceremony in Canberra last night. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Paid parental leave is not safe\u2019 with Pauline Hanson, says Plibersek</strong></p><p><strong>Tanya Plibersek</strong> has refuted <strong>Pauline Hanson</strong>\u2019s claims that her comments on paid parental leave were taken out of context (see <a href=\"https://www.theguardian.com/australia-news/2026/jun/23/pauline-hanson-parental-leave-small-businesses-one-nation-ntwnfb\">here</a>).</p><p>A few weeks ago, she [Hanson] said, you know, \u201cLove, if you\u2019ve got the equipment, have the baby, take the time off work.\u201d She\u2019s been completely unsympathetic to the financial stress on Australian families that having a new baby brings with it. She says that at the Press Club \u2013 and obviously she\u2019s had a negative reaction and now she\u2019s back\u2013pedalling. But paid parental leave is not safe with Pauline Hanson and just, by the way, it\u2019s also not safe with the Liberals. <strong>Scott Morrison</strong> and <strong>Joe Hockey</strong> called mothers on paid parental leave rorters and double dippers.</p><p>I think people need to take a deep breath on all of this. Our Treasury estimates are that house prices will continue to grow. They\u2019ll grow more slowly. And that gives people the chance of home ownership. If you go to week auctions at the moment, there\u2019s still a lot of buying going on, but it\u2019s first home\u2013buyers who are actually having a shot at the market \u2026</p><p>Most people don\u2019t buy a house and sell it tomorrow either. That\u2019s the thing that we need to keep in mind. People buy a house and stay there.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +143,30 @@
       ]
     },
     {
-      "headline": "Blues dealt fresh blow with Mitchell ruled out of Origin III",
-      "summary": "After a demoralising defeat to the Maroons, the Blues learn Latrell Mitchell will be unavailable for selection in the series-deciding State of Origin III.",
+      "headline": "Karl Stefanovic podcast interview with UK far-right activist Tommy Robinson removed from YouTube",
+      "summary": "<p>Robinson says Pauline Hanson has \u2018carried on fighting\u2019 despite backlash in since-deleted episode of the Karl Stefanovic Show</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Channel Nine TV presenter Karl Stefanovic has praised UK far-right activist Tommy Robinson\u2019s \u201ctenacity\u201d and \u201ccourage\u201d in his latest eponymous podcast episode, in which Robinson rails against \u201cthe media and the establishment\u201d, Islam, multiculturalism and hate speech laws.</p><p>Stefanovic posted a clip on social media on Tuesday morning Australian time in which he is walking down a London street with his arm slung around Robinson, who has spearheaded recent <a href=\"https://www.theguardian.com/uk-news/2025/sep/13/unite-the-kingdom-far-right-rally-london-tommy-robinson-police-assaulted\">nationalist demonstrations</a> in the UK.</p> <a href=\"https://www.theguardian.com/media/2026/jun/23/karl-stefanovic-uk-far-right-tommy-robinson-podcast-video-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Aussies produce mixed results in Wimbledon qualifying",
+      "summary": "Emerson Jones and Storm Hunter advance to the second round of Wimbledon's qualifying stage, but some of their fellow Australians are not as fortunate.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,41 +176,8 @@
       ]
     },
     {
-      "headline": "Hungary\u2019s PM launches drive to free country from Orban\u2019s \u2018mafia\u2019",
-      "summary": "The raft of proposed changes includes a new constitution and anti-corruption office, and the ousting of the president.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Czech public media staff strike, citing government threat to independence",
-      "summary": "Plan to put funding under direct control has sparked widespread opposition, with critics fearing political interference.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US judge blocks Trump administration subpoena against Minnesota officials",
-      "summary": "Ruling represents setback for investigation that targeted state Democratic officials who criticised immigration raids.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Ex-Wimbledon champ handed four-year suspension for refusing doping test",
-      "summary": "Mark\u00e9ta Vondrou\u0161ov\u00e1, who lifted the Wimbledon trophy in 2023, is given a \"significant ban\" by the International Tennis Integrity Agency.",
+      "headline": "Ronaldo roars back to life, with his moments off the ball the most telling",
+      "summary": "Cristiano Ronaldo came into Portugal\u2019s second World Cup group game under a firestorm of criticism. He answered with two goals, and important signs he is willing to be a team player.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +187,8 @@
       ]
     },
     {
-      "headline": "\u2018Another day, another leader\u2019: Britons react to Keir Starmer\u2019s exit",
-      "summary": "Londoners shared mixed reactions to Keir Starmer&#039;s resignation.",
+      "headline": "Alibaba sues US military over labelling it a \u2018Chinese military company\u2019",
+      "summary": "E-commerce giant says that claims of affiliation with Chinese military have &#039;no basis in fact or law&#039;.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +198,8 @@
       ]
     },
     {
-      "headline": "Fire at animation studio in India\u2019s Lucknow kills at least 14",
-      "summary": "The blaze broke out in a commercial building with a library and animation studio, killing mostly college students.",
+      "headline": "Trump disputes Iran\u2019s rejection of nuclear inspectors",
+      "summary": "President Trump pushed back on Iran\u2019s foreign ministry claim that there are no plans to allow IAEA nuclear inspectors.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +209,8 @@
       ]
     },
     {
-      "headline": "Palestinian children \u2018unprotected\u2019 as NGOs forced out of Gaza and West Bank",
-      "summary": "Israel is pushing humanitarian groups and rights defenders to scale down operations in occupied Palestinian territories.",
+      "headline": "India prepares contingency plans due to weak monsoon season",
+      "summary": "Monsoon rains so far have been 43 percent below average, which is expected to impact India&#039;s crops.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +220,14 @@
       ]
     },
     {
-      "headline": "Australian sprinter feels 'absolutely robbed' after Commonwealth Games snub",
-      "summary": "Josh Azzopardi opens up after missing out on selection as a 100 metres runner in Australia's athletics team for the Glasgow Commonwealth Games.",
+      "headline": "Rubio begins Gulf visit in the UAE to advance US-Iran peace deal",
+      "summary": "Arriving in the UAE at the start of a Gulf tour, Rubio is seeking to advance the US-Iran deal with regional partners.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-23T08:01:17.016456+10:00",
-    "date": "2026-06-23",
-    "display_date": "Tuesday 23 June 2026",
-    "display_time": "08:01 AM AEST"
+    "generated_at": "2026-06-24T07:42:49.016448+10:00",
+    "date": "2026-06-24",
+    "display_date": "Wednesday 24 June 2026",
+    "display_time": "07:42 AM AEST"
   }
 }
