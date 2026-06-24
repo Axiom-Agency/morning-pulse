@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7365.46,
-      "change": -107.33,
-      "change_pct": -1.44,
+      "price": 7358.22,
+      "change": -7.24,
+      "change_pct": -0.1,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25587.04,
-      "change": -579.56,
-      "change_pct": -2.21,
+      "price": 25476.63,
+      "change": -110.41,
+      "change_pct": -0.43,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51666.84,
-      "change": -45.87,
-      "change_pct": -0.09,
-      "trend_5d": "down"
+      "price": 51848.9,
+      "change": 182.06,
+      "change_pct": 0.35,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 19.49,
-      "change": 2.21,
-      "change_pct": 12.79,
+      "price": 18.63,
+      "change": -0.86,
+      "change_pct": -4.41,
       "trend_5d": "flat"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.49,
-      "change": 0.04,
-      "change_pct": 0.9,
+      "price": 4.4,
+      "change": -0.05,
+      "change_pct": -1.12,
       "trend_5d": "flat"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 72353.96,
-      "change": 1103.9,
-      "change_pct": 1.55,
+      "price": 69788.38,
+      "change": -2565.58,
+      "change_pct": -3.55,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23768.52,
-      "change": -156.29,
-      "change_pct": -0.65,
+      "price": 23336.28,
+      "change": -432.24,
+      "change_pct": -1.82,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 9114.55,
-      "change": 62.13,
-      "change_pct": 0.69,
+      "price": 8203.84,
+      "change": -910.71,
+      "change_pct": -9.99,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4129.0,
-      "change_pct": -1.26
+      "price": 4016.4,
+      "change_pct": -2.75
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 76.88,
-      "change_pct": -1.31
+      "price": 73.18,
+      "change_pct": -5.06
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 73.05,
-      "change_pct": -2.37
+      "price": 69.87,
+      "change_pct": -4.56
     }
   ],
   "asx200": {
-    "level": 8816.1,
-    "change_pct": -0.14
+    "level": 8787.0,
+    "change_pct": -0.33
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6919,
-      "change_pct": -1.1984
+      "current_rate": 0.6904,
+      "change_pct": -1.2932
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5672,
-      "change_pct": -1.0947
+      "current_rate": 0.5646,
+      "change_pct": -1.1523
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2198,
-      "change_pct": -0.1122
+      "current_rate": 1.2217,
+      "change_pct": -0.2384
     }
   ],
   "world_news": [
     {
-      "headline": "Injury mars Australia's crushing T20 World Cup win over Pakistan",
-      "summary": "Australia cruises to a comfortable 113-run victory over Pakistan at Headingley, but there may be concern over a finger injury to one of their stars.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Australia politics live: \u2018Keep the flame of memory burning\u2019, PM tells opening of new Australian War Memorial gallery",
-      "summary": "<p>Anthony Albanese presided over ceremony in Canberra last night. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Paid parental leave is not safe\u2019 with Pauline Hanson, says Plibersek</strong></p><p><strong>Tanya Plibersek</strong> has refuted <strong>Pauline Hanson</strong>\u2019s claims that her comments on paid parental leave were taken out of context (see <a href=\"https://www.theguardian.com/australia-news/2026/jun/23/pauline-hanson-parental-leave-small-businesses-one-nation-ntwnfb\">here</a>).</p><p>A few weeks ago, she [Hanson] said, you know, \u201cLove, if you\u2019ve got the equipment, have the baby, take the time off work.\u201d She\u2019s been completely unsympathetic to the financial stress on Australian families that having a new baby brings with it. She says that at the Press Club \u2013 and obviously she\u2019s had a negative reaction and now she\u2019s back\u2013pedalling. But paid parental leave is not safe with Pauline Hanson and just, by the way, it\u2019s also not safe with the Liberals. <strong>Scott Morrison</strong> and <strong>Joe Hockey</strong> called mothers on paid parental leave rorters and double dippers.</p><p>I think people need to take a deep breath on all of this. Our Treasury estimates are that house prices will continue to grow. They\u2019ll grow more slowly. And that gives people the chance of home ownership. If you go to week auctions at the moment, there\u2019s still a lot of buying going on, but it\u2019s first home\u2013buyers who are actually having a shot at the market \u2026</p><p>Most people don\u2019t buy a house and sell it tomorrow either. That\u2019s the thing that we need to keep in mind. People buy a house and stay there.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia politics live: boom in home batteries means fewer new transmission lines will be needed, models show",
+      "summary": "<p>Aemo modelling shows electricity use will nearly double by 2050. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning, <strong>Krishani Dhanji</strong> with you, thanks to <strong>Martin Farrer</strong> for getting us started.</p><p>The sitting week is ending with a bang, as teal independents <strong>Zali Steggall</strong> and <strong>Allegra Spender</strong> announce the formation of a party after months of \u2018will they, won\u2019t they\u2019 speculation. More on that shortly.</p><p>The easy political option in that situation is to kick the can down the road. To try and explain away, or work around, a system that isn\u2019t working.</p><p>And while that might be the easy choice \u2013 it\u2019s not the right one. The privilege of serving in government demands more of you than that.</p><p>You can\u2019t just nod along while young Australians tell you that the deck is stacked against them. You have to do something to give them a fair crack. That is the choice our government has made.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +132,74 @@
       ]
     },
     {
-      "headline": "Karl Stefanovic podcast interview with UK far-right activist Tommy Robinson removed from YouTube",
-      "summary": "<p>Robinson says Pauline Hanson has \u2018carried on fighting\u2019 despite backlash in since-deleted episode of the Karl Stefanovic Show</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Channel Nine TV presenter Karl Stefanovic has praised UK far-right activist Tommy Robinson\u2019s \u201ctenacity\u201d and \u201ccourage\u201d in his latest eponymous podcast episode, in which Robinson rails against \u201cthe media and the establishment\u201d, Islam, multiculturalism and hate speech laws.</p><p>Stefanovic posted a clip on social media on Tuesday morning Australian time in which he is walking down a London street with his arm slung around Robinson, who has spearheaded recent <a href=\"https://www.theguardian.com/uk-news/2025/sep/13/unite-the-kingdom-far-right-rally-london-tommy-robinson-police-assaulted\">nationalist demonstrations</a> in the UK.</p> <a href=\"https://www.theguardian.com/media/2026/jun/23/karl-stefanovic-uk-far-right-tommy-robinson-podcast-video-ntwnfb\">Continue reading...</a>",
+      "headline": "Key Socceroos cog ruled out with injury ahead of crucial Paraguay game",
+      "summary": "Wing-back Jacob Italiano is ruled out of Australia's crucial World Cup clash with Paraguay after suffering a groin injury.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says",
+      "summary": "Iranian team&#039;s trip to Seattle was delayed by 25 minutes as Taremi and Alhoei were held up for an undisclosed reason.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Palestinian activist faints after his release from Israeli prison",
+      "summary": "Palestinian activist Abdullah Shatat collapsed moments after his release from an Israeli jail.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
+      "summary": "Lawsuit claims Tesla&#039;s Autopilot shortcomings led to fatal crash; family seeks $1m in damages and punitive measures.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Zimbabwe\u2019s Senate approves amendment extending presidential term",
+      "summary": "Constitutional amendment will keep President Mnangagwa in office until 2030 and allow parliament to elect the president.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US public health agency concludes hantavirus response as outbreak eases",
+      "summary": "The US Department of Health and Human Services has announced the end of the monitoring period for the virus.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Zali Steggall and Allegra Spender launch new party aimed at political centre promising \u2018reason over rage\u2019",
+      "summary": "<p>New party dubbed Community Strong Australia follows secret talks about future of community independents</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Teal independents Zali Steggall and Allegra Spender have launched a new political party called Community Strong Australia, with the aim of providing a centrist alternative for voters amid the rise of One Nation and the turmoil inside the Coalition.</p><p>The party will focus on issues including housing affordability, cost of living, climate change, childcare, education, healthcare and social cohesion, according to Steggall, the member for Warringah.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/25/zali-steggall-and-allegra-spender-launch-new-party-aimed-at-political-centre-promising-reason-over-rage\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,41 +209,8 @@
       ]
     },
     {
-      "headline": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Aussies produce mixed results in Wimbledon qualifying",
-      "summary": "Emerson Jones and Storm Hunter advance to the second round of Wimbledon's qualifying stage, but some of their fellow Australians are not as fortunate.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Ronaldo roars back to life, with his moments off the ball the most telling",
-      "summary": "Cristiano Ronaldo came into Portugal\u2019s second World Cup group game under a firestorm of criticism. He answered with two goals, and important signs he is willing to be a team player.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Alibaba sues US military over labelling it a \u2018Chinese military company\u2019",
-      "summary": "E-commerce giant says that claims of affiliation with Chinese military have &#039;no basis in fact or law&#039;.",
+      "headline": "Top European leaders vow \u2018strong\u2019 support for Ukraine ahead of NATO summit",
+      "summary": "E5 talks in Berlin took place between heads of state of Britain, France, Italy, Poland and Germany ahead of July summit.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,30 +220,8 @@
       ]
     },
     {
-      "headline": "Trump disputes Iran\u2019s rejection of nuclear inspectors",
-      "summary": "President Trump pushed back on Iran\u2019s foreign ministry claim that there are no plans to allow IAEA nuclear inspectors.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "India prepares contingency plans due to weak monsoon season",
-      "summary": "Monsoon rains so far have been 43 percent below average, which is expected to impact India&#039;s crops.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Rubio begins Gulf visit in the UAE to advance US-Iran peace deal",
-      "summary": "Arriving in the UAE at the start of a Gulf tour, Rubio is seeking to advance the US-Iran deal with regional partners.",
+      "headline": "US judge blocks Trump subpoenas into transgender care at New York hospitals",
+      "summary": "The Trump administration has called for a probe into transgender healthcare, leading it to subpoena medical records.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-24T07:42:49.016448+10:00",
-    "date": "2026-06-24",
-    "display_date": "Wednesday 24 June 2026",
-    "display_time": "07:42 AM AEST"
+    "generated_at": "2026-06-25T07:21:20.427930+10:00",
+    "date": "2026-06-25",
+    "display_date": "Thursday 25 June 2026",
+    "display_time": "07:21 AM AEST"
   }
 }
