@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7358.22,
-      "change": -7.24,
-      "change_pct": -0.1,
+      "price": 7357.49,
+      "change": -0.73,
+      "change_pct": -0.01,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25476.63,
-      "change": -110.41,
-      "change_pct": -0.43,
+      "price": 25358.6,
+      "change": -118.04,
+      "change_pct": -0.46,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51848.9,
-      "change": 182.06,
-      "change_pct": 0.35,
+      "price": 51920.62,
+      "change": 71.72,
+      "change_pct": 0.14,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.63,
-      "change": -0.86,
-      "change_pct": -4.41,
+      "price": 18.89,
+      "change": 0.26,
+      "change_pct": 1.4,
       "trend_5d": "flat"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.4,
-      "change": -0.05,
-      "change_pct": -1.12,
+      "price": 4.39,
+      "change": -0.06,
+      "change_pct": -1.35,
       "trend_5d": "flat"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69788.38,
-      "change": -2565.58,
-      "change_pct": -3.55,
+      "price": 69174.97,
+      "change": -613.41,
+      "change_pct": -0.88,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23336.28,
-      "change": -432.24,
-      "change_pct": -1.82,
+      "price": 23412.18,
+      "change": 75.9,
+      "change_pct": 0.33,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8203.84,
-      "change": -910.71,
-      "change_pct": -9.99,
+      "price": 8471.02,
+      "change": 267.18,
+      "change_pct": 3.26,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4016.4,
-      "change_pct": -2.75
+      "price": 4041.6,
+      "change_pct": 1.29
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 73.18,
-      "change_pct": -5.06
+      "price": 75.0,
+      "change_pct": 1.71
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 69.87,
-      "change_pct": -4.56
+      "price": 71.47,
+      "change_pct": 1.61
     }
   ],
   "asx200": {
-    "level": 8787.0,
-    "change_pct": -0.33
+    "level": 8808.4,
+    "change_pct": 0.24
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6904,
-      "change_pct": -1.2932
+      "current_rate": 0.691,
+      "change_pct": -0.0825
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
       "current_rate": 0.5646,
-      "change_pct": -1.1523
+      "change_pct": -0.3264
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2217,
-      "change_pct": -0.2384
+      "current_rate": 1.2227,
+      "change_pct": 0.1515
     }
   ],
   "world_news": [
     {
-      "headline": "Australia politics live: boom in home batteries means fewer new transmission lines will be needed, models show",
-      "summary": "<p>Aemo modelling shows electricity use will nearly double by 2050. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning, <strong>Krishani Dhanji</strong> with you, thanks to <strong>Martin Farrer</strong> for getting us started.</p><p>The sitting week is ending with a bang, as teal independents <strong>Zali Steggall</strong> and <strong>Allegra Spender</strong> announce the formation of a party after months of \u2018will they, won\u2019t they\u2019 speculation. More on that shortly.</p><p>The easy political option in that situation is to kick the can down the road. To try and explain away, or work around, a system that isn\u2019t working.</p><p>And while that might be the easy choice \u2013 it\u2019s not the right one. The privilege of serving in government demands more of you than that.</p><p>You can\u2019t just nod along while young Australians tell you that the deck is stacked against them. You have to do something to give them a fair crack. That is the choice our government has made.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Karl Stefanovic says his podcast is \u2018about freedom of speech\u2019 after Nine announces his immediate departure",
+      "summary": "<p>Nine says in a statement it was \u2018no longer possible\u2019 for Stefanovic to host Today. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Let\u2019s work together\u2019 to strengthen exclusion powers, shadow home affairs minister tells government</strong></p><p><strong>Jonno Duniam</strong>, the shadow minister for home affairs, has said the Coalition would be willing to work with the government to strengthen laws around temporary exclusion orders after an Australia woman with links to the Islamic State was given authorisation to return to Australia.</p><p>If the government does believe that this individual should be excluded from the country for a longer period, then let\u2019s work together to strengthen those laws. Of course, there may well be legal challenges, but we\u2019re open to working with the government on that.</p><p>I\u2019d rather the individual not be here. \u2026 This is a person who is not a friend of our country. This is a person who turned their back on Australia.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,19 @@
       ]
     },
     {
-      "headline": "Key Socceroos cog ruled out with injury ahead of crucial Paraguay game",
-      "summary": "Wing-back Jacob Italiano is ruled out of Australia's crucial World Cup clash with Paraguay after suffering a groin injury.",
+      "headline": "France warns even young people's health at risk as Europe's heatwave shifts east",
+      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "History beckons for the Socceroos \u2014 here's everything you need to know",
+      "summary": "The Socceroos can make it through to the knockout stage of the World Cup against Paraguay today. Here's everything you need to know.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +154,8 @@
       ]
     },
     {
-      "headline": "Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says",
-      "summary": "Iranian team&#039;s trip to Seattle was delayed by 25 minutes as Taremi and Alhoei were held up for an undisclosed reason.",
+      "headline": "Economic losses mount as Venezuela earthquake death toll grows",
+      "summary": "Initial forecasts suggest damage could cost as much as 7 percent of the South American nation&#039;s GDP.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +165,8 @@
       ]
     },
     {
-      "headline": "Palestinian activist faints after his release from Israeli prison",
-      "summary": "Palestinian activist Abdullah Shatat collapsed moments after his release from an Israeli jail.",
+      "headline": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
+      "summary": "Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +176,8 @@
       ]
     },
     {
-      "headline": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
-      "summary": "Lawsuit claims Tesla&#039;s Autopilot shortcomings led to fatal crash; family seeks $1m in damages and punitive measures.",
+      "headline": "Venezuela quake leaves La Guaira in almost total devastation",
+      "summary": "La Guaira, the region hardest hit by two earthquakes in Venezuela, has been left devastated.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +187,8 @@
       ]
     },
     {
-      "headline": "Zimbabwe\u2019s Senate approves amendment extending presidential term",
-      "summary": "Constitutional amendment will keep President Mnangagwa in office until 2030 and allow parliament to elect the president.",
+      "headline": "Dutch fans party in Kansas City ahead of World Cup clash with Tunisia",
+      "summary": "Netherlands supporters got the party going in Kansas City, US ahead of their final group stage game against Tunisia.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +198,19 @@
       ]
     },
     {
-      "headline": "US public health agency concludes hantavirus response as outbreak eases",
-      "summary": "The US Department of Health and Human Services has announced the end of the monitoring period for the virus.",
+      "headline": "NBL fines Bogut over alleged body-shaming comments to 36ers owner",
+      "summary": "The NBL hands Andrew Bogut a fine of $9,500 over comments he allegedly made towards Adelaide 36ers owner Grant Kelley.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Netanyahu: \u2018We will remain in Lebanon, Syria, and Gaza as long as required\u2019",
+      "summary": "Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,30 +220,8 @@
       ]
     },
     {
-      "headline": "Zali Steggall and Allegra Spender launch new party aimed at political centre promising \u2018reason over rage\u2019",
-      "summary": "<p>New party dubbed Community Strong Australia follows secret talks about future of community independents</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Teal independents Zali Steggall and Allegra Spender have launched a new political party called Community Strong Australia, with the aim of providing a centrist alternative for voters amid the rise of One Nation and the turmoil inside the Coalition.</p><p>The party will focus on issues including housing affordability, cost of living, climate change, childcare, education, healthcare and social cohesion, according to Steggall, the member for Warringah.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/25/zali-steggall-and-allegra-spender-launch-new-party-aimed-at-political-centre-promising-reason-over-rage\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Top European leaders vow \u2018strong\u2019 support for Ukraine ahead of NATO summit",
-      "summary": "E5 talks in Berlin took place between heads of state of Britain, France, Italy, Poland and Germany ahead of July summit.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US judge blocks Trump subpoenas into transgender care at New York hospitals",
-      "summary": "The Trump administration has called for a probe into transgender healthcare, leading it to subpoena medical records.",
+      "headline": "Ashura ceremonies intertwine faith and support for state in Iran",
+      "summary": "State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-25T07:21:20.427930+10:00",
-    "date": "2026-06-25",
-    "display_date": "Thursday 25 June 2026",
-    "display_time": "07:21 AM AEST"
+    "generated_at": "2026-06-26T07:41:11.226446+10:00",
+    "date": "2026-06-26",
+    "display_date": "Friday 26 June 2026",
+    "display_time": "07:41 AM AEST"
   }
 }
