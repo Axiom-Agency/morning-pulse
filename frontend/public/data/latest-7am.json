@@ -3,137 +3,192 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7357.49,
-      "change": -0.73,
-      "change_pct": -0.01,
+      "price": 7354.02,
+      "change": -3.47,
+      "change_pct": -0.05,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25358.6,
-      "change": -118.04,
-      "change_pct": -0.46,
+      "price": 25297.62,
+      "change": -60.98,
+      "change_pct": -0.24,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51920.62,
-      "change": 71.72,
-      "change_pct": 0.14,
+      "price": 51876.11,
+      "change": -44.51,
+      "change_pct": -0.09,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.89,
-      "change": 0.26,
-      "change_pct": 1.4,
-      "trend_5d": "flat"
+      "price": 18.41,
+      "change": -0.48,
+      "change_pct": -2.54,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.39,
-      "change": -0.06,
-      "change_pct": -1.35,
-      "trend_5d": "flat"
+      "price": 4.37,
+      "change": -0.02,
+      "change_pct": -0.46,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69174.97,
-      "change": -613.41,
-      "change_pct": -0.88,
-      "trend_5d": "flat"
+      "price": 69360.88,
+      "change": -3005.46,
+      "change_pct": -4.15,
+      "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23412.18,
-      "change": 75.9,
-      "change_pct": 0.33,
-      "trend_5d": "flat"
+      "price": 22671.86,
+      "change": -405.05,
+      "change_pct": -1.76,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 4027.26,
+      "change": -93.02,
+      "change_pct": -2.26,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8471.02,
-      "change": 267.18,
-      "change_pct": 3.26,
-      "trend_5d": "flat"
+      "price": 8411.21,
+      "change": -519.09,
+      "change_pct": -5.81,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4041.6,
-      "change_pct": 1.29
+      "price": 4096.3,
+      "change_pct": 1.63
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 75.0,
-      "change_pct": 1.71
+      "price": 72.6,
+      "change_pct": -3.53
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 71.47,
-      "change_pct": 1.61
+      "price": 69.23,
+      "change_pct": -3.74
     }
   ],
   "asx200": {
-    "level": 8808.4,
-    "change_pct": 0.24
+    "level": 8764.2,
+    "change_pct": 0.18
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.691,
-      "change_pct": -0.0825
+      "current_rate": 0.6889,
+      "change_pct": -0.1605
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5646,
-      "change_pct": -0.3264
+      "current_rate": 0.5638,
+      "change_pct": -0.1009
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2227,
-      "change_pct": 0.1515
+      "current_rate": 1.2215,
+      "change_pct": -0.1039
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Karl Stefanovic says his podcast is \u2018about freedom of speech\u2019 after Nine announces his immediate departure",
-      "summary": "<p>Nine says in a statement it was \u2018no longer possible\u2019 for Stefanovic to host Today. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Let\u2019s work together\u2019 to strengthen exclusion powers, shadow home affairs minister tells government</strong></p><p><strong>Jonno Duniam</strong>, the shadow minister for home affairs, has said the Coalition would be willing to work with the government to strengthen laws around temporary exclusion orders after an Australia woman with links to the Islamic State was given authorisation to return to Australia.</p><p>If the government does believe that this individual should be excluded from the country for a longer period, then let\u2019s work together to strengthen those laws. Of course, there may well be legal challenges, but we\u2019re open to working with the government on that.</p><p>I\u2019d rather the individual not be here. \u2026 This is a person who is not a friend of our country. This is a person who turned their back on Australia.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb\">Continue reading...</a>",
+      "headline": "Protesters in Serbia doubt Vucic resignation will bring change",
+      "summary": "Thousands of protesters gathered in Serbia&#039;s Kraljevo, dismissing Aleksandar Vucic&#039;s pledge to resign.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "France warns even young people's health at risk as Europe's heatwave shifts east",
-      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+      "headline": "Pope Leo prays for Venezuela\u2019s recovery after deadly quakes",
+      "summary": "Pope Leo expressed solidarity with Venezuelans after two deadly earthquakes claimed the lives of at least 1,400.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israel kills four Palestinians in Gaza as attacks on tents continue",
+      "summary": "Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Hope of finding more Venezuela quake survivors fades despite late rescues",
+      "summary": "Those rescued include 60-year-old woman trapped for 86 hours, as tens of thousands still reported missing.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "World Cup 2026: Top matches to watch in the Round of 32 knockout stage",
+      "summary": "We have finally reached the knockout stages of the 2026 World Cup - here is Al Jazeera&#039;s guide to the best matchups.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Gaza\u2019s displaced families face worsening living conditions",
+      "summary": "Rats infest Gaza&#039;s camps, where sewage and tents full of waste spread disease as families live without sanitation.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,30 +198,19 @@
       ]
     },
     {
-      "headline": "History beckons for the Socceroos \u2014 here's everything you need to know",
-      "summary": "The Socceroos can make it through to the knockout stage of the World Cup against Paraguay today. Here's everything you need to know.",
+      "headline": "Germany, Czechia, Poland and Hungary swelter through hottest days on record",
+      "summary": "<p>Heat records of over 40C set as extreme weather spreads east, with more than 191m in Europe enduring 35C or above</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat\">After decades of  warnings, why is Europe so unprepared?</a></p></li></ul><p>Germany, Czechia, Poland and Hungary reached record temperatures of more than 40C on Sunday as a<strong> </strong><a href=\"https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat\">heatwave</a> linked to hundreds of deaths in western Europe spread east.</p><p>More than 191 million people in Europe faced temperatures of at least 35C, with extreme heat warnings across the region.</p> <a href=\"https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Economic losses mount as Venezuela earthquake death toll grows",
-      "summary": "Initial forecasts suggest damage could cost as much as 7 percent of the South American nation&#039;s GDP.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
-      "summary": "Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck.",
+      "headline": "Can the ICJ help end the war in the eastern DRC?",
+      "summary": "The Democratic Republic of Congo takes Rwanda to the International Court of Justice.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,52 +220,8 @@
       ]
     },
     {
-      "headline": "Venezuela quake leaves La Guaira in almost total devastation",
-      "summary": "La Guaira, the region hardest hit by two earthquakes in Venezuela, has been left devastated.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Dutch fans party in Kansas City ahead of World Cup clash with Tunisia",
-      "summary": "Netherlands supporters got the party going in Kansas City, US ahead of their final group stage game against Tunisia.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "NBL fines Bogut over alleged body-shaming comments to 36ers owner",
-      "summary": "The NBL hands Andrew Bogut a fine of $9,500 over comments he allegedly made towards Adelaide 36ers owner Grant Kelley.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Netanyahu: \u2018We will remain in Lebanon, Syria, and Gaza as long as required\u2019",
-      "summary": "Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Ashura ceremonies intertwine faith and support for state in Iran",
-      "summary": "State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein.",
+      "headline": "Israeli forces bulldoze olive groves in the occupied West Bank",
+      "summary": "Israeli forces bulldozed olive trees in the village of Zububa, west of Jenin in the occupied West Bank.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-26T07:41:11.226446+10:00",
-    "date": "2026-06-26",
-    "display_date": "Friday 26 June 2026",
-    "display_time": "07:41 AM AEST"
+    "generated_at": "2026-06-29T06:59:30.706997+10:00",
+    "date": "2026-06-29",
+    "display_date": "Monday 29 June 2026",
+    "display_time": "06:59 AM AEST"
   }
 }
