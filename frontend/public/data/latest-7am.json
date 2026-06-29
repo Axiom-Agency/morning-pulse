@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7354.02,
-      "change": -3.47,
-      "change_pct": -0.05,
-      "trend_5d": "down"
+      "price": 7440.43,
+      "change": 86.41,
+      "change_pct": 1.18,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25297.62,
-      "change": -60.98,
-      "change_pct": -0.24,
-      "trend_5d": "down"
+      "price": 25820.14,
+      "change": 522.52,
+      "change_pct": 2.07,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51876.11,
-      "change": -44.51,
-      "change_pct": -0.09,
+      "price": 52182.74,
+      "change": 306.63,
+      "change_pct": 0.59,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.41,
-      "change": -0.48,
-      "change_pct": -2.54,
-      "trend_5d": "up"
+      "price": 17.65,
+      "change": -0.76,
+      "change_pct": -4.13,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
       "price": 4.37,
-      "change": -0.02,
-      "change_pct": -0.46,
+      "change": -0.0,
+      "change_pct": -0.0,
       "trend_5d": "down"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 69360.88,
       "change": -3005.46,
       "change_pct": -4.15,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 22671.86,
       "change": -405.05,
       "change_pct": -1.76,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 4027.26,
-      "change": -93.02,
-      "change_pct": -2.26,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 8411.21,
       "change": -519.09,
       "change_pct": -5.81,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4096.3,
-      "change_pct": 1.63
+      "price": 4030.5,
+      "change_pct": -1.18
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 72.6,
-      "change_pct": -3.53
+      "price": 73.64,
+      "change_pct": 2.29
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 69.23,
-      "change_pct": -3.74
+      "price": 70.42,
+      "change_pct": 1.72
     }
   ],
   "asx200": {
@@ -103,92 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6889,
-      "change_pct": -0.1605
+      "current_rate": 0.6888,
+      "change_pct": -0.1812
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5638,
-      "change_pct": -0.1009
+      "current_rate": 0.5653,
+      "change_pct": 0.1701
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2215,
-      "change_pct": -0.1039
+      "current_rate": 1.2177,
+      "change_pct": -0.4195
     }
   ],
   "world_news": [
     {
-      "headline": "Protesters in Serbia doubt Vucic resignation will bring change",
-      "summary": "Thousands of protesters gathered in Serbia&#039;s Kraljevo, dismissing Aleksandar Vucic&#039;s pledge to resign.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Pope Leo prays for Venezuela\u2019s recovery after deadly quakes",
-      "summary": "Pope Leo expressed solidarity with Venezuelans after two deadly earthquakes claimed the lives of at least 1,400.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Israel kills four Palestinians in Gaza as attacks on tents continue",
-      "summary": "Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Hope of finding more Venezuela quake survivors fades despite late rescues",
-      "summary": "Those rescued include 60-year-old woman trapped for 86 hours, as tens of thousands still reported missing.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "World Cup 2026: Top matches to watch in the Round of 32 knockout stage",
-      "summary": "We have finally reached the knockout stages of the 2026 World Cup - here is Al Jazeera&#039;s guide to the best matchups.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Gaza\u2019s displaced families face worsening living conditions",
-      "summary": "Rats infest Gaza&#039;s camps, where sewage and tents full of waste spread disease as families live without sanitation.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+      "headline": "The Ring and Lilo & Stitch actress Daveigh Chase died of Aids",
+      "summary": "Substance abuse was listed as another significant condition the former child star was experiencing.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +132,19 @@
       ]
     },
     {
-      "headline": "Germany, Czechia, Poland and Hungary swelter through hottest days on record",
-      "summary": "<p>Heat records of over 40C set as extreme weather spreads east, with more than 191m in Europe enduring 35C or above</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat\">After decades of  warnings, why is Europe so unprepared?</a></p></li></ul><p>Germany, Czechia, Poland and Hungary reached record temperatures of more than 40C on Sunday as a<strong> </strong><a href=\"https://www.theguardian.com/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat\">heatwave</a> linked to hundreds of deaths in western Europe spread east.</p><p>More than 191 million people in Europe faced temperatures of at least 35C, with extreme heat warnings across the region.</p> <a href=\"https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east\">Continue reading...</a>",
+      "headline": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Australia politics live: Anthony Albanese says tax reforms \u2018make system fairer\u2019 and backs Paul Hogan on Pauline Hanson",
+      "summary": "<p>The prime minister tells 7.30 the housing market was \u2018broken\u2019. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Chalmers won\u2019t commit to giving workers under 18 superannuation</strong></p><p><strong>Jim Chalmers</strong> won\u2019t heed the call from advocates including the Australian Council of Trade Unions and the Greens, to guarantee superannuation payments for workers under the age of 18.</p><p>This is a really important issue. I actually met with a delegation of young workers about this last week. We are always looking for ways to strengthen the superannuation system to make is deliver for more workers.</p><p>We\u2019ve indicated a willingness to continue to engage with young people, with unions, with the super sectors, but what the next set of changes may be. For us the focus is pay day super because it comes in from tomorrow.</p><p>This is a really important warning from the ACCC because we want to make sure that every cent of the government\u2019s fuel excise cut is passed on to motorists who need this extra bit of relief.</p><p>It\u2019s been really terrific to see petrol prices and diesel prices come down very substantially in recent months. In fact, this week, we think for the first time, both petrol and diesel is cheaper than it was before the war in the Middle East began. But people are still under pressure. That\u2019s why we\u2019re extending this fuel price relief, this petrol and diesel tax cut for another month, at a tapered rate.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/30/australia-politics-live-anthony-albanese-tax-reform-pauline-hanson-one-nation-multiculturalism-question-time-angus-taylor-coalition-royal-commission-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +154,19 @@
       ]
     },
     {
-      "headline": "Can the ICJ help end the war in the eastern DRC?",
-      "summary": "The Democratic Republic of Congo takes Rwanda to the International Court of Justice.",
+      "headline": "Osaka 'pays love and respect to Japan' in Wimbledon kimono",
+      "summary": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Israel\u2019s Smotrich calls for settlements, \u2018conquest\u2019 of Gaza Strip",
+      "summary": "Israeli Finance Minister Bezalel Smotrich calls for the immediate establishment of Jewish settlements in the Gaza Strip.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +176,52 @@
       ]
     },
     {
-      "headline": "Israeli forces bulldoze olive groves in the occupied West Bank",
-      "summary": "Israeli forces bulldozed olive trees in the village of Zububa, west of Jenin in the occupied West Bank.",
+      "headline": "Australian Kasatkina finally wins on grass to kick-off Wimbledon run",
+      "summary": "After a winless grass-court swing, Australian Daria Kasatkina becomes Australia's first winner at Wimbledon for 2026.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "What\u2019s behind the anti-corruption crackdown in Iraq?",
+      "summary": "A number of senior politicians have been detained in a wave of arrests.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Six people shot dead at centre for mothers and children in Germany",
+      "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
+      "summary": "Martinelli&#039;s stoppage-time goal in Houston takes the five-time champions to the Round of 16, breaking Japanese hearts.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-29T06:59:30.706997+10:00",
-    "date": "2026-06-29",
-    "display_date": "Monday 29 June 2026",
-    "display_time": "06:59 AM AEST"
+    "generated_at": "2026-06-30T07:24:40.372050+10:00",
+    "date": "2026-06-30",
+    "display_date": "Tuesday 30 June 2026",
+    "display_time": "07:24 AM AEST"
   }
 }
