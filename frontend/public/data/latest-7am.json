@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7440.43,
-      "change": 86.41,
-      "change_pct": 1.18,
+      "price": 7499.36,
+      "change": 58.93,
+      "change_pct": 0.79,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25820.14,
-      "change": 522.52,
-      "change_pct": 2.07,
+      "price": 26213.72,
+      "change": 393.58,
+      "change_pct": 1.52,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52182.74,
-      "change": 306.63,
-      "change_pct": 0.59,
+      "price": 52319.2,
+      "change": 136.46,
+      "change_pct": 0.26,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.65,
-      "change": -0.76,
-      "change_pct": -4.13,
+      "price": 16.45,
+      "change": -1.2,
+      "change_pct": -6.8,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.37,
-      "change": -0.0,
-      "change_pct": -0.0,
-      "trend_5d": "down"
+      "price": 4.42,
+      "change": 0.05,
+      "change_pct": 1.14,
+      "trend_5d": "flat"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69360.88,
-      "change": -3005.46,
-      "change_pct": -4.15,
+      "price": 69468.11,
+      "change": 107.23,
+      "change_pct": 0.15,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 22671.86,
-      "change": -405.05,
-      "change_pct": -1.76,
+      "price": 23026.68,
+      "change": 354.82,
+      "change_pct": 1.57,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8411.21,
-      "change": -519.09,
-      "change_pct": -5.81,
+      "price": 8394.65,
+      "change": -16.56,
+      "change_pct": -0.2,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4030.5,
-      "change_pct": -1.18
+      "price": 4021.8,
+      "change_pct": -0.01
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 73.64,
-      "change_pct": 2.29
+      "price": 73.37,
+      "change_pct": 0.3
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 70.42,
-      "change_pct": 1.72
+      "price": 70.03,
+      "change_pct": -1.02
     }
   ],
   "asx200": {
-    "level": 8764.2,
-    "change_pct": 0.18
+    "level": 8823.4,
+    "change_pct": 0.68
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6888,
-      "change_pct": -0.1812
+      "current_rate": 0.6919,
+      "change_pct": 0.33
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5653,
-      "change_pct": 0.1701
+      "current_rate": 0.5675,
+      "change_pct": 0.6146
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2177,
-      "change_pct": -0.4195
+      "current_rate": 1.2187,
+      "change_pct": -0.3117
     }
   ],
   "world_news": [
     {
-      "headline": "The Ring and Lilo & Stitch actress Daveigh Chase died of Aids",
-      "summary": "Substance abuse was listed as another significant condition the former child star was experiencing.",
+      "headline": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+      "summary": "Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +132,8 @@
       ]
     },
     {
-      "headline": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-      "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Australia politics live: Anthony Albanese says tax reforms \u2018make system fairer\u2019 and backs Paul Hogan on Pauline Hanson",
-      "summary": "<p>The prime minister tells 7.30 the housing market was \u2018broken\u2019. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Chalmers won\u2019t commit to giving workers under 18 superannuation</strong></p><p><strong>Jim Chalmers</strong> won\u2019t heed the call from advocates including the Australian Council of Trade Unions and the Greens, to guarantee superannuation payments for workers under the age of 18.</p><p>This is a really important issue. I actually met with a delegation of young workers about this last week. We are always looking for ways to strengthen the superannuation system to make is deliver for more workers.</p><p>We\u2019ve indicated a willingness to continue to engage with young people, with unions, with the super sectors, but what the next set of changes may be. For us the focus is pay day super because it comes in from tomorrow.</p><p>This is a really important warning from the ACCC because we want to make sure that every cent of the government\u2019s fuel excise cut is passed on to motorists who need this extra bit of relief.</p><p>It\u2019s been really terrific to see petrol prices and diesel prices come down very substantially in recent months. In fact, this week, we think for the first time, both petrol and diesel is cheaper than it was before the war in the Middle East began. But people are still under pressure. That\u2019s why we\u2019re extending this fuel price relief, this petrol and diesel tax cut for another month, at a tapered rate.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jun/30/australia-politics-live-anthony-albanese-tax-reform-pauline-hanson-one-nation-multiculturalism-question-time-angus-taylor-coalition-royal-commission-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia politics live: Labor makes move to crack down on consultants after latest scandal",
+      "summary": "<p>Federal government releases options paper to improve regulation of accounting, auditing and consulting firms. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018We\u2019re very confident in Treasury\u2019s forecasts\u2019: Labor defends policy against cooling market</strong></p><p>Labor is under pressure to defend itself as new data shows house prices in Sydney and Melbourne recorded their biggest one-month decline in values in three years.</p><p>You\u2019ve got to wait more than a few weeks. As I said, there\u2019s a lot happening in the economy and the housing market \u2013 much of it as a result of global factors, as we\u2019ve seen now for a few years. I\u2019m very confident that Treasury\u2019 forecasts are well-based, they\u2019ve thought about it very carefully. The history of house prices in Australia is one of growth. And it doesn\u2019t mean there won\u2019t be a week here or a week there that you get particular numbers. But we\u2019re very confident in Treasury\u2019 forecasts.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/01/australia-politics-live-labor-kpmg-daniel-mulino-jim-chalmers-anthony-albanese-question-time-coalition-angus-taylor-one-nation-pauline-hanson-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,19 +143,8 @@
       ]
     },
     {
-      "headline": "Osaka 'pays love and respect to Japan' in Wimbledon kimono",
-      "summary": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Israel\u2019s Smotrich calls for settlements, \u2018conquest\u2019 of Gaza Strip",
-      "summary": "Israeli Finance Minister Bezalel Smotrich calls for the immediate establishment of Jewish settlements in the Gaza Strip.",
+      "headline": "Emergency crews search rubble after Athens building collapse",
+      "summary": "Rescue teams in Greece are combing through the rubble for survivors after a four-story apartment building in Athens.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +154,8 @@
       ]
     },
     {
-      "headline": "Australian Kasatkina finally wins on grass to kick-off Wimbledon run",
-      "summary": "After a winless grass-court swing, Australian Daria Kasatkina becomes Australia's first winner at Wimbledon for 2026.",
+      "headline": "Australia through to T20 World Cup final after scary West Indies incident",
+      "summary": "Australia makes it through to another Women's T20 World Cup final, after a scary moment when West Indies star Deandra Dottin collapsed during the national anthems.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +165,19 @@
       ]
     },
     {
-      "headline": "What\u2019s behind the anti-corruption crackdown in Iraq?",
-      "summary": "A number of senior politicians have been detained in a wave of arrests.",
+      "headline": "Breaking: Australian star takes down Serena Williams in Wimbledon return",
+      "summary": "Australian Maya Joint holds her nerve to beat tennis legend Serena Williams in the 23-time grand slam champion's first professional tennis match in four years.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "More than 30 students remain missing after Nigeria school attack",
+      "summary": "The attacks targeted a secondary school in the northeastern town of Lassa, in Borno State.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +187,19 @@
       ]
     },
     {
-      "headline": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+      "headline": "Rescuers find more bodies under rubble as Venezuela death toll rises",
+      "summary": "International and local emergency teams are continuing to recover the bodies of victims under the rubble",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Firefighters struggle to contain deadly Greek wildfire",
+      "summary": "More than 100 firefighters are fighting a fire near Thessaloniki which has claimed at least two lives.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,19 +209,19 @@
       ]
     },
     {
-      "headline": "Six people shot dead at centre for mothers and children in Germany",
-      "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+      "headline": "Australia to play Poland in Davis Cup tie in Brisbane",
+      "summary": "The countries will face off in a 2026 World Group I tie at the Pat Rafter Arena on September 19 and 20.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "ABC Australia"
       ]
     },
     {
-      "headline": "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
-      "summary": "Martinelli&#039;s stoppage-time goal in Houston takes the five-time champions to the Round of 16, breaking Japanese hearts.",
+      "headline": "Five humanitarian workers killed in convoy ambush in South Sudan",
+      "summary": "UN &#039;deeply saddened&#039; by Monday attack on convoy in Jonglei State, calls for investigation.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-06-30T07:24:40.372050+10:00",
-    "date": "2026-06-30",
-    "display_date": "Tuesday 30 June 2026",
-    "display_time": "07:24 AM AEST"
+    "generated_at": "2026-07-01T07:26:56.169051+10:00",
+    "date": "2026-07-01",
+    "display_date": "Wednesday 01 July 2026",
+    "display_time": "07:26 AM AEST"
   }
 }
