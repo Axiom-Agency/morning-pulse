@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7499.36,
-      "change": 58.93,
-      "change_pct": 0.79,
+      "price": 7483.23,
+      "change": -16.13,
+      "change_pct": -0.22,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26213.72,
-      "change": 393.58,
-      "change_pct": 1.52,
+      "price": 26040.03,
+      "change": -173.69,
+      "change_pct": -0.66,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52319.2,
-      "change": 136.46,
-      "change_pct": 0.26,
+      "price": 52305.24,
+      "change": -13.96,
+      "change_pct": -0.03,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.45,
-      "change": -1.2,
-      "change_pct": -6.8,
+      "price": 16.59,
+      "change": 0.14,
+      "change_pct": 0.85,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.42,
-      "change": 0.05,
-      "change_pct": 1.14,
+      "price": 4.47,
+      "change": 0.1,
+      "change_pct": 2.29,
       "trend_5d": "flat"
     }
   ],
@@ -45,18 +45,18 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69468.11,
-      "change": 107.23,
-      "change_pct": 0.15,
+      "price": 70062.32,
+      "change": 594.21,
+      "change_pct": 0.86,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23026.68,
-      "change": 354.82,
-      "change_pct": 1.57,
-      "trend_5d": "flat"
+      "price": 22881.02,
+      "change": -145.66,
+      "change_pct": -0.63,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8394.65,
-      "change": -16.56,
-      "change_pct": -0.2,
+      "price": 8476.48,
+      "change": 81.83,
+      "change_pct": 0.97,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4021.8,
-      "change_pct": -0.01
+      "price": 4044.6,
+      "change_pct": 0.54
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 73.37,
-      "change_pct": 0.3
+      "price": 71.14,
+      "change_pct": -2.44
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 70.03,
-      "change_pct": -1.02
+      "price": 68.09,
+      "change_pct": -2.03
     }
   ],
   "asx200": {
-    "level": 8823.4,
-    "change_pct": 0.68
+    "level": 8778.7,
+    "change_pct": -0.51
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6919,
-      "change_pct": 0.33
+      "current_rate": 0.6898,
+      "change_pct": 0.2195
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5675,
-      "change_pct": 0.6146
+      "current_rate": 0.5673,
+      "change_pct": 0.3801
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2187,
-      "change_pct": -0.3117
+      "current_rate": 1.2154,
+      "change_pct": -0.2069
     }
   ],
   "world_news": [
     {
-      "headline": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
-      "summary": "Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Australia politics live: Labor makes move to crack down on consultants after latest scandal",
-      "summary": "<p>Federal government releases options paper to improve regulation of accounting, auditing and consulting firms. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018We\u2019re very confident in Treasury\u2019s forecasts\u2019: Labor defends policy against cooling market</strong></p><p>Labor is under pressure to defend itself as new data shows house prices in Sydney and Melbourne recorded their biggest one-month decline in values in three years.</p><p>You\u2019ve got to wait more than a few weeks. As I said, there\u2019s a lot happening in the economy and the housing market \u2013 much of it as a result of global factors, as we\u2019ve seen now for a few years. I\u2019m very confident that Treasury\u2019 forecasts are well-based, they\u2019ve thought about it very carefully. The history of house prices in Australia is one of growth. And it doesn\u2019t mean there won\u2019t be a week here or a week there that you get particular numbers. But we\u2019re very confident in Treasury\u2019 forecasts.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/01/australia-politics-live-labor-kpmg-daniel-mulino-jim-chalmers-anthony-albanese-question-time-coalition-angus-taylor-one-nation-pauline-hanson-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia politics live: defence industry minister to spruik Labor\u2019s \u2018progressive patriotism\u2019 as audits reveal waste",
+      "summary": "<p>Pat Conroy to tell National Press Club that Labor is the true party of defence and national security. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning, <strong>Krishani Dhanji</strong> here with you. Thanks to <strong>Martin Farrer</strong> for getting us started.</p><p>It\u2019s the final sitting day of the week, but after a big <a href=\"https://www.theguardian.com/australia-news/gallery/2026/jul/01/midwinter-ball-2026-canberra-in-pictures\">Midwinter Ball</a> last night there might be a few wearier-than-usual eyes gracing the chambers (and the press gallery corridors).</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +132,8 @@
       ]
     },
     {
-      "headline": "Emergency crews search rubble after Athens building collapse",
-      "summary": "Rescue teams in Greece are combing through the rubble for survivors after a four-story apartment building in Athens.",
+      "headline": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+      "summary": "The US and Israel have signed a deal allocating land for a permanent US embassy in West Jerusalem.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +143,30 @@
       ]
     },
     {
-      "headline": "Australia through to T20 World Cup final after scary West Indies incident",
-      "summary": "Australia makes it through to another Women's T20 World Cup final, after a scary moment when West Indies star Deandra Dottin collapsed during the national anthems.",
+      "headline": "US Supreme Court hands wealthy donors more sway with latest decision",
+      "summary": "Critics say the ruling invites corruption, benefitting wealthy donors and amplifying special interest sway in politics.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "LIVE: USA vs Bosnia and Herzegovina \u2013 FIFA World Cup 2026",
+      "summary": "Live coverage and text updates as USA play Bosnia and Herzegovina in the round of 32 knockout stage in San Francisco.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "French Open champ Mirra Andreeva left in tears after early Wimbledon exit",
+      "summary": "French Open champion Mirra Andreeva is reduced to tears after her Wimbledon run is ended in the second round by former winner Barbora Krej\u010d\u00edkov\u00e1.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +176,30 @@
       ]
     },
     {
-      "headline": "Breaking: Australian star takes down Serena Williams in Wimbledon return",
-      "summary": "Australian Maya Joint holds her nerve to beat tennis legend Serena Williams in the 23-time grand slam champion's first professional tennis match in four years.",
+      "headline": "Iran to open \u2018communication channel\u2019 on MoU with US after talks in Qatar",
+      "summary": "Iran&#039;s Deputy FM Gharibabadi also says part of $6bn in frozen assets would be used to buy goods that Tehran needs.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Russian couple arrested after climbing Empire State Building",
+      "summary": "Two Russian climbers scaled New York\u2019s Empire State Building on Wednesday as part of a death-defying marriage proposal.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "This 8yo is one of many girls and young women driving golf numbers up",
+      "summary": "Women are taking up golf nearly twice as fast as men, with junior golfers like Rianna Hills one of many young people giving the sport a huge participation boost.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +209,8 @@
       ]
     },
     {
-      "headline": "More than 30 students remain missing after Nigeria school attack",
-      "summary": "The attacks targeted a secondary school in the northeastern town of Lassa, in Borno State.",
+      "headline": "State of emergency: Bolivia\u2019s currency plummets as anger simmers",
+      "summary": "Bolivia\u2019s President Paz declared a state of emergency after 50 days of protests against his policies.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,47 +220,14 @@
       ]
     },
     {
-      "headline": "Rescuers find more bodies under rubble as Venezuela death toll rises",
-      "summary": "International and local emergency teams are continuing to recover the bodies of victims under the rubble",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Firefighters struggle to contain deadly Greek wildfire",
-      "summary": "More than 100 firefighters are fighting a fire near Thessaloniki which has claimed at least two lives.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Australia to play Poland in Davis Cup tie in Brisbane",
-      "summary": "The countries will face off in a 2026 World Group I tie at the Pat Rafter Arena on September 19 and 20.",
+      "headline": "'Ridiculous' Kane's 'hero moment' sends England through",
+      "summary": "Facing World Cup elimination at the hands of DR Congo, England needed a hero to step up when it mattered most. Harry Kane was that man.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Five humanitarian workers killed in convoy ambush in South Sudan",
-      "summary": "UN &#039;deeply saddened&#039; by Monday attack on convoy in Jonglei State, calls for investigation.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-01T07:26:56.169051+10:00",
-    "date": "2026-07-01",
-    "display_date": "Wednesday 01 July 2026",
+    "generated_at": "2026-07-02T07:26:26.689480+10:00",
+    "date": "2026-07-02",
+    "display_date": "Thursday 02 July 2026",
     "display_time": "07:26 AM AEST"
   }
 }
