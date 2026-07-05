@@ -30,99 +30,99 @@
       "price": 16.15,
       "change": -0.44,
       "change_pct": -2.65,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.48,
-      "change": 0.11,
-      "change_pct": 2.52,
-      "trend_5d": "flat"
+      "price": 4.49,
+      "change": 0.02,
+      "change_pct": 0.45,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 70474.96,
-      "change": 412.64,
-      "change_pct": 0.59,
-      "trend_5d": "flat"
+      "price": 69744.07,
+      "change": 1010.92,
+      "change_pct": 1.47,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 22881.02,
-      "change": -145.66,
-      "change_pct": -0.63,
-      "trend_5d": "flat"
+      "price": 23350.03,
+      "change": 295.0,
+      "change_pct": 1.28,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 4043.64,
+      "change": 14.74,
+      "change_pct": 0.37,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8303.41,
-      "change": -173.07,
-      "change_pct": -2.04,
-      "trend_5d": "flat"
+      "price": 8088.34,
+      "change": 440.25,
+      "change_pct": 5.76,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4133.2,
-      "change_pct": 1.6
+      "price": 4187.3,
+      "change_pct": 1.81
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 71.58,
-      "change_pct": 0.01
+      "price": 72.13,
+      "change_pct": 0.46
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 68.46,
-      "change_pct": -0.17
+      "price": 68.78,
+      "change_pct": 0.13
     }
   ],
   "asx200": {
-    "level": 8722.9,
-    "change_pct": -0.64
+    "level": 8844.4,
+    "change_pct": 1.37
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6916,
-      "change_pct": 0.045
+      "current_rate": 0.6939,
+      "change_pct": 0.3276
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5696,
-      "change_pct": 0.3657
+      "current_rate": 0.5716,
+      "change_pct": 0.4099
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2135,
-      "change_pct": -0.3571
+      "current_rate": 1.2146,
+      "change_pct": -0.0272
     }
   ],
   "world_news": [
     {
-      "headline": "'This sport is unpredictable': De Minaur keeps Wimbledon dream alive",
-      "summary": "An imperfect Alex de Minaur explains his two mindsets as the Australian makes it through another round at Wimbledon.",
+      "headline": "FIFA throws out US striker's ban after reported Trump intervention",
+      "summary": "US striker Folarin Balogun is free to play Belgium despite being shown a red card in his last match, a shock decision which delights Donald Trump and \"astonishes\" the Belgians.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +132,8 @@
       ]
     },
     {
-      "headline": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-      "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "UK\u2019s likely next leader Andy Burnham vows to fully fund defence plans",
-      "summary": "Andy Burnham says the UK must take the defence investment plan &#039;very seriously&#039; despite 4.7bn-pound funding hole.",
+      "headline": "8 injured, including 4 children, in New York City Fourth of July shooting",
+      "summary": "A shooting at a Fourth of July celebration in the US city of New York wounded eight victims, four of whom are children.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +143,8 @@
       ]
     },
     {
-      "headline": "Trump administration aims to cut regulations on US commercial fishing",
-      "summary": "Scallop fishing had been banned in the New England waters since 1994 on account of overfishing.",
+      "headline": "Volunteers vow to keep searching for Venezuela earthquake survivors",
+      "summary": "Rescue teams in Venezuela\u2019s La Guaira State say they\u2019re never going to give up their search for earthquake survivors.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,52 +154,8 @@
       ]
     },
     {
-      "headline": "'Most massive' Russian attack on Kyiv kills at least 27",
-      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "UK culture minister quits X over \u2018abuse and misinformation\u2019",
-      "summary": "UK Department of Culture, Media and Sport will also stop using social media platform.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Violent clashes as Albania\u2019s anti-government protests continue",
-      "summary": "Violent clashes as Albania\u2019s anti-government protests continue",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "LIVE: Portugal vs Croatia \u2013 FIFA World Cup 2026",
-      "summary": "Live coverage and text updates, with team news, from our commentary stream as Ronaldo&#039;s Portugal target the last 16.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "AFP assessing allegation of Gaza war crimes committed by Australian citizen serving in IDF",
-      "summary": "<p>Claims against Israel Defense Forces battalion include deliberate targeting and destruction of residential buildings in 2023 and 2024 without military justification<br /></p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australian federal police investigators are assessing a brief detailing alleged war crimes committed by an Australian citizen serving in the Israel Defense Forces in Gaza.</p><p>A 61-page brief has been handed to the AFP by the Australian Centre for International Justice detailing alleged war crimes committed by an IDF battalion in Gaza across 2023 and 2024.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/03/afp-investigating-alleged-war-crimes-committed-by-australian-citizen-serving-in-idf-in-gaza-ntwnfb\">Continue reading...</a>",
+      "headline": "Florida Republican says deporting Haitians with TPS would be \u2018huge mistake\u2019",
+      "summary": "<p>\u2018Haiti is a failed state\u2019, says Carlos Gim\u00e9nez, congressman and Miami Cuban exile, after controversial court ruling</p><p>Carlos Gim\u00e9nez, a <a href=\"https://www.theguardian.com/us-news/republicans\">Republican</a> congressman from Florida, broke with the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> on Sunday, calling on the White House to reconsider its push to eliminate temporary protected status (TPS) for <a href=\"https://www.theguardian.com/world/haiti\">Haitian</a> migrants.</p><p>Returning some 350,000 Haitians to their chaotic, dangerous homeland following the US supreme court\u2019s ruling that the Trump administration can cut off temporary legal protections, would be a grave error, Gim\u00e9nez said.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +165,63 @@
       ]
     },
     {
-      "headline": "Concussion awareness leaving parents 'terrified', experts say",
-      "summary": "A research paper published in June found almost a third of parents surveyed said they stopped their children from playing contact sports out of fear of concussion.",
+      "headline": "Australia thrash England to win record seventh Women\u2019s T20 World Cup",
+      "summary": "Beth Mooney (64) and Phoebe Litchfield (48) lead Australia\u2019s stunning seven-wicket win over the hosts at Lord\u2019s.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Meet Mr Row Row, the man who invented Norway's viral World Cup Viking row",
+      "summary": "Ole Fr\u00f8ystad has always been a passionate football fan and when Norway qualified for its first men's World Cup since 1998, he was inspired to create the iconic chant that's become a global sensation.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "12-tonne whale removed from DR Congo beach",
+      "summary": "A dead whale weighing about 12 tonnes has been recovered from the beaches of Muanda.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "America at 250: Democracy\u2019s greatest experiment?",
+      "summary": "Chris Hedges reflects on 250 years of US independence - the nation&#039;s ideals, contradictions, and what it has become.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
+      "summary": "Russia says its forces have taken the city of Kostiantynivka in Donestk, Ukraine denies that.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "'Software error' blamed for F1 confusion as former driver calls for change",
+      "summary": "Despite being anti-climactic, the ending to the British Grand Prix followed the correct procedure, even if it was confusing to viewers.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-03T07:02:51.261581+10:00",
-    "date": "2026-07-03",
-    "display_date": "Friday 03 July 2026",
-    "display_time": "07:02 AM AEST"
+    "generated_at": "2026-07-06T06:57:30.205054+10:00",
+    "date": "2026-07-06",
+    "display_date": "Monday 06 July 2026",
+    "display_time": "06:57 AM AEST"
   }
 }
