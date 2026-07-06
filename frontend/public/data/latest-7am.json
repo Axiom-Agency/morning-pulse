@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7483.24,
-      "change": 0.01,
-      "change_pct": 0.0,
+      "price": 7537.43,
+      "change": 54.19,
+      "change_pct": 0.72,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25832.67,
-      "change": -207.36,
-      "change_pct": -0.8,
+      "price": 26121.16,
+      "change": 288.49,
+      "change_pct": 1.12,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52900.07,
-      "change": 594.83,
-      "change_pct": 1.14,
+      "price": 53055.91,
+      "change": 155.84,
+      "change_pct": 0.29,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.15,
-      "change": -0.44,
-      "change_pct": -2.65,
+      "price": 15.57,
+      "change": -0.58,
+      "change_pct": -3.59,
       "trend_5d": "flat"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.49,
-      "change": 0.02,
-      "change_pct": 0.45,
+      "price": 4.48,
+      "change": -0.01,
+      "change_pct": -0.22,
       "trend_5d": "up"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 69744.07,
       "change": 1010.92,
       "change_pct": 1.47,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 23350.03,
       "change": 295.0,
       "change_pct": 1.28,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 4043.64,
-      "change": 14.74,
-      "change_pct": 0.37,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,7 +72,7 @@
       "price": 8088.34,
       "change": 440.25,
       "change_pct": 5.76,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
@@ -103,59 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6939,
-      "change_pct": 0.3276
+      "current_rate": 0.6958,
+      "change_pct": 0.6069
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5716,
-      "change_pct": 0.4099
+      "current_rate": 0.5701,
+      "change_pct": 0.1351
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2146,
-      "change_pct": -0.0272
+      "current_rate": 1.2201,
+      "change_pct": 0.4305
     }
   ],
   "world_news": [
     {
-      "headline": "FIFA throws out US striker's ban after reported Trump intervention",
-      "summary": "US striker Folarin Balogun is free to play Belgium despite being shown a red card in his last match, a shock decision which delights Donald Trump and \"astonishes\" the Belgians.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "8 injured, including 4 children, in New York City Fourth of July shooting",
-      "summary": "A shooting at a Fourth of July celebration in the US city of New York wounded eight victims, four of whom are children.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Volunteers vow to keep searching for Venezuela earthquake survivors",
-      "summary": "Rescue teams in Venezuela\u2019s La Guaira State say they\u2019re never going to give up their search for earthquake survivors.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Florida Republican says deporting Haitians with TPS would be \u2018huge mistake\u2019",
-      "summary": "<p>\u2018Haiti is a failed state\u2019, says Carlos Gim\u00e9nez, congressman and Miami Cuban exile, after controversial court ruling</p><p>Carlos Gim\u00e9nez, a <a href=\"https://www.theguardian.com/us-news/republicans\">Republican</a> congressman from Florida, broke with the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> on Sunday, calling on the White House to reconsider its push to eliminate temporary protected status (TPS) for <a href=\"https://www.theguardian.com/world/haiti\">Haitian</a> migrants.</p><p>Returning some 350,000 Haitians to their chaotic, dangerous homeland following the US supreme court\u2019s ruling that the Trump administration can cut off temporary legal protections, would be a grave error, Gim\u00e9nez said.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez\">Continue reading...</a>",
+      "headline": "Australia news live: Melbourne police in standoff with alleged graffiti artist perched on 120m tower of Bolte Bridge",
+      "summary": "<p>Meanwhile Wong says China\u2019s missile test in Pacific a \u2018destabilising act\u2019 that could \u2018lead to miscalculation\u2019. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Back to the upcoming by-election in WA\u2019s seat of Secret Harbour\u2026</strong></p><p>WA One Nation Leader <strong>Rod Caddies</strong> said Labor has treated Secret Harbour as a safe seat and voters aren\u2019t happy, AAP reports.</p><p>They\u2019ve been missing in action, and we\u2019re going to sink Labor in Secret Harbour.</p><p>We want to make sure that we don\u2019t leave any stone unturned in getting the very best.</p><p>The big question for Labor is how much support it will lose.</p><p>It\u2019s got a fair buffer, but things are a bit volatile at the moment, so I think there would be a bit of nervousness all around the traps.</p><p>It\u2019ll be a test for (WA Liberal) Basil Zempilas and his leadership. It\u2019s also a big test for One Nation, whether the swing we\u2019ve been seeing to One Nation is reflected in actual votes.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/07/australia-news-live-penny-wong-china-missile-test-pacific-anthony-albanese-solomon-islands-defence-royal-commission-antisemitism-meta-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +132,8 @@
       ]
     },
     {
-      "headline": "Australia thrash England to win record seventh Women\u2019s T20 World Cup",
-      "summary": "Beth Mooney (64) and Phoebe Litchfield (48) lead Australia\u2019s stunning seven-wicket win over the hosts at Lord\u2019s.",
+      "headline": "Survivors and bodies still being pulled from rubble days after twin quakes",
+      "summary": "International aid teams have played a key part in Venezuela\u2019s \u2018miracle rescues\u2019, days after twin earthquakes struck.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +143,19 @@
       ]
     },
     {
-      "headline": "Meet Mr Row Row, the man who invented Norway's viral World Cup Viking row",
-      "summary": "Ole Fr\u00f8ystad has always been a passionate football fan and when Norway qualified for its first men's World Cup since 1998, he was inspired to create the iconic chant that's become a global sensation.",
+      "headline": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Alex de Minaur suffers another 'truly gut-wrenching' Wimbledon loss",
+      "summary": "Alex de Minaur loses in the fourth round at Wimbledon in another match he feels he could, and maybe should, have won against ninth seed Flavio Cobolli.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +165,8 @@
       ]
     },
     {
-      "headline": "12-tonne whale removed from DR Congo beach",
-      "summary": "A dead whale weighing about 12 tonnes has been recovered from the beaches of Muanda.",
+      "headline": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
+      "summary": "The French president is the first leader from western Europe to visit Syria since the overthrow of Bashar al-Assad.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +176,8 @@
       ]
     },
     {
-      "headline": "America at 250: Democracy\u2019s greatest experiment?",
-      "summary": "Chris Hedges reflects on 250 years of US independence - the nation&#039;s ideals, contradictions, and what it has become.",
+      "headline": "Mbappe, FFF hit back at Paraguayan senator Amarilla over racist tirade",
+      "summary": "Amarilla called Mbappe a &#039;colonised Cameroonian&#039; after his penalty helped France knock Paraguay out of the World Cup.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +187,8 @@
       ]
     },
     {
-      "headline": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
-      "summary": "Russia says its forces have taken the city of Kostiantynivka in Donestk, Ukraine denies that.",
+      "headline": "USA vs Belgium LIVE: FIFA World Cup 2026 round of 16",
+      "summary": "Live coverage and text-stream updates of USA against Belgium in last-16 game, overshadowed by Balogun suspension row.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +198,36 @@
       ]
     },
     {
-      "headline": "'Software error' blamed for F1 confusion as former driver calls for change",
-      "summary": "Despite being anti-climactic, the ending to the British Grand Prix followed the correct procedure, even if it was confusing to viewers.",
+      "headline": "US judge tosses out Musk\u2019s bid to void Twitter fraud verdict",
+      "summary": "Jurors had found owner Elon Musk liable for tweets questioning whether Twitter was overrun by fake and spam accounts.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Crowds hold \u2018destroy Israel\u2019 banner at Spain\u2019s Pamplona bull run",
+      "summary": "A giant banner reading \u2018Destroy Israel\u2019 was unfurled as thousands gathered for the San Fermin bull run festival.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Prosecutors in US lay out case against alleged killer of Charlie Kirk",
+      "summary": "Judge to decide whether there&#039;s enough evidence to bring Tyler Robinson to trial for conservative activist&#039;s killing.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-06T06:57:30.205054+10:00",
-    "date": "2026-07-06",
-    "display_date": "Monday 06 July 2026",
-    "display_time": "06:57 AM AEST"
+    "generated_at": "2026-07-07T07:27:29.462254+10:00",
+    "date": "2026-07-07",
+    "display_date": "Tuesday 07 July 2026",
+    "display_time": "07:27 AM AEST"
   }
 }
