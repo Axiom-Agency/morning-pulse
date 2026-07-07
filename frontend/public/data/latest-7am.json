@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7537.43,
-      "change": 54.19,
-      "change_pct": 0.72,
-      "trend_5d": "up"
+      "price": 7503.85,
+      "change": -33.58,
+      "change_pct": -0.45,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26121.16,
-      "change": 288.49,
-      "change_pct": 1.12,
-      "trend_5d": "up"
+      "price": 25818.69,
+      "change": -302.47,
+      "change_pct": -1.16,
+      "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53055.91,
-      "change": 155.84,
-      "change_pct": 0.29,
+      "price": 52925.15,
+      "change": -130.76,
+      "change_pct": -0.25,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.57,
-      "change": -0.58,
-      "change_pct": -3.59,
-      "trend_5d": "flat"
+      "price": 16.13,
+      "change": 0.56,
+      "change_pct": 3.6,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.48,
-      "change": -0.01,
-      "change_pct": -0.22,
-      "trend_5d": "up"
+      "price": 4.53,
+      "change": 0.04,
+      "change_pct": 0.89,
+      "trend_5d": "flat"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69744.07,
-      "change": 1010.92,
-      "change_pct": 1.47,
+      "price": 69737.69,
+      "change": -6.38,
+      "change_pct": -0.01,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23350.03,
-      "change": 295.0,
-      "change_pct": 1.28,
+      "price": 23616.32,
+      "change": 266.29,
+      "change_pct": 1.14,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8088.34,
-      "change": 440.25,
-      "change_pct": 5.76,
+      "price": 8051.33,
+      "change": -37.01,
+      "change_pct": -0.46,
       "trend_5d": "flat"
     }
   ],
@@ -79,83 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4187.3,
-      "change_pct": 1.81
+      "price": 4116.6,
+      "change_pct": -0.93
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 72.13,
-      "change_pct": 0.46
+      "price": 75.86,
+      "change_pct": 5.38
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 68.78,
-      "change_pct": 0.13
+      "price": 72.19,
+      "change_pct": 5.31
     }
   ],
   "asx200": {
-    "level": 8844.4,
-    "change_pct": 1.37
+    "level": 8831.0,
+    "change_pct": -0.15
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6958,
-      "change_pct": 0.6069
+      "current_rate": 0.6928,
+      "change_pct": -0.1285
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5701,
-      "change_pct": 0.1351
+      "current_rate": 0.5678,
+      "change_pct": -0.4917
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2201,
-      "change_pct": 0.4305
+      "current_rate": 1.2197,
+      "change_pct": 0.2548
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Melbourne police in standoff with alleged graffiti artist perched on 120m tower of Bolte Bridge",
-      "summary": "<p>Meanwhile Wong says China\u2019s missile test in Pacific a \u2018destabilising act\u2019 that could \u2018lead to miscalculation\u2019. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Back to the upcoming by-election in WA\u2019s seat of Secret Harbour\u2026</strong></p><p>WA One Nation Leader <strong>Rod Caddies</strong> said Labor has treated Secret Harbour as a safe seat and voters aren\u2019t happy, AAP reports.</p><p>They\u2019ve been missing in action, and we\u2019re going to sink Labor in Secret Harbour.</p><p>We want to make sure that we don\u2019t leave any stone unturned in getting the very best.</p><p>The big question for Labor is how much support it will lose.</p><p>It\u2019s got a fair buffer, but things are a bit volatile at the moment, so I think there would be a bit of nervousness all around the traps.</p><p>It\u2019ll be a test for (WA Liberal) Basil Zempilas and his leadership. It\u2019s also a big test for One Nation, whether the swing we\u2019ve been seeing to One Nation is reflected in actual votes.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/07/australia-news-live-penny-wong-china-missile-test-pacific-anthony-albanese-solomon-islands-defence-royal-commission-antisemitism-meta-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Survivors and bodies still being pulled from rubble days after twin quakes",
-      "summary": "International aid teams have played a key part in Venezuela\u2019s \u2018miracle rescues\u2019, days after twin earthquakes struck.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Alex de Minaur suffers another 'truly gut-wrenching' Wimbledon loss",
-      "summary": "Alex de Minaur loses in the fourth round at Wimbledon in another match he feels he could, and maybe should, have won against ninth seed Flavio Cobolli.",
+      "headline": "'We have suffered injustice': Egypt coach fumes at ref after Argentina loss",
+      "summary": "Egypt coach Hossam Hassan says his side \"suffered an injustice\" in defeat to Argentina, raging at the referee for a number of perceived errors.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +132,30 @@
       ]
     },
     {
-      "headline": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
-      "summary": "The French president is the first leader from western Europe to visit Syria since the overthrow of Bashar al-Assad.",
+      "headline": "'I'm getting old': 28yo Osaka's Wimbledon run ends at quarterfinals",
+      "summary": "Japan's Naomi Osaka bemoans getting old as her inspiring Wimbledon run comes to an end in the quarterfinals.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Australia news live: major outage hits Telstra mobile network; PM to host three Pacific leaders in Brisbane",
+      "summary": "<p>Leaders from Tonga, Samoa and Papua New Guinea to join Albanese at State of Origin decider. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><em>Following on from last post \u2026</em></p><p>The outage is apparently playing havoc with morning TV.</p><p>A number of members of our team have been affected by this, including some of the people we\u2019re trying to get on the show this morning.</p><p>We\u2019re looking into an issue affecting some mobile calls and data connections. If you\u2019re having trouble connecting at first, try again as it may work on a retry. We\u2019re on it and will share an update as soon as it\u2019s fixed. Thanks for bearing with us.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
+      "summary": "SpaceX joins Nasdaq-100 after IPO, bypassing traditional three-month trading rule for inclusion in the tech-heavy index.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +165,8 @@
       ]
     },
     {
-      "headline": "Mbappe, FFF hit back at Paraguayan senator Amarilla over racist tirade",
-      "summary": "Amarilla called Mbappe a &#039;colonised Cameroonian&#039; after his penalty helped France knock Paraguay out of the World Cup.",
+      "headline": "Venezuela buries earthquake victims as death toll reaches 3,535",
+      "summary": "Mass burials have begun at La Esperanza Cemetery in Venezuela&#039;s La Guaira",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +176,8 @@
       ]
     },
     {
-      "headline": "USA vs Belgium LIVE: FIFA World Cup 2026 round of 16",
-      "summary": "Live coverage and text-stream updates of USA against Belgium in last-16 game, overshadowed by Balogun suspension row.",
+      "headline": "Pro-Palestine MEP Rima Hassan arrives at trial for \u2018glorifying terrorism\u2019",
+      "summary": "\u2018No one is safe anymore.\u2019 This is what French MEP Rima Hassan told a crowd as she arrived at her trial in Paris.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +187,8 @@
       ]
     },
     {
-      "headline": "US judge tosses out Musk\u2019s bid to void Twitter fraud verdict",
-      "summary": "Jurors had found owner Elon Musk liable for tweets questioning whether Twitter was overrun by fake and spam accounts.",
+      "headline": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
+      "summary": "The senator has been hospitalised since June 14 with few details released, raising questions over his return to work.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,19 +198,30 @@
       ]
     },
     {
-      "headline": "Crowds hold \u2018destroy Israel\u2019 banner at Spain\u2019s Pamplona bull run",
-      "summary": "A giant banner reading \u2018Destroy Israel\u2019 was unfurled as thousands gathered for the San Fermin bull run festival.",
+      "headline": "Watch: Marine Le Pen confirms run for French presidency",
+      "summary": "The National Rally leader also said she will attempt to appeal an embezzlement conviction.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "BBC World"
       ]
     },
     {
-      "headline": "Prosecutors in US lay out case against alleged killer of Charlie Kirk",
-      "summary": "Judge to decide whether there&#039;s enough evidence to bring Tyler Robinson to trial for conservative activist&#039;s killing.",
+      "headline": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
+      "summary": "The footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
+      "summary": "Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-07T07:27:29.462254+10:00",
-    "date": "2026-07-07",
-    "display_date": "Tuesday 07 July 2026",
-    "display_time": "07:27 AM AEST"
+    "generated_at": "2026-07-08T07:21:45.870509+10:00",
+    "date": "2026-07-08",
+    "display_date": "Wednesday 08 July 2026",
+    "display_time": "07:21 AM AEST"
   }
 }
