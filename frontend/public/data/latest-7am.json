@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7503.85,
-      "change": -33.58,
-      "change_pct": -0.45,
+      "price": 7482.71,
+      "change": -21.14,
+      "change_pct": -0.28,
       "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25818.69,
-      "change": -302.47,
-      "change_pct": -1.16,
+      "price": 25870.65,
+      "change": 51.96,
+      "change_pct": 0.2,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52925.15,
-      "change": -130.76,
-      "change_pct": -0.25,
-      "trend_5d": "up"
+      "price": 52348.39,
+      "change": -576.76,
+      "change_pct": -1.09,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.13,
-      "change": 0.56,
-      "change_pct": 3.6,
-      "trend_5d": "down"
+      "price": 16.9,
+      "change": 0.77,
+      "change_pct": 4.77,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.53,
+      "price": 4.57,
       "change": 0.04,
-      "change_pct": 0.89,
+      "change_pct": 0.88,
       "trend_5d": "flat"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69737.69,
-      "change": -6.38,
-      "change_pct": -0.01,
+      "price": 68256.96,
+      "change": -1480.73,
+      "change_pct": -2.12,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23616.32,
-      "change": 266.29,
-      "change_pct": 1.14,
+      "price": 23496.89,
+      "change": -119.43,
+      "change_pct": -0.51,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 8051.33,
-      "change": -37.01,
-      "change_pct": -0.46,
+      "price": 7656.31,
+      "change": -395.02,
+      "change_pct": -4.91,
       "trend_5d": "flat"
     }
   ],
@@ -79,72 +79,61 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4116.6,
-      "change_pct": -0.93
+      "price": 4088.5,
+      "change_pct": -1.37
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 75.86,
-      "change_pct": 5.38
+      "price": 79.18,
+      "change_pct": 6.77
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 72.19,
-      "change_pct": 5.31
+      "price": 74.67,
+      "change_pct": 6.01
     }
   ],
   "asx200": {
-    "level": 8831.0,
-    "change_pct": -0.15
+    "level": 8803.9,
+    "change_pct": -0.31
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6928,
-      "change_pct": -0.1285
+      "current_rate": 0.6936,
+      "change_pct": -0.2807
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5678,
-      "change_pct": -0.4917
+      "current_rate": 0.5701,
+      "change_pct": -0.0063
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2197,
-      "change_pct": 0.2548
+      "current_rate": 1.2134,
+      "change_pct": -0.5377
     }
   ],
   "world_news": [
     {
-      "headline": "'We have suffered injustice': Egypt coach fumes at ref after Argentina loss",
-      "summary": "Egypt coach Hossam Hassan says his side \"suffered an injustice\" in defeat to Argentina, raging at the referee for a number of perceived errors.",
+      "headline": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+      "summary": "Explosions have been reported by Iranian state media in parts of the country's south.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "BBC World"
       ]
     },
     {
-      "headline": "'I'm getting old': 28yo Osaka's Wimbledon run ends at quarterfinals",
-      "summary": "Japan's Naomi Osaka bemoans getting old as her inspiring Wimbledon run comes to an end in the quarterfinals.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Australia news live: major outage hits Telstra mobile network; PM to host three Pacific leaders in Brisbane",
-      "summary": "<p>Leaders from Tonga, Samoa and Papua New Guinea to join Albanese at State of Origin decider. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><em>Following on from last post \u2026</em></p><p>The outage is apparently playing havoc with morning TV.</p><p>A number of members of our team have been affected by this, including some of the people we\u2019re trying to get on the show this morning.</p><p>We\u2019re looking into an issue affecting some mobile calls and data connections. If you\u2019re having trouble connecting at first, try again as it may work on a retry. We\u2019re on it and will share an update as soon as it\u2019s fixed. Thanks for bearing with us.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Telstra warns of \u2018secondary issue\u2019 after yesterday\u2019s network outage; trains in regional Victoria cancelled again",
+      "summary": "<p>Carrier says some customers still can\u2019t connect to triple zero on its network. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A quick update on that \u201csecondary issue\u201d with Telstra\u2019s mobile network.</p><p>The carrier just issued this statement:</p><p>6:30am - Restoration work continues on secondary issue</p><p>Overnight, our team have made good progress reducing the occurrence of the subsequent Triple Zero calling error by approx. 90%. and will continuing work to eliminate this issue entirely.</p><p>I sit with most reasonable Australians somewhere in the centre. I think there is a third way. We\u2019re all signed up to the Australian project. I think immigration has happened, that\u2019s a reality.</p><p>It doesn\u2019t matter where you\u2019re from or what colour your skin is, if you sign up to our shared language, which is English, our shared institutions, like Parliament, and the rule of law or our judiciary, and if you sign up to our shared symbol, the Australian national flag, you\u2019re Australian,\u201d Hastie said</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +143,8 @@
       ]
     },
     {
-      "headline": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
-      "summary": "SpaceX joins Nasdaq-100 after IPO, bypassing traditional three-month trading rule for inclusion in the tech-heavy index.",
+      "headline": "Former rebel turned government ally proposes a path to peace for Sudan",
+      "summary": "Malik Agar Ayyir has proposed a national dialogue to end the civil war and steer Sudan towards democratic civilian rule.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +154,8 @@
       ]
     },
     {
-      "headline": "Venezuela buries earthquake victims as death toll reaches 3,535",
-      "summary": "Mass burials have begun at La Esperanza Cemetery in Venezuela&#039;s La Guaira",
+      "headline": "Trump departs NATO summit on older Air Force One",
+      "summary": "Trump departed the NATO summit on an older Air Force One after arriving aboard the new Qatar-gifted aircraft.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +165,8 @@
       ]
     },
     {
-      "headline": "Pro-Palestine MEP Rima Hassan arrives at trial for \u2018glorifying terrorism\u2019",
-      "summary": "\u2018No one is safe anymore.\u2019 This is what French MEP Rima Hassan told a crowd as she arrived at her trial in Paris.",
+      "headline": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
+      "summary": "Former Obama official is expected to run for president in 2028, with speech reflecting shifting Democratic sentiments.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +176,8 @@
       ]
     },
     {
-      "headline": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
-      "summary": "The senator has been hospitalised since June 14 with few details released, raising questions over his return to work.",
+      "headline": "Venezuelan fashion designer swaps dresses for body bags",
+      "summary": "A Venezuelan fashion designer has turned his workshop from making colourful dresses to producing body bags.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +187,8 @@
       ]
     },
     {
-      "headline": "Watch: Marine Le Pen confirms run for French presidency",
-      "summary": "The National Rally leader also said she will attempt to appeal an embezzlement conviction.",
+      "headline": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+      "summary": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,19 +198,30 @@
       ]
     },
     {
-      "headline": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
-      "summary": "The footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
+      "headline": "US summer travel slumps under rising fares and fuel expenses",
+      "summary": "US summer trips decline as 45 percent of Americans skip holidays due to soaring airfares and car travel expenses.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
-      "summary": "Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect.",
+      "headline": "Racist commentary called out in World Cup coverage",
+      "summary": "Leading experts say racial stereotypes in World Cup coverage can be damaging for athletes' leadership aspirations and have an impact on Black communities more broadly.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Marine Le Pen cleared to run in France\u2019s 2027 Presidential election",
+      "summary": "A French court ruling has reopened Marine Le Pen\u2019s path to the 2027 presidential election.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-08T07:21:45.870509+10:00",
-    "date": "2026-07-08",
-    "display_date": "Wednesday 08 July 2026",
-    "display_time": "07:21 AM AEST"
+    "generated_at": "2026-07-09T07:04:45.031198+10:00",
+    "date": "2026-07-09",
+    "display_date": "Thursday 09 July 2026",
+    "display_time": "07:04 AM AEST"
   }
 }
