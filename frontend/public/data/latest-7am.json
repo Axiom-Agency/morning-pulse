@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7482.71,
-      "change": -21.14,
-      "change_pct": -0.28,
-      "trend_5d": "flat"
+      "price": 7543.64,
+      "change": 60.93,
+      "change_pct": 0.81,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25870.65,
-      "change": 51.96,
-      "change_pct": 0.2,
-      "trend_5d": "down"
+      "price": 26206.89,
+      "change": 336.24,
+      "change_pct": 1.3,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52348.39,
-      "change": -576.76,
-      "change_pct": -1.09,
-      "trend_5d": "flat"
+      "price": 52487.41,
+      "change": 139.02,
+      "change_pct": 0.27,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.9,
-      "change": 0.77,
-      "change_pct": 4.77,
+      "price": 15.84,
+      "change": -1.06,
+      "change_pct": -6.27,
       "trend_5d": "flat"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.57,
-      "change": 0.04,
-      "change_pct": 0.88,
+      "price": 4.54,
+      "change": -0.03,
+      "change_pct": -0.66,
       "trend_5d": "flat"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 68256.96,
-      "change": -1480.73,
-      "change_pct": -2.12,
+      "price": 66819.05,
+      "change": -1437.91,
+      "change_pct": -2.11,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23496.89,
-      "change": -119.43,
-      "change_pct": -0.51,
+      "price": 24199.46,
+      "change": 702.57,
+      "change_pct": 2.99,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7656.31,
-      "change": -395.02,
-      "change_pct": -4.91,
+      "price": 7246.79,
+      "change": -409.52,
+      "change_pct": -5.35,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4088.5,
-      "change_pct": -1.37
+      "price": 4132.6,
+      "change_pct": 1.52
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 79.18,
-      "change_pct": 6.77
+      "price": 76.04,
+      "change_pct": -2.54
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 74.67,
-      "change_pct": 6.01
+      "price": 71.81,
+      "change_pct": -2.33
     }
   ],
   "asx200": {
-    "level": 8803.9,
-    "change_pct": -0.31
+    "level": 8785.1,
+    "change_pct": -0.21
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6936,
-      "change_pct": -0.2807
+      "current_rate": 0.6941,
+      "change_pct": 0.2599
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5701,
-      "change_pct": -0.0063
+      "current_rate": 0.5753,
+      "change_pct": 1.3415
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2134,
-      "change_pct": -0.5377
+      "current_rate": 1.2054,
+      "change_pct": -1.1562
     }
   ],
   "world_news": [
     {
-      "headline": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
-      "summary": "Explosions have been reported by Iranian state media in parts of the country's south.",
+      "headline": "Tehran launches more strikes after explosions reported in southern Iran",
+      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "Australia news live: Telstra warns of \u2018secondary issue\u2019 after yesterday\u2019s network outage; trains in regional Victoria cancelled again",
-      "summary": "<p>Carrier says some customers still can\u2019t connect to triple zero on its network. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A quick update on that \u201csecondary issue\u201d with Telstra\u2019s mobile network.</p><p>The carrier just issued this statement:</p><p>6:30am - Restoration work continues on secondary issue</p><p>Overnight, our team have made good progress reducing the occurrence of the subsequent Triple Zero calling error by approx. 90%. and will continuing work to eliminate this issue entirely.</p><p>I sit with most reasonable Australians somewhere in the centre. I think there is a third way. We\u2019re all signed up to the Australian project. I think immigration has happened, that\u2019s a reality.</p><p>It doesn\u2019t matter where you\u2019re from or what colour your skin is, if you sign up to our shared language, which is English, our shared institutions, like Parliament, and the rule of law or our judiciary, and if you sign up to our shared symbol, the Australian national flag, you\u2019re Australian,\u201d Hastie said</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Hanson defends UK \u2018fact-finding\u2019 trip; Qantas tops airline punctuality table",
+      "summary": "<p>One Nation leader welcomed by far-right figures including Tommy Robinson and Rupert Lowe. </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning, and happy Friday \u2013<strong> Nick Visser</strong> here to take over and round out the week. Let\u2019s get to it.</p><p><strong>Hanson says Taylor should go \u2018after the real enemy, Labor\u2019</strong></p><p>Angus Taylor has today come out attacking One Nation instead of going after the real enemy, Labor.</p><p>Angus has played right into the hands of Anthony Albanese. While the Liberal leader is telling voters how bad One Nation is, he\u2019s quietly adopting One Nation policies.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/10/australia-news-live-pauline-hanson-one-nation-modi-anthony-albanese-royal-commission-antisemitism-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,52 +143,8 @@
       ]
     },
     {
-      "headline": "Former rebel turned government ally proposes a path to peace for Sudan",
-      "summary": "Malik Agar Ayyir has proposed a national dialogue to end the civil war and steer Sudan towards democratic civilian rule.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump departs NATO summit on older Air Force One",
-      "summary": "Trump departed the NATO summit on an older Air Force One after arriving aboard the new Qatar-gifted aircraft.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
-      "summary": "Former Obama official is expected to run for president in 2028, with speech reflecting shifting Democratic sentiments.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Venezuelan fashion designer swaps dresses for body bags",
-      "summary": "A Venezuelan fashion designer has turned his workshop from making colourful dresses to producing body bags.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
-      "summary": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
+      "headline": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+      "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +154,8 @@
       ]
     },
     {
-      "headline": "US summer travel slumps under rising fares and fuel expenses",
-      "summary": "US summer trips decline as 45 percent of Americans skip holidays due to soaring airfares and car travel expenses.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Racist commentary called out in World Cup coverage",
-      "summary": "Leading experts say racial stereotypes in World Cup coverage can be damaging for athletes' leadership aspirations and have an impact on Black communities more broadly.",
+      "headline": "McKeown 'gutted' as illness forces Commonwealth Games withdrawal",
+      "summary": "Kaylee McKeown withdraws from the Commonwealth Games after glandular fever causes shortness of breath and a loss of appetite.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +165,63 @@
       ]
     },
     {
-      "headline": "Marine Le Pen cleared to run in France\u2019s 2027 Presidential election",
-      "summary": "A French court ruling has reopened Marine Le Pen\u2019s path to the 2027 presidential election.",
+      "headline": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Mexico seeks prosecutions over migrant deaths in the US",
+      "summary": "Mexico will seek state and federal prosecutions in the United States over the deaths of Mexican migrants.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "UK Labour\u2019s Burnham apologises for response to Israel\u2019s Gaza violence",
+      "summary": "UK&#039;s likely next PM Burnham pushes for ceasefire, tougher sanctions over Gaza violence and settlement trade bans.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "What's next for Iran after the funeral of their late supreme leader?",
+      "summary": "The BBC's chief international correspondent looks at how Iran's new leadership will respond to several issues affecting the country.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
+      "summary": "Carney and Saudi Crown Prince Bin Salman strengthen partnerships after years of strained relations under Trudeau.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "South African protesters intimidate migrants as aid group issues warning",
+      "summary": "Doctors Without Borders (MSF) warns of growing humanitarian needs as tens of thousands of African migrants displaced.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-09T07:04:45.031198+10:00",
-    "date": "2026-07-09",
-    "display_date": "Thursday 09 July 2026",
-    "display_time": "07:04 AM AEST"
+    "generated_at": "2026-07-10T07:21:48.155639+10:00",
+    "date": "2026-07-10",
+    "display_date": "Friday 10 July 2026",
+    "display_time": "07:21 AM AEST"
   }
 }
