@@ -3,159 +3,126 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7543.64,
-      "change": 60.93,
-      "change_pct": 0.81,
+      "price": 7575.39,
+      "change": 31.75,
+      "change_pct": 0.42,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26206.89,
-      "change": 336.24,
-      "change_pct": 1.3,
+      "price": 26281.61,
+      "change": 74.72,
+      "change_pct": 0.29,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52487.41,
-      "change": 139.02,
-      "change_pct": 0.27,
+      "price": 52637.01,
+      "change": 149.6,
+      "change_pct": 0.29,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.84,
-      "change": -1.06,
-      "change_pct": -6.27,
-      "trend_5d": "flat"
+      "price": 15.03,
+      "change": -0.81,
+      "change_pct": -5.11,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.54,
-      "change": -0.03,
-      "change_pct": -0.66,
-      "trend_5d": "flat"
+      "price": 4.57,
+      "change": 0.03,
+      "change_pct": 0.66,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66819.05,
-      "change": -1437.91,
-      "change_pct": -2.11,
-      "trend_5d": "flat"
+      "price": 68557.73,
+      "change": 813.88,
+      "change_pct": 1.2,
+      "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24199.46,
-      "change": 702.57,
-      "change_pct": 2.99,
-      "trend_5d": "flat"
+      "price": 24175.12,
+      "change": 144.94,
+      "change_pct": 0.6,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3996.16,
+      "change": -40.43,
+      "change_pct": -1.0,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7246.79,
-      "change": -409.52,
-      "change_pct": -5.35,
-      "trend_5d": "flat"
+      "price": 7475.94,
+      "change": 184.03,
+      "change_pct": 2.52,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4132.6,
-      "change_pct": 1.52
+      "price": 4113.7,
+      "change_pct": -0.41
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 76.04,
-      "change_pct": -2.54
+      "price": 76.01,
+      "change_pct": -0.38
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 71.81,
-      "change_pct": -2.33
+      "price": 71.41,
+      "change_pct": -0.93
     }
   ],
   "asx200": {
-    "level": 8785.1,
-    "change_pct": -0.21
+    "level": 8806.0,
+    "change_pct": 0.5
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6941,
-      "change_pct": 0.2599
+      "current_rate": 0.6947,
+      "change_pct": 0.0423
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5753,
-      "change_pct": 1.3415
+      "current_rate": 0.5764,
+      "change_pct": 0.03
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2054,
-      "change_pct": -1.1562
+      "current_rate": 1.2047,
+      "change_pct": -0.0191
     }
   ],
   "world_news": [
     {
-      "headline": "Tehran launches more strikes after explosions reported in southern Iran",
-      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Australia news live: Hanson defends UK \u2018fact-finding\u2019 trip; Qantas tops airline punctuality table",
-      "summary": "<p>One Nation leader welcomed by far-right figures including Tommy Robinson and Rupert Lowe. </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning, and happy Friday \u2013<strong> Nick Visser</strong> here to take over and round out the week. Let\u2019s get to it.</p><p><strong>Hanson says Taylor should go \u2018after the real enemy, Labor\u2019</strong></p><p>Angus Taylor has today come out attacking One Nation instead of going after the real enemy, Labor.</p><p>Angus has played right into the hands of Anthony Albanese. While the Liberal leader is telling voters how bad One Nation is, he\u2019s quietly adopting One Nation policies.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/10/australia-news-live-pauline-hanson-one-nation-modi-anthony-albanese-royal-commission-antisemitism-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "McKeown 'gutted' as illness forces Commonwealth Games withdrawal",
-      "summary": "Kaylee McKeown withdraws from the Commonwealth Games after glandular fever causes shortness of breath and a loss of appetite.",
+      "headline": "Sinner triumphs over Zverev for second consecutive Wimbledon win",
+      "summary": "The top-ranked Jannik Sinner beat Alexander Zverev for his second consecutive title at Wimbledon after his German opponent appeared bothered by a knee issue.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +132,30 @@
       ]
     },
     {
-      "headline": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+      "headline": "Qatar\u2019s former emir remembered as \u2018a man of vision and courage\u2019",
+      "summary": "US diplomat Adam Ereli remembers Qatar\u2019s former Emir Sheikh as a personable and charismatic leader.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "How will Qatar\u2019s Father Emir be remembered?",
+      "summary": "Former Emir Sheikh Hamad Bin Khalifa Al Thani has died",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "summary": "Firefighters arrived at the scene to find patrons running through blasting flames to escape.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +165,8 @@
       ]
     },
     {
-      "headline": "Mexico seeks prosecutions over migrant deaths in the US",
-      "summary": "Mexico will seek state and federal prosecutions in the United States over the deaths of Mexican migrants.",
+      "headline": "Former Spain PM criticised for \u2018xenophobic\u2019 remark on French World Cup team",
+      "summary": "Mariano Rajoy condemned for opinion piece on Spanish website El Debate ahead of World Cup semifinal.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +176,8 @@
       ]
     },
     {
-      "headline": "UK Labour\u2019s Burnham apologises for response to Israel\u2019s Gaza violence",
-      "summary": "UK&#039;s likely next PM Burnham pushes for ceasefire, tougher sanctions over Gaza violence and settlement trade bans.",
+      "headline": "Iran says almost a dozen \u2018enemy projectiles\u2019 targeted Qeshm Island",
+      "summary": "New explosions have been heard in Bandar Abbas and Qeshm Island.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +187,30 @@
       ]
     },
     {
-      "headline": "What's next for Iran after the funeral of their late supreme leader?",
-      "summary": "The BBC's chief international correspondent looks at how Iran's new leadership will respond to several issues affecting the country.",
+      "headline": "Nine dead as Russia and Ukraine trade drone and missile salvos",
+      "summary": "Ukraine is particularly vulnerable to Russian ballistic missiles due to critical shortage of Patriot munitions.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
+      "summary": "Oil and gas deals are expected \u2060to be signed as part of a broader push \u200bfor economic, trade and investment cooperation.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "summary": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,19 +220,8 @@
       ]
     },
     {
-      "headline": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
-      "summary": "Carney and Saudi Crown Prince Bin Salman strengthen partnerships after years of strained relations under Trudeau.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "South African protesters intimidate migrants as aid group issues warning",
-      "summary": "Doctors Without Borders (MSF) warns of growing humanitarian needs as tens of thousands of African migrants displaced.",
+      "headline": "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
+      "summary": "England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-10T07:21:48.155639+10:00",
-    "date": "2026-07-10",
-    "display_date": "Friday 10 July 2026",
-    "display_time": "07:21 AM AEST"
+    "generated_at": "2026-07-13T06:42:19.213937+10:00",
+    "date": "2026-07-13",
+    "display_date": "Monday 13 July 2026",
+    "display_time": "06:42 AM AEST"
   }
 }
