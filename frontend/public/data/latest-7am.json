@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7575.39,
-      "change": 31.75,
-      "change_pct": 0.42,
-      "trend_5d": "up"
+      "price": 7515.34,
+      "change": -60.05,
+      "change_pct": -0.79,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26281.61,
-      "change": 74.72,
-      "change_pct": 0.29,
+      "price": 25873.18,
+      "change": -408.43,
+      "change_pct": -1.55,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52637.01,
-      "change": 149.6,
-      "change_pct": 0.29,
+      "price": 52498.64,
+      "change": -138.37,
+      "change_pct": -0.26,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.03,
-      "change": -0.81,
-      "change_pct": -5.11,
-      "trend_5d": "down"
+      "price": 17.16,
+      "change": 2.13,
+      "change_pct": 14.17,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.57,
-      "change": 0.03,
-      "change_pct": 0.66,
+      "price": 4.61,
+      "change": 0.04,
+      "change_pct": 0.88,
       "trend_5d": "up"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 68557.73,
       "change": 813.88,
       "change_pct": 1.2,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 24175.12,
       "change": 144.94,
       "change_pct": 0.6,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3996.16,
-      "change": -40.43,
-      "change_pct": -1.0,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 7475.94,
       "change": 184.03,
       "change_pct": 2.52,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4113.7,
-      "change_pct": -0.41
+      "price": 4006.7,
+      "change_pct": -2.37
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 76.01,
-      "change_pct": -0.38
+      "price": 83.48,
+      "change_pct": 9.83
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 71.41,
-      "change_pct": -0.93
+      "price": 78.19,
+      "change_pct": 9.49
     }
   ],
   "asx200": {
@@ -103,37 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6947,
-      "change_pct": 0.0423
+      "current_rate": 0.6919,
+      "change_pct": -0.3661
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5764,
-      "change_pct": 0.03
+      "current_rate": 0.575,
+      "change_pct": -0.2116
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2047,
-      "change_pct": -0.0191
+      "current_rate": 1.2027,
+      "change_pct": -0.1842
     }
   ],
   "world_news": [
     {
-      "headline": "Sinner triumphs over Zverev for second consecutive Wimbledon win",
-      "summary": "The top-ranked Jannik Sinner beat Alexander Zverev for his second consecutive title at Wimbledon after his German opponent appeared bothered by a knee issue.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Qatar\u2019s former emir remembered as \u2018a man of vision and courage\u2019",
-      "summary": "US diplomat Adam Ereli remembers Qatar\u2019s former Emir Sheikh as a personable and charismatic leader.",
+      "headline": "Ukraine and allies launch coalition to tackle Russia\u2019s ballistic missiles",
+      "summary": "Russia has escalated attacks in recent weeks, taking advantage of Ukraine\u2019s critical shortage of air defences.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +132,8 @@
       ]
     },
     {
-      "headline": "How will Qatar\u2019s Father Emir be remembered?",
-      "summary": "Former Emir Sheikh Hamad Bin Khalifa Al Thani has died",
+      "headline": "Iran military warns US against Strait of Hormuz \u2018interference\u2019",
+      "summary": "Iran&#039;s military has warned it will not allow the United States to \u2018interfere\u2019 in the management of the Strait of Hormuz.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +143,8 @@
       ]
     },
     {
-      "headline": "At least 27 killed in Bangkok bar fire, Thai authorities say",
-      "summary": "Firefighters arrived at the scene to find patrons running through blasting flames to escape.",
+      "headline": "Hungary parliament votes to remove president from office",
+      "summary": "Tam\u00e1s Sulyok was widely seen as a loyalist of former prime minister Viktor Orb\u00e1n, who lost power in April after 16 years.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +154,8 @@
       ]
     },
     {
-      "headline": "Former Spain PM criticised for \u2018xenophobic\u2019 remark on French World Cup team",
-      "summary": "Mariano Rajoy condemned for opinion piece on Spanish website El Debate ahead of World Cup semifinal.",
+      "headline": "Artist sews names of Gaza children killed by Israel into gown",
+      "summary": "Welsh artist Diana Williams stitched the names of 300 babies killed by Israel\u2019s genocidal war on Gaza into a gown.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +165,8 @@
       ]
     },
     {
-      "headline": "Iran says almost a dozen \u2018enemy projectiles\u2019 targeted Qeshm Island",
-      "summary": "New explosions have been heard in Bandar Abbas and Qeshm Island.",
+      "headline": "What do Israeli settler attacks on Americans reveal?",
+      "summary": "Recent attacks on international journalists and a US congressman have once again put a spotlight on settler violence.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +176,19 @@
       ]
     },
     {
-      "headline": "Nine dead as Russia and Ukraine trade drone and missile salvos",
-      "summary": "Ukraine is particularly vulnerable to Russian ballistic missiles due to critical shortage of Patriot munitions.",
+      "headline": "Australia news live: NT police still seek answers over 25 year-old murder of British backpacker Peter Falconio",
+      "summary": "<p>Bradley John Murdoch was convicted of 28-year-old\u2019s murder but remains were never found</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Northern Territory Police have opened evidence boxes to uncover several previously unseen photographs from the investigation of the murder of British backpacker Peter Falconio and attempted abduction of his girlfriend Joanne Lees.</p><p>Tuesday is the 25th anniversary of the infamous outback disappearance.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Gaza man builds roadside library from books buried in rubble",
+      "summary": "Bookseller Mohammad Saad lost his son, his home, and his bookstore in the aftermath of Israel\u2019s war on Gaza.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +198,8 @@
       ]
     },
     {
-      "headline": "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
-      "summary": "Oil and gas deals are expected \u2060to be signed as part of a broader push \u200bfor economic, trade and investment cooperation.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-      "summary": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+      "headline": "Lindsey Graham's sister chosen as replacement after senator's death",
+      "summary": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +209,25 @@
       ]
     },
     {
-      "headline": "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
-      "summary": "England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.",
+      "headline": "US keeping the Strait of Hormuz open is \u2018a massive force problem\u2019",
+      "summary": "Former NATO analyst says Trump&#039;s push for a naval blockade in the Strait of Hormuz would mean a huge military operation.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump says Iran will be hit hard Monday and Tuesday amid fresh clashes over strait of Hormuz \u2013 Middle East crisis live",
+      "summary": "<p>US president says strait will remain open \u2018with or without\u2019 Iran and there will be a 20% rate charged on all cargo shipped; Iran\u2019s foreign minister shot back that Iran would charge a lower rate</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz\">Trump renews Iran blockade and again threatens to take control of strait of Hormuz</a></p></li></ul><p>Bahrain\u2019s military has accused Iran of targeting civilians with its latest attacks on the country, after <a href=\"https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates?page=with%3Ablock-6a5465048f08019173c613df#block-6a5465048f08019173c613df\">Tehran said it had struck</a> US military facilities and infrastructure there earlier.</p><p>\u201cIran continues its systematic hostile approach through its heinous attacks with missiles and drones that target civilians in the Kingdom of Bahrain,\u201d the general command of Bahrain\u2019s military said, adding that air defences \u201cintercepted and destroyed a number of Iranian aerial attacks\u201d this morning.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-13T06:42:19.213937+10:00",
-    "date": "2026-07-13",
-    "display_date": "Monday 13 July 2026",
-    "display_time": "06:42 AM AEST"
+    "generated_at": "2026-07-14T06:55:44.413374+10:00",
+    "date": "2026-07-14",
+    "display_date": "Tuesday 14 July 2026",
+    "display_time": "06:55 AM AEST"
   }
 }
