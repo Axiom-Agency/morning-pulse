@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7515.34,
-      "change": -60.05,
-      "change_pct": -0.79,
-      "trend_5d": "flat"
+      "price": 7543.59,
+      "change": 28.25,
+      "change_pct": 0.38,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25873.18,
-      "change": -408.43,
-      "change_pct": -1.55,
+      "price": 26107.01,
+      "change": 233.83,
+      "change_pct": 0.9,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52498.64,
-      "change": -138.37,
-      "change_pct": -0.26,
-      "trend_5d": "down"
+      "price": 52508.27,
+      "change": 9.63,
+      "change_pct": 0.02,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.16,
-      "change": 2.13,
-      "change_pct": 14.17,
-      "trend_5d": "up"
+      "price": 16.5,
+      "change": -0.66,
+      "change_pct": -3.85,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.61,
-      "change": 0.04,
-      "change_pct": 0.88,
+      "price": 4.59,
+      "change": -0.02,
+      "change_pct": -0.43,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 68557.73,
-      "change": 813.88,
-      "change_pct": 1.2,
+      "price": 67242.73,
+      "change": -1315.0,
+      "change_pct": -1.92,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24175.12,
-      "change": 144.94,
-      "change_pct": 0.6,
+      "price": 24213.72,
+      "change": 38.6,
+      "change_pct": 0.16,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7475.94,
-      "change": 184.03,
-      "change_pct": 2.52,
+      "price": 6806.93,
+      "change": -669.01,
+      "change_pct": -8.95,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,61 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4006.7,
-      "change_pct": -2.37
+      "price": 4057.2,
+      "change_pct": 1.51
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 83.48,
-      "change_pct": 9.83
+      "price": 85.54,
+      "change_pct": 2.69
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 78.19,
-      "change_pct": 9.49
+      "price": 79.95,
+      "change_pct": 2.32
     }
   ],
   "asx200": {
-    "level": 8806.0,
-    "change_pct": 0.5
+    "level": 8808.5,
+    "change_pct": 0.03
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6919,
-      "change_pct": -0.3661
+      "current_rate": 0.6977,
+      "change_pct": 0.5
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.575,
-      "change_pct": -0.2116
+      "current_rate": 0.5813,
+      "change_pct": 0.9476
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2027,
-      "change_pct": -0.1842
+      "current_rate": 1.2001,
+      "change_pct": -0.4521
     }
   ],
   "world_news": [
     {
-      "headline": "Ukraine and allies launch coalition to tackle Russia\u2019s ballistic missiles",
-      "summary": "Russia has escalated attacks in recent weeks, taking advantage of Ukraine\u2019s critical shortage of air defences.",
+      "headline": "'They give us more power': Poga\u010dar wins Tour stage, dismisses booing fans",
+      "summary": "Tadej Poga\u010dar takes another step towards a fifth Tour de France win with a breakaway stage victory, with some fans booing him because of his dominance.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "What is Iran\u2019s Pickaxe Mountain?",
+      "summary": "Donald Trump has threatened to strike Pickaxe Mountain, an underground nuclear-related complex.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,52 +143,8 @@
       ]
     },
     {
-      "headline": "Iran military warns US against Strait of Hormuz \u2018interference\u2019",
-      "summary": "Iran&#039;s military has warned it will not allow the United States to \u2018interfere\u2019 in the management of the Strait of Hormuz.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Hungary parliament votes to remove president from office",
-      "summary": "Tam\u00e1s Sulyok was widely seen as a loyalist of former prime minister Viktor Orb\u00e1n, who lost power in April after 16 years.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Artist sews names of Gaza children killed by Israel into gown",
-      "summary": "Welsh artist Diana Williams stitched the names of 300 babies killed by Israel\u2019s genocidal war on Gaza into a gown.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "What do Israeli settler attacks on Americans reveal?",
-      "summary": "Recent attacks on international journalists and a US congressman have once again put a spotlight on settler violence.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Australia news live: NT police still seek answers over 25 year-old murder of British backpacker Peter Falconio",
-      "summary": "<p>Bradley John Murdoch was convicted of 28-year-old\u2019s murder but remains were never found</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Northern Territory Police have opened evidence boxes to uncover several previously unseen photographs from the investigation of the murder of British backpacker Peter Falconio and attempted abduction of his girlfriend Joanne Lees.</p><p>Tuesday is the 25th anniversary of the infamous outback disappearance.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb\">Continue reading...</a>",
+      "headline": "US carries out more strikes on Iran and resumes blockade of nation\u2019s ports \u2013 Middle East crisis live",
+      "summary": "<p>Donald Trump claims shipping route is open for all except Iranian ships as US issues new Iran-related sanctions Tuesday</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade\">US launches third night of strikes on Iran as Trump announces Hormuz blockade</a></p></li></ul><p><strong>Resurgent oil and fuel prices could cement a fourth interest rate rise in Australia this year if Donald Trump\u2019s renewed conflict with Iran is not resolved within a week</strong>, economists warn.</p><p>US missile strikes on Iran and Trump\u2019s announcement of a new maritime blockade has lifted oil prices to their highest point in the month since the two countries <a href=\"https://www.theguardian.com/world/2026/jun/15/us-iran-peace-deal-terms-details-conditions-explained-what-do-we-know-hormuz-lebanon-israel-nuclear\">agreed to a peace deal</a>.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +154,8 @@
       ]
     },
     {
-      "headline": "Gaza man builds roadside library from books buried in rubble",
-      "summary": "Bookseller Mohammad Saad lost his son, his home, and his bookstore in the aftermath of Israel\u2019s war on Gaza.",
+      "headline": "Worker killed in furnace explosion fire at Indian recycling plant",
+      "summary": "A furnace explosion triggered a fire at Jain Resource Recycling&#039;s plant in the Indian state of Tamil Nadu.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +165,8 @@
       ]
     },
     {
-      "headline": "Lindsey Graham's sister chosen as replacement after senator's death",
-      "summary": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "US keeping the Strait of Hormuz open is \u2018a massive force problem\u2019",
-      "summary": "Former NATO analyst says Trump&#039;s push for a naval blockade in the Strait of Hormuz would mean a huge military operation.",
+      "headline": "Why Yemen\u2019s long \u2018no war, no peace\u2019 deadlock may be ending",
+      "summary": "Mobilisation of fighters and attacks signal the collapse of Yemen&#039;s fragile peace, with regional implications looming.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +176,58 @@
       ]
     },
     {
-      "headline": "Trump says Iran will be hit hard Monday and Tuesday amid fresh clashes over strait of Hormuz \u2013 Middle East crisis live",
-      "summary": "<p>US president says strait will remain open \u2018with or without\u2019 Iran and there will be a 20% rate charged on all cargo shipped; Iran\u2019s foreign minister shot back that Iran would charge a lower rate</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz\">Trump renews Iran blockade and again threatens to take control of strait of Hormuz</a></p></li></ul><p>Bahrain\u2019s military has accused Iran of targeting civilians with its latest attacks on the country, after <a href=\"https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates?page=with%3Ablock-6a5465048f08019173c613df#block-6a5465048f08019173c613df\">Tehran said it had struck</a> US military facilities and infrastructure there earlier.</p><p>\u201cIran continues its systematic hostile approach through its heinous attacks with missiles and drones that target civilians in the Kingdom of Bahrain,\u201d the general command of Bahrain\u2019s military said, adding that air defences \u201cintercepted and destroyed a number of Iranian aerial attacks\u201d this morning.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates\">Continue reading...</a>",
+      "headline": "Mahmoud Khalil alleges conspiracy in lawsuit against Trump officials",
+      "summary": "Lawsuit claims conspiracy between top administrative officials and private groups to target the pro-Palestine advocate.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "New York imposes landmark one-year ban on large data centres",
+      "summary": "Data centre moratorium pushes have gained steam around the US, with bans proposed in at least a dozen states.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Senate Democrats block defence bill over Iran war, Israel provisions",
+      "summary": "The Senate voted 50-46 to block debate on the annual defence bill over war funding and defence cooperation with Israel.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US strikes new targets in Iran as Tehran hits Gulf states, Hormuz shipping",
+      "summary": "Iran&#039;s deputy foreign minister accuses US of destroying the interim peace deal.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US President Trump meets with \u2018fan of America\u2019 Iraqi PM Ali al-Zaidi",
+      "summary": "US President Donald Trump welcomed Iraqi Prime Minister Ali al-Zaidi to the White House.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-14T06:55:44.413374+10:00",
-    "date": "2026-07-14",
-    "display_date": "Tuesday 14 July 2026",
-    "display_time": "06:55 AM AEST"
+    "generated_at": "2026-07-15T06:58:41.183820+10:00",
+    "date": "2026-07-15",
+    "display_date": "Wednesday 15 July 2026",
+    "display_time": "06:58 AM AEST"
   }
 }
