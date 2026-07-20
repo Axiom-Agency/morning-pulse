@@ -3,42 +3,42 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7457.69,
-      "change": -76.08,
-      "change_pct": -1.01,
+      "price": 7443.28,
+      "change": -14.41,
+      "change_pct": -0.19,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25520.24,
-      "change": -361.71,
-      "change_pct": -1.4,
+      "price": 25508.07,
+      "change": -12.17,
+      "change_pct": -0.05,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52146.42,
-      "change": -406.55,
-      "change_pct": -0.77,
+      "price": 51839.26,
+      "change": -307.16,
+      "change_pct": -0.59,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.77,
-      "change": 2.04,
-      "change_pct": 12.19,
+      "price": 18.65,
+      "change": -0.12,
+      "change_pct": -0.64,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.54,
-      "change": -0.03,
-      "change_pct": -0.66,
-      "trend_5d": "down"
+      "price": 4.6,
+      "change": 0.06,
+      "change_pct": 1.32,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
@@ -56,15 +56,15 @@
       "price": 24562.24,
       "change": -446.36,
       "change_pct": -1.78,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3764.16,
-      "change": -118.25,
-      "change_pct": -3.05,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 6820.6,
       "change": -463.81,
       "change_pct": -6.37,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4018.8,
-      "change_pct": 0.83
+      "price": 4011.5,
+      "change_pct": -0.03
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 88.1,
-      "change_pct": 4.59
+      "price": 88.94,
+      "change_pct": 0.95
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 81.78,
-      "change_pct": 3.58
+      "price": 82.42,
+      "change_pct": -0.08
     }
   ],
   "asx200": {
@@ -103,103 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.697,
-      "change_pct": -0.4186
+      "current_rate": 0.6998,
+      "change_pct": -0.0214
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5834,
-      "change_pct": -0.1284
+      "current_rate": 0.5841,
+      "change_pct": -0.0058
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.194,
-      "change_pct": -0.3445
+      "current_rate": 1.197,
+      "change_pct": -0.0891
     }
   ],
   "world_news": [
     {
-      "headline": "Middle East crisis: US military says service member killed during \u2018controlled detonation\u2019 of downed Iranian drone \u2013 as it happened",
-      "summary": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes\">US says another troop killed as Israel warns Tehran\u2019s attacks coming close</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict\">Two US troops killed and one missing in Jordan after Iranian attacks</a></p></li></ul><p>Jordanian authorities \u2060have not issued any decision \u2060to \u200bevacuate the airport or \u2060seaport in the city of Aqaba, and have not detected \u2060any potential threats \u200bin \u200cthe past \u200chours, the state \u200cnews agency cited the government spokesperson as saying.</p><p>This denial comes in response to the US embassy in Jordan earlier saying the airport and seaport in Aqaba had been evacuated by Jordanian authorities because of a \u201cspecific and credible threat\u201d (see <a href=\"https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed?page=with%3Ablock-6a5ca1148f0826309aef65a6#block-6a5ca1148f0826309aef65a6\">this post</a> for more details).</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "World Cup winners will get championship rings \u2014 but they'll also be for sale",
-      "summary": "The winners of the 2026 World Cup will receive championship rings, but so will almost 2,000 people who have enough money to buy them.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Andy Burnham\u2019s in-tray: The challenges facing the new UK PM",
-      "summary": "Andy Burnham will become Britain&#039;s next prime minister on Monday, with huge challenges and opportunities.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Twin earthquakes strike Peru killing at least five",
-      "summary": "Peruvian authorities say the magnitude 5.1 and 3.7 quakes were in the mountainous Junin region east of Lima.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "The UK gets its seventh prime minister in 10 years",
-      "summary": "Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Five passengers found drifting days after boat sinks in Indonesia",
-      "summary": "Five passengers, including a seven-year-old girl, were rescued from a passenger boat that sank in Indonesia.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "'Open door to fraud': European body slams FIFA's World Cup integrity",
-      "summary": "Europe's top human rights body hits out at FIFA over the integrity of the World Cup and calls for change before the 2030 tournament.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "US soldier killed and one injured after Iranian attack in Iraq",
-      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "headline": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +132,52 @@
       ]
     },
     {
-      "headline": "Dozens missing after passenger ferry sinks off coast of Guyana",
-      "summary": "<p>Emergency response has rescued 67 people, including 15 children, from one of the country\u2019s worst maritime disasters</p><p>A ferry carrying 116 passengers and crew sank \u2060off the coast of Guyana in South America \u2060late Saturday, with 67 \u2060people, \u200bincluding 15 children, rescued so far, according to Guyana \u2060authorities.</p><p>A massive search-and-rescue operation continues for dozens of missing passengers in what has been described by officials as one of the country\u2019s worst maritime disasters.</p> <a href=\"https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana\">Continue reading...</a>",
+      "headline": "Gaza residents weigh in on election of new Hamas leader",
+      "summary": "Gaza residents weigh in on election of new Hamas leader",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "How will Zelenskyy handle the growing political crisis at home?",
+      "summary": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Ex-league star Dureau dead at 39 after long cancer battle",
+      "summary": "Scott Dureau is remembered as an \"exceptional\" player and person after losing his life to brain cancer.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Ortega insists no more elections for Nicaragua",
+      "summary": "The Central American state&#039;s longtime leader intends to block the opposition from challenging his rule.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US military launches further strikes on Iran after Trump says Tehran \u2018will pay\u2019 for killing soldiers \u2013 Middle East crisis live",
+      "summary": "<p>US Central Command says latest attack aimed at degrading Iranian military capabilities after president threatens country over deaths of US troops </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices\">US expands Iran offensive as diplomats claim talks ongoing</a></p></li></ul><p><strong>The price of oil jumped in early Asian trade on Monday</strong> after the US carried out its latest wave of strikes on Iran and a vessel caught fire in the strait of Hormuz.</p><p><strong>Brent crud</strong>e for September delivery rose 2.72% to $90.50 a barrel by around 0100 GMT, after briefly crossing $91 \u2013 its highest price since June.</p><p>CENTCOM assets targeted Iranian military command centers, air defense and coastal surveillance sites, maritime capabilities, missile and drone launch sites, and communications networks to further diminish Iran\u2019s ability to attack commercial vessels and civilian mariners transiting the Strait of Hormuz.</p><p>The U.S. military is holding Iran accountable at the Commander in Chief\u2019s direction.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +187,41 @@
       ]
     },
     {
-      "headline": "Fans light up NYC\u2019s Little Argentina ahead of Spain World Cup final clash",
-      "summary": "Fans light up NYC\u2019s Little Argentina ahead of Spain World Cup final clash.",
+      "headline": "Man arrested after fire outside New York immigration court",
+      "summary": "A man has been arrested after setting off an incendiary device outside an immigration court building in New York City.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "'I love my name': Swans star on having the best name in the AFLW",
+      "summary": "Zipporah 'Zippy' Fish announced herself immediately on the AFLW stage with a breakout debut season.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Monsoon-driven flash flooding kills at least 20 in Afghanistan",
+      "summary": "Rescue teams are racing to reach Nuristan province as devastation continues across the region.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Indian police attack Cockroach Janta Party\u2019s parliament march",
+      "summary": "Police used batons to disperse protesters as thousands of people joined the Cockroach Janta Party&#039;s march in New Delhi.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-20T06:43:24.333247+10:00",
-    "date": "2026-07-20",
-    "display_date": "Monday 20 July 2026",
-    "display_time": "06:43 AM AEST"
+    "generated_at": "2026-07-21T07:09:54.491610+10:00",
+    "date": "2026-07-21",
+    "display_date": "Tuesday 21 July 2026",
+    "display_time": "07:09 AM AEST"
   }
 }
