@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7443.28,
-      "change": -14.41,
-      "change_pct": -0.19,
+      "price": 7509.2,
+      "change": 65.92,
+      "change_pct": 0.89,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25508.07,
-      "change": -12.17,
-      "change_pct": -0.05,
+      "price": 25837.21,
+      "change": 329.14,
+      "change_pct": 1.29,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51839.26,
-      "change": -307.16,
-      "change_pct": -0.59,
+      "price": 52224.64,
+      "change": 385.38,
+      "change_pct": 0.74,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.65,
-      "change": -0.12,
-      "change_pct": -0.64,
+      "price": 17.05,
+      "change": -1.6,
+      "change_pct": -8.58,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.6,
-      "change": 0.06,
-      "change_pct": 1.32,
+      "price": 4.63,
+      "change": 0.03,
+      "change_pct": 0.65,
       "trend_5d": "up"
     }
   ],
@@ -48,14 +48,14 @@
       "price": 64141.12,
       "change": -2694.42,
       "change_pct": -4.03,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24562.24,
-      "change": -446.36,
-      "change_pct": -1.78,
+      "price": 25143.05,
+      "change": 580.81,
+      "change_pct": 2.36,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6820.6,
-      "change": -463.81,
-      "change_pct": -6.37,
+      "price": 6516.27,
+      "change": -304.33,
+      "change_pct": -4.46,
       "trend_5d": "flat"
     }
   ],
@@ -79,105 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4011.5,
-      "change_pct": -0.03
+      "price": 4081.5,
+      "change_pct": 1.78
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 88.94,
-      "change_pct": 0.95
+      "price": 91.39,
+      "change_pct": 2.43
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 82.42,
-      "change_pct": -0.08
+      "price": 84.5,
+      "change_pct": 1.53
     }
   ],
   "asx200": {
-    "level": 8796.7,
-    "change_pct": -0.5
+    "level": 8791.3,
+    "change_pct": -0.06
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6998,
-      "change_pct": -0.0214
+      "current_rate": 0.7003,
+      "change_pct": 0.3396
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5841,
-      "change_pct": -0.0058
+      "current_rate": 0.583,
+      "change_pct": -0.1673
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.197,
-      "change_pct": -0.0891
+      "current_rate": 1.2,
+      "change_pct": 0.4109
     }
   ],
   "world_news": [
     {
-      "headline": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Gaza residents weigh in on election of new Hamas leader",
-      "summary": "Gaza residents weigh in on election of new Hamas leader",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "How will Zelenskyy handle the growing political crisis at home?",
-      "summary": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Ex-league star Dureau dead at 39 after long cancer battle",
-      "summary": "Scott Dureau is remembered as an \"exceptional\" player and person after losing his life to brain cancer.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Ortega insists no more elections for Nicaragua",
-      "summary": "The Central American state&#039;s longtime leader intends to block the opposition from challenging his rule.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US military launches further strikes on Iran after Trump says Tehran \u2018will pay\u2019 for killing soldiers \u2013 Middle East crisis live",
-      "summary": "<p>US Central Command says latest attack aimed at degrading Iranian military capabilities after president threatens country over deaths of US troops </p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices\">US expands Iran offensive as diplomats claim talks ongoing</a></p></li></ul><p><strong>The price of oil jumped in early Asian trade on Monday</strong> after the US carried out its latest wave of strikes on Iran and a vessel caught fire in the strait of Hormuz.</p><p><strong>Brent crud</strong>e for September delivery rose 2.72% to $90.50 a barrel by around 0100 GMT, after briefly crossing $91 \u2013 its highest price since June.</p><p>CENTCOM assets targeted Iranian military command centers, air defense and coastal surveillance sites, maritime capabilities, missile and drone launch sites, and communications networks to further diminish Iran\u2019s ability to attack commercial vessels and civilian mariners transiting the Strait of Hormuz.</p><p>The U.S. military is holding Iran accountable at the Commander in Chief\u2019s direction.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news\">Continue reading...</a>",
+      "headline": "Australia news live: Wong pushes Chinese counterpart on submarine missile launch in face-to-face Manila meeting",
+      "summary": "<p>Australia\u2019s foreign affairs minister discussed the importance of peace in the Pacific at her meeting with Wang Yi in the wings of Asean. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Foreign minister Penny Wong met her Chinese counterpart, Wang Yi, on the sidelines of the Asean foreign ministers\u2019 meeting in Manila last night, a statement from her department said.</p><p>In their 12th meeting, the ministers discussed Asean priorities and the importance of peace and stability in the Indo-Pacific.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,19 +132,30 @@
       ]
     },
     {
-      "headline": "Man arrested after fire outside New York immigration court",
-      "summary": "A man has been arrested after setting off an incendiary device outside an immigration court building in New York City.",
+      "headline": "Trump pledges to \u2018take care of\u2019 Houthis if group blocks Saudi ships and says US airlines can resume direct flights to Lebanon \u2013 live",
+      "summary": "<p>The Iran-based group said it plans to impose an immediate maritime blockade of Saudi Arabia in the Red Sea</p><p><strong>Lebanon\u2019s president, Joseph Aoun, is due to meet Donald Trump for the first time today</strong> as he wraps up a four-day visit to Washington.</p><p>The meeting coincides with ongoing US-mediated talks between Lebanon and Israel. The two sides announced a \u201cframework agreement\u201d on 26 June which stipulates the withdrawal of Israeli forces from southern Lebanon as well as the disarmament of Hezbollah.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     },
     {
-      "headline": "'I love my name': Swans star on having the best name in the AFLW",
-      "summary": "Zipporah 'Zippy' Fish announced herself immediately on the AFLW stage with a breakout debut season.",
+      "headline": "Pete Hegseth defends ongoing war in Iran and requests $88bn more to pay for it during Senate committee testimony \u2013 live",
+      "summary": "<p>Protesters removed at start of testimony as defense secretary claims billions of additional funding are needed \u2018sustain vital operations without disruption\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for US Breaking News email</a></p></li></ul><p>US gas prices have continued to rise since the conflict with Iran resumed this month. <strong>According to the American Automobile Association (AAA), a gallon of fuel is now just over $4</strong> \u2013&nbsp;<strong>almost a dollar more than a year ago.</strong></p><p>It comes as <strong>Brent Crude</strong>, the international oil benchmark, <strong>is now up by almost 2% to $90.92 a barrel</strong>.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Players and fans made the World Cup a success, but the politics shouldn\u2019t be forgotten",
+      "summary": "The biggest ever World Cup brought diverse communities together and galvanised its non-traditional footballing co-hosts, but the concerns raised from the start have not disappeared in the positive afterglow.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +165,8 @@
       ]
     },
     {
-      "headline": "Monsoon-driven flash flooding kills at least 20 in Afghanistan",
-      "summary": "Rescue teams are racing to reach Nuristan province as devastation continues across the region.",
+      "headline": "Deposed Turkish opposition leader plans new party",
+      "summary": "Ozgur Ozel hopes to launch new main opposition after court removed him as leader of the CHP.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +176,52 @@
       ]
     },
     {
-      "headline": "Indian police attack Cockroach Janta Party\u2019s parliament march",
-      "summary": "Police used batons to disperse protesters as thousands of people joined the Cockroach Janta Party&#039;s march in New Delhi.",
+      "headline": "Carney says he and Trump have agreed to \u2018intensify\u2019 trade negotiations",
+      "summary": "Relations between Canada and its largest trading partner have been tested by Trump&#039;s repeated jibes, threats and tariffs",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Spain battles latest in series of major wildfires near Madrid",
+      "summary": "Fire breaks out amid Spain&#039;s third heatwave of the summer, with temperatures forecast to rise above 40C.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Kuwaitis ration electricity after Iranian strikes hit power grid",
+      "summary": "Kuwaitis are rationing electricity after Iranian strikes on power infrastructure are raising fears of outages",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "summary": "Oleksandr Syrskyi is dismissed after days of unrest over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "US judge blocks Trump bid to strip work permits from immigrants",
+      "summary": "The order prevents thousands from El Salvador, Sudan and Ukraine from losing work authorisation while lawsuit proceeds.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-21T07:09:54.491610+10:00",
-    "date": "2026-07-21",
-    "display_date": "Tuesday 21 July 2026",
-    "display_time": "07:09 AM AEST"
+    "generated_at": "2026-07-22T07:06:22.405397+10:00",
+    "date": "2026-07-22",
+    "display_date": "Wednesday 22 July 2026",
+    "display_time": "07:06 AM AEST"
   }
 }
