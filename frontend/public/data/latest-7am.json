@@ -3,39 +3,39 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7509.2,
-      "change": 65.92,
-      "change_pct": 0.89,
+      "price": 7498.96,
+      "change": -10.24,
+      "change_pct": -0.14,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25837.21,
-      "change": 329.14,
-      "change_pct": 1.29,
+      "price": 25690.9,
+      "change": -146.31,
+      "change_pct": -0.57,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52224.64,
-      "change": 385.38,
-      "change_pct": 0.74,
+      "price": 52218.58,
+      "change": -6.06,
+      "change_pct": -0.01,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.05,
-      "change": -1.6,
-      "change_pct": -8.58,
-      "trend_5d": "up"
+      "price": 16.64,
+      "change": -0.41,
+      "change_pct": -2.4,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.63,
+      "price": 4.66,
       "change": 0.03,
       "change_pct": 0.65,
       "trend_5d": "up"
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64141.12,
-      "change": -2694.42,
-      "change_pct": -4.03,
+      "price": 66232.19,
+      "change": 2091.07,
+      "change_pct": 3.26,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25143.05,
-      "change": 580.81,
-      "change_pct": 2.36,
+      "price": 25132.29,
+      "change": -10.76,
+      "change_pct": -0.04,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6516.27,
-      "change": -304.33,
-      "change_pct": -4.46,
+      "price": 6747.95,
+      "change": 231.68,
+      "change_pct": 3.56,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4081.5,
-      "change_pct": 1.78
+      "price": 4134.5,
+      "change_pct": 1.56
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 91.39,
-      "change_pct": 2.43
+      "price": 93.83,
+      "change_pct": 3.1
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 84.5,
-      "change_pct": 1.53
+      "price": 86.46,
+      "change_pct": 1.83
     }
   ],
   "asx200": {
-    "level": 8791.3,
-    "change_pct": -0.06
+    "level": 8793.3,
+    "change_pct": 0.02
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7003,
-      "change_pct": 0.3396
+      "current_rate": 0.7,
+      "change_pct": -0.0133
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.583,
-      "change_pct": -0.1673
+      "current_rate": 0.5823,
+      "change_pct": -0.5095
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2,
-      "change_pct": 0.4109
+      "current_rate": 1.2014,
+      "change_pct": 0.4398
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Wong pushes Chinese counterpart on submarine missile launch in face-to-face Manila meeting",
-      "summary": "<p>Australia\u2019s foreign affairs minister discussed the importance of peace in the Pacific at her meeting with Wang Yi in the wings of Asean. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Foreign minister Penny Wong met her Chinese counterpart, Wang Yi, on the sidelines of the Asean foreign ministers\u2019 meeting in Manila last night, a statement from her department said.</p><p>In their 12th meeting, the ministers discussed Asean priorities and the importance of peace and stability in the Indo-Pacific.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb\">Continue reading...</a>",
+      "headline": "Iran warns of \u2018eye for an eye\u2019 response if US follows through on Trump\u2019s threats to destroy infrastructure \u2013 Middle East crisis live",
+      "summary": "<p>US president vows to destroy an Iranian bridge or power plant for each strait of Hormuz attack; Iran\u2019s military says it will stop Gulf oil flow and target regional infrastructure if US acts on threats, state tv reports </p><p>The Jordanian army said it intercepted four Iranian missiles on Wednesday with two additional missile falling in an open area, AFP reports.</p><p>The two missiles that the army did not intercept fell in \u201ctwo remote, uninhabited areas, without causing any human casualties or material damage\u201d the army said in a statement.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "Trump pledges to \u2018take care of\u2019 Houthis if group blocks Saudi ships and says US airlines can resume direct flights to Lebanon \u2013 live",
-      "summary": "<p>The Iran-based group said it plans to impose an immediate maritime blockade of Saudi Arabia in the Red Sea</p><p><strong>Lebanon\u2019s president, Joseph Aoun, is due to meet Donald Trump for the first time today</strong> as he wraps up a four-day visit to Washington.</p><p>The meeting coincides with ongoing US-mediated talks between Lebanon and Israel. The two sides announced a \u201cframework agreement\u201d on 26 June which stipulates the withdrawal of Israeli forces from southern Lebanon as well as the disarmament of Hezbollah.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news\">Continue reading...</a>",
+      "headline": "Australia news live: China hits back at Penny Wong\u2019s comments; Victorian teachers due to begin strike",
+      "summary": "<p>China\u2019s foreign ministry says \u2018relevant countries\u2019 should \u2018stop stirring up tension\u2019. Follow live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Students in Victoria will be kept at home as a second teacher strike disrupts public schools, leaving thousands of families to make alternative arrangements, Australian Associated Press reports.</p><p>More than 35,000 teachers, principals, and education support staff are expected to gather in Melbourne\u2019s CBD today after rejecting a pay deal proposed by the state government.</p><p>The root cause of the tension at sea lies with the deliberate infringement activities and provocation of the Philippines. Relevant countries are not parties in the South China Sea, and are in no position to interfere in the maritime issues between countries concerned.</p><p><strong>Apparently, whenever something happens at sea, the same few countries immediately point their fingers at China regardless of who exactly is at fault. Are they trying to keep the South China Sea peaceful and stable, or simply to destabilize? I think the answer is quite clear.</strong> We urge relevant countries to stop hyping up tensions and sowing confrontation.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,19 +143,8 @@
       ]
     },
     {
-      "headline": "Pete Hegseth defends ongoing war in Iran and requests $88bn more to pay for it during Senate committee testimony \u2013 live",
-      "summary": "<p>Protesters removed at start of testimony as defense secretary claims billions of additional funding are needed \u2018sustain vital operations without disruption\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for US Breaking News email</a></p></li></ul><p>US gas prices have continued to rise since the conflict with Iran resumed this month. <strong>According to the American Automobile Association (AAA), a gallon of fuel is now just over $4</strong> \u2013&nbsp;<strong>almost a dollar more than a year ago.</strong></p><p>It comes as <strong>Brent Crude</strong>, the international oil benchmark, <strong>is now up by almost 2% to $90.92 a barrel</strong>.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Players and fans made the World Cup a success, but the politics shouldn\u2019t be forgotten",
-      "summary": "The biggest ever World Cup brought diverse communities together and galvanised its non-traditional footballing co-hosts, but the concerns raised from the start have not disappeared in the positive afterglow.",
+      "headline": "When Gordon Bray and his Homebush schoolmates ruled their rugby world",
+      "summary": "It may be more than 60 years ago, but Homebush Boys High's 1965 Waratah Shield win remains a fond memory for the likes of Gordon Bray, John Symond and John Coates.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +154,8 @@
       ]
     },
     {
-      "headline": "Deposed Turkish opposition leader plans new party",
-      "summary": "Ozgur Ozel hopes to launch new main opposition after court removed him as leader of the CHP.",
+      "headline": "Griffiths: Diplomacy requires US and Iran to accept they have \u2018lost\u2018",
+      "summary": "Griffiths: Diplomacy requires US and Iran to accept they have \u2018lost\u2018",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +165,19 @@
       ]
     },
     {
-      "headline": "Carney says he and Trump have agreed to \u2018intensify\u2019 trade negotiations",
-      "summary": "Relations between Canada and its largest trading partner have been tested by Trump&#039;s repeated jibes, threats and tariffs",
+      "headline": "AFL's first publicly gay player calls for respect in Crows-Pies match",
+      "summary": "Four months after becoming the first current or former AFL player to publicly come out as gay, Leigh Ryswyk is urging fans not to boo the Collingwood player targeted by Crow Izak Rankine\u2019s homophobic slur.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "UN rights chief condemns Nicaragua\u2019s decision to abolish elections",
+      "summary": "UN rights chief condemns worsening repression in Nicaragua, urging the restoration of freedoms and the rule of law.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +187,8 @@
       ]
     },
     {
-      "headline": "Spain battles latest in series of major wildfires near Madrid",
-      "summary": "Fire breaks out amid Spain&#039;s third heatwave of the summer, with temperatures forecast to rise above 40C.",
+      "headline": "Trump: Iran will \u2018pay a big price\u2019 for US troop deaths",
+      "summary": "US President Trump warned that Iran will \u2018pay a big price\u2019 right before he attended a dignified transfer ceremony.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +198,8 @@
       ]
     },
     {
-      "headline": "Kuwaitis ration electricity after Iranian strikes hit power grid",
-      "summary": "Kuwaitis are rationing electricity after Iranian strikes on power infrastructure are raising fears of outages",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "summary": "Oleksandr Syrskyi is dismissed after days of unrest over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "headline": "US to announce deal allowing Saudi Arabia a nuclear programme",
+      "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +209,25 @@
       ]
     },
     {
-      "headline": "US judge blocks Trump bid to strip work permits from immigrants",
-      "summary": "The order prevents thousands from El Salvador, Sudan and Ukraine from losing work authorisation while lawsuit proceeds.",
+      "headline": "Gaza man returns home after family believed he was dead",
+      "summary": "Hamada Al Banna reunited with his family more than a year after an explosion that left him in a coma.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Your guide to every day of the Commonwealth Games in Australian time",
+      "summary": "With 10 sports crammed into 10 full days of action in Glasgow, it may be hard to keep track of what's on and when at the Commonwealth Games. So, here's the full schedule of every day of the 2026 Glasgow Commonwealth Games with all times and days in AEST.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-22T07:06:22.405397+10:00",
-    "date": "2026-07-22",
-    "display_date": "Wednesday 22 July 2026",
-    "display_time": "07:06 AM AEST"
+    "generated_at": "2026-07-23T07:04:02.031707+10:00",
+    "date": "2026-07-23",
+    "display_date": "Thursday 23 July 2026",
+    "display_time": "07:04 AM AEST"
   }
 }
