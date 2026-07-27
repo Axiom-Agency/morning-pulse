@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 7413.18,
+      "change": 1.2,
+      "change_pct": 0.02,
+      "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 24932.08,
+      "change": -43.74,
+      "change_pct": -0.18,
+      "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
+      "price": 52210.08,
+      "change": 262.83,
+      "change_pct": 0.51,
       "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.7,
-      "change": 2.06,
-      "change_pct": 12.38,
-      "trend_5d": "flat"
+      "price": 18.67,
+      "change": 0.09,
+      "change_pct": 0.48,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.7,
-      "change": 0.04,
-      "change_pct": 0.86,
-      "trend_5d": "flat"
+      "price": 4.64,
+      "change": -0.04,
+      "change_pct": -0.85,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66422.6,
-      "change": 307.0,
-      "change_pct": 0.46,
+      "price": 64611.15,
+      "change": -1811.45,
+      "change_pct": -2.73,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25210.81,
-      "change": 318.15,
-      "change_pct": 1.28,
+      "price": 24963.23,
+      "change": -247.58,
+      "change_pct": -0.98,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7096.89,
-      "change": 299.19,
-      "change_pct": 4.4,
+      "price": 6690.62,
+      "change": -406.27,
+      "change_pct": -5.72,
       "trend_5d": "flat"
     }
   ],
@@ -79,72 +79,61 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4070.8,
-      "change_pct": 0.6
+      "price": 4079.0,
+      "change_pct": 0.28
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 96.78,
-      "change_pct": -3.88
+      "price": 87.5,
+      "change_pct": -9.59
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 89.31,
-      "change_pct": -3.12
+      "price": 81.65,
+      "change_pct": -8.58
     }
   ],
   "asx200": {
-    "level": 8839.0,
-    "change_pct": 0.18
+    "level": 8772.3,
+    "change_pct": -0.75
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7003,
-      "change_pct": 0.511
+      "current_rate": 0.6993,
+      "change_pct": 0.3634
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5805,
-      "change_pct": 0.5381
+      "current_rate": 0.5775,
+      "change_pct": 0.0214
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2059,
-      "change_pct": -0.0638
+      "current_rate": 1.2103,
+      "change_pct": 0.3075
     }
   ],
   "world_news": [
     {
-      "headline": "Netanyahu accuses Mamdani of \u2018fomenting hate\u2019 in calls for PM\u2019s arrest",
-      "summary": "<p>Israeli prime minister says ICC\u2019s war crime charges are \u2018bogus\u2019 and plans to be in New York for UN gathering this fall</p><p><a href=\"https://www.theguardian.com/world/benjamin-netanyahu\">Benjamin Netanyahu</a> said on Sunday that <a href=\"https://www.theguardian.com/us-news/zohran-mamdani\">Zohran Mamdani</a>, the New York City mayor, is \u201cfomenting hate\u201d by calling the Israeli prime minister a war criminal who should be arrested over <a href=\"https://www.theguardian.com/world/israel\">Israel</a>\u2019s war in Gaza if he visits the city for the United Nations general assembly.</p><p>Netanyahu said he intends to be in <a href=\"https://www.theguardian.com/us-news/new-york\">New York</a> in September to address the annual UN gathering of world leaders, despite the mayor\u2019s suggestion that he is not welcome. Mamdani <a href=\"https://www.theguardian.com/us-news/2026/jul/22/zohran-mamdani-netanyahu-arrest-new-york\">said</a> on Wednesday that while New York City does not have legal authority to execute an arrest warrant issued by the world\u2019s top war crimes court, he encouraged the federal government to do so.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/26/netanyahu-mamdani-icc-arrest-gaza-war-united-nations\">Continue reading...</a>",
+      "headline": "Will Peru\u2019s new leader Keiko Fujimori reject her father\u2019s legacy?",
+      "summary": "Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Australia news live: new Sydney Harbour pool slated to open in summer; AusAlert warning test to blare siren across phones nationally",
-      "summary": "<p>New tidal baths on banks of Callan Park in Lilyfield expected to attract thousands to Parramatta River\u2019s southern banks. Follow the day\u2019s news</p><p><strong>Two more bird flu cases confirmed in South Australia</strong></p><p>Two local birds in South Australia <a href=\"https://www.theguardian.com/politics/blog/live/2026/jul/26/australia-news-live-politics-pauline-hanson-ed-husic-anthony-albanese-labor-party-conference-bird-flu-ntwnfb?page=with%3Ablock-6a65362b8f088134984cc37b#block-6a65362b8f088134984cc37b\">suspected to have a deadly bird flu</a>, greater crested terns found in Robe and Semaphore, have been confirmed positive for the H5N1 virus by CSIRO.</p><p>All of these have been individual wild seabirds found in coastal locations.</p><p>There remains no evidence of any mass mortality events and there are no detections in poultry or in our agricultural production system.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "What we know so far about the Berlin Pride ramming attack",
-      "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+      "headline": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +143,63 @@
       ]
     },
     {
-      "headline": "'Don't know how I do it': Poga\u010dar claims fifth Tour de France title",
-      "summary": "Tadej Poga\u010dar confirms his status as one of cycling's all-time greats after winning a record-equalling fifth Tour de France title in emphatic style.",
+      "headline": "Australia news live: Anthony Albanese praises Sally McManus and Michele O\u2019Neil as \u2018giants\u2019 as they step down from ACTU",
+      "summary": "<p>Prime minister pays tribute to secretary and president of the Australian Council of Trade Unions after surprise announcement. Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Taxpayers will bankroll an early-stage feasibility study into a new oil refinery in Western Australia under the Albanese government\u2019s long-term strategy to shield the country from future international oil shocks.</p><p>The Commonwealth and the WA government will spend $4m to scope out what would be the first large-scale petrol refinery to be built in Australia since the 1960s.</p><p>The longer war in the Middle East goes on the greater the impact on Australia will be, and my Government will continue to do everything we can to shield Australia from the worst effects \u2013 and set us up for the future.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "British court dismisses Bahrain\u2019s bid to block activists\u2019 spyware lawsuit",
+      "summary": "Ruling establishes that countries using spyware on people in the UK can be sued.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Hakeem Jeffries puts affordability at centre of Democrats\u2019 midterm campaign",
+      "summary": "US House Democratic leader unveils &#039;Fighting for an Affordable America&#039; agenda, blaming Donald Trump for rising costs.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump takes economic message to Michigan amid dwindling popularity",
+      "summary": "US president is suffering from low approval ratings in state that has become &#039;ground zero&#039; for his trade policies.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Has Burnham kept his promise to do better on Israel\u2019s war on Gaza?",
+      "summary": "Will Britain&#039;s new cabinet change the country\u2019s role in Israel\u2019s war on Gaza?",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Cabo Verde stunner gets people's vote as best World Cup goal",
+      "summary": "A stunning strike from World Cup minnows Cabo Verde against Argentina is voted as the goal for the tournament.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +209,8 @@
       ]
     },
     {
-      "headline": "Houthis claim Saudi drone downed over northwestern Yemen",
-      "summary": "Iran-backed Houthi forces claim they shot down a Saudi reconnaissance drone over northwestern Yemen.",
+      "headline": "Unreleased footage reveals Lindsey Graham\u2019s push for war on Iran",
+      "summary": "Unreleased documentary footage shows late US Senator Lindsey Graham celebrating the war on Iran.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,52 +220,8 @@
       ]
     },
     {
-      "headline": "A 360 moment for the girl who had every right to be scared of the water",
-      "summary": "The start of Victoria Belando Nicholson's journey is unknown and so too is the end, but the present moment is about as good as it gets.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "What lies ahead for Iran\u2019s economy as scope of US war grows beyond Hormuz?",
-      "summary": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Al-Sharaa outlines Syria\u2019s approach to security with Israel and Lebanon",
-      "summary": "Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "46 people rescued from sunken ship in South China Sea",
-      "summary": "Footage shows rescuers pulling survivors from a Vietnamese vessel that sank in the South China Sea.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Berlin Pride attack suspect shot and killed during police operation",
-      "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+      "headline": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
+      "summary": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-27T06:55:54.171398+10:00",
-    "date": "2026-07-27",
-    "display_date": "Monday 27 July 2026",
-    "display_time": "06:55 AM AEST"
+    "generated_at": "2026-07-28T07:07:41.983536+10:00",
+    "date": "2026-07-28",
+    "display_date": "Tuesday 28 July 2026",
+    "display_time": "07:07 AM AEST"
   }
 }
