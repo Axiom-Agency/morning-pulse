@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7428.78,
-      "change": 15.6,
-      "change_pct": 0.21,
+      "price": 7316.15,
+      "change": -112.63,
+      "change_pct": -1.52,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24876.91,
-      "change": -55.17,
-      "change_pct": -0.22,
+      "price": 24442.94,
+      "change": -433.97,
+      "change_pct": -1.74,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52747.32,
-      "change": 537.24,
-      "change_pct": 1.03,
-      "trend_5d": "up"
+      "price": 51594.14,
+      "change": -1153.18,
+      "change_pct": -2.19,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.21,
-      "change": -0.46,
-      "change_pct": -2.46,
+      "price": 20.66,
+      "change": 2.45,
+      "change_pct": 13.45,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.6,
-      "change": -0.04,
-      "change_pct": -0.86,
+      "price": 4.62,
+      "change": 0.02,
+      "change_pct": 0.43,
       "trend_5d": "down"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64931.19,
-      "change": 320.04,
-      "change_pct": 0.5,
+      "price": 62364.92,
+      "change": -2566.27,
+      "change_pct": -3.95,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25207.18,
-      "change": 243.95,
-      "change_pct": 0.98,
+      "price": 25310.85,
+      "change": 103.67,
+      "change_pct": 0.41,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6755.75,
-      "change": 65.13,
-      "change_pct": 0.97,
+      "price": 6023.66,
+      "change": -732.09,
+      "change_pct": -10.84,
       "trend_5d": "flat"
     }
   ],
@@ -79,127 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4028.3,
-      "change_pct": -1.13
+      "price": 4124.5,
+      "change_pct": 2.19
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 83.73,
-      "change_pct": -5.24
+      "price": 90.69,
+      "change_pct": 7.85
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 79.18,
-      "change_pct": -4.15
+      "price": 84.68,
+      "change_pct": 6.84
     }
   ],
   "asx200": {
-    "level": 8894.0,
-    "change_pct": 1.39
+    "level": 8947.8,
+    "change_pct": 0.6
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6983,
-      "change_pct": -0.1596
+      "current_rate": 0.6955,
+      "change_pct": -0.4597
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5784,
-      "change_pct": -0.2499
+      "current_rate": 0.5797,
+      "change_pct": 0.4568
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.204,
-      "change_pct": -0.1915
+      "current_rate": 1.1994,
+      "change_pct": -0.9489
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Jacinta Allan was subjected to \u2018vile sexism\u2019 as premier, Julia Gillard says",
-      "summary": "<p>Former PM says ousted Victorian premier was \u2018courageous in combating misogyny\u2019 and was a trailblazer for other women. Follow updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Former union boss and former leader of the Labor party <strong>Bill Shorten</strong> has leant his support behind newly crowned Victorian premier <strong>Ben Carroll\u2019s</strong> announcement he will call a royal commission into the construction sector.</p><p>Shorten told 7.30 last night:</p><p>He wants to act with integrity, and he wants to act in everyone\u2019s interests.</p><p>I think he understands [what] people will be assessing: is he serving the people or is he just playing politics? So I thought he was very straight. He\u2019s in there for Victorians, not trying to just tick the box and get particular interest groups on side.</p><p>I think the national mood or the state mood was there for it. I just think that the costs of construction \u2026 there may be exaggerations, but there is something rotten going on in construction, and people want to see it can be dealt with. This is public infrastructure, so it\u2019s taxpayer money.</p><p>There is no doubt that as the second woman to lead the state, she has been subjected to vile sexism.</p><p>She has been courageous in calling it out and combating this misogyny. As a result, she has made it easier for the women that follow.</p><p>I know how hard working he is and how much he cares about ensuring every child gets the best possible start in life. I wish him and his team well in the months to come.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Rome\u2019s viral graffiti cleaner is taking on an ancient problem",
-      "summary": "Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
-      "summary": "A powerful 7.1-magnitude earthquake struck Kumamoto, Japan, causing widespread damage, injuries and fears of deaths.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Kyiv warns Iran against escalation after Ukraine\u2019s Caspian Sea attack",
-      "summary": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Protests in DC against Netanyahu\u2019s meeting with Trump",
-      "summary": "A group of demonstrators gathered near the White House to protest Benjamin Netanyahu\u2019s visit to Washington.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Keiko Fujimori sworn in as Peru president after narrow election win",
-      "summary": "Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father&#039;s tactics.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "How US defence aid shaped Israel\u2019s military developments since Oct 7, 2023",
-      "summary": "US-Israel defence cooperation spans decades, including a $33bn, 10-year memorandum of understanding signed in 2016.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "'Very bad look': Brisbane defender given three-game ban",
-      "summary": "Gallop pleaded guilty at the AFL Tribunal on Tuesday night for what he described as retaliation on Mitch Georgiades after the Port Adelaide forward grabbed his broken thumb.",
+      "headline": "Mother and daughter debut together for country footy club",
+      "summary": "A central Queensland mother and daughter who debuted for the same rugby league club this season have their sight set on the grand final.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +132,19 @@
       ]
     },
     {
-      "headline": "New poll shows confusion over Democratic Socialists of America ideals",
-      "summary": "Democratic socialists face mixed understanding, with 49% of Americans saying they grasp their policies, poll shows.",
+      "headline": "Australia news live: Jillian Segal returns to antisemitism royal commission; three dead in Sydney house fire",
+      "summary": "<p>Government\u2019s special envoy returns to the witness box again today; three victims found in burned-out house in Wiley Park. Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Three people have died following a house fire in Sydney\u2019s south-west last night, NSW police said.</p><p>Emergency services were called to a home on Cornelia Street, Wiley Park, at about 9.45pm following reports of a fire.</p><p>This result is encouraging, as are improvements in eight other targets including employment and education.</p><p>However, it is very concerning that we are still seeing outcomes worsening for early childhood development, children in out-of-home care, incarceration rates and suicide.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+      "summary": "US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +154,74 @@
       ]
     },
     {
-      "headline": "What will it take to stop the conflict in Sudan?",
-      "summary": "The army says it&#039;s retaken a key highway linking Khartoum to El-Obeid.",
+      "headline": "Zendaya on working with Tom Holland in Spider-Man: \u2018When you\u2019re best friends it\u2019s easy\u2019",
+      "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Trump\u2019s attorney general pick faces possible Republican roadblock",
+      "summary": "Todd Blanche, Trump&#039;s former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Algeria elects first-ever woman speaker of parliament",
+      "summary": "Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria\u2019s parliament.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
+      "summary": "Fatal confrontations between security forces and protesters have marred local elections.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "James Comey\u2019s lawyers say US government distorted details in seashell case",
+      "summary": "Case centres on social media post featuring seashells that prosecutors allege is a reference to killing President Trump.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "New investigation shows how an Israeli settler escaped justice",
+      "summary": "A Palestinian rights&#039; group found that an Israeli settler killed Awdah Hathaleen but is still escaping justice.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Ice cream for education: Gaza cafe raises funds for studies",
+      "summary": "In war-torn Gaza, a group of Palestinian students opened Flora, an ice cream shop and cafe, to pay university fees.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-29T07:05:00.165606+10:00",
-    "date": "2026-07-29",
-    "display_date": "Wednesday 29 July 2026",
-    "display_time": "07:05 AM AEST"
+    "generated_at": "2026-07-30T06:53:02.581182+10:00",
+    "date": "2026-07-30",
+    "display_date": "Thursday 30 July 2026",
+    "display_time": "06:53 AM AEST"
   }
 }
