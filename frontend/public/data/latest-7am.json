@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7316.15,
-      "change": -112.63,
-      "change_pct": -1.52,
-      "trend_5d": "down"
+      "price": 7437.63,
+      "change": 121.48,
+      "change_pct": 1.66,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24442.94,
-      "change": -433.97,
-      "change_pct": -1.74,
-      "trend_5d": "down"
+      "price": 25122.18,
+      "change": 679.24,
+      "change_pct": 2.78,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51594.14,
-      "change": -1153.18,
-      "change_pct": -2.19,
-      "trend_5d": "down"
+      "price": 52208.06,
+      "change": 613.92,
+      "change_pct": 1.19,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 20.66,
-      "change": 2.45,
-      "change_pct": 13.45,
-      "trend_5d": "up"
+      "price": 17.09,
+      "change": -3.57,
+      "change_pct": -17.28,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.62,
-      "change": 0.02,
-      "change_pct": 0.43,
+      "price": 4.66,
+      "change": 0.04,
+      "change_pct": 0.87,
       "trend_5d": "down"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 62364.92,
-      "change": -2566.27,
-      "change_pct": -3.95,
+      "price": 61434.19,
+      "change": -930.73,
+      "change_pct": -1.49,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25310.85,
-      "change": 103.67,
-      "change_pct": 0.41,
+      "price": 25807.92,
+      "change": 497.07,
+      "change_pct": 1.96,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6023.66,
-      "change": -732.09,
-      "change_pct": -10.84,
+      "price": 5663.24,
+      "change": -360.42,
+      "change_pct": -5.98,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4124.5,
-      "change_pct": 2.19
+      "price": 4160.7,
+      "change_pct": 3.12
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 90.69,
-      "change_pct": 7.85
+      "price": 89.45,
+      "change_pct": -1.42
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 84.68,
-      "change_pct": 6.84
+      "price": 83.96,
+      "change_pct": -0.59
     }
   ],
   "asx200": {
-    "level": 8947.8,
-    "change_pct": 0.6
+    "level": 9038.6,
+    "change_pct": 1.01
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6955,
-      "change_pct": -0.4597
+      "current_rate": 0.7027,
+      "change_pct": 0.7501
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5797,
-      "change_pct": 0.4568
+      "current_rate": 0.5877,
+      "change_pct": 1.6427
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.1994,
-      "change_pct": -0.9489
+      "current_rate": 1.195,
+      "change_pct": -0.9302
     }
   ],
   "world_news": [
     {
-      "headline": "Mother and daughter debut together for country footy club",
-      "summary": "A central Queensland mother and daughter who debuted for the same rugby league club this season have their sight set on the grand final.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Australia news live: Jillian Segal returns to antisemitism royal commission; three dead in Sydney house fire",
-      "summary": "<p>Government\u2019s special envoy returns to the witness box again today; three victims found in burned-out house in Wiley Park. Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Three people have died following a house fire in Sydney\u2019s south-west last night, NSW police said.</p><p>Emergency services were called to a home on Cornelia Street, Wiley Park, at about 9.45pm following reports of a fire.</p><p>This result is encouraging, as are improvements in eight other targets including employment and education.</p><p>However, it is very concerning that we are still seeing outcomes worsening for early childhood development, children in out-of-home care, incarceration rates and suicide.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb\">Continue reading...</a>",
+      "headline": "Middle East crisis live: tensions rise in region after US launches \u2018heavy\u2019 strikes on Iran",
+      "summary": "<p>Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on Thursday</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq\">US launches fresh strikes on Iran after days-long pause, amid fears the war is widening</a></p></li></ul><p><strong>A liquefied natural gas tanker controlled by QatarEnergy exited the strait of Hormuz overnight</strong> \u2013 the first such vessel \u2060visible on ship-tracking data to \u2060leave the waterway \u200bsince 11 July, data from analytics firms showed on Thursday.</p><p>The <strong>Al Areesh tanker</strong>, which loaded a cargo at Qatar\u2019s Ras Laffan terminal around 4-6 July, sailed \u2060out of the strait overnight on 29 July, according to Kpler and LSEG data.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +132,8 @@
       ]
     },
     {
-      "headline": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
-      "summary": "US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases",
+      "headline": "Security camera shows \u2018Russian missile\u2019 exploding in Poland",
+      "summary": "Security camera video shows the moment a suspected Russian missile exploded inside Poland.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,80 +143,91 @@
       ]
     },
     {
-      "headline": "Zendaya on working with Tom Holland in Spider-Man: \u2018When you\u2019re best friends it\u2019s easy\u2019",
-      "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+      "headline": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
+      "summary": "Colin Gray, 55, was convicted of second-degree murder after his son Colt carried out a school shooting that killed four.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US authorities probe cyberattack on water systems in Minnesota",
+      "summary": "A cyberattack targeted more than 30 water facilities in the Midwestern US state earlier this week.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Australia's old friend wasn't at the Glasgow velodrome, but the old enemy was",
+      "summary": "There are high hopes for a gold-plated track cycling program for Australia at the 2026 Glasgow Commonwealth Games, and it started near enough to perfectly at the Sir Chris Hoy Velodrome.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Palestine Action co-founder wins UK Supreme Court appeal bid",
+      "summary": "Huda Ammori has won permission to challenge Palestine Action&#039;s ban at the UK Supreme Court.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Pakistan coal mine explosion kills at least 11, traps dozens",
+      "summary": "Accidents common in Pakistan\u2019s coal mining industry, particularly in Balochistan, where many mines lack basic safety.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Saudi Arabia announces maritime defence alliance to secure vital waterways",
+      "summary": "Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "French riot police used teargas on people trying to board small boat, charity claims",
+      "summary": "<p>CRS officers funded by UK tried to stop boarding of boat, on day four asylum seekers died trying to cross Channel</p><p>French riot police funded by UK taxpayers used teargas on asylum seekers in an attempt to stop them from boarding a boat in which three women were later found dead, a charity has claimed.</p><p>Footage and photographs seen by the Guardian show CS gas canisters being fired towards groups of people on Plage du Braek near Dunkirk at 4am on Thursday. At 6am, three women were found dead in a boat near the same beach.</p> <a href=\"https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
+      "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
-      ]
-    },
-    {
-      "headline": "Trump\u2019s attorney general pick faces possible Republican roadblock",
-      "summary": "Todd Blanche, Trump&#039;s former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Algeria elects first-ever woman speaker of parliament",
-      "summary": "Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria\u2019s parliament.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
-      "summary": "Fatal confrontations between security forces and protesters have marred local elections.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "James Comey\u2019s lawyers say US government distorted details in seashell case",
-      "summary": "Case centres on social media post featuring seashells that prosecutors allege is a reference to killing President Trump.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "New investigation shows how an Israeli settler escaped justice",
-      "summary": "A Palestinian rights&#039; group found that an Israeli settler killed Awdah Hathaleen but is still escaping justice.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Ice cream for education: Gaza cafe raises funds for studies",
-      "summary": "In war-torn Gaza, a group of Palestinian students opened Flora, an ice cream shop and cafe, to pay university fees.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-30T06:53:02.581182+10:00",
-    "date": "2026-07-30",
-    "display_date": "Thursday 30 July 2026",
-    "display_time": "06:53 AM AEST"
+    "generated_at": "2026-07-31T07:06:18.236624+10:00",
+    "date": "2026-07-31",
+    "display_date": "Friday 31 July 2026",
+    "display_time": "07:06 AM AEST"
   }
 }
