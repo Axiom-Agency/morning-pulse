@@ -3,231 +3,231 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7437.63,
-      "change": 121.48,
-      "change_pct": 1.66,
+      "price": 7489.72,
+      "change": 52.09,
+      "change_pct": 0.7,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25122.18,
-      "change": 679.24,
-      "change_pct": 2.78,
+      "price": 25373.85,
+      "change": 251.67,
+      "change_pct": 1.0,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52208.06,
-      "change": 613.92,
-      "change_pct": 1.19,
+      "price": 52485.03,
+      "change": 276.97,
+      "change_pct": 0.53,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.09,
-      "change": -3.57,
-      "change_pct": -17.28,
+      "price": 15.99,
+      "change": -1.1,
+      "change_pct": -6.44,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.66,
-      "change": 0.04,
-      "change_pct": 0.87,
-      "trend_5d": "down"
+      "price": 4.74,
+      "change": 0.08,
+      "change_pct": 1.72,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 61434.19,
-      "change": -930.73,
-      "change_pct": -1.49,
-      "trend_5d": "flat"
+      "price": 64362.02,
+      "change": 2494.59,
+      "change_pct": 4.03,
+      "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25807.92,
-      "change": 497.07,
-      "change_pct": 1.96,
-      "trend_5d": "flat"
+      "price": 25884.43,
+      "change": 25.55,
+      "change_pct": 0.1,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3832.26,
+      "change": 27.57,
+      "change_pct": 0.72,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5663.24,
-      "change": -360.42,
-      "change_pct": -5.98,
-      "trend_5d": "flat"
+      "price": 6595.45,
+      "change": 1001.89,
+      "change_pct": 17.91,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4160.7,
-      "change_pct": 3.12
+      "price": 4107.0,
+      "change_pct": 0.17
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 89.45,
-      "change_pct": -1.42
+      "price": 90.12,
+      "change_pct": 1.22
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 83.96,
-      "change_pct": -0.59
+      "price": 84.67,
+      "change_pct": 1.29
     }
   ],
   "asx200": {
-    "level": 9038.6,
-    "change_pct": 1.01
+    "level": 8976.8,
+    "change_pct": 0.1
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7027,
-      "change_pct": 0.7501
+      "current_rate": 0.7052,
+      "change_pct": 0.3843
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5877,
-      "change_pct": 1.6427
+      "current_rate": 0.5904,
+      "change_pct": 0.4847
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.195,
-      "change_pct": -0.9302
+      "current_rate": 1.1939,
+      "change_pct": -0.1522
     }
   ],
   "world_news": [
     {
-      "headline": "Middle East crisis live: tensions rise in region after US launches \u2018heavy\u2019 strikes on Iran",
-      "summary": "<p>Jordanian military says it intercepted five missiles targeting the kingdom after US military says it hit dozens of Revolutionary Guard targets on Thursday</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq\">US launches fresh strikes on Iran after days-long pause, amid fears the war is widening</a></p></li></ul><p><strong>A liquefied natural gas tanker controlled by QatarEnergy exited the strait of Hormuz overnight</strong> \u2013 the first such vessel \u2060visible on ship-tracking data to \u2060leave the waterway \u200bsince 11 July, data from analytics firms showed on Thursday.</p><p>The <strong>Al Areesh tanker</strong>, which loaded a cargo at Qatar\u2019s Ras Laffan terminal around 4-6 July, sailed \u2060out of the strait overnight on 29 July, according to Kpler and LSEG data.</p> <a href=\"https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Security camera shows \u2018Russian missile\u2019 exploding in Poland",
-      "summary": "Security camera video shows the moment a suspected Russian missile exploded inside Poland.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
-      "summary": "Colin Gray, 55, was convicted of second-degree murder after his son Colt carried out a school shooting that killed four.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US authorities probe cyberattack on water systems in Minnesota",
-      "summary": "A cyberattack targeted more than 30 water facilities in the Midwestern US state earlier this week.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Australia's old friend wasn't at the Glasgow velodrome, but the old enemy was",
-      "summary": "There are high hopes for a gold-plated track cycling program for Australia at the 2026 Glasgow Commonwealth Games, and it started near enough to perfectly at the Sir Chris Hoy Velodrome.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Palestine Action co-founder wins UK Supreme Court appeal bid",
-      "summary": "Huda Ammori has won permission to challenge Palestine Action&#039;s ban at the UK Supreme Court.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Pakistan coal mine explosion kills at least 11, traps dozens",
-      "summary": "Accidents common in Pakistan\u2019s coal mining industry, particularly in Balochistan, where many mines lack basic safety.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Saudi Arabia announces maritime defence alliance to secure vital waterways",
-      "summary": "Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "French riot police used teargas on people trying to board small boat, charity claims",
-      "summary": "<p>CRS officers funded by UK tried to stop boarding of boat, on day four asylum seekers died trying to cross Channel</p><p>French riot police funded by UK taxpayers used teargas on asylum seekers in an attempt to stop them from boarding a boat in which three women were later found dead, a charity has claimed.</p><p>Footage and photographs seen by the Guardian show CS gas canisters being fired towards groups of people on Plage du Braek near Dunkirk at 4am on Thursday. At 6am, three women were found dead in a boat near the same beach.</p> <a href=\"https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
-      "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
+      "headline": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "Venezuela and the Dominican Republic say they will work to restore ties",
+      "summary": "Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump backs down on Iran strikes in expectation of \u2018rapidly\u2019 reaching a deal",
+      "summary": "<p>US president claims delay is also in response to requests from Iran and other countries in the region</p><p>Donald Trump has said he cancelled planned military strikes against Iran on the basis of \u201crapidly\u201d reaching a deal on its nuclear programme and the full reopening of the strait of Hormuz.</p><p>The US president paused the strikes in expectation of a breakthrough and in response to requests from Iran and other countries in the region, he claimed on his Truth Social platform on Saturday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Is Washington dictating the agenda for talks in Venezuela?",
+      "summary": "Venezuela&#039;s government and a section of the opposition plan to hold talks, backed by the US.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "How much has AIPAC spent against Michigan\u2019s Abdul El-Sayed? And why?",
+      "summary": "Pro-Israel group unleashes its spending power to help elect Haley Stevens to US Senate against progressive doctor.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israelis attack Armenian monastery in Jerusalem\u2019s Old City",
+      "summary": "Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem&#039;s Old City.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
+      "summary": "Search for remains of three last climbers continues on Broad Peak, days after avalanche killed all 10 mountaineers.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Most Americans say Trump has gone too far on US immigration: Poll",
+      "summary": "Half of Americans say Trump has gone too far on deportations, though most Republicans still support his approach.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+      "summary": "Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Two helicopters collide mid-air while tackling wildfires in Greece",
+      "summary": "Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-07-31T07:06:18.236624+10:00",
-    "date": "2026-07-31",
-    "display_date": "Friday 31 July 2026",
-    "display_time": "07:06 AM AEST"
+    "generated_at": "2026-08-03T06:52:03.406316+10:00",
+    "date": "2026-08-03",
+    "display_date": "Monday 03 August 2026",
+    "display_time": "06:52 AM AEST"
   }
 }
