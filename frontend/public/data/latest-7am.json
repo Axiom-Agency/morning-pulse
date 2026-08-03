@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7489.72,
-      "change": 52.09,
-      "change_pct": 0.7,
+      "price": 7600.5,
+      "change": 110.78,
+      "change_pct": 1.48,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25373.85,
-      "change": 251.67,
-      "change_pct": 1.0,
+      "price": 25913.9,
+      "change": 540.05,
+      "change_pct": 2.13,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52485.03,
-      "change": 276.97,
-      "change_pct": 0.53,
+      "price": 53178.41,
+      "change": 693.38,
+      "change_pct": 1.32,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.99,
-      "change": -1.1,
-      "change_pct": -6.44,
+      "price": 15.86,
+      "change": -0.13,
+      "change_pct": -0.81,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.74,
-      "change": 0.08,
-      "change_pct": 1.72,
+      "price": 4.69,
+      "change": -0.05,
+      "change_pct": -1.05,
       "trend_5d": "up"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 64362.02,
       "change": 2494.59,
       "change_pct": 4.03,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 25884.43,
       "change": 25.55,
       "change_pct": 0.1,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3832.26,
-      "change": 27.57,
-      "change_pct": 0.72,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 6595.45,
       "change": 1001.89,
       "change_pct": 17.91,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4107.0,
-      "change_pct": 0.17
+      "price": 4112.6,
+      "change_pct": 1.57
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 90.12,
-      "change_pct": 1.22
+      "price": 83.51,
+      "change_pct": -7.33
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 84.67,
-      "change_pct": 1.29
+      "price": 80.06,
+      "change_pct": -5.44
     }
   ],
   "asx200": {
@@ -103,48 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7052,
-      "change_pct": 0.3843
+      "current_rate": 0.7003,
+      "change_pct": -0.3186
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5904,
-      "change_pct": 0.4847
+      "current_rate": 0.5873,
+      "change_pct": -0.0464
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.1939,
-      "change_pct": -0.1522
+      "current_rate": 1.1921,
+      "change_pct": -0.3028
     }
   ],
   "world_news": [
     {
-      "headline": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Venezuela and the Dominican Republic say they will work to restore ties",
-      "summary": "Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump backs down on Iran strikes in expectation of \u2018rapidly\u2019 reaching a deal",
-      "summary": "<p>US president claims delay is also in response to requests from Iran and other countries in the region</p><p>Donald Trump has said he cancelled planned military strikes against Iran on the basis of \u201crapidly\u201d reaching a deal on its nuclear programme and the full reopening of the strait of Hormuz.</p><p>The US president paused the strikes in expectation of a breakthrough and in response to requests from Iran and other countries in the region, he claimed on his Truth Social platform on Saturday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran\">Continue reading...</a>",
+      "headline": "Trump declines to call for Max Miller\u2019s resignation amid abuse allegations \u2013 live",
+      "summary": "<p>President says he will \u2018let the families figure that out\u2019 and calls situation \u2018a very sad thing\u2019 when asked if Ohio Republican should step down</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the US Breaking News email</a></p></li></ul><p>On Tuesday, we\u2019ll bring you the latest from Michigan where voters will head to the polls for competitive primaries in Senate and House races.</p><p>The most closely watched competition is the Democratic primary for the US Senate, where congresswoman <strong>Haley Stevens</strong> is up against former public health official <strong>Abdul El-Sayed</strong>. They\u2019re vying to ultimately win the seat of outgoing senator <strong>Gary Peters </strong>in November. The race has now turned into a proxy battle for the future of the Democratic party. Establishment-backed Stevens has received support from party leaders and her race has been buoyed by millions from the pro-Israel lobby. Meanwhile the insurgent El-Sayed has built a strong grassroots movement and is endorsed by progressives lawmakers in the Democratic caucus.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +132,19 @@
       ]
     },
     {
-      "headline": "Is Washington dictating the agenda for talks in Venezuela?",
-      "summary": "Venezuela&#039;s government and a section of the opposition plan to hold talks, backed by the US.",
+      "headline": "Australia news live: charges laid after alleged replica gun scare in Sydney entertainment spot",
+      "summary": "<p>Two men were arrested on Monday evening and one was charged over an alleged replica pistol. Follow today\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>NSW police have arrested and charged two men after one of them allegedly brandished a fake replica gun, wearing a bulletproof vest with a US flag and carrying a toy police badge, at a busy Sydney entertainment precinct, AAP reports.</p><p>Uniform and specialist police swarmed the pair at the Entertainment Quarter at Moore Park on Monday afternoon.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Hundreds of migrant minors stranded in Ceuta after border crisis",
+      "summary": "Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +154,30 @@
       ]
     },
     {
-      "headline": "How much has AIPAC spent against Michigan\u2019s Abdul El-Sayed? And why?",
-      "summary": "Pro-Israel group unleashes its spending power to help elect Haley Stevens to US Senate against progressive doctor.",
+      "headline": "Middle East crisis live: Trump claims strait of Hormuz could open \u2018by tomorrow\u2019 as Iran denies any talks taking place",
+      "summary": "<p>US president claims talks are \u2018not very complex\u2019 as he speaks at White House as Iran\u2019s foreign ministry says there are no talks taking place with US</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran\"><strong>Iran in talks with Oman over shipping route but not US, says Tehran</strong></a></p></li></ul><p>People walk near a billboard depicting Iran\u2019s late supreme leader Ayatollah Ali Khamenei, on a street in Tehran, Iran, earlier today.</p><p>Six Saudi-flagged supertankers have changed course in the <strong>Gulf of Aden</strong> in recent days amid threats from the Iran-aligned <strong>Houthis</strong>, Reuters reports.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
+      "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Survivors reach port after deadly Indonesia ferry fire",
+      "summary": "Survivors reach port after deadly Indonesia ferry fire",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +187,8 @@
       ]
     },
     {
-      "headline": "Israelis attack Armenian monastery in Jerusalem\u2019s Old City",
-      "summary": "Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem&#039;s Old City.",
+      "headline": "Clergy members arrested while protesting at Senate office",
+      "summary": "Clergy members were arrested while protesting the Iran war and voting rights concerns at the Senate office.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +198,8 @@
       ]
     },
     {
-      "headline": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
-      "summary": "Search for remains of three last climbers continues on Broad Peak, days after avalanche killed all 10 mountaineers.",
+      "headline": "Trump says talks with Iran are \u2018last chance\u2019 to forge a deal",
+      "summary": "US President Donald Trump said Iran has a &quot;last chance&quot; to reach a nuclear agreement.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,30 +209,19 @@
       ]
     },
     {
-      "headline": "Most Americans say Trump has gone too far on US immigration: Poll",
-      "summary": "Half of Americans say Trump has gone too far on deportations, though most Republicans still support his approach.",
+      "headline": "Athens suitcase death: suspect admits hiding body but denies murder",
+      "summary": "<p>Police are focusing on Elisabeth-Jane Ross\u2019s final hours in hope of discovering motive for her killing</p><p>Greek authorities are investigating what may have motivated a 26-year-old Afghan man to kill a <a href=\"https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens\">Scottish charity worker</a> found dead in a suitcase in an abandoned building in Athens last month.</p><p>Inquiries have focused increasingly on Elisabeth-Jane Ross\u2019s last few hours alive and police believe they hold the key to revealing why the 38-year-old was targeted.</p> <a href=\"https://www.theguardian.com/world/2026/aug/03/greek-authorities-investigate-motive-behind-of-scottish-woman-found-inside-suitcase\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-      "summary": "Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Two helicopters collide mid-air while tackling wildfires in Greece",
-      "summary": "Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.",
+      "headline": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
+      "summary": "Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-03T06:52:03.406316+10:00",
-    "date": "2026-08-03",
-    "display_date": "Monday 03 August 2026",
-    "display_time": "06:52 AM AEST"
+    "generated_at": "2026-08-04T07:00:07.150813+10:00",
+    "date": "2026-08-04",
+    "display_date": "Tuesday 04 August 2026",
+    "display_time": "07:00 AM AEST"
   }
 }
