@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7600.5,
-      "change": 110.78,
-      "change_pct": 1.48,
+      "price": 7736.52,
+      "change": 136.02,
+      "change_pct": 1.79,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25913.9,
-      "change": 540.05,
-      "change_pct": 2.13,
+      "price": 26584.99,
+      "change": 671.09,
+      "change_pct": 2.59,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53178.41,
-      "change": 693.38,
-      "change_pct": 1.32,
+      "price": 54085.88,
+      "change": 907.47,
+      "change_pct": 1.71,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.86,
-      "change": -0.13,
-      "change_pct": -0.81,
+      "price": 16.5,
+      "change": 0.64,
+      "change_pct": 4.04,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.69,
-      "change": -0.05,
-      "change_pct": -1.05,
-      "trend_5d": "up"
+      "price": 4.63,
+      "change": -0.06,
+      "change_pct": -1.28,
+      "trend_5d": "flat"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64362.02,
-      "change": 2494.59,
-      "change_pct": 4.03,
+      "price": 63754.9,
+      "change": -607.12,
+      "change_pct": -0.94,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25884.43,
-      "change": 25.55,
-      "change_pct": 0.1,
+      "price": 26009.4,
+      "change": 124.97,
+      "change_pct": 0.48,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6595.45,
-      "change": 1001.89,
-      "change_pct": 17.91,
+      "price": 6257.45,
+      "change": -338.0,
+      "change_pct": -5.12,
       "trend_5d": "flat"
     }
   ],
@@ -79,72 +79,61 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4112.6,
-      "change_pct": 1.57
+      "price": 4133.8,
+      "change_pct": 2.48
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 83.51,
-      "change_pct": -7.33
+      "price": 78.81,
+      "change_pct": -5.92
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 80.06,
-      "change_pct": -5.44
+      "price": 75.15,
+      "change_pct": -6.46
     }
   ],
   "asx200": {
-    "level": 8976.8,
-    "change_pct": 0.1
+    "level": 9019.3,
+    "change_pct": 0.47
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7003,
-      "change_pct": -0.3186
+      "current_rate": 0.7045,
+      "change_pct": -0.0162
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5873,
-      "change_pct": -0.0464
+      "current_rate": 0.5888,
+      "change_pct": -0.1837
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.1921,
-      "change_pct": -0.3028
+      "current_rate": 1.194,
+      "change_pct": -0.0438
     }
   ],
   "world_news": [
     {
-      "headline": "Trump declines to call for Max Miller\u2019s resignation amid abuse allegations \u2013 live",
-      "summary": "<p>President says he will \u2018let the families figure that out\u2019 and calls situation \u2018a very sad thing\u2019 when asked if Ohio Republican should step down</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the US Breaking News email</a></p></li></ul><p>On Tuesday, we\u2019ll bring you the latest from Michigan where voters will head to the polls for competitive primaries in Senate and House races.</p><p>The most closely watched competition is the Democratic primary for the US Senate, where congresswoman <strong>Haley Stevens</strong> is up against former public health official <strong>Abdul El-Sayed</strong>. They\u2019re vying to ultimately win the seat of outgoing senator <strong>Gary Peters </strong>in November. The race has now turned into a proxy battle for the future of the Democratic party. Establishment-backed Stevens has received support from party leaders and her race has been buoyed by millions from the pro-Israel lobby. Meanwhile the insurgent El-Sayed has built a strong grassroots movement and is endorsed by progressives lawmakers in the Democratic caucus.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates\">Continue reading...</a>",
+      "headline": "Embattled FIFA boss faces 'blackmail' allegations from ex-staffer",
+      "summary": "Former FIFA vice-president Prince Ali bin Al Hussein claims the footballing body withheld prize money from Jordan over an endorsement of Gianni Infantino.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "ABC Australia"
       ]
     },
     {
-      "headline": "Australia news live: charges laid after alleged replica gun scare in Sydney entertainment spot",
-      "summary": "<p>Two men were arrested on Monday evening and one was charged over an alleged replica pistol. Follow today\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>NSW police have arrested and charged two men after one of them allegedly brandished a fake replica gun, wearing a bulletproof vest with a US flag and carrying a toy police badge, at a busy Sydney entertainment precinct, AAP reports.</p><p>Uniform and specialist police swarmed the pair at the Entertainment Quarter at Moore Park on Monday afternoon.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Hundreds of migrant minors stranded in Ceuta after border crisis",
-      "summary": "Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.",
+      "headline": "US court deals blow to Trump\u2019s bid to scrap climate grant programme",
+      "summary": "A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +143,52 @@
       ]
     },
     {
-      "headline": "Middle East crisis live: Trump claims strait of Hormuz could open \u2018by tomorrow\u2019 as Iran denies any talks taking place",
-      "summary": "<p>US president claims talks are \u2018not very complex\u2019 as he speaks at White House as Iran\u2019s foreign ministry says there are no talks taking place with US</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran\"><strong>Iran in talks with Oman over shipping route but not US, says Tehran</strong></a></p></li></ul><p>People walk near a billboard depicting Iran\u2019s late supreme leader Ayatollah Ali Khamenei, on a street in Tehran, Iran, earlier today.</p><p>Six Saudi-flagged supertankers have changed course in the <strong>Gulf of Aden</strong> in recent days amid threats from the Iran-aligned <strong>Houthis</strong>, Reuters reports.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates\">Continue reading...</a>",
+      "headline": "How much of a challenge are wildfires to Europe?",
+      "summary": "Rapidly spreading blazes are scorching the continent.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "\u2018I wanted to hug whatever remained\u2019: Gaza families\u2019 3-year wait for funeral",
+      "summary": "Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Kosovo finds third wartime mass grave site as officials widen search",
+      "summary": "Excavation work continues as officials believe that there could be people buried dating back to the Kosovo war.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Shop owners dismantle businesses after Israeli demolition orders",
+      "summary": "Shop owners dismantle businesses after Israeli demolition orders",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Middle East crisis live: Rubio hopes US can reach Hormuz deal with Iran \u2018very shortly\u2019 as officials say progress has been made",
+      "summary": "<p>US secretary of state comments come after treasury secretary, Scott Bessent, said Washington could reach a deal \u2018by tomorrow\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait\">US and Qatar report progress on Iran ceasefire and reopening Hormuz strait</a></p></li></ul><p><strong>Iran and Oman have made progress toward a deal to reopen the strait of Hormuz, a potential breakthrough that could help end the war in the Middle East, regional officials have said.</strong></p><p>Under the emerging agreement, ships would enter the Persian Gulf through an Iranian-controlled route and exit through a route controlled by Oman, with service fees charged for providing security and preserving the maritime environment, two regional officials told the Associated Press.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +198,19 @@
       ]
     },
     {
-      "headline": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
-      "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+      "headline": "Argentina grain exports halt as maritime pilots strike over Milei decree",
+      "summary": "More than 45 vessels have been affected by the strike at Argentinian ports.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "More than 170 migrants rescued after boat catches fire in Channel",
+      "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,52 +220,8 @@
       ]
     },
     {
-      "headline": "Survivors reach port after deadly Indonesia ferry fire",
-      "summary": "Survivors reach port after deadly Indonesia ferry fire",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Clergy members arrested while protesting at Senate office",
-      "summary": "Clergy members were arrested while protesting the Iran war and voting rights concerns at the Senate office.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump says talks with Iran are \u2018last chance\u2019 to forge a deal",
-      "summary": "US President Donald Trump said Iran has a &quot;last chance&quot; to reach a nuclear agreement.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Athens suitcase death: suspect admits hiding body but denies murder",
-      "summary": "<p>Police are focusing on Elisabeth-Jane Ross\u2019s final hours in hope of discovering motive for her killing</p><p>Greek authorities are investigating what may have motivated a 26-year-old Afghan man to kill a <a href=\"https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens\">Scottish charity worker</a> found dead in a suitcase in an abandoned building in Athens last month.</p><p>Inquiries have focused increasingly on Elisabeth-Jane Ross\u2019s last few hours alive and police believe they hold the key to revealing why the 38-year-old was targeted.</p> <a href=\"https://www.theguardian.com/world/2026/aug/03/greek-authorities-investigate-motive-behind-of-scottish-woman-found-inside-suitcase\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
-      "summary": "Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.",
+      "headline": "Evacuations ordered as Guatemala volcano erupts",
+      "summary": "Guatemala\u2019s Fuego volcano erupted Monday, triggering an orange alert and evacuations near the deadly 2018 eruption site.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-04T07:00:07.150813+10:00",
-    "date": "2026-08-04",
-    "display_date": "Tuesday 04 August 2026",
-    "display_time": "07:00 AM AEST"
+    "generated_at": "2026-08-05T07:09:45.702172+10:00",
+    "date": "2026-08-05",
+    "display_date": "Wednesday 05 August 2026",
+    "display_time": "07:09 AM AEST"
   }
 }
