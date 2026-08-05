@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7736.52,
-      "change": 136.02,
-      "change_pct": 1.79,
+      "price": 7723.55,
+      "change": -12.97,
+      "change_pct": -0.17,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26584.99,
-      "change": 671.09,
-      "change_pct": 2.59,
+      "price": 26363.44,
+      "change": -221.55,
+      "change_pct": -0.83,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 54085.88,
-      "change": 907.47,
-      "change_pct": 1.71,
+      "price": 54349.12,
+      "change": 263.24,
+      "change_pct": 0.49,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.5,
-      "change": 0.64,
-      "change_pct": 4.04,
+      "price": 15.81,
+      "change": -0.69,
+      "change_pct": -4.18,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.63,
-      "change": -0.06,
-      "change_pct": -1.28,
-      "trend_5d": "flat"
+      "price": 4.62,
+      "change": -0.01,
+      "change_pct": -0.22,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 63754.9,
-      "change": -607.12,
-      "change_pct": -0.94,
+      "price": 63957.53,
+      "change": 202.63,
+      "change_pct": 0.32,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 26009.4,
-      "change": 124.97,
-      "change_pct": 0.48,
+      "price": 25852.92,
+      "change": -156.48,
+      "change_pct": -0.6,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6257.45,
-      "change": -338.0,
-      "change_pct": -5.12,
+      "price": 6358.95,
+      "change": 101.5,
+      "change_pct": 1.62,
       "trend_5d": "flat"
     }
   ],
@@ -79,138 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4133.8,
-      "change_pct": 2.48
+      "price": 4305.1,
+      "change_pct": 5.12
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 78.81,
-      "change_pct": -5.92
+      "price": 79.3,
+      "change_pct": -0.08
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 75.15,
-      "change_pct": -6.46
+      "price": 75.01,
+      "change_pct": -1.0
     }
   ],
   "asx200": {
-    "level": 9019.3,
-    "change_pct": 0.47
+    "level": 9145.8,
+    "change_pct": 1.4
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7045,
-      "change_pct": -0.0162
+      "current_rate": 0.7059,
+      "change_pct": 0.8725
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5888,
-      "change_pct": -0.1837
+      "current_rate": 0.5889,
+      "change_pct": 0.368
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.194,
-      "change_pct": -0.0438
+      "current_rate": 1.197,
+      "change_pct": 0.3597
     }
   ],
   "world_news": [
     {
-      "headline": "Embattled FIFA boss faces 'blackmail' allegations from ex-staffer",
-      "summary": "Former FIFA vice-president Prince Ali bin Al Hussein claims the footballing body withheld prize money from Jordan over an endorsement of Gianni Infantino.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "US court deals blow to Trump\u2019s bid to scrap climate grant programme",
-      "summary": "A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "How much of a challenge are wildfires to Europe?",
-      "summary": "Rapidly spreading blazes are scorching the continent.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "\u2018I wanted to hug whatever remained\u2019: Gaza families\u2019 3-year wait for funeral",
-      "summary": "Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Kosovo finds third wartime mass grave site as officials widen search",
-      "summary": "Excavation work continues as officials believe that there could be people buried dating back to the Kosovo war.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Shop owners dismantle businesses after Israeli demolition orders",
-      "summary": "Shop owners dismantle businesses after Israeli demolition orders",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Middle East crisis live: Rubio hopes US can reach Hormuz deal with Iran \u2018very shortly\u2019 as officials say progress has been made",
-      "summary": "<p>US secretary of state comments come after treasury secretary, Scott Bessent, said Washington could reach a deal \u2018by tomorrow\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait\">US and Qatar report progress on Iran ceasefire and reopening Hormuz strait</a></p></li></ul><p><strong>Iran and Oman have made progress toward a deal to reopen the strait of Hormuz, a potential breakthrough that could help end the war in the Middle East, regional officials have said.</strong></p><p>Under the emerging agreement, ships would enter the Persian Gulf through an Iranian-controlled route and exit through a route controlled by Oman, with service fees charged for providing security and preserving the maritime environment, two regional officials told the Associated Press.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Argentina grain exports halt as maritime pilots strike over Milei decree",
-      "summary": "More than 45 vessels have been affected by the strike at Argentinian ports.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "More than 170 migrants rescued after boat catches fire in Channel",
-      "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+      "headline": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+      "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +132,102 @@
       ]
     },
     {
-      "headline": "Evacuations ordered as Guatemala volcano erupts",
-      "summary": "Guatemala\u2019s Fuego volcano erupted Monday, triggering an orange alert and evacuations near the deadly 2018 eruption site.",
+      "headline": "SpaceX shares slide on the heels of first quarterly report",
+      "summary": "The stock was down more than 13 percent as investors were spooked by the company&#039;s heavy investments.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Sheikh Hasina says she will return to Bangladesh in December",
+      "summary": "Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Drone carrying explosives found at German airport, police say",
+      "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "New Mexico sues US Justice Department for impeding Epstein probe",
+      "summary": "The southwestern US state&#039;s attorney general argues that the federal government is withholding key unredacted documents.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Young pilot makes daring emergency landing on Florida interstate",
+      "summary": "A 21-year-old flight instructor safely landed her small aircraft on a US freeway near Pensacola, Florida.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Brazil\u2019s Flavio Bolsonaro names Alfredo Gaspar as running mate",
+      "summary": "The announcement comes as Lula warns of foreign interference and polls show a tightening presidential race.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "summary": "<p>State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon</p><p>The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing criticism that it is leaving a diplomatic vacuum at risk of being filled by China.</p><p>The US Congress has been served notice of the impending closures, which are being justified on cost grounds and follow a reassessment of the US\u2019s bilateral relationships with a range of countries since Donald Trump returned to the White House in January 2025.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+      "summary": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-05T07:09:45.702172+10:00",
-    "date": "2026-08-05",
-    "display_date": "Wednesday 05 August 2026",
-    "display_time": "07:09 AM AEST"
+    "generated_at": "2026-08-06T07:05:10.716769+10:00",
+    "date": "2026-08-06",
+    "display_date": "Thursday 06 August 2026",
+    "display_time": "07:05 AM AEST"
   }
 }
