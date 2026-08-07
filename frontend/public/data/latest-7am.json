@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7723.55,
-      "change": -12.97,
-      "change_pct": -0.17,
+      "price": 7709.96,
+      "change": -13.59,
+      "change_pct": -0.18,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26363.44,
-      "change": -221.55,
-      "change_pct": -0.83,
+      "price": 26348.35,
+      "change": -15.09,
+      "change_pct": -0.06,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 54349.12,
-      "change": 263.24,
-      "change_pct": 0.49,
+      "price": 53885.1,
+      "change": -464.02,
+      "change_pct": -0.85,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.81,
-      "change": -0.69,
-      "change_pct": -4.18,
+      "price": 15.15,
+      "change": -0.66,
+      "change_pct": -4.17,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.62,
-      "change": -0.01,
-      "change_pct": -0.22,
+      "price": 4.67,
+      "change": 0.05,
+      "change_pct": 1.08,
       "trend_5d": "down"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 63957.53,
-      "change": 202.63,
-      "change_pct": 0.32,
+      "price": 65406.53,
+      "change": -893.91,
+      "change_pct": -1.35,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25852.92,
-      "change": -156.48,
-      "change_pct": -0.6,
+      "price": 25915.82,
+      "change": 62.9,
+      "change_pct": 0.24,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6358.95,
-      "change": 101.5,
-      "change_pct": 1.62,
+      "price": 6296.63,
+      "change": -301.63,
+      "change_pct": -4.57,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,72 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4305.1,
-      "change_pct": 5.12
+      "price": 4291.3,
+      "change_pct": 1.07
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 79.3,
-      "change_pct": -0.08
+      "price": 83.78,
+      "change_pct": 0.0
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 75.01,
-      "change_pct": -1.0
+      "price": 78.32,
+      "change_pct": 4.12
     }
   ],
   "asx200": {
-    "level": 9145.8,
-    "change_pct": 1.4
+    "level": 9234.1,
+    "change_pct": 0.07
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7059,
-      "change_pct": 0.8725
+      "current_rate": 0.703,
+      "change_pct": -0.3816
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5889,
-      "change_pct": 0.368
+      "current_rate": 0.5866,
+      "change_pct": -0.369
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.197,
-      "change_pct": 0.3597
+      "current_rate": 1.1982,
+      "change_pct": -0.0434
     }
   ],
   "world_news": [
     {
-      "headline": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+      "headline": "Athletes go missing after Commonwealth Games",
+      "summary": "Scottish Police are investigating after four members of the Ugandan boxing team reportedly failed to return home.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Do you know who owns the media you watch?",
+      "summary": "Today, a total of 6 companies own 90% of the American media market.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Sudan's invisible children - born in war with no legal identity",
+      "summary": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,85 +154,8 @@
       ]
     },
     {
-      "headline": "SpaceX shares slide on the heels of first quarterly report",
-      "summary": "The stock was down more than 13 percent as investors were spooked by the company&#039;s heavy investments.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Sheikh Hasina says she will return to Bangladesh in December",
-      "summary": "Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Drone carrying explosives found at German airport, police say",
-      "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "New Mexico sues US Justice Department for impeding Epstein probe",
-      "summary": "The southwestern US state&#039;s attorney general argues that the federal government is withholding key unredacted documents.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Young pilot makes daring emergency landing on Florida interstate",
-      "summary": "A 21-year-old flight instructor safely landed her small aircraft on a US freeway near Pensacola, Florida.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Brazil\u2019s Flavio Bolsonaro names Alfredo Gaspar as running mate",
-      "summary": "The announcement comes as Lula warns of foreign interference and polls show a tightening presidential race.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
-      "summary": "<p>State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon</p><p>The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing criticism that it is leaving a diplomatic vacuum at risk of being filled by China.</p><p>The US Congress has been served notice of the impending closures, which are being justified on cost grounds and follow a reassessment of the US\u2019s bilateral relationships with a range of countries since Donald Trump returned to the White House in January 2025.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures\">Continue reading...</a>",
+      "headline": "Australia news live: Richard Marles insists Tony Burke\u2019s speech on Labor\u2019s new restrictive immigration policy \u2018hasn\u2019t been called off\u2019",
+      "summary": "<p>Deputy prime minister says Burke\u2019s speech before National Press Club was not cancelled. Follow today\u2019s news live</p><p>Federal parliament is returning from winter break next week.</p><p>Do you have a question you\u2019d like to ask Guardian Australia\u2019s team of political reporters in Canberra? Our political editor, <strong>Tom McIlroy</strong>, and the team will be answering readers\u2019 questions on the Australian Politics podcast.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +165,69 @@
       ]
     },
     {
-      "headline": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-      "summary": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
+      "headline": "After the floods, hunger: Mozambique\u2019s second disaster",
+      "summary": "Lost harvests and disrupted supply routes have pushed many families deeper into food insecurity.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Meta fined $567m in largest child safety ruling against social media giant",
+      "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "Dogs coach says he would have signed concussion waiver to keep playing",
+      "summary": "Western Bulldogs coach Luke Beveridge gives his view on concussion in the AFL following revelations of Geelong putting a waiver into a player's contract.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Trump says war can\u2019t \u2018go much longer\u2019, Hormuz deal close",
+      "summary": "The US, Iran, and Oman are close to a temporary deal to reopen the Strait of Hormuz",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
+      "summary": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Travel restrictions \u2013 from Israel and Europe \u2013 trap students in Gaza",
+      "summary": "Blockades and bureaucracy turn education into an uphill journey for talented Gaza students seeking a brighter future.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-06T07:05:10.716769+10:00",
-    "date": "2026-08-06",
-    "display_date": "Thursday 06 August 2026",
-    "display_time": "07:05 AM AEST"
+    "generated_at": "2026-08-07T10:52:07.438809+10:00",
+    "date": "2026-08-07",
+    "display_date": "Friday 07 August 2026",
+    "display_time": "10:52 AM AEST"
   }
 }
