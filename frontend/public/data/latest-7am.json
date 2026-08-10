@@ -3,42 +3,42 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7757.64,
-      "change": 47.68,
-      "change_pct": 0.62,
+      "price": 7753.11,
+      "change": -4.53,
+      "change_pct": -0.06,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26690.62,
-      "change": 342.27,
-      "change_pct": 1.3,
-      "trend_5d": "up"
+      "price": 26605.36,
+      "change": -85.26,
+      "change_pct": -0.32,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 54036.93,
-      "change": 151.83,
-      "change_pct": 0.28,
-      "trend_5d": "up"
+      "price": 53975.98,
+      "change": -60.95,
+      "change_pct": -0.11,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.9,
-      "change": -0.25,
-      "change_pct": -1.65,
+      "price": 15.46,
+      "change": 0.56,
+      "change_pct": 3.76,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.66,
-      "change": -0.01,
-      "change_pct": -0.21,
-      "trend_5d": "down"
+      "price": 4.7,
+      "change": 0.04,
+      "change_pct": 0.86,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
@@ -48,7 +48,7 @@
       "price": 65606.71,
       "change": -76.55,
       "change_pct": -0.12,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 25668.03,
       "change": 137.75,
       "change_pct": 0.54,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3940.04,
-      "change": 39.69,
-      "change_pct": 1.02,
-      "trend_5d": "up"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -79,20 +79,20 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4399.7,
-      "change_pct": 3.72
+      "price": 4449.2,
+      "change_pct": 2.5
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 83.55,
-      "change_pct": 1.29
+      "price": 87.83,
+      "change_pct": 5.12
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 78.18,
-      "change_pct": 1.15
+      "price": 82.27,
+      "change_pct": 5.23
     }
   ],
   "asx200": {
@@ -103,37 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7071,
-      "change_pct": 0.5365
+      "current_rate": 0.7056,
+      "change_pct": 0.3237
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5902,
-      "change_pct": 0.5766
+      "current_rate": 0.5883,
+      "change_pct": 0.2571
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.196,
-      "change_pct": -0.2119
+      "current_rate": 1.1992,
+      "change_pct": 0.0534
     }
   ],
   "world_news": [
     {
-      "headline": "'Licence to play': New Wallabies coach backing players in attack",
-      "summary": "The Wallabies commit to having a crack after being given a \"licence to play\" by new coach Les Kiss, having avoided an Osaka disaster.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Israel rejects US-led 15-point Gaza peace plan in rare public break with Trump",
-      "summary": "<p>Netanyahu says IDF will not withdraw until Hamas is disarmed and rebuked US pressure to end wars without Israel\u2019s buy-in</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates\">Middle East crisis live \u2013 latest updates</a></p></li></ul><p>Israel\u2019s prime minister, <a href=\"https://www.theguardian.com/world/benjamin-netanyahu\">Benjamin Netanyahu</a>, has rejected a US-backed 15-point peace plan for Gaza in a rare public break with Donald Trump.</p><p>In a statement on Sunday, Netanyahu said that he was confronting a \u201cwave of rumours about Israeli weakness and Israeli withdrawals on all fronts\u201d and rebuked US pressure to end wars in Gaza, Lebanon, and Iran without Israel\u2019s buy-in.</p> <a href=\"https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu\">Continue reading...</a>",
+      "headline": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia \u2013 latest news",
+      "summary": "<p>More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations</p><p><strong>People remain trapped in Cali, one of Colombia\u2019s largest cities, \u200bafter more than two dozen structures \u200ccollapsed, mayor Alejandro Eder said. \u200c</strong></p><p>He added that the city had asked authorities in Bogota and Medellin to send disaster teams \u200cto support rescue efforts.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,52 +132,8 @@
       ]
     },
     {
-      "headline": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-      "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Middle East crisis live: Netanyahu rejects Trump\u2019s Gaza plan and vows no withdrawal until Hamas disarms",
-      "summary": "<p>Israeli prime minister says he will not support 15-point plan hailed by Donald Trump</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu\">Israel rejects US-led 15-point Gaza peace plan, says Netanyahu</a></p></li></ul><p></p><p><strong>Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is \u201cgenuinely\u201d disarmed. </strong>The Israeli military \u201cwill not carry out any withdrawal until Hamas is genuinely disarmed and will continue to thwart threats against our forces and our citizens,\u201d Netanyahu said at a cabinet meeting.</p><p>Here are the other key updates from today:</p><p><strong>The US must pressure Israel to accept the next phase of the Gaza plan, a Hamas official said, after Netanyahu rejected the US-backed agreement.</strong> \u201cWe expect the mediators and the American guarantor to pressure Netanyahu and his government to adhere to the roadmap and not obstruct the process for internal political and electoral reasons,\u201d Hamas political bureau member Bassem Naim said.</p><p><strong>A Houthi drone salvo targeted a Saudi oil refinery on the Red Sea coast.</strong> The Iran-backed group\u2019s military spokesperson Yahya Saree said the Houthis had \u201csucceeded in targeting the Aramco refinery in Jazan on Saudi Arabia\u2019s Red Sea coast with a drone\u201d.</p><p><strong>Attacks by Iran-backed Houthi rebels in Yemen killed at least four troops from the internationally-recognised government forces and injured 20 more personnel, two military sources said. </strong>The initial toll came from strikes on the Yemeni city of Mokha and surrounding areas, as well as Khokha, south of the port city of Hodeida, the sources said on condition of anonymity, after the Houthis announced they had targeted military forces and equipment on the Red Sea coast.</p><p><strong>Iranian president Masoud Pezeshkian met the country\u2019s supreme \u2060leader Mojtaba Khamenei around the start of the president\u2019s third year in office in late July, state \u2060media said, \u2060and \u200ba paramilitary leader promised footage of Khamenei in the future. </strong>Khamenei was reportedly seriously injured in the \u200bFebruary strike that killed his father and predecessor, Ali Khamenei on the first day of the US-Israeli war on Iran. The promise to release footage of the leader by paramilitary Basij \u2060Organisation deputy Qasem Qoraishi appeared to be aimed \u200bat quashing speculation about his health.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "summary": "Twelve other people initially rescued from the water are all reported to be in stable condition.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Israel is \u2018trying to make Palestine disappear\u2019: The Elders",
-      "summary": "Former Irish President Mary Robinson: Israel \u2018erasing Palestine physically, economically, culturally and politically\u2019.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Bulldogs junior runs out despite brother benched over gang war concerns",
-      "summary": "Escalating gangland tensions see a junior member of the Alameddines benched from playing rugby league, but his brother has been given the green light to play.",
+      "headline": "Forever a Crow, Taylor Walker remains the boy from Broken Hill",
+      "summary": "Taylor Walker arrived at the Adelaide Football Club as a 75-kilogram prospect who had only ever wanted to be a footballer. More than 300 AFL games and 700 goals later, he will retire as a club great.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +143,19 @@
       ]
     },
     {
-      "headline": "Can the Doha Framework end the conflict in eastern DRC?",
-      "summary": "Kinshasa hands over 15 prisoners to powerful rebel alliance.",
+      "headline": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+      "summary": "The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +165,8 @@
       ]
     },
     {
-      "headline": "Hundreds of anti-tourism Spanish protesters march in Mallorca\u2019s Soller",
-      "summary": "Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.",
+      "headline": "Trump administration has revoked over 175,000 visas: US State Department",
+      "summary": "Most of the visa revocations stemmed from law-enforcement encounters involving criminal activity, the department said.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +176,52 @@
       ]
     },
     {
-      "headline": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
-      "summary": "Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.",
+      "headline": "US Congresswoman Nancy Mace calls Muslim officials \u2018threat\u2019 to US",
+      "summary": "US Rep. Nancy Mace clashed with CNN&#039;s Omar Jimenez over Islamophobic remarks after Abdul El-Sayed\u2019s win in Michigan.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Greyhound badly injured in race supporting Tasmanian industry",
+      "summary": "Greyhound races held under the name \"We Stand With Tasmania\", in support of the state's embattled industry, have featured a number of dog fall incidents which have been scrubbed from the record.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Migrant children go days without food in Ceuta amid asylum crisis",
+      "summary": "A surge of migrant children and families remained in makeshift shelters in Ceuta, Spain\u2019s North African enclave.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "111 dead after Colombia quakes leave trail of destruction",
+      "summary": "At least 111 people are dead after a destructive 7.4 magnitude earthquake hit western Colombia.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-10T06:28:27.616122+10:00",
-    "date": "2026-08-10",
-    "display_date": "Monday 10 August 2026",
-    "display_time": "06:28 AM AEST"
+    "generated_at": "2026-08-11T06:38:59.361030+10:00",
+    "date": "2026-08-11",
+    "display_date": "Tuesday 11 August 2026",
+    "display_time": "06:38 AM AEST"
   }
 }
