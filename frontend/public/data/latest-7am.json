@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7728.2,
-      "change": -24.91,
-      "change_pct": -0.32,
-      "trend_5d": "flat"
+      "price": 7748.5,
+      "change": 20.3,
+      "change_pct": 0.26,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26445.45,
-      "change": -159.91,
-      "change_pct": -0.6,
+      "price": 26588.49,
+      "change": 143.04,
+      "change_pct": 0.54,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53791.85,
-      "change": -184.13,
-      "change_pct": -0.34,
+      "price": 53770.27,
+      "change": -21.58,
+      "change_pct": -0.04,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.28,
-      "change": -0.18,
-      "change_pct": -1.16,
+      "price": 14.55,
+      "change": -0.73,
+      "change_pct": -4.78,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
       "price": 4.68,
-      "change": -0.02,
-      "change_pct": -0.43,
+      "change": -0.0,
+      "change_pct": -0.0,
       "trend_5d": "up"
     }
   ],
@@ -48,14 +48,14 @@
       "price": 66970.22,
       "change": 1363.51,
       "change_pct": 2.08,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25937.49,
-      "change": 269.46,
-      "change_pct": 1.05,
+      "price": 25652.82,
+      "change": -284.67,
+      "change_pct": -1.1,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6299.66,
-      "change": 40.89,
-      "change_pct": 0.65,
+      "price": 6345.53,
+      "change": 45.87,
+      "change_pct": 0.73,
       "trend_5d": "flat"
     }
   ],
@@ -79,116 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4429.0,
-      "change_pct": 1.54
+      "price": 4468.2,
+      "change_pct": 1.94
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 89.1,
-      "change_pct": 1.57
+      "price": 88.61,
+      "change_pct": -0.34
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 83.39,
-      "change_pct": 1.53
+      "price": 82.88,
+      "change_pct": -0.38
     }
   ],
   "asx200": {
-    "level": 9232.6,
-    "change_pct": -0.33
+    "level": 9250.6,
+    "change_pct": 0.19
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7064,
-      "change_pct": 0.0021
+      "current_rate": 0.7065,
+      "change_pct": 0.1324
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5882,
-      "change_pct": -0.0959
+      "current_rate": 0.5861,
+      "change_pct": -0.4624
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2006,
-      "change_pct": 0.0817
+      "current_rate": 1.205,
+      "change_pct": 0.5675
     }
   ],
   "world_news": [
     {
-      "headline": "Israel demolishes home of Palestinian killed during settler attack",
-      "summary": "Video shows the moment Israeli forces blow up the home of Farouk Ramadan, a Palestinian man who was killed in July.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "DR Congo Ebola death toll surpasses 2,000",
-      "summary": "DR Congo&#039;s Ebola outbreak is spreading rapidly, with the death toll surpassing 2,000.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump warns of \u2018jihadists\u2019 ruling in Washington as Democrats show momentum",
-      "summary": "Donald Trump labels US Democratic nominees &#039;jihadists&#039; in inflammatory remarks made in the Oval Office.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Search for survivors underway in Colombia\u2019s earthquake aftermath",
-      "summary": "Rescuers search for survivors in western Colombia in what is called the country\u2019s strongest earthquake this century.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-      "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "US military fires on cargo vessel it said sought to break Iran blockade",
-      "summary": "CENTCOM says helicopter fired at engine room of Panama-flagged Vela Nova as US-Iran diplomacy remains stalled.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Women coaches have almost tripled, but 'misogynistic and abusive' behaviour remains",
-      "summary": "The number of female head coaches in Australian high performance sport has seen a massive increase over the past four years, but significant institutional and cultural barriers remain.",
+      "headline": "Bazball-era curfews over as Root demands England players 'be adults'",
+      "summary": "England skipper Joe Root says the midnight curfews in place at the end of the Bazball reign have been ditched as he called on his players to \"be adults\" in the new era.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +132,30 @@
       ]
     },
     {
-      "headline": "Truck crash in Egypt kills 18, many of them child labourers",
-      "summary": "Two pick-up trucks collide in Ismailia, Egypt, leaving 18 dead, mostly children working as agricultural labourers.",
+      "headline": "Australia politics live: tech giants face law to pay for news content; Australia joins call for Iran to end death penalty",
+      "summary": "<p>News bargaining bill expected to pass parliament after Labor and Coalition agree on terms that will force tech companies to contribute to media outlets. Follow today\u2019s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning and welcome to our live politics blog. I\u2019m <strong>Martin Farrer</strong> with the top overnight stories and then it will be <strong>Krishani Dhanji</strong> with the main action.</p><p>The news bargaining incentive, which will see tech companies forced to make more deals with news publishers to compensate them for using their material, will be introduced to parliament today. More coming up.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
-      "summary": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case.",
+      "headline": "Europe solar eclipse live: millions watch rare spectacle across Spain, UK and Iceland",
+      "summary": "<p>Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality</p><ul><li><p><a href=\"https://www.theguardian.com/science/gallery/2026/aug/12/solar-eclipse-2026-across-europe-in-pictures\">Solar eclipse 2026 across Europe: in pictures</a></p></li></ul><p><em>in Land\u2019s End, Cornwall</em></p><p><strong>The roads and car parks of west and north Cornwall are clogged as people gather to watch the solar eclipse.</strong></p> <a href=\"https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +165,63 @@
       ]
     },
     {
-      "headline": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+      "headline": "Photos: Solar eclipse plunges parts of Europe into darkness",
+      "summary": "A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "\u2018Platformicide\u2019 of Palestine: Activists struggle to be heard on Meta",
+      "summary": "Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn",
+      "summary": "Billionaire Mark Walter&#039;s sale of the NBA&#039;s Lakers is a record-breaking valuation for a North American sports franchise.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Lucas-Rodd felt 'trans joy' wearing a binder but are they safe to exercise in?",
+      "summary": "Binders are popular among trans and gender diverse people, but research is yet to show if they're safe to exercise in. The University of Western Australia has led the largest study so far in the search for answers, and the preliminary results are promising.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "The Kiss era has begun, and new coach Les is seeking the 'Wallaby way'",
+      "summary": "The new Wallabies era under Les Kiss began with a win in tough conditions against an improving nation, but coach Les Kiss wants more than just wins to be the legacy of his tenure.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "US immigration officers to be equipped with gloves that deliver electric shocks",
+      "summary": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-12T06:40:03.498814+10:00",
-    "date": "2026-08-12",
-    "display_date": "Wednesday 12 August 2026",
+    "generated_at": "2026-08-13T06:40:29.642124+10:00",
+    "date": "2026-08-13",
+    "display_date": "Thursday 13 August 2026",
     "display_time": "06:40 AM AEST"
   }
 }
