@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7748.5,
-      "change": 20.3,
-      "change_pct": 0.26,
+      "price": 7798.99,
+      "change": 50.49,
+      "change_pct": 0.65,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26588.49,
-      "change": 143.04,
-      "change_pct": 0.54,
+      "price": 26803.03,
+      "change": 214.54,
+      "change_pct": 0.81,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53770.27,
-      "change": -21.58,
-      "change_pct": -0.04,
+      "price": 53839.99,
+      "change": 69.72,
+      "change_pct": 0.13,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.55,
-      "change": -0.73,
-      "change_pct": -4.78,
+      "price": 14.63,
+      "change": 0.08,
+      "change_pct": 0.55,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.68,
-      "change": -0.0,
-      "change_pct": -0.0,
-      "trend_5d": "up"
+      "price": 4.64,
+      "change": -0.04,
+      "change_pct": -0.85,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66970.22,
-      "change": 1363.51,
-      "change_pct": 2.08,
+      "price": 67524.06,
+      "change": 553.84,
+      "change_pct": 0.83,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25652.82,
-      "change": -284.67,
-      "change_pct": -1.1,
+      "price": 25440.17,
+      "change": -212.65,
+      "change_pct": -0.83,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6345.53,
-      "change": 45.87,
-      "change_pct": 0.73,
+      "price": 6579.04,
+      "change": 233.51,
+      "change_pct": 3.68,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4468.2,
-      "change_pct": 1.94
+      "price": 4408.0,
+      "change_pct": -0.02
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 88.61,
-      "change_pct": -0.34
+      "price": 86.97,
+      "change_pct": -2.26
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 82.88,
-      "change_pct": -0.38
+      "price": 81.19,
+      "change_pct": -2.5
     }
   ],
   "asx200": {
-    "level": 9250.6,
-    "change_pct": 0.19
+    "level": 9209.4,
+    "change_pct": -0.45
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7065,
-      "change_pct": 0.1324
+      "current_rate": 0.7062,
+      "change_pct": -0.0262
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5861,
-      "change_pct": -0.4624
+      "current_rate": 0.5852,
+      "change_pct": -0.4752
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.205,
-      "change_pct": 0.5675
+      "current_rate": 1.2066,
+      "change_pct": 0.4328
     }
   ],
   "world_news": [
     {
-      "headline": "Bazball-era curfews over as Root demands England players 'be adults'",
-      "summary": "England skipper Joe Root says the midnight curfews in place at the end of the Bazball reign have been ditched as he called on his players to \"be adults\" in the new era.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Australia politics live: tech giants face law to pay for news content; Australia joins call for Iran to end death penalty",
-      "summary": "<p>News bargaining bill expected to pass parliament after Labor and Coalition agree on terms that will force tech companies to contribute to media outlets. Follow today\u2019s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning and welcome to our live politics blog. I\u2019m <strong>Martin Farrer</strong> with the top overnight stories and then it will be <strong>Krishani Dhanji</strong> with the main action.</p><p>The news bargaining incentive, which will see tech companies forced to make more deals with news publishers to compensate them for using their material, will be introduced to parliament today. More coming up.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: KPMG apologises to whistleblower as firm fronts inquiry over ethical failures",
+      "summary": "<p>Parliamentary committee continues investigation into KPMG audit leaks. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning and welcome to our live news blog. I\u2019m <strong>Martin Farrer</strong> with the top overnight stories and then it will be <strong>Nick Visser</strong> with the main action.</p><p>KPMG has reached out to apologise to the man who exposed its audit leaks scandal before an inquiry into its failures today, while Labor MPs want the government to do more to protect whistleblowers. More coming up.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,19 +132,8 @@
       ]
     },
     {
-      "headline": "Europe solar eclipse live: millions watch rare spectacle across Spain, UK and Iceland",
-      "summary": "<p>Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality</p><ul><li><p><a href=\"https://www.theguardian.com/science/gallery/2026/aug/12/solar-eclipse-2026-across-europe-in-pictures\">Solar eclipse 2026 across Europe: in pictures</a></p></li></ul><p><em>in Land\u2019s End, Cornwall</em></p><p><strong>The roads and car parks of west and north Cornwall are clogged as people gather to watch the solar eclipse.</strong></p> <a href=\"https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "headline": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +143,8 @@
       ]
     },
     {
-      "headline": "Photos: Solar eclipse plunges parts of Europe into darkness",
-      "summary": "A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.",
+      "headline": "Are We in the Singularity?",
+      "summary": "Sam Altman just said AI has entered &quot;the singularity.&quot;",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,58 +154,80 @@
       ]
     },
     {
-      "headline": "\u2018Platformicide\u2019 of Palestine: Activists struggle to be heard on Meta",
-      "summary": "Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn",
-      "summary": "Billionaire Mark Walter&#039;s sale of the NBA&#039;s Lakers is a record-breaking valuation for a North American sports franchise.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Lucas-Rodd felt 'trans joy' wearing a binder but are they safe to exercise in?",
-      "summary": "Binders are popular among trans and gender diverse people, but research is yet to show if they're safe to exercise in. The University of Western Australia has led the largest study so far in the search for answers, and the preliminary results are promising.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "The Kiss era has begun, and new coach Les is seeking the 'Wallaby way'",
-      "summary": "The new Wallabies era under Les Kiss began with a win in tough conditions against an improving nation, but coach Les Kiss wants more than just wins to be the legacy of his tenure.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "US immigration officers to be equipped with gloves that deliver electric shocks",
-      "summary": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
+      "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "Sudan army says RSF advance on key town bordering Ethiopia",
+      "summary": "Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Passenger train derails, injuring several in southern England",
+      "summary": "A passenger train derailed near Lewes in East Sussex, England,  injuring at least 11 people, and two of them seriously.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "summary": "The Cernavod\u0103 plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Long careers increase risk of brain damage, but is informed consent enough?",
+      "summary": "As debate rages over Geelong defender Jake Kolodjashnij's controversial concussion waiver, what is the answer for players being exposed to potential brain damage in contact sports?",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Swans AFLW head coach looking to turn his young age to advantage",
+      "summary": "With his playing days not far behind him, 30-year-old Colin O'Riordan feels like he can connect with the team at an emotional level.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Israeli forces order families to evacuate homes in Qusra",
+      "summary": "Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-13T06:40:29.642124+10:00",
-    "date": "2026-08-13",
-    "display_date": "Thursday 13 August 2026",
-    "display_time": "06:40 AM AEST"
+    "generated_at": "2026-08-14T06:39:08.188199+10:00",
+    "date": "2026-08-14",
+    "display_date": "Friday 14 August 2026",
+    "display_time": "06:39 AM AEST"
   }
 }
