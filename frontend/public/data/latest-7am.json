@@ -3,231 +3,231 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7798.99,
-      "change": 50.49,
-      "change_pct": 0.65,
+      "price": 7785.76,
+      "change": -13.23,
+      "change_pct": -0.17,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26803.03,
-      "change": 214.54,
-      "change_pct": 0.81,
+      "price": 26729.16,
+      "change": -73.87,
+      "change_pct": -0.28,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53839.99,
-      "change": 69.72,
-      "change_pct": 0.13,
+      "price": 53732.41,
+      "change": -107.58,
+      "change_pct": -0.2,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.63,
-      "change": 0.08,
-      "change_pct": 0.55,
+      "price": 14.25,
+      "change": -0.38,
+      "change_pct": -2.6,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.64,
-      "change": -0.04,
-      "change_pct": -0.85,
-      "trend_5d": "down"
+      "price": 4.7,
+      "change": 0.06,
+      "change_pct": 1.29,
+      "trend_5d": "flat"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 67524.06,
-      "change": 553.84,
-      "change_pct": 0.83,
-      "trend_5d": "flat"
+      "price": 68713.8,
+      "change": 405.21,
+      "change_pct": 0.59,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25440.17,
-      "change": -212.65,
-      "change_pct": -0.83,
-      "trend_5d": "flat"
+      "price": 25116.85,
+      "change": -279.66,
+      "change_pct": -1.1,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3927.18,
+      "change": 0.21,
+      "change_pct": 0.01,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6579.04,
-      "change": 233.51,
-      "change_pct": 3.68,
-      "trend_5d": "flat"
+      "price": 6977.94,
+      "change": 164.6,
+      "change_pct": 2.42,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4408.0,
-      "change_pct": -0.02
+      "price": 4437.3,
+      "change_pct": 1.69
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 86.97,
-      "change_pct": -2.26
+      "price": 88.52,
+      "change_pct": 1.67
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 81.19,
-      "change_pct": -2.5
+      "price": 82.4,
+      "change_pct": 1.42
     }
   ],
   "asx200": {
-    "level": 9209.4,
-    "change_pct": -0.45
+    "level": 9115.2,
+    "change_pct": -0.8
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7062,
-      "change_pct": -0.0262
+      "current_rate": 0.7093,
+      "change_pct": 0.4106
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5852,
-      "change_pct": -0.4752
+      "current_rate": 0.5891,
+      "change_pct": 0.6179
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2066,
-      "change_pct": 0.4328
+      "current_rate": 1.2024,
+      "change_pct": -0.3489
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: KPMG apologises to whistleblower as firm fronts inquiry over ethical failures",
-      "summary": "<p>Parliamentary committee continues investigation into KPMG audit leaks. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Good morning and welcome to our live news blog. I\u2019m <strong>Martin Farrer</strong> with the top overnight stories and then it will be <strong>Nick Visser</strong> with the main action.</p><p>KPMG has reached out to apologise to the man who exposed its audit leaks scandal before an inquiry into its failures today, while Labor MPs want the government to do more to protect whistleblowers. More coming up.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb\">Continue reading...</a>",
+      "headline": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Erdogan says Israeli attacks on Lebanon are a serious concern for T\u00fcrkiye",
+      "summary": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+      "summary": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Off-grid stories during F1 mid-year break as racing returns",
+      "summary": "Formula 1's mid-year hiatus ends this weekend, as the racing series returns to action with the Dutch Grand Prix in Zandvoort.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Brazil\u2019s Lula launches historic fourth term bid \u2013 but son of jailed Bolsonaro stands in his way",
+      "summary": "<p>President, 80, vows to keep far-right from power as Fl\u00e1vio Bolsonaro tells supporters he will \u2018fight this system\u2019</p><p>Brazil\u2019s leftwing president, Luiz In\u00e1cio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the \u201cshameless\u201d right to return to power.</p><p>Addressing a sea of supporters in S\u00e3o Bernardo do Campo, the industrial city where his political career began nearly half a century ago, the 80-year-old politician reminded voters of the chaos and violence that unfolded during <a href=\"https://www.theguardian.com/world/2022/nov/04/jair-bolsonaro-brazil-election-unfloppable-lost\">the 2018-22 presidency of his far-right predecessor, Jair Bolsonaro</a>, whose son <a href=\"https://www.theguardian.com/world/2026/apr/03/flavio-is-surname-dropping-son-downplaying-bolsonaro-connection\">Fl\u00e1vio Bolsonaro will face Lula in October\u2019s presidential election</a>.</p> <a href=\"https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "The Guardian"
-      ]
-    },
-    {
-      "headline": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Are We in the Singularity?",
-      "summary": "Sam Altman just said AI has entered &quot;the singularity.&quot;",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Sudan army says RSF advance on key town bordering Ethiopia",
-      "summary": "Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Passenger train derails, injuring several in southern England",
-      "summary": "A passenger train derailed near Lewes in East Sussex, England,  injuring at least 11 people, and two of them seriously.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "summary": "The Cernavod\u0103 plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Long careers increase risk of brain damage, but is informed consent enough?",
-      "summary": "As debate rages over Geelong defender Jake Kolodjashnij's controversial concussion waiver, what is the answer for players being exposed to potential brain damage in contact sports?",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Swans AFLW head coach looking to turn his young age to advantage",
-      "summary": "With his playing days not far behind him, 30-year-old Colin O'Riordan feels like he can connect with the team at an emotional level.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Israeli forces order families to evacuate homes in Qusra",
-      "summary": "Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-14T06:39:08.188199+10:00",
-    "date": "2026-08-14",
-    "display_date": "Friday 14 August 2026",
-    "display_time": "06:39 AM AEST"
+    "generated_at": "2026-08-17T06:18:27.204183+10:00",
+    "date": "2026-08-17",
+    "display_date": "Monday 17 August 2026",
+    "display_time": "06:18 AM AEST"
   }
 }
