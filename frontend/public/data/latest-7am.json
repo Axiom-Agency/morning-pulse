@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7691.76,
-      "change": -53.3,
-      "change_pct": -0.69,
+      "price": 7707.98,
+      "change": 16.22,
+      "change_pct": 0.21,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26289.71,
-      "change": -355.2,
-      "change_pct": -1.33,
+      "price": 26331.09,
+      "change": 41.38,
+      "change_pct": 0.16,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53343.4,
-      "change": -116.38,
-      "change_pct": -0.22,
+      "price": 53463.05,
+      "change": 119.65,
+      "change_pct": 0.22,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.83,
-      "change": 0.64,
-      "change_pct": 4.21,
+      "price": 14.87,
+      "change": -0.97,
+      "change_pct": -6.12,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.71,
-      "change": -0.01,
-      "change_pct": -0.21,
+      "price": 4.65,
+      "change": -0.06,
+      "change_pct": -1.27,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69220.25,
-      "change": 506.45,
-      "change_pct": 0.74,
+      "price": 67460.73,
+      "change": -1759.52,
+      "change_pct": -2.54,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25453.23,
-      "change": 336.38,
-      "change_pct": 1.34,
+      "price": 25471.15,
+      "change": 17.92,
+      "change_pct": 0.07,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6977.94,
-      "change": 164.6,
-      "change_pct": 2.42,
+      "price": 6869.83,
+      "change": -108.11,
+      "change_pct": -1.55,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4397.7,
-      "change_pct": -0.45
+      "price": 4565.5,
+      "change_pct": 4.57
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 90.97,
-      "change_pct": 0.11
+      "price": 91.38,
+      "change_pct": 0.4
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 84.15,
-      "change_pct": -0.41
+      "price": 84.21,
+      "change_pct": -0.86
     }
   ],
   "asx200": {
-    "level": 9073.2,
-    "change_pct": -0.46
+    "level": 9070.0,
+    "change_pct": -0.04
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7086,
-      "change_pct": 0.0066
+      "current_rate": 0.7125,
+      "change_pct": 0.237
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5873,
-      "change_pct": -0.2978
+      "current_rate": 0.5935,
+      "change_pct": 0.4998
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2063,
-      "change_pct": 0.2935
+      "current_rate": 1.2003,
+      "change_pct": -0.2808
     }
   ],
   "world_news": [
     {
-      "headline": "Man in Chucky-style mask terrorises Philadelphia residents",
-      "summary": "\"It was just weird, like some twisted game.\"",
+      "headline": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "US Justice Department denies whistleblower claims on anti-Semitism probes",
-      "summary": "Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.",
+      "headline": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
+      "summary": "Ecuador&#039;s intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +143,30 @@
       ]
     },
     {
-      "headline": "Judge swapped in Trump's defamation case against BBC",
-      "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+      "headline": "582 skeletons, including children discovered in Sri Lanka mass grave",
+      "summary": "A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Protests in Kyiv back ex-defence minister Fedorov\u2019s call for elections",
+      "summary": "Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Who is Natalie Harp, Trump's right-hand woman?",
+      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +176,8 @@
       ]
     },
     {
-      "headline": "Turkish politician Melih Meric stabbed",
-      "summary": "Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him.",
+      "headline": "Violence in the New Syria?",
+      "summary": "The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +187,8 @@
       ]
     },
     {
-      "headline": "US seeks to revive criminal case against Kilmar Abrego Garcia",
-      "summary": "Judge previously found US government brought charges against Abrego Garcia as retaliation for case that embarrassed it.",
+      "headline": "Trump nominates Heidi Overton to lead US Food and Drug Administration",
+      "summary": "Former think tank policy officer Heidi Overton to lead FDA in a controversial push to reshape US health regulations.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,19 +198,8 @@
       ]
     },
     {
-      "headline": "New mum returns to international 'murderball' with blunt new perspective",
-      "summary": "Ella Sabljak returns to international competition less than a year after giving birth to her first child, with the Australian Steelers in the hunt for Wheelchair Rugby World Championship glory in Brazil.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "The \u2018witch-hunt\u2019 of Jason Arday",
-      "summary": "The \u2018witch-hunt\u2019 of Jason Arday",
+      "headline": "Zambia opposition leader to challenge Hichilema election victory in court",
+      "summary": "Opposition leader claims &#039;serious irregularities&#039; in the vote that handed President Hakainde Hichilema a second term.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +209,8 @@
       ]
     },
     {
-      "headline": "US announces new sanctions on top ICC figures",
-      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "headline": "81-year-old confesses to German cold case murder of US tourist in 1994",
+      "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,19 +220,8 @@
       ]
     },
     {
-      "headline": "AFL policy is to wait while police investigate. The Swans may not",
-      "summary": "Fresh statements from the AFL and Sydney Swans responding to an alleged hotel incident signalling a tough approach and imminent sanctions have been welcomed by advocates, but the delay raises questions about the league's policies.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "US judge says government can revoke deportation protections for Ethiopians",
-      "summary": "Ruling permits Trump administration to nix Ethiopians&#039; protected status despite concern over conditions in the country.",
+      "headline": "Iran\u2019s hardline parliament raises concerns with \u2018foreign infiltration\u2019 plan",
+      "summary": "Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-19T06:19:51.845368+10:00",
-    "date": "2026-08-19",
-    "display_date": "Wednesday 19 August 2026",
-    "display_time": "06:19 AM AEST"
+    "generated_at": "2026-08-20T06:23:27.546864+10:00",
+    "date": "2026-08-20",
+    "display_date": "Thursday 20 August 2026",
+    "display_time": "06:23 AM AEST"
   }
 }
