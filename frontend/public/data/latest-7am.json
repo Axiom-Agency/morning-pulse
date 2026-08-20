@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7707.98,
-      "change": 16.22,
-      "change_pct": 0.21,
+      "price": 7641.16,
+      "change": -66.82,
+      "change_pct": -0.87,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26331.09,
-      "change": 41.38,
-      "change_pct": 0.16,
+      "price": 26067.17,
+      "change": -263.92,
+      "change_pct": -1.0,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53463.05,
-      "change": 119.65,
-      "change_pct": 0.22,
+      "price": 52759.21,
+      "change": -703.84,
+      "change_pct": -1.32,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.87,
-      "change": -0.97,
-      "change_pct": -6.12,
+      "price": 16.05,
+      "change": 1.16,
+      "change_pct": 7.79,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.65,
-      "change": -0.06,
-      "change_pct": -1.27,
-      "trend_5d": "up"
+      "price": 4.7,
+      "change": 0.05,
+      "change_pct": 1.07,
+      "trend_5d": "flat"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 67460.73,
-      "change": -1759.52,
-      "change_pct": -2.54,
+      "price": 65326.42,
+      "change": -2134.31,
+      "change_pct": -3.16,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25471.15,
-      "change": 17.92,
-      "change_pct": 0.07,
+      "price": 25495.07,
+      "change": 23.92,
+      "change_pct": 0.09,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6869.83,
-      "change": -108.11,
-      "change_pct": -1.55,
+      "price": 6471.17,
+      "change": -398.66,
+      "change_pct": -5.8,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,61 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4565.5,
-      "change_pct": 4.57
+      "price": 4579.2,
+      "change_pct": 2.0
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 91.38,
-      "change_pct": 0.4
+      "price": 93.41,
+      "change_pct": 1.95
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 84.21,
-      "change_pct": -0.86
+      "price": 86.55,
+      "change_pct": 0.84
     }
   ],
   "asx200": {
-    "level": 9070.0,
-    "change_pct": -0.04
+    "level": 9053.8,
+    "change_pct": -0.18
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7125,
-      "change_pct": 0.237
+      "current_rate": 0.7114,
+      "change_pct": 0.4646
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5935,
-      "change_pct": 0.4998
+      "current_rate": 0.5944,
+      "change_pct": 1.2087
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2003,
-      "change_pct": -0.2808
+      "current_rate": 1.1968,
+      "change_pct": -0.7415
     }
   ],
   "world_news": [
     {
-      "headline": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+      "headline": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+      "summary": "WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+      "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +143,8 @@
       ]
     },
     {
-      "headline": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
-      "summary": "Ecuador&#039;s intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.",
+      "headline": "Amputee children learn to swim after losing limbs in Israel\u2019s war on Gaza",
+      "summary": "Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +154,8 @@
       ]
     },
     {
-      "headline": "582 skeletons, including children discovered in Sri Lanka mass grave",
-      "summary": "A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.",
+      "headline": "Syria\u2019s civil society navigates post-Assad era: Partnership or control?",
+      "summary": "Syria&#039;s civil society grapples with redefining its role as the state reasserts itself after Assad&#039;s fall.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,19 +165,19 @@
       ]
     },
     {
-      "headline": "Protests in Kyiv back ex-defence minister Fedorov\u2019s call for elections",
-      "summary": "Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.",
+      "headline": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "summary": "<p>Agreement is among largest third-country deportations driven by Trump administration\u2019s immigration crackdown </p><p>Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a>\u2019s immigration crackdown.</p><p>The group arrived at the Roberts international airport outside the capital, Monrovia. The Liberia-US agreement is one of the largest third-country deportation arrangements pursued by the administration since Trump returned to office last year.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Who is Natalie Harp, Trump's right-hand woman?",
-      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "headline": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "summary": "US Treasury Secretary Scott Bessent  says allies will need to decide whether they \"are with us or against us\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +187,19 @@
       ]
     },
     {
-      "headline": "Violence in the New Syria?",
-      "summary": "The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.",
+      "headline": "Rebecca Beeson's remarkable road back to the AFLW",
+      "summary": "When Rebecca Beeson steps onto the field in Melbourne on Sunday it will be her 75th AFLW match, but the journey to get there has been one of her greatest challenges.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
+      "summary": "England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan&#039;s meagre first innings of 171.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +209,8 @@
       ]
     },
     {
-      "headline": "Trump nominates Heidi Overton to lead US Food and Drug Administration",
-      "summary": "Former think tank policy officer Heidi Overton to lead FDA in a controversial push to reshape US health regulations.",
+      "headline": "Could US sanctions destroy the International Criminal Court?",
+      "summary": "Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,30 +220,8 @@
       ]
     },
     {
-      "headline": "Zambia opposition leader to challenge Hichilema election victory in court",
-      "summary": "Opposition leader claims &#039;serious irregularities&#039; in the vote that handed President Hakainde Hichilema a second term.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "81-year-old confesses to German cold case murder of US tourist in 1994",
-      "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Iran\u2019s hardline parliament raises concerns with \u2018foreign infiltration\u2019 plan",
-      "summary": "Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.",
+      "headline": "Walmart sees sales drop as US consumer spending retreats",
+      "summary": "Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart&#039;s growth.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-20T06:23:27.546864+10:00",
-    "date": "2026-08-20",
-    "display_date": "Thursday 20 August 2026",
-    "display_time": "06:23 AM AEST"
+    "generated_at": "2026-08-21T06:24:55.985048+10:00",
+    "date": "2026-08-21",
+    "display_date": "Friday 21 August 2026",
+    "display_time": "06:24 AM AEST"
   }
 }
