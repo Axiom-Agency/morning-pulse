@@ -3,126 +3,126 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7641.16,
-      "change": -66.82,
-      "change_pct": -0.87,
+      "price": 7674.37,
+      "change": 33.21,
+      "change_pct": 0.43,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26067.17,
-      "change": -263.92,
-      "change_pct": -1.0,
+      "price": 26180.46,
+      "change": 113.29,
+      "change_pct": 0.43,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52759.21,
-      "change": -703.84,
-      "change_pct": -1.32,
+      "price": 53277.01,
+      "change": 517.8,
+      "change_pct": 0.98,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.05,
-      "change": 1.16,
-      "change_pct": 7.79,
-      "trend_5d": "up"
+      "price": 15.13,
+      "change": -0.88,
+      "change_pct": -5.5,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.7,
-      "change": 0.05,
-      "change_pct": 1.07,
-      "trend_5d": "flat"
+      "price": 4.74,
+      "change": 0.04,
+      "change_pct": 0.85,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 65326.42,
-      "change": -2134.31,
-      "change_pct": -3.16,
-      "trend_5d": "flat"
+      "price": 66016.36,
+      "change": -200.43,
+      "change_pct": -0.3,
+      "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25495.07,
-      "change": 23.92,
-      "change_pct": 0.09,
-      "trend_5d": "flat"
+      "price": 26009.46,
+      "change": 310.97,
+      "change_pct": 1.21,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3905.2,
+      "change": 1.48,
+      "change_pct": 0.04,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6471.17,
-      "change": -398.66,
-      "change_pct": -5.8,
-      "trend_5d": "flat"
+      "price": 6912.95,
+      "change": 60.37,
+      "change_pct": 0.88,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4579.2,
-      "change_pct": 2.0
+      "price": 4680.6,
+      "change_pct": 3.64
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 93.41,
-      "change_pct": 1.95
+      "price": 94.39,
+      "change_pct": 0.65
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 86.55,
-      "change_pct": 0.84
+      "price": 87.06,
+      "change_pct": -0.88
     }
   ],
   "asx200": {
-    "level": 9053.8,
-    "change_pct": -0.18
+    "level": 9058.9,
+    "change_pct": -0.27
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7114,
-      "change_pct": 0.4646
+      "current_rate": 0.7167,
+      "change_pct": 0.6747
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5944,
-      "change_pct": 1.2087
+      "current_rate": 0.5982,
+      "change_pct": 0.469
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.1968,
-      "change_pct": -0.7415
+      "current_rate": 1.1977,
+      "change_pct": 0.1597
     }
   ],
   "world_news": [
     {
-      "headline": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-      "summary": "WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.",
+      "headline": "Severe winds toss four aircraft across Italian airport tarmac",
+      "summary": "Winds reaching around 120 km/h swept through Forl\u00ec in Italy\u2019s Emilia-Romagna region, overturning four light aircraft.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +132,8 @@
       ]
     },
     {
-      "headline": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-      "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Amputee children learn to swim after losing limbs in Israel\u2019s war on Gaza",
-      "summary": "Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.",
+      "headline": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+      "summary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +143,8 @@
       ]
     },
     {
-      "headline": "Syria\u2019s civil society navigates post-Assad era: Partnership or control?",
-      "summary": "Syria&#039;s civil society grapples with redefining its role as the state reasserts itself after Assad&#039;s fall.",
+      "headline": "Gaza\u2019s hospitals are running out of oxygen as healthcare nears collapse",
+      "summary": "Gaza\u2019s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,30 +154,8 @@
       ]
     },
     {
-      "headline": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "summary": "<p>Agreement is among largest third-country deportations driven by Trump administration\u2019s immigration crackdown </p><p>Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a>\u2019s immigration crackdown.</p><p>The group arrived at the Roberts international airport outside the capital, Monrovia. The Liberia-US agreement is one of the largest third-country deportation arrangements pursued by the administration since Trump returned to office last year.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "summary": "US Treasury Secretary Scott Bessent  says allies will need to decide whether they \"are with us or against us\".",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Rebecca Beeson's remarkable road back to the AFLW",
-      "summary": "When Rebecca Beeson steps onto the field in Melbourne on Sunday it will be her 75th AFLW match, but the journey to get there has been one of her greatest challenges.",
+      "headline": "AFL wildcard matches and times confirmed",
+      "summary": "The AFL has confirmed the times for both wildcard round matches next weekend.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +165,19 @@
       ]
     },
     {
-      "headline": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
-      "summary": "England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan&#039;s meagre first innings of 171.",
+      "headline": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
+      "summary": "<p>PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile</a></p></li></ul><p>Donald Trump has hit back at Canada after a breakdown in negotiations <a href=\"https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail\">plunged the two countries into a trade war</a>.</p><p>In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+      "summary": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +187,19 @@
       ]
     },
     {
-      "headline": "Could US sanctions destroy the International Criminal Court?",
-      "summary": "Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.",
+      "headline": "Australia's bowling attack can't disguise batting failings forever",
+      "summary": "Australia is blessed with a battery of potent fast bowlers while the batters continue to crumble. But a day of reckoning is coming.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Zhou Bo: China\u2019s alternative to Western power",
+      "summary": "Senior Colonel Zhou Bo and Sreenivasan Jain discuss China&#039;s vision of a fairer, multipolar world and work towards that.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +209,19 @@
       ]
     },
     {
-      "headline": "Walmart sees sales drop as US consumer spending retreats",
-      "summary": "Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart&#039;s growth.",
+      "headline": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+      "summary": "Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Video: Thousands of families flee fighting in Sudan\u2019s North Kordofan State",
+      "summary": "Mothers and their children are in dire need of food and safety in Sudan\u2019s conflict-stricken Kordofan State.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-21T06:24:55.985048+10:00",
-    "date": "2026-08-21",
-    "display_date": "Friday 21 August 2026",
-    "display_time": "06:24 AM AEST"
+    "generated_at": "2026-08-24T06:19:19.893242+10:00",
+    "date": "2026-08-24",
+    "display_date": "Monday 24 August 2026",
+    "display_time": "06:19 AM AEST"
   }
 }
