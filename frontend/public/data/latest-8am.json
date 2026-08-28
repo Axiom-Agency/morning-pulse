@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7675.7,
-      "change": -1.58,
-      "change_pct": -0.02,
+      "price": 7730.99,
+      "change": 55.29,
+      "change_pct": 0.72,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26130.2,
-      "change": -21.1,
-      "change_pct": -0.08,
+      "price": 26541.35,
+      "change": 411.15,
+      "change_pct": 1.57,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53463.88,
-      "change": -113.52,
-      "change_pct": -0.21,
+      "price": 53569.44,
+      "change": 105.56,
+      "change_pct": 0.2,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.21,
-      "change": -0.24,
-      "change_pct": -1.55,
+      "price": 14.51,
+      "change": -0.7,
+      "change_pct": -4.6,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.66,
-      "change": 0.02,
-      "change_pct": 0.43,
+      "price": 4.67,
+      "change": 0.01,
+      "change_pct": 0.21,
       "trend_5d": "down"
     }
   ],
@@ -45,34 +45,34 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66590.09,
-      "change": 733.66,
-      "change_pct": 1.11,
-      "trend_5d": "flat"
+      "price": 66608.47,
+      "change": 476.49,
+      "change_pct": 0.72,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25511.1,
-      "change": -6.23,
-      "change_pct": -0.02,
-      "trend_5d": "flat"
+      "price": 25684.89,
+      "change": 119.15,
+      "change_pct": 0.47,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3959.64,
+      "change": 3.07,
+      "change_pct": 0.08,
+      "trend_5d": "up"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6975.05,
-      "change": 232.31,
-      "change_pct": 3.45,
-      "trend_5d": "flat"
+      "price": 6824.93,
+      "change": -87.44,
+      "change_pct": -1.26,
+      "trend_5d": "up"
     }
   ],
   "crypto": [
@@ -80,14 +80,10 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 109873,
-      "change_24h_pct": 0.14,
-      "yoy_change_pct": -35.51,
+      "current_price": 110678,
+      "change_24h_pct": 1.07,
+      "yoy_change_pct": -35.66,
       "history": [
-        {
-          "date": "2025-08-28",
-          "price": 170322.88
-        },
         {
           "date": "2025-08-29",
           "price": 172065.64
@@ -1545,8 +1541,12 @@
           "price": 110031.27
         },
         {
-          "date": "2026-08-27",
-          "price": 109842.68
+          "date": "2026-08-28",
+          "price": 111549.36
+        },
+        {
+          "date": "2026-08-28",
+          "price": 110703.24
         }
       ]
     },
@@ -1554,14 +1554,10 @@
       "coin_id": "ethereum",
       "name": "Ethereum",
       "symbol": "ETH",
-      "current_price": 3483.24,
-      "change_24h_pct": 2.12,
-      "yoy_change_pct": -49.5,
+      "current_price": 3454.94,
+      "change_24h_pct": -0.09,
+      "yoy_change_pct": -49.93,
       "history": [
-        {
-          "date": "2025-08-28",
-          "price": 6894.98
-        },
         {
           "date": "2025-08-29",
           "price": 6898.28
@@ -3019,8 +3015,12 @@
           "price": 3490.04
         },
         {
-          "date": "2026-08-27",
-          "price": 3482.27
+          "date": "2026-08-28",
+          "price": 3490.19
+        },
+        {
+          "date": "2026-08-28",
+          "price": 3454.11
         }
       ]
     }
@@ -3029,14 +3029,10 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7182,
-      "change_pct": 0.2377,
+      "current_rate": 0.7199,
+      "change_pct": 0.2496,
       "yoy_change_pct": 10.57,
       "history": [
-        {
-          "date": "2025-08-27",
-          "rate": 0.6496
-        },
         {
           "date": "2025-08-28",
           "rate": 0.6511
@@ -4071,21 +4067,21 @@
         },
         {
           "date": "2026-08-27",
-          "rate": 0.7182
+          "rate": 0.7181
+        },
+        {
+          "date": "2026-08-28",
+          "rate": 0.7199
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.595,
-      "change_pct": -0.4426,
-      "yoy_change_pct": 1.56,
+      "current_rate": 0.596,
+      "change_pct": 0.1979,
+      "yoy_change_pct": 1.69,
       "history": [
-        {
-          "date": "2025-08-27",
-          "rate": 0.5858
-        },
         {
           "date": "2025-08-28",
           "rate": 0.5861
@@ -5120,21 +5116,21 @@
         },
         {
           "date": "2026-08-27",
-          "rate": 0.595
+          "rate": 0.5948
+        },
+        {
+          "date": "2026-08-28",
+          "rate": 0.596
         }
       ]
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2069,
-      "change_pct": 0.6647,
-      "yoy_change_pct": 8.86,
+      "current_rate": 1.2078,
+      "change_pct": 0.0458,
+      "yoy_change_pct": 8.72,
       "history": [
-        {
-          "date": "2025-08-27",
-          "rate": 1.1087
-        },
         {
           "date": "2025-08-28",
           "rate": 1.1109
@@ -6169,15 +6165,19 @@
         },
         {
           "date": "2026-08-27",
-          "rate": 1.2069
+          "rate": 1.2072
+        },
+        {
+          "date": "2026-08-28",
+          "rate": 1.2078
         }
       ]
     }
   ],
   "world_news": [
     {
-      "headline": "Queensland woman gave birth to twins with different parents after surrogacy coincides with natural pregnancy",
-      "summary": "<p>Both children were born on same day in November 2025 in situation so rare it had not been contemplated by state surrogacy laws</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Queensland woman gave birth to twin children with separate sets of biological parents last year, in what is believed to be an Australian first situation so rare it had not been contemplated by state surrogacy laws.</p><p>The woman, anonymised in a court judgment, conceived an unplanned natural pregnancy about the same time as she received an IVF embryo transfer under a surrogacy arrangement with another couple.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/27/queensland-surrogacy-laws-twins-birth-separate-parents-ntwnfb\">Continue reading...</a>",
+      "headline": "How Nepali diaspora is responding to flood disaster and how Australians can help in relief effort",
+      "summary": "<p>Nepali and Tibetan communities plan vigils and work to raise funds for recovery in \u2018devastating\u2019 time</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia\u2019s Nepali community plan to host vigils to remember the victims of the Nepal-Tibet flood disaster to coincide with a day of mourning, as the number of people killed continues to rise.</p><p>As Australia\u2019s Nepali diaspora wait for the full scale of the disaster to become clear, community members are desperately waiting to hear from missing relatives and friends.<br /><br />\n Nepal police said on Friday that the death toll had risen to 469, with more than 1,300 people still missing, after massive flash floods and landslides tore through the Bhotekoshi and Trishuli river basins on Thursday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/28/how-to-help-nepal-community-flood-disaster-relief-funding-australia\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6187,8 +6187,8 @@
       ]
     },
     {
-      "headline": "Australia news live: Victoria scraps secret public transport levy; former Treasury chief says WA GST deal might \u2018break\u2019 federal system",
-      "summary": "<p>Ben Carroll announces he will \u2018abolish the rail improvement charge\u2019. Follow today\u2019s news live</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/26/nepal-tibet-himalayas-flash-floods-missing-foreign-tourists-latest-news-updates\">Nepal flash flood disaster \u2013 live updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The prime minister, <strong>Anthony Albanese</strong>, says Dfat officials are ready to provide consular assistance to Australians in Nepal, after the devastating flooding in the country.</p><p>A local tourism official said they believed 34 Australians were missing in the area, among hundreds of foreign nationals. Australian officials were not confirming numbers at this stage, and were working to check on the welfare of people they know were in the affected region.</p><p>Australians in the affected area should follow the advice of local authorities. We are aware of a number of Australians in the area and Australian officials are urgently working to confirm their welfare. We are liaising with local authorities as well as tour operators.</p><p>We stand ready to provide consular assistance.</p><p>The images are very disturbing indeed. We do know that there are Australians in the area. We don\u2019t know exactly how many.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Antarctic staff withdrawn from Macquarie Island due to \u2018psychological stress\u2019 from bird flu risk; dolphin dies from H5",
+      "summary": "<p>Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Greens say Australia needs to \u2018step up and really commit\u2019 to aiding rebuilding in Nepal</strong></p><p><strong>David Shoebridge, </strong>the Greens\u2019 spokesperson on foreign affairs, told RN Breakfast earlier the Australian commitment of $5m for affected communities in Nepal \u201cwon\u2019t come close to touching the sides\u201d of the calamity.</p><p>I think Australia needs to step up and really commit to helping rebuild. This is a country with minimal spare resources. Life is tough in Nepal at most times, but I don\u2019t think $5 million comes close to meeting the scale. \u2026</p><p>We also have an obligation to do what we can to meet our targets for carbon and to keep coal and gas in the ground. These things are connected, as much as we don\u2019t want them to be. These things are connected, and unless we address that, these kinds of disasters will continue to happen at a more rapid scale.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6198,8 +6198,19 @@
       ]
     },
     {
-      "headline": "World Health Organization says Ebola outbreak in Uganda is over",
-      "summary": "International body declares Uganda Ebola-free after 42 days without new transmission, though cases rise in DR Congo.",
+      "headline": "Nepal-Tibet flash flood live updates: China halts rescue at epicentre over flood risk, state media reports; death toll at 469, say Nepali police",
+      "summary": "<p>Lake formed by debris is overflowing towards area rescuers were headed, broadcaster says; 1,300 people still missing amid race to find survivors</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border\">Nearly 1,400 missing, mostly tourists, and hundreds killed</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-flood-what-we-know-so-far-flooding-day-three\">Nepal-Tibet flash flood: what we know so far on day three</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained\">Visual guide: how the deadly flooding unfolded</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/26/tell-us-have-you-been-affected-by-the-flash-floods-on-the-nepal-tibet-border\">Tell us: have you been affected by the flash floods?</a></p></li></ul><p><strong>China has paused a rescue operation due to the high risk of renewed flooding in Tibet</strong>, where hundreds remain missing after the deadly mudslide in the border region.</p><p>State broadcaster CCTV reported that a lake formed by immense piles of debris had begun overflowing towards the area that rescue teams were headed.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "DRC begins vaccinating front-line healthcare workers against Ebola",
+      "summary": "Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6209,8 +6220,19 @@
       ]
     },
     {
-      "headline": "Spain\u2019s tomato food fight leaves thousands covered in pulp",
-      "summary": "Thousands of people pelt each other with tomatoes as Spain\u2019s famous \u2018La Tomatina\u2019 festival gets underway.",
+      "headline": "Bondi library returns book How to Sell a Genocide to shelves after State Library \u2018outlines the law\u2019",
+      "summary": "<p>Book was removed for review earlier this month following complaint but reinstated after petition and State Library letter to Waverley council</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Sydney library has returned to its borrowing shelves a book critical of Israel called How to Sell a Genocide following a public campaign and an intervention from the State Library of New South Wales.</p><p>Waverley library <a href=\"https://www.theguardian.com/culture/2026/aug/18/sydney-waverley-library-removes-book-how-to-sell-a-genocide-from-shelves-ntwnfb\">removed the book \u201cfor review</a>\u201d earlier this month after the Jewish news outlet <a href=\"https://www.jwire.com.au/waverley-council-removes-controversial-gaza-book/\">JWire reported</a> it had approached the council.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/28/sydney-library-returns-book-how-to-sell-a-genocide-to-shelves-after-state-library-intervenes-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Nepal\u2019s mudslide wiped out areas of eastern China, army helps search",
+      "summary": "China has dispatched hundreds of military personnel to the border town of Gyirong in Tibet, after a deadly mudslide.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6220,52 +6242,8 @@
       ]
     },
     {
-      "headline": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
-      "summary": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "AIS pays more than $3m in restoration to abused athletes",
-      "summary": "The Australian Institute of Sport pays out more than 225 athletes who were victims of abuse while holding scholarships between 1981 and 2013.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
-      "summary": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "The question dominating Indian politics: Is it worse when women swear?",
-      "summary": "Rahul Gandhi's comments renew the debate over gender disparity in reactions to insults hurled at PM Narendra Modi.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Barcelona vs Athletic Club: La Liga \u2013 prediction, teams, lineups",
-      "summary": "Lamine Yamal and Raphinha will seek to add to Barcelona&#039;s five-star La Liga opener when Athletic arrive from Bilbao.",
+      "headline": "Indonesians march on parliament to demand crackdown on corruption",
+      "summary": "Thousands of Indonesians demand harsher penalties for corruption during protests outside parliament in Jakarta.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6275,14 +6253,36 @@
       ]
     },
     {
-      "headline": "US judge declines Minnesota\u2019s effort to force Texas to extradite ICE agent",
-      "summary": "ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.",
+      "headline": "\u2018Confluence of errors\u2019 led to Belgian tourist Celine Cremer\u2019s death in Tasmanian wilderness, coroner finds",
+      "summary": "<p>Coronor finds 31-year-old deviated from a walking track as dusk fell, four days before the winter solstice</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Overlapping errors, including a lack of preparation in near-freezing winter weather, contributed to the death of a Belgian tourist on a wilderness track.</p><p>Celine Cremer set off on a walk at Philosopher Falls in Tasmania\u2019s remote north-west on 17 June 2023 and was reported missing almost 10 days later.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/28/coronial-inquest-findings-death-belgian-tourist-celine-cremer-tasmania\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Identity of high-profile Queensland man drawn into extortion case to remain secret after court ruling",
+      "summary": "<p>Man \u2013 referred to as MM by court \u2013 will keep his identity hidden after legal challenge against suppression dismissed </p><p>The identity of a high-profile Queensland man drawn into a Cairns extortion case will remain secret, after the state\u2019s supreme court threw out a legal challenge against a suppression order.</p><p>The man \u2013 referred to as MM by the court \u2013 was <a href=\"https://www.theguardian.com/australia-news/2026/jun/08/queensland-high-profile-man-extortion-case-name-suppressed-ntwnfb\">drawn into an extortion case earlier this year</a>. He is not a party to the case and is not accused of any offence.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/28/identity-of-high-profile-queensland-man-drawn-into-extortion-case-to-remain-secret-after-court-ruling-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "What could Meta\u2019s US settlement mean around the world \u2013 and what now for other claims against firm?",
+      "summary": "<p>Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands</p><p>In October 2021, Abrham Meareg\u2019s father, a professor of chemistry in Ethiopia\u2019s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country\u2019s civil war.</p><p>For weeks, Facebook\u2019s algorithm had actively promoted posts calling for the academic to be murdered, according to Meareg and Foxglove, a nonprofit organisation supporting <a href=\"https://www.theguardian.com/technology/2025/apr/03/meta-faces-18bn-lawsuit-over-claims-it-inflamed-violence-in-ethiopia\">Meareg\u2019s lawsuit against the company</a> in Kenya. These posts included photos of his father and his home address.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
       ]
     }
   ],
@@ -6293,174 +6293,174 @@
   "asx_deep_dive": {
     "overview": "AI synthesis unavailable. Showing raw data.",
     "asx200": {
-      "level": 9094.6,
-      "change_pct": -0.76
+      "level": 9077.2,
+      "change_pct": 0.43
     },
     "sectors": [
       {
         "name": "Mining & Resources",
-        "change_pct": 0.97,
+        "change_pct": 0.2,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "MIN",
-            "name": "MIN.AX",
-            "price": 70.04,
-            "change_pct": 4.71,
+            "ticker": "FMG",
+            "name": "FMG.AX",
+            "price": 18.07,
+            "change_pct": 2.09,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "S32",
-            "name": "S32.AX",
-            "price": 5.19,
-            "change_pct": 0.97,
+            "ticker": "MIN",
+            "name": "MIN.AX",
+            "price": 64.56,
+            "change_pct": -1.24,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "BHP",
             "name": "BHP.AX",
-            "price": 66.84,
-            "change_pct": -0.83,
+            "price": 66.96,
+            "change_pct": 0.84,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Banks & Financials",
-        "change_pct": 0.01,
+        "change_pct": 0.83,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "WBC",
-            "name": "WBC.AX",
-            "price": 33.92,
-            "change_pct": 0.27,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "ANZ",
-            "name": "ANZ.AX",
-            "price": 36.85,
-            "change_pct": -0.27,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "CBA",
             "name": "CBA.AX",
-            "price": 155.65,
-            "change_pct": 0.12,
+            "price": 156.71,
+            "change_pct": 1.13,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "NAB",
+            "name": "NAB.AX",
+            "price": 38.38,
+            "change_pct": 1.05,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "WBC",
+            "name": "WBC.AX",
+            "price": 33.94,
+            "change_pct": 0.77,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Tech",
-        "change_pct": -1.33,
+        "change_pct": 3.66,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "WTC",
-            "name": "WTC.AX",
-            "price": 39.03,
-            "change_pct": -4.55,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "XRO",
             "name": "XRO.AX",
-            "price": 82.54,
-            "change_pct": -1.63,
+            "price": 86.45,
+            "change_pct": 5.78,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "TNE",
             "name": "TNE.AX",
-            "price": 32.31,
-            "change_pct": -0.68,
+            "price": 33.17,
+            "change_pct": 4.84,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "WTC",
+            "name": "WTC.AX",
+            "price": 41.05,
+            "change_pct": 3.79,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Healthcare",
-        "change_pct": -0.29,
+        "change_pct": 0.34,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "PME",
             "name": "PME.AX",
-            "price": 181.48,
-            "change_pct": -1.69,
+            "price": 184.55,
+            "change_pct": 2.96,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "COH",
-            "name": "COH.AX",
-            "price": 135.39,
-            "change_pct": -1.68,
+            "ticker": "CSL",
+            "name": "CSL.AX",
+            "price": 171.9,
+            "change_pct": -1.14,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "RMD",
             "name": "RMD.AX",
-            "price": 32.78,
-            "change_pct": 1.49,
+            "price": 32.73,
+            "change_pct": 1.05,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Energy",
-        "change_pct": 0.24,
+        "change_pct": 0.01,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
+            "ticker": "AGL",
+            "name": "AGL.AX",
+            "price": 8.49,
+            "change_pct": -1.28,
+            "explanation": "No AI analysis available"
+          },
+          {
             "ticker": "STO",
             "name": "STO.AX",
-            "price": 8.1,
+            "price": 8.11,
             "change_pct": 0.62,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "WDS",
             "name": "WDS.AX",
-            "price": 32.01,
-            "change_pct": 0.28,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "ORG",
-            "name": "ORG.AX",
-            "price": 11.91,
-            "change_pct": 0.08,
+            "price": 32.19,
+            "change_pct": 0.59,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "REITs / Property",
-        "change_pct": -0.23,
+        "change_pct": -0.69,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
+            "ticker": "SCG",
+            "name": "SCG.AX",
+            "price": 3.53,
+            "change_pct": -1.12,
+            "explanation": "No AI analysis available"
+          },
+          {
             "ticker": "MGR",
             "name": "MGR.AX",
-            "price": 1.84,
-            "change_pct": -0.54,
+            "price": 1.8,
+            "change_pct": -1.1,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "GMG",
             "name": "GMG.AX",
-            "price": 28.08,
-            "change_pct": -0.5,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "CHC",
-            "name": "CHC.AX",
-            "price": 20.54,
-            "change_pct": -0.34,
+            "price": 27.81,
+            "change_pct": -0.75,
             "explanation": "No AI analysis available"
           }
         ]
@@ -6471,9 +6471,9 @@
     {
       "ticker": "AMC",
       "name": "Amcor",
-      "price": 65.92,
-      "change_pct": 1.01,
-      "volume_vs_avg": 0.03,
+      "price": 64.7,
+      "change_pct": -0.57,
+      "volume_vs_avg": 0.85,
       "week52_high": 69.41,
       "week52_low": 50.57,
       "news_digest": "AI synthesis unavailable",
@@ -6482,9 +6482,9 @@
     {
       "ticker": "IHVV",
       "name": "iShares S&P500 ETF",
-      "price": 67.53,
-      "change_pct": 0.66,
-      "volume_vs_avg": 0.07,
+      "price": 67.6,
+      "change_pct": 0.45,
+      "volume_vs_avg": 0.63,
       "week52_high": 68.24,
       "week52_low": 55.76,
       "news_digest": "AI synthesis unavailable",
@@ -6493,9 +6493,9 @@
     {
       "ticker": "JHX",
       "name": "James Hardie",
-      "price": 42.54,
-      "change_pct": 0.12,
-      "volume_vs_avg": 0.02,
+      "price": 41.24,
+      "change_pct": -1.2,
+      "volume_vs_avg": 0.13,
       "week52_high": 43.85,
       "week52_low": 25.43,
       "news_digest": "AI synthesis unavailable",
@@ -6505,8 +6505,8 @@
       "ticker": "LTR",
       "name": "Liontown Resources",
       "price": 1.2,
-      "change_pct": -0.0,
-      "volume_vs_avg": 0.07,
+      "change_pct": 4.8,
+      "volume_vs_avg": 0.71,
       "week52_high": 2.64,
       "week52_low": 0.76,
       "news_digest": "AI synthesis unavailable",
@@ -6515,9 +6515,9 @@
     {
       "ticker": "MQG",
       "name": "Macquarie Group",
-      "price": 252.27,
-      "change_pct": -0.2,
-      "volume_vs_avg": 0.04,
+      "price": 252.46,
+      "change_pct": 0.61,
+      "volume_vs_avg": 0.57,
       "week52_high": 267.25,
       "week52_low": 186.62,
       "news_digest": "AI synthesis unavailable",
@@ -6527,8 +6527,8 @@
       "ticker": "NIC",
       "name": "Nickel Industries",
       "price": 0.87,
-      "change_pct": -0.57,
-      "volume_vs_avg": 0.04,
+      "change_pct": 2.35,
+      "volume_vs_avg": 0.58,
       "week52_high": 1.1,
       "week52_low": 0.67,
       "news_digest": "AI synthesis unavailable",
@@ -6537,9 +6537,9 @@
     {
       "ticker": "PLS",
       "name": "Pilbara Minerals",
-      "price": 5.22,
-      "change_pct": -1.32,
-      "volume_vs_avg": 0.08,
+      "price": 5.3,
+      "change_pct": 2.91,
+      "volume_vs_avg": 0.57,
       "week52_high": 6.74,
       "week52_low": 1.97,
       "news_digest": "AI synthesis unavailable",
@@ -6548,9 +6548,9 @@
     {
       "ticker": "QRE",
       "name": "Qualitas Real Estate",
-      "price": 10.95,
-      "change_pct": -0.54,
-      "volume_vs_avg": 0.03,
+      "price": 11.01,
+      "change_pct": 0.92,
+      "volume_vs_avg": 0.35,
       "week52_high": 11.04,
       "week52_low": 7.3,
       "news_digest": "AI synthesis unavailable",
@@ -6559,9 +6559,9 @@
     {
       "ticker": "TLS",
       "name": "Telstra",
-      "price": 4.6,
-      "change_pct": 0.44,
-      "volume_vs_avg": 0.05,
+      "price": 4.59,
+      "change_pct": 0.22,
+      "volume_vs_avg": 0.4,
       "week52_high": 5.43,
       "week52_low": 4.52,
       "news_digest": "AI synthesis unavailable",
@@ -6570,9 +6570,9 @@
     {
       "ticker": "WEB",
       "name": "Webjet",
-      "price": 3.81,
-      "change_pct": 3.53,
-      "volume_vs_avg": 0.28,
+      "price": 3.8,
+      "change_pct": -1.04,
+      "volume_vs_avg": 0.66,
       "week52_high": 5.03,
       "week52_low": 2.23,
       "news_digest": "AI synthesis unavailable",
@@ -6581,9 +6581,9 @@
     {
       "ticker": "WOW",
       "name": "Woolworths",
-      "price": 39.29,
-      "change_pct": -2.22,
-      "volume_vs_avg": 0.09,
+      "price": 39.26,
+      "change_pct": -0.73,
+      "volume_vs_avg": 0.55,
       "week52_high": 40.66,
       "week52_low": 25.59,
       "news_digest": "AI synthesis unavailable",
@@ -6592,9 +6592,9 @@
     {
       "ticker": "WQG",
       "name": "WCM Quality Global Growth",
-      "price": 2.12,
-      "change_pct": 0.47,
-      "volume_vs_avg": 0.04,
+      "price": 2.14,
+      "change_pct": 0.71,
+      "volume_vs_avg": 0.7,
       "week52_high": 2.19,
       "week52_low": 1.61,
       "news_digest": "AI synthesis unavailable",
@@ -6604,9 +6604,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-08-27T10:34:04.855221+10:00",
-    "date": "2026-08-27",
-    "display_date": "Thursday 27 August 2026",
-    "display_time": "10:34 AM AEST"
+    "generated_at": "2026-08-28T15:10:23.765969+10:00",
+    "date": "2026-08-28",
+    "display_date": "Friday 28 August 2026",
+    "display_time": "03:10 PM AEST"
   }
 }
