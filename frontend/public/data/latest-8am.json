@@ -3,75 +3,75 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7730.99,
-      "change": 55.29,
-      "change_pct": 0.72,
+      "price": 7711.76,
+      "change": -19.23,
+      "change_pct": -0.25,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26541.35,
-      "change": 411.15,
-      "change_pct": 1.57,
+      "price": 26402.42,
+      "change": -138.93,
+      "change_pct": -0.52,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53569.44,
-      "change": 105.56,
-      "change_pct": 0.2,
+      "price": 53559.99,
+      "change": -9.45,
+      "change_pct": -0.02,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.51,
-      "change": -0.7,
-      "change_pct": -4.6,
+      "price": 14.43,
+      "change": -0.08,
+      "change_pct": -0.55,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.67,
-      "change": 0.01,
-      "change_pct": 0.21,
-      "trend_5d": "down"
+      "price": 4.72,
+      "change": 0.05,
+      "change_pct": 1.07,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66608.47,
-      "change": 476.49,
-      "change_pct": 0.72,
+      "price": 66405.56,
+      "change": 273.58,
+      "change_pct": 0.41,
       "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25684.89,
-      "change": 119.15,
-      "change_pct": 0.47,
+      "price": 25584.79,
+      "change": 19.05,
+      "change_pct": 0.07,
       "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3959.64,
-      "change": 3.07,
-      "change_pct": 0.08,
+      "price": 3952.18,
+      "change": -4.39,
+      "change_pct": -0.11,
       "trend_5d": "up"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6824.93,
-      "change": -87.44,
-      "change_pct": -1.26,
+      "price": 6788.88,
+      "change": -123.49,
+      "change_pct": -1.79,
       "trend_5d": "up"
     }
   ],
@@ -80,18 +80,10 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 110678,
-      "change_24h_pct": 1.07,
-      "yoy_change_pct": -35.66,
+      "current_price": 109428,
+      "change_24h_pct": 0.25,
+      "yoy_change_pct": -34.26,
       "history": [
-        {
-          "date": "2025-08-29",
-          "price": 172065.64
-        },
-        {
-          "date": "2025-08-30",
-          "price": 165701.52
-        },
         {
           "date": "2025-08-31",
           "price": 166324.73
@@ -1545,8 +1537,16 @@
           "price": 111549.36
         },
         {
-          "date": "2026-08-28",
-          "price": 110703.24
+          "date": "2026-08-29",
+          "price": 108582.07
+        },
+        {
+          "date": "2026-08-30",
+          "price": 109161.54
+        },
+        {
+          "date": "2026-08-30",
+          "price": 109341.13
         }
       ]
     },
@@ -1554,18 +1554,10 @@
       "coin_id": "ethereum",
       "name": "Ethereum",
       "symbol": "ETH",
-      "current_price": 3454.94,
-      "change_24h_pct": -0.09,
-      "yoy_change_pct": -49.93,
+      "current_price": 3441.79,
+      "change_24h_pct": 0.46,
+      "yoy_change_pct": -48.54,
       "history": [
-        {
-          "date": "2025-08-29",
-          "price": 6898.28
-        },
-        {
-          "date": "2025-08-30",
-          "price": 6667.55
-        },
         {
           "date": "2025-08-31",
           "price": 6683.55
@@ -3019,8 +3011,16 @@
           "price": 3490.19
         },
         {
-          "date": "2026-08-28",
-          "price": 3454.11
+          "date": "2026-08-29",
+          "price": 3407.85
+        },
+        {
+          "date": "2026-08-30",
+          "price": 3428.82
+        },
+        {
+          "date": "2026-08-30",
+          "price": 3439.06
         }
       ]
     }
@@ -3029,18 +3029,10 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7199,
-      "change_pct": 0.2496,
-      "yoy_change_pct": 10.57,
+      "current_rate": 0.7163,
+      "change_pct": -0.4488,
+      "yoy_change_pct": 9.46,
       "history": [
-        {
-          "date": "2025-08-28",
-          "rate": 0.6511
-        },
-        {
-          "date": "2025-08-29",
-          "rate": 0.6532
-        },
         {
           "date": "2025-09-01",
           "rate": 0.6544
@@ -4071,25 +4063,21 @@
         },
         {
           "date": "2026-08-28",
-          "rate": 0.7199
+          "rate": 0.7195
+        },
+        {
+          "date": "2026-08-31",
+          "rate": 0.7163
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.596,
-      "change_pct": 0.1979,
-      "yoy_change_pct": 1.69,
+      "current_rate": 0.5918,
+      "change_pct": -0.6278,
+      "yoy_change_pct": 0.35,
       "history": [
-        {
-          "date": "2025-08-28",
-          "rate": 0.5861
-        },
-        {
-          "date": "2025-08-29",
-          "rate": 0.5885
-        },
         {
           "date": "2025-09-01",
           "rate": 0.5897
@@ -5120,25 +5108,21 @@
         },
         {
           "date": "2026-08-28",
-          "rate": 0.596
+          "rate": 0.5955
+        },
+        {
+          "date": "2026-08-31",
+          "rate": 0.5918
         }
       ]
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2078,
-      "change_pct": 0.0458,
-      "yoy_change_pct": 8.72,
+      "current_rate": 1.2104,
+      "change_pct": 0.1697,
+      "yoy_change_pct": 9.08,
       "history": [
-        {
-          "date": "2025-08-28",
-          "rate": 1.1109
-        },
-        {
-          "date": "2025-08-29",
-          "rate": 1.11
-        },
         {
           "date": "2025-09-01",
           "rate": 1.1096
@@ -6169,48 +6153,19 @@
         },
         {
           "date": "2026-08-28",
-          "rate": 1.2078
+          "rate": 1.2083
+        },
+        {
+          "date": "2026-08-31",
+          "rate": 1.2104
         }
       ]
     }
   ],
   "world_news": [
     {
-      "headline": "How Nepali diaspora is responding to flood disaster and how Australians can help in relief effort",
-      "summary": "<p>Nepali and Tibetan communities plan vigils and work to raise funds for recovery in \u2018devastating\u2019 time</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia\u2019s Nepali community plan to host vigils to remember the victims of the Nepal-Tibet flood disaster to coincide with a day of mourning, as the number of people killed continues to rise.</p><p>As Australia\u2019s Nepali diaspora wait for the full scale of the disaster to become clear, community members are desperately waiting to hear from missing relatives and friends.<br /><br />\n Nepal police said on Friday that the death toll had risen to 469, with more than 1,300 people still missing, after massive flash floods and landslides tore through the Bhotekoshi and Trishuli river basins on Thursday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/28/how-to-help-nepal-community-flood-disaster-relief-funding-australia\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Australia news live: Antarctic staff withdrawn from Macquarie Island due to \u2018psychological stress\u2019 from bird flu risk; dolphin dies from H5",
-      "summary": "<p>Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Greens say Australia needs to \u2018step up and really commit\u2019 to aiding rebuilding in Nepal</strong></p><p><strong>David Shoebridge, </strong>the Greens\u2019 spokesperson on foreign affairs, told RN Breakfast earlier the Australian commitment of $5m for affected communities in Nepal \u201cwon\u2019t come close to touching the sides\u201d of the calamity.</p><p>I think Australia needs to step up and really commit to helping rebuild. This is a country with minimal spare resources. Life is tough in Nepal at most times, but I don\u2019t think $5 million comes close to meeting the scale. \u2026</p><p>We also have an obligation to do what we can to meet our targets for carbon and to keep coal and gas in the ground. These things are connected, as much as we don\u2019t want them to be. These things are connected, and unless we address that, these kinds of disasters will continue to happen at a more rapid scale.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Nepal-Tibet flash flood live updates: China halts rescue at epicentre over flood risk, state media reports; death toll at 469, say Nepali police",
-      "summary": "<p>Lake formed by debris is overflowing towards area rescuers were headed, broadcaster says; 1,300 people still missing amid race to find survivors</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border\">Nearly 1,400 missing, mostly tourists, and hundreds killed</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-flood-what-we-know-so-far-flooding-day-three\">Nepal-Tibet flash flood: what we know so far on day three</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained\">Visual guide: how the deadly flooding unfolded</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/26/tell-us-have-you-been-affected-by-the-flash-floods-on-the-nepal-tibet-border\">Tell us: have you been affected by the flash floods?</a></p></li></ul><p><strong>China has paused a rescue operation due to the high risk of renewed flooding in Tibet</strong>, where hundreds remain missing after the deadly mudslide in the border region.</p><p>State broadcaster CCTV reported that a lake formed by immense piles of debris had begun overflowing towards the area that rescue teams were headed.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "DRC begins vaccinating front-line healthcare workers against Ebola",
-      "summary": "Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.",
+      "headline": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+      "summary": "Ten months after a coup, military leaders say the referendum is designed to stabilise future civilian governments.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6220,8 +6175,8 @@
       ]
     },
     {
-      "headline": "Bondi library returns book How to Sell a Genocide to shelves after State Library \u2018outlines the law\u2019",
-      "summary": "<p>Book was removed for review earlier this month following complaint but reinstated after petition and State Library letter to Waverley council</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Sydney library has returned to its borrowing shelves a book critical of Israel called How to Sell a Genocide following a public campaign and an intervention from the State Library of New South Wales.</p><p>Waverley library <a href=\"https://www.theguardian.com/culture/2026/aug/18/sydney-waverley-library-removes-book-how-to-sell-a-genocide-from-shelves-ntwnfb\">removed the book \u201cfor review</a>\u201d earlier this month after the Jewish news outlet <a href=\"https://www.jwire.com.au/waverley-council-removes-controversial-gaza-book/\">JWire reported</a> it had approached the council.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/28/sydney-library-returns-book-how-to-sell-a-genocide-to-shelves-after-state-library-intervenes-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Joyce calls One Nation byelection win \u2018decisive\u2019 and \u2018humbling\u2019; Oscar Jenkins gives first interview since Russia conviction",
+      "summary": "<p>One Nation MP says voters are disillusioned with traditional political parties. Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Australian government working on release of Oscar Jenkins, assistant minister says</strong></p><p>The Australian government is working with Russian officials in a bid to secure the release of Australian <strong>Oscar Jenkins</strong>, <strong>Matt Thistlethwaite</strong> says.<br /><br />\n Speaking to ABC news breakfast, the assistant minister for foreign affairs declined to answer whether a prisoner swap was on the table.</p><p>Obviously, we try and negotiate as best we can on behalf of all Australians who find themselves in difficulties such as this. We obviously have to abide by international laws and we always uphold them. But the Australian officials on the ground will work with their counterparts to ensure that, hopefully he\u2019s returned to Australia safely.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6231,8 +6186,52 @@
       ]
     },
     {
-      "headline": "Nepal\u2019s mudslide wiped out areas of eastern China, army helps search",
-      "summary": "China has dispatched hundreds of military personnel to the border town of Gyirong in Tibet, after a deadly mudslide.",
+      "headline": "US strikes Iranian launchers on Larak island amid strait of Hormuz tensions",
+      "summary": "<p>Attack was response to Islamic \u2060Revolutionary Guard Corps preparing rockets to launch sea mines into strait, US claims</p><p>US forces have struck two Iranian launchers on Iran\u2019s Larak island, a US official said, marking the \u2060first known American strikes since late July.</p><p>\u201cI can confirm that earlier today US forces struck two Iranian launchers on Larak island. Islamic \u2060Revolutionary Guard Corps forces were observed preparing to launch rockets with sea mines into the strait of Hormuz,\u201d the official said on Sunday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Scheffler wins PGA Tour Championship, Min Woo Lee ties fourth",
+      "summary": "Adam Scott has had to settle for yet another cool milestone as Scottie Scheffler surpassed Tiger Woods as the PGA Tour's all-time leading prize-money earner with his second season-long FedEx Cup crown.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Drama-free Medvedev wins, former US Open champion pulls out",
+      "summary": "Former US Open champion Daniil Medvedev has cruised to a straight-sets victory in the first round at Flushing Meadows.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Lamine Yamal getting back to \u2018top level\u2019, Barcelona coach Flick says",
+      "summary": "Teenager struggled in Barca&#039;s La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6242,8 +6241,8 @@
       ]
     },
     {
-      "headline": "Indonesians march on parliament to demand crackdown on corruption",
-      "summary": "Thousands of Indonesians demand harsher penalties for corruption during protests outside parliament in Jakarta.",
+      "headline": "Israeli strike kills 3-year-old child in Gaza",
+      "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6253,36 +6252,25 @@
       ]
     },
     {
-      "headline": "\u2018Confluence of errors\u2019 led to Belgian tourist Celine Cremer\u2019s death in Tasmanian wilderness, coroner finds",
-      "summary": "<p>Coronor finds 31-year-old deviated from a walking track as dusk fell, four days before the winter solstice</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Overlapping errors, including a lack of preparation in near-freezing winter weather, contributed to the death of a Belgian tourist on a wilderness track.</p><p>Celine Cremer set off on a walk at Philosopher Falls in Tasmania\u2019s remote north-west on 17 June 2023 and was reported missing almost 10 days later.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/28/coronial-inquest-findings-death-belgian-tourist-celine-cremer-tasmania\">Continue reading...</a>",
+      "headline": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+      "summary": "World Central Kitchen founder Jos\u00e9 Andr\u00e9s is renewing his call for an independent investigation into Israeli strikes.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Identity of high-profile Queensland man drawn into extortion case to remain secret after court ruling",
-      "summary": "<p>Man \u2013 referred to as MM by court \u2013 will keep his identity hidden after legal challenge against suppression dismissed </p><p>The identity of a high-profile Queensland man drawn into a Cairns extortion case will remain secret, after the state\u2019s supreme court threw out a legal challenge against a suppression order.</p><p>The man \u2013 referred to as MM by the court \u2013 was <a href=\"https://www.theguardian.com/australia-news/2026/jun/08/queensland-high-profile-man-extortion-case-name-suppressed-ntwnfb\">drawn into an extortion case earlier this year</a>. He is not a party to the case and is not accused of any offence.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/28/identity-of-high-profile-queensland-man-drawn-into-extortion-case-to-remain-secret-after-court-ruling-ntwnfb\">Continue reading...</a>",
+      "headline": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
+      "summary": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "What could Meta\u2019s US settlement mean around the world \u2013 and what now for other claims against firm?",
-      "summary": "<p>Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands</p><p>In October 2021, Abrham Meareg\u2019s father, a professor of chemistry in Ethiopia\u2019s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country\u2019s civil war.</p><p>For weeks, Facebook\u2019s algorithm had actively promoted posts calling for the academic to be murdered, according to Meareg and Foxglove, a nonprofit organisation supporting <a href=\"https://www.theguardian.com/technology/2025/apr/03/meta-faces-18bn-lawsuit-over-claims-it-inflamed-violence-in-ethiopia\">Meareg\u2019s lawsuit against the company</a> in Kenya. These posts included photos of his father and his home address.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
+        "BBC World"
       ]
     }
   ],
@@ -6293,13 +6281,13 @@
   "asx_deep_dive": {
     "overview": "AI synthesis unavailable. Showing raw data.",
     "asx200": {
-      "level": 9077.2,
-      "change_pct": 0.43
+      "level": 9092.3,
+      "change_pct": 0.6
     },
     "sectors": [
       {
         "name": "Mining & Resources",
-        "change_pct": 0.2,
+        "change_pct": 0.8,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
@@ -6310,157 +6298,157 @@
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "MIN",
-            "name": "MIN.AX",
-            "price": 64.56,
-            "change_pct": -1.24,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "BHP",
             "name": "BHP.AX",
-            "price": 66.96,
-            "change_pct": 0.84,
-            "explanation": "No AI analysis available"
-          }
-        ]
-      },
-      {
-        "name": "Banks & Financials",
-        "change_pct": 0.83,
-        "summary": "AI synthesis unavailable",
-        "movers": [
-          {
-            "ticker": "CBA",
-            "name": "CBA.AX",
-            "price": 156.71,
-            "change_pct": 1.13,
+            "price": 67.3,
+            "change_pct": 1.36,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "NAB",
-            "name": "NAB.AX",
-            "price": 38.38,
-            "change_pct": 1.05,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "WBC",
-            "name": "WBC.AX",
-            "price": 33.94,
+            "ticker": "S32",
+            "name": "S32.AX",
+            "price": 5.25,
             "change_pct": 0.77,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
+        "name": "Banks & Financials",
+        "change_pct": 0.8,
+        "summary": "AI synthesis unavailable",
+        "movers": [
+          {
+            "ticker": "CBA",
+            "name": "CBA.AX",
+            "price": 157.25,
+            "change_pct": 1.48,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "NAB",
+            "name": "NAB.AX",
+            "price": 38.29,
+            "change_pct": 0.82,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "ANZ",
+            "name": "ANZ.AX",
+            "price": 36.73,
+            "change_pct": 0.74,
+            "explanation": "No AI analysis available"
+          }
+        ]
+      },
+      {
         "name": "Tech",
-        "change_pct": 3.66,
+        "change_pct": 2.78,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "XRO",
             "name": "XRO.AX",
-            "price": 86.45,
-            "change_pct": 5.78,
+            "price": 85.64,
+            "change_pct": 4.78,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "TNE",
             "name": "TNE.AX",
-            "price": 33.17,
-            "change_pct": 4.84,
+            "price": 32.74,
+            "change_pct": 3.48,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "WTC",
             "name": "WTC.AX",
-            "price": 41.05,
-            "change_pct": 3.79,
+            "price": 40.61,
+            "change_pct": 2.68,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Healthcare",
-        "change_pct": 0.34,
+        "change_pct": -0.01,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "PME",
             "name": "PME.AX",
-            "price": 184.55,
-            "change_pct": 2.96,
+            "price": 181.48,
+            "change_pct": 1.25,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "CSL",
-            "name": "CSL.AX",
-            "price": 171.9,
-            "change_pct": -1.14,
+            "ticker": "COH",
+            "name": "COH.AX",
+            "price": 136.1,
+            "change_pct": -1.2,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "RMD",
             "name": "RMD.AX",
-            "price": 32.73,
-            "change_pct": 1.05,
+            "price": 32.74,
+            "change_pct": 1.08,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Energy",
-        "change_pct": 0.01,
+        "change_pct": 0.22,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "AGL",
-            "name": "AGL.AX",
-            "price": 8.49,
-            "change_pct": -1.28,
+            "ticker": "WDS",
+            "name": "WDS.AX",
+            "price": 32.27,
+            "change_pct": 0.84,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "STO",
             "name": "STO.AX",
-            "price": 8.11,
-            "change_pct": 0.62,
+            "price": 8.12,
+            "change_pct": 0.74,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "WDS",
-            "name": "WDS.AX",
-            "price": 32.19,
-            "change_pct": 0.59,
+            "ticker": "AGL",
+            "name": "AGL.AX",
+            "price": 8.54,
+            "change_pct": -0.7,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "REITs / Property",
-        "change_pct": -0.69,
+        "change_pct": -0.89,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "SCG",
-            "name": "SCG.AX",
-            "price": 3.53,
-            "change_pct": -1.12,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "MGR",
             "name": "MGR.AX",
-            "price": 1.8,
-            "change_pct": -1.1,
+            "price": 1.79,
+            "change_pct": -1.65,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "GMG",
-            "name": "GMG.AX",
-            "price": 27.81,
-            "change_pct": -0.75,
+            "ticker": "CHC",
+            "name": "CHC.AX",
+            "price": 19.55,
+            "change_pct": -1.46,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "SCG",
+            "name": "SCG.AX",
+            "price": 3.52,
+            "change_pct": -1.4,
             "explanation": "No AI analysis available"
           }
         ]
@@ -6473,7 +6461,7 @@
       "name": "Amcor",
       "price": 64.7,
       "change_pct": -0.57,
-      "volume_vs_avg": 0.85,
+      "volume_vs_avg": 1.14,
       "week52_high": 69.41,
       "week52_low": 50.57,
       "news_digest": "AI synthesis unavailable",
@@ -6482,9 +6470,9 @@
     {
       "ticker": "IHVV",
       "name": "iShares S&P500 ETF",
-      "price": 67.6,
-      "change_pct": 0.45,
-      "volume_vs_avg": 0.63,
+      "price": 67.52,
+      "change_pct": 0.33,
+      "volume_vs_avg": 0.91,
       "week52_high": 68.24,
       "week52_low": 55.76,
       "news_digest": "AI synthesis unavailable",
@@ -6493,9 +6481,9 @@
     {
       "ticker": "JHX",
       "name": "James Hardie",
-      "price": 41.24,
-      "change_pct": -1.2,
-      "volume_vs_avg": 0.13,
+      "price": 41.42,
+      "change_pct": -0.77,
+      "volume_vs_avg": 0.31,
       "week52_high": 43.85,
       "week52_low": 25.43,
       "news_digest": "AI synthesis unavailable",
@@ -6506,7 +6494,7 @@
       "name": "Liontown Resources",
       "price": 1.2,
       "change_pct": 4.8,
-      "volume_vs_avg": 0.71,
+      "volume_vs_avg": 0.9,
       "week52_high": 2.64,
       "week52_low": 0.76,
       "news_digest": "AI synthesis unavailable",
@@ -6515,9 +6503,9 @@
     {
       "ticker": "MQG",
       "name": "Macquarie Group",
-      "price": 252.46,
-      "change_pct": 0.61,
-      "volume_vs_avg": 0.57,
+      "price": 251.78,
+      "change_pct": 0.33,
+      "volume_vs_avg": 0.95,
       "week52_high": 267.25,
       "week52_low": 186.62,
       "news_digest": "AI synthesis unavailable",
@@ -6526,9 +6514,9 @@
     {
       "ticker": "NIC",
       "name": "Nickel Industries",
-      "price": 0.87,
-      "change_pct": 2.35,
-      "volume_vs_avg": 0.58,
+      "price": 0.86,
+      "change_pct": 1.18,
+      "volume_vs_avg": 1.14,
       "week52_high": 1.1,
       "week52_low": 0.67,
       "news_digest": "AI synthesis unavailable",
@@ -6537,9 +6525,9 @@
     {
       "ticker": "PLS",
       "name": "Pilbara Minerals",
-      "price": 5.3,
-      "change_pct": 2.91,
-      "volume_vs_avg": 0.57,
+      "price": 5.36,
+      "change_pct": 4.08,
+      "volume_vs_avg": 0.9,
       "week52_high": 6.74,
       "week52_low": 1.97,
       "news_digest": "AI synthesis unavailable",
@@ -6548,9 +6536,9 @@
     {
       "ticker": "QRE",
       "name": "Qualitas Real Estate",
-      "price": 11.01,
-      "change_pct": 0.92,
-      "volume_vs_avg": 0.35,
+      "price": 11.0,
+      "change_pct": 0.82,
+      "volume_vs_avg": 0.54,
       "week52_high": 11.04,
       "week52_low": 7.3,
       "news_digest": "AI synthesis unavailable",
@@ -6559,9 +6547,9 @@
     {
       "ticker": "TLS",
       "name": "Telstra",
-      "price": 4.59,
-      "change_pct": 0.22,
-      "volume_vs_avg": 0.4,
+      "price": 4.61,
+      "change_pct": 0.66,
+      "volume_vs_avg": 0.67,
       "week52_high": 5.43,
       "week52_low": 4.52,
       "news_digest": "AI synthesis unavailable",
@@ -6570,9 +6558,9 @@
     {
       "ticker": "WEB",
       "name": "Webjet",
-      "price": 3.8,
-      "change_pct": -1.04,
-      "volume_vs_avg": 0.66,
+      "price": 3.81,
+      "change_pct": -0.78,
+      "volume_vs_avg": 0.99,
       "week52_high": 5.03,
       "week52_low": 2.23,
       "news_digest": "AI synthesis unavailable",
@@ -6581,9 +6569,9 @@
     {
       "ticker": "WOW",
       "name": "Woolworths",
-      "price": 39.26,
-      "change_pct": -0.73,
-      "volume_vs_avg": 0.55,
+      "price": 39.65,
+      "change_pct": 0.25,
+      "volume_vs_avg": 1.13,
       "week52_high": 40.66,
       "week52_low": 25.59,
       "news_digest": "AI synthesis unavailable",
@@ -6594,7 +6582,7 @@
       "name": "WCM Quality Global Growth",
       "price": 2.14,
       "change_pct": 0.71,
-      "volume_vs_avg": 0.7,
+      "volume_vs_avg": 0.8,
       "week52_high": 2.19,
       "week52_low": 1.61,
       "news_digest": "AI synthesis unavailable",
@@ -6604,9 +6592,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-08-28T15:10:23.765969+10:00",
-    "date": "2026-08-28",
-    "display_date": "Friday 28 August 2026",
-    "display_time": "03:10 PM AEST"
+    "generated_at": "2026-08-31T09:18:46.056504+10:00",
+    "date": "2026-08-31",
+    "display_date": "Monday 31 August 2026",
+    "display_time": "09:18 AM AEST"
   }
 }
