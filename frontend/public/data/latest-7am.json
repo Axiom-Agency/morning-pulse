@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7711.76,
-      "change": -19.23,
-      "change_pct": -0.25,
-      "trend_5d": "up"
+      "price": 7686.14,
+      "change": -25.62,
+      "change_pct": -0.33,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26402.42,
-      "change": -138.93,
-      "change_pct": -0.52,
+      "price": 26370.89,
+      "change": -31.53,
+      "change_pct": -0.12,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53559.99,
-      "change": -9.45,
-      "change_pct": -0.02,
-      "trend_5d": "up"
+      "price": 53185.9,
+      "change": -374.09,
+      "change_pct": -0.7,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.43,
-      "change": -0.08,
-      "change_pct": -0.55,
+      "price": 14.92,
+      "change": 0.49,
+      "change_pct": 3.4,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.72,
-      "change": 0.05,
-      "change_pct": 1.07,
+      "price": 4.76,
+      "change": 0.04,
+      "change_pct": 0.85,
       "trend_5d": "up"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 66405.56,
       "change": 273.58,
       "change_pct": 0.41,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 25584.79,
       "change": 19.05,
       "change_pct": 0.07,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3952.18,
-      "change": -4.39,
-      "change_pct": -0.11,
-      "trend_5d": "up"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 6788.88,
       "change": -123.49,
       "change_pct": -1.79,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4506.3,
-      "change_pct": 0.63
+      "price": 4492.7,
+      "change_pct": 0.33
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 89.93,
-      "change_pct": 0.69
+      "price": 88.58,
+      "change_pct": -0.82
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 85.1,
-      "change_pct": 2.04
+      "price": 86.4,
+      "change_pct": 3.6
     }
   ],
   "asx200": {
@@ -103,37 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7163,
-      "change_pct": -0.4416
+      "current_rate": 0.7171,
+      "change_pct": -0.3345
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5914,
-      "change_pct": -0.6807
+      "current_rate": 0.5919,
+      "change_pct": -0.6043
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2109,
-      "change_pct": 0.2102
+      "current_rate": 1.2113,
+      "change_pct": 0.2491
     }
   ],
   "world_news": [
     {
-      "headline": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-      "summary": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Australia news live: Joyce calls One Nation byelection win \u2018decisive\u2019 and \u2018humbling\u2019; Oscar Jenkins gives first interview since Russia conviction",
-      "summary": "<p>One Nation MP says voters are disillusioned with traditional political parties. Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Government announces ID protection service and privacy reforms</strong></p><p>The government says it will develop a digital identity service that will allow Australians to block or monitor the use of their ID documents that are used for verification through its document verification service.</p><p>Whether their driver licence details have been exposed in a data breach or they are concerned about scams and identity theft, IDLock will give Australians an accessible and simple way to have greater visibility, control and confidence in how their identity documents are used.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: NSW confirms new HSC assessment rules to crack down on AI use; Sydney man killed in home invasion",
+      "summary": "<p>Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>43 Australians still missing, with concerns growing \u2018every day, every hour\u2019 that goes by, Wong says</strong></p><p>The foreign affairs minister, <strong>Penny Wong, </strong>says there are still 43 Australian missing after the flooding in Nepal, saying the government holds grave concerns for their safety that only gets worse as the days go by.</p><p>This is such a distressing time and I know this is so difficult for the family and friends of those 43 Australians.</p><p>Every day, every hour, only increases our concern for those who have not been found and remain missing, and that is many Australians. \u2026 You can imagine how many families and friends are traumatised as a consequence.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,30 +132,8 @@
       ]
     },
     {
-      "headline": "Drama-free Medvedev wins, former US Open champion pulls out",
-      "summary": "Former US Open champion Daniil Medvedev has cruised to a straight-sets victory in the first round at Flushing Meadows.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Lamine Yamal getting back to \u2018top level\u2019, Barcelona coach Flick says",
-      "summary": "Teenager struggled in Barca&#039;s La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +143,8 @@
       ]
     },
     {
-      "headline": "Israeli strike kills 3-year-old child in Gaza",
-      "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
+      "headline": "Three minors killed in Colombia armed group crackdown",
+      "summary": "Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +154,8 @@
       ]
     },
     {
-      "headline": "Jose Andres renews call for investigation into WCK Gaza staff killings",
-      "summary": "World Central Kitchen founder Jos\u00e9 Andr\u00e9s is renewing his call for an independent investigation into Israeli strikes.",
+      "headline": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+      "summary": "Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +165,8 @@
       ]
     },
     {
-      "headline": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
-      "summary": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet.",
+      "headline": "Orangutans in danger as wildfires blaze through Borneo",
+      "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +176,8 @@
       ]
     },
     {
-      "headline": "\u2018Opening a new chapter\u2019: Syria reopens embassy in Libya after talks",
-      "summary": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
+      "headline": "Poland opens terror probe into fire at factory supplying Ukraine drones",
+      "summary": "Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +187,41 @@
       ]
     },
     {
-      "headline": "Video: Raging floodwaters sweep away lorry in the Philippines",
-      "summary": "Video shows a lorry being swept away by raging floodwaters in Rodriguez as torrential rains batter the Philippines.",
+      "headline": "Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal",
+      "summary": "Victory \u200blifts Arsenal to six points \u2060along with Man \u2060City, Hull City and Chelsea, while Villa remain without a point.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Putin, Xi reaffirm Russia-China ties amid \u2018unpredictable\u2019 world",
+      "summary": "The Russian and Chinese leaders met on the sidelines of the SCO summit.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Argentinian footballer Lionel Messi announces his retirement",
+      "summary": "Argentinian footballer Lionel Messi announces his retirement",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israeli outposts expand as Palestinian homes are demolished",
+      "summary": "Israeli forces demolish Palestinian homes in Nablus, while in Hebron settlers cleared land for a new outpost.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-08-31T08:23:03.610381+10:00",
-    "date": "2026-08-31",
-    "display_date": "Monday 31 August 2026",
-    "display_time": "08:23 AM AEST"
+    "generated_at": "2026-09-01T09:36:43.526530+10:00",
+    "date": "2026-09-01",
+    "display_date": "Tuesday 01 September 2026",
+    "display_time": "09:36 AM AEST"
   }
 }
