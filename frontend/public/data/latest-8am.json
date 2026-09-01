@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7711.76,
-      "change": -19.23,
-      "change_pct": -0.25,
-      "trend_5d": "up"
+      "price": 7686.14,
+      "change": -25.62,
+      "change_pct": -0.33,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26402.42,
-      "change": -138.93,
-      "change_pct": -0.52,
+      "price": 26370.89,
+      "change": -31.53,
+      "change_pct": -0.12,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53559.99,
-      "change": -9.45,
-      "change_pct": -0.02,
-      "trend_5d": "up"
+      "price": 53185.9,
+      "change": -374.09,
+      "change_pct": -0.7,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.43,
-      "change": -0.08,
-      "change_pct": -0.55,
+      "price": 14.92,
+      "change": 0.49,
+      "change_pct": 3.4,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.72,
-      "change": 0.05,
-      "change_pct": 1.07,
+      "price": 4.76,
+      "change": 0.04,
+      "change_pct": 0.85,
       "trend_5d": "up"
     }
   ],
@@ -45,10 +45,10 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66405.56,
-      "change": 273.58,
-      "change_pct": 0.41,
-      "trend_5d": "up"
+      "price": 65693.18,
+      "change": -712.38,
+      "change_pct": -1.07,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,23 +56,23 @@
       "price": 25584.79,
       "change": 19.05,
       "change_pct": 0.07,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3952.18,
-      "change": -4.39,
-      "change_pct": -0.11,
-      "trend_5d": "up"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6788.88,
-      "change": -123.49,
-      "change_pct": -1.79,
-      "trend_5d": "up"
+      "price": 6763.04,
+      "change": -25.84,
+      "change_pct": -0.38,
+      "trend_5d": "flat"
     }
   ],
   "crypto": [
@@ -80,18 +80,10 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 109428,
-      "change_24h_pct": 0.25,
-      "yoy_change_pct": -34.26,
+      "current_price": 109782,
+      "change_24h_pct": 0.8,
+      "yoy_change_pct": -34.4,
       "history": [
-        {
-          "date": "2025-08-31",
-          "price": 166324.73
-        },
-        {
-          "date": "2025-09-01",
-          "price": 165051.93
-        },
         {
           "date": "2025-09-02",
           "price": 167570.2
@@ -1545,8 +1537,16 @@
           "price": 109161.54
         },
         {
-          "date": "2026-08-30",
-          "price": 109341.13
+          "date": "2026-08-31",
+          "price": 108474.1
+        },
+        {
+          "date": "2026-09-01",
+          "price": 109545.94
+        },
+        {
+          "date": "2026-09-01",
+          "price": 109926.5
         }
       ]
     },
@@ -1554,18 +1554,10 @@
       "coin_id": "ethereum",
       "name": "Ethereum",
       "symbol": "ETH",
-      "current_price": 3441.79,
-      "change_24h_pct": 0.46,
-      "yoy_change_pct": -48.54,
+      "current_price": 3447.77,
+      "change_24h_pct": 1.54,
+      "yoy_change_pct": -47.84,
       "history": [
-        {
-          "date": "2025-08-31",
-          "price": 6683.55
-        },
-        {
-          "date": "2025-09-01",
-          "price": 6688.37
-        },
         {
           "date": "2025-09-02",
           "price": 6618.7
@@ -3019,8 +3011,16 @@
           "price": 3428.82
         },
         {
-          "date": "2026-08-30",
-          "price": 3439.06
+          "date": "2026-08-31",
+          "price": 3375.04
+        },
+        {
+          "date": "2026-09-01",
+          "price": 3439.75
+        },
+        {
+          "date": "2026-09-01",
+          "price": 3452.08
         }
       ]
     }
@@ -3029,9 +3029,9 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7163,
-      "change_pct": -0.4488,
-      "yoy_change_pct": 9.46,
+      "current_rate": 0.7182,
+      "change_pct": 0.2703,
+      "yoy_change_pct": 9.76,
       "history": [
         {
           "date": "2025-09-01",
@@ -4068,15 +4068,19 @@
         {
           "date": "2026-08-31",
           "rate": 0.7163
+        },
+        {
+          "date": "2026-09-01",
+          "rate": 0.7182
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5918,
-      "change_pct": -0.6278,
-      "yoy_change_pct": 0.35,
+      "current_rate": 0.593,
+      "change_pct": 0.1714,
+      "yoy_change_pct": 0.56,
       "history": [
         {
           "date": "2025-09-01",
@@ -5112,16 +5116,20 @@
         },
         {
           "date": "2026-08-31",
-          "rate": 0.5918
+          "rate": 0.592
+        },
+        {
+          "date": "2026-09-01",
+          "rate": 0.593
         }
       ]
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2104,
-      "change_pct": 0.1697,
-      "yoy_change_pct": 9.08,
+      "current_rate": 1.211,
+      "change_pct": 0.1265,
+      "yoy_change_pct": 9.13,
       "history": [
         {
           "date": "2025-09-01",
@@ -6157,48 +6165,19 @@
         },
         {
           "date": "2026-08-31",
-          "rate": 1.2104
+          "rate": 1.2094
+        },
+        {
+          "date": "2026-09-01",
+          "rate": 1.211
         }
       ]
     }
   ],
   "world_news": [
     {
-      "headline": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
-      "summary": "Ten months after a coup, military leaders say the referendum is designed to stabilise future civilian governments.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Australia news live: Joyce calls One Nation byelection win \u2018decisive\u2019 and \u2018humbling\u2019; Oscar Jenkins gives first interview since Russia conviction",
-      "summary": "<p>One Nation MP says voters are disillusioned with traditional political parties. Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Australian government working on release of Oscar Jenkins, assistant minister says</strong></p><p>The Australian government is working with Russian officials in a bid to secure the release of Australian <strong>Oscar Jenkins</strong>, <strong>Matt Thistlethwaite</strong> says.<br /><br />\n Speaking to ABC news breakfast, the assistant minister for foreign affairs declined to answer whether a prisoner swap was on the table.</p><p>Obviously, we try and negotiate as best we can on behalf of all Australians who find themselves in difficulties such as this. We obviously have to abide by international laws and we always uphold them. But the Australian officials on the ground will work with their counterparts to ensure that, hopefully he\u2019s returned to Australia safely.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "US strikes Iranian launchers on Larak island amid strait of Hormuz tensions",
-      "summary": "<p>Attack was response to Islamic \u2060Revolutionary Guard Corps preparing rockets to launch sea mines into strait, US claims</p><p>US forces have struck two Iranian launchers on Iran\u2019s Larak island, a US official said, marking the \u2060first known American strikes since late July.</p><p>\u201cI can confirm that earlier today US forces struck two Iranian launchers on Larak island. Islamic \u2060Revolutionary Guard Corps forces were observed preparing to launch rockets with sea mines into the strait of Hormuz,\u201d the official said on Sunday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Scheffler wins PGA Tour Championship, Min Woo Lee ties fourth",
-      "summary": "Adam Scott has had to settle for yet another cool milestone as Scottie Scheffler surpassed Tiger Woods as the PGA Tour's all-time leading prize-money earner with his second season-long FedEx Cup crown.",
+      "headline": "Messi's legendary run for Argentina almost never happened after heartbreak",
+      "summary": "Lionel Messi ends his international football career as a living legend with a God-like status in his country, but the dizzying heights the great man reached almost never happened if he had stuck to his original retirement.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6208,8 +6187,63 @@
       ]
     },
     {
-      "headline": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+      "headline": "Man shot and killed in Sydney home invasion was \u2018targeted attack\u2019, police believe",
+      "summary": "<p>Alleged offenders at large after man in his early 20s fatally shot in early hours of Tuesday</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man in his early 20s has been fatally shot in an alleged home invasion in Sydney\u2019s south-west that police believe was a \u201ctargeted attack\u201d. A homicide investigation is underway, with the alleged offenders still at large.</p><p>Acting supt Gretchin Atkins said the man, who was yet to be formally identified, was at his Glen Alpine home with his family in the early hours of Tuesday morning when multiple individuals allegedly broke in.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/01/man-shot-killed-glen-alpine-sydney-home-invasion-nsw-police-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Australia news live: China pledges \u2018consequences\u2019 over Taiwan\u2019s presence at Pacific Islands Forum; Victorian opposition promises more peak-hour trains",
+      "summary": "<p>Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>43 Australians still missing, with concerns growing \u2018every day, every hour\u2019 that goes by, Wong says</strong></p><p>The foreign affairs minister, <strong>Penny Wong, </strong>says there are still 43 Australian missing after the flooding in Nepal, saying the government holds grave concerns for their safety that only gets worse as the days go by.</p><p>This is such a distressing time and I know this is so difficult for the family and friends of those 43 Australians.</p><p>Every day, every hour, only increases our concern for those who have not been found and remain missing, and that is many Australians. \u2026 You can imagine how many families and friends are traumatised as a consequence.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Labuschagne dropped as Australia names ODI squad for African series",
+      "summary": "Australia has named its ODI squad for its back-to-back series in Zimbabwe and South Africa later this month, with five players dropped, including World Cup winner Marnus Labuschagne.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Investigation into Powerhouse Parramatta museum under way as stop-gap leader steps in",
+      "summary": "<p>\u2018Opera House of the west\u2019 still slated to open to the public as scheduled on 7 November, NSW arts minister says</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>An investigation is under way into allegations of misconduct involving senior executives at the soon-to-be-opened Powerhouse Parramatta.</p><p>The $915m museum in western Sydney, billed as one of the world\u2019s most significant new museum projects, is set to open in November.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/01/powerhouse-parramatta-western-sydney-investigation-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+      "summary": "Driscoll&#039;s resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6219,19 +6253,8 @@
       ]
     },
     {
-      "headline": "Drama-free Medvedev wins, former US Open champion pulls out",
-      "summary": "Former US Open champion Daniil Medvedev has cruised to a straight-sets victory in the first round at Flushing Meadows.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Lamine Yamal getting back to \u2018top level\u2019, Barcelona coach Flick says",
-      "summary": "Teenager struggled in Barca&#039;s La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.",
+      "headline": "Three minors killed in Colombia armed group crackdown",
+      "summary": "Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6241,8 +6264,8 @@
       ]
     },
     {
-      "headline": "Israeli strike kills 3-year-old child in Gaza",
-      "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
+      "headline": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+      "summary": "Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6252,19 +6275,8 @@
       ]
     },
     {
-      "headline": "Jose Andres renews call for investigation into WCK Gaza staff killings",
-      "summary": "World Central Kitchen founder Jos\u00e9 Andr\u00e9s is renewing his call for an independent investigation into Israeli strikes.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
-      "summary": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet.",
+      "headline": "Orangutans in danger as wildfires blaze through Borneo",
+      "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6281,174 +6293,174 @@
   "asx_deep_dive": {
     "overview": "AI synthesis unavailable. Showing raw data.",
     "asx200": {
-      "level": 9092.3,
-      "change_pct": 0.6
+      "level": 9043.5,
+      "change_pct": -0.54
     },
     "sectors": [
       {
         "name": "Mining & Resources",
-        "change_pct": 0.8,
+        "change_pct": -0.07,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "FMG",
             "name": "FMG.AX",
-            "price": 18.07,
-            "change_pct": 2.09,
+            "price": 17.15,
+            "change_pct": -0.52,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "BHP",
-            "name": "BHP.AX",
-            "price": 67.3,
-            "change_pct": 1.36,
+            "ticker": "RIO",
+            "name": "RIO.AX",
+            "price": 174.32,
+            "change_pct": -0.28,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "S32",
-            "name": "S32.AX",
-            "price": 5.25,
-            "change_pct": 0.77,
+            "ticker": "MIN",
+            "name": "MIN.AX",
+            "price": 64.8,
+            "change_pct": 0.26,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Banks & Financials",
-        "change_pct": 0.8,
+        "change_pct": -0.22,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "CBA",
-            "name": "CBA.AX",
-            "price": 157.25,
-            "change_pct": 1.48,
+            "ticker": "NAB",
+            "name": "NAB.AX",
+            "price": 38.42,
+            "change_pct": -0.54,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "NAB",
-            "name": "NAB.AX",
-            "price": 38.29,
-            "change_pct": 0.82,
+            "ticker": "WBC",
+            "name": "WBC.AX",
+            "price": 34.42,
+            "change_pct": -0.38,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "ANZ",
             "name": "ANZ.AX",
-            "price": 36.73,
-            "change_pct": 0.74,
+            "price": 37.15,
+            "change_pct": -0.13,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Tech",
-        "change_pct": 2.78,
+        "change_pct": -0.88,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "XRO",
-            "name": "XRO.AX",
-            "price": 85.64,
-            "change_pct": 4.78,
+            "ticker": "REA",
+            "name": "REA.AX",
+            "price": 172.27,
+            "change_pct": -2.8,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "TNE",
             "name": "TNE.AX",
-            "price": 32.74,
-            "change_pct": 3.48,
+            "price": 32.15,
+            "change_pct": -1.35,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "WTC",
-            "name": "WTC.AX",
-            "price": 40.61,
-            "change_pct": 2.68,
+            "ticker": "XRO",
+            "name": "XRO.AX",
+            "price": 83.28,
+            "change_pct": 0.49,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Healthcare",
-        "change_pct": -0.01,
+        "change_pct": -0.09,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "PME",
-            "name": "PME.AX",
-            "price": 181.48,
-            "change_pct": 1.25,
+            "ticker": "COH",
+            "name": "COH.AX",
+            "price": 132.38,
+            "change_pct": -1.15,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "COH",
-            "name": "COH.AX",
-            "price": 136.1,
-            "change_pct": -1.2,
+            "ticker": "PME",
+            "name": "PME.AX",
+            "price": 177.51,
+            "change_pct": -1.05,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "RMD",
             "name": "RMD.AX",
-            "price": 32.74,
-            "change_pct": 1.08,
+            "price": 33.35,
+            "change_pct": 0.94,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Energy",
-        "change_pct": 0.22,
+        "change_pct": 0.56,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "WDS",
-            "name": "WDS.AX",
-            "price": 32.27,
-            "change_pct": 0.84,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "STO",
             "name": "STO.AX",
-            "price": 8.12,
-            "change_pct": 0.74,
+            "price": 8.23,
+            "change_pct": 1.11,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "AGL",
-            "name": "AGL.AX",
-            "price": 8.54,
-            "change_pct": -0.7,
+            "ticker": "ORG",
+            "name": "ORG.AX",
+            "price": 11.72,
+            "change_pct": 0.86,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "WDS",
+            "name": "WDS.AX",
+            "price": 32.58,
+            "change_pct": 0.49,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "REITs / Property",
-        "change_pct": -0.89,
+        "change_pct": -0.4,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "MGR",
-            "name": "MGR.AX",
-            "price": 1.79,
-            "change_pct": -1.65,
+            "ticker": "SCG",
+            "name": "SCG.AX",
+            "price": 3.56,
+            "change_pct": -0.84,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "CHC",
             "name": "CHC.AX",
-            "price": 19.55,
-            "change_pct": -1.46,
+            "price": 19.2,
+            "change_pct": -0.62,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "SCG",
-            "name": "SCG.AX",
-            "price": 3.52,
-            "change_pct": -1.4,
+            "ticker": "MGR",
+            "name": "MGR.AX",
+            "price": 1.81,
+            "change_pct": -0.55,
             "explanation": "No AI analysis available"
           }
         ]
@@ -6459,9 +6471,9 @@
     {
       "ticker": "AMC",
       "name": "Amcor",
-      "price": 64.7,
-      "change_pct": -0.57,
-      "volume_vs_avg": 1.14,
+      "price": 64.06,
+      "change_pct": -1.11,
+      "volume_vs_avg": 0.03,
       "week52_high": 69.41,
       "week52_low": 50.57,
       "news_digest": "AI synthesis unavailable",
@@ -6470,9 +6482,9 @@
     {
       "ticker": "IHVV",
       "name": "iShares S&P500 ETF",
-      "price": 67.52,
-      "change_pct": 0.33,
-      "volume_vs_avg": 0.91,
+      "price": 67.34,
+      "change_pct": 0.04,
+      "volume_vs_avg": 0.03,
       "week52_high": 68.24,
       "week52_low": 55.76,
       "news_digest": "AI synthesis unavailable",
@@ -6481,9 +6493,9 @@
     {
       "ticker": "JHX",
       "name": "James Hardie",
-      "price": 41.42,
-      "change_pct": -0.77,
-      "volume_vs_avg": 0.31,
+      "price": 41.13,
+      "change_pct": -0.87,
+      "volume_vs_avg": 0.12,
       "week52_high": 43.85,
       "week52_low": 25.43,
       "news_digest": "AI synthesis unavailable",
@@ -6492,9 +6504,9 @@
     {
       "ticker": "LTR",
       "name": "Liontown Resources",
-      "price": 1.2,
-      "change_pct": 4.8,
-      "volume_vs_avg": 0.9,
+      "price": 1.26,
+      "change_pct": 2.86,
+      "volume_vs_avg": 0.28,
       "week52_high": 2.64,
       "week52_low": 0.76,
       "news_digest": "AI synthesis unavailable",
@@ -6503,9 +6515,9 @@
     {
       "ticker": "MQG",
       "name": "Macquarie Group",
-      "price": 251.78,
-      "change_pct": 0.33,
-      "volume_vs_avg": 0.95,
+      "price": 250.37,
+      "change_pct": -0.09,
+      "volume_vs_avg": 0.06,
       "week52_high": 267.25,
       "week52_low": 186.62,
       "news_digest": "AI synthesis unavailable",
@@ -6514,9 +6526,9 @@
     {
       "ticker": "NIC",
       "name": "Nickel Industries",
-      "price": 0.86,
-      "change_pct": 1.18,
-      "volume_vs_avg": 1.14,
+      "price": 0.85,
+      "change_pct": -0.58,
+      "volume_vs_avg": 0.02,
       "week52_high": 1.1,
       "week52_low": 0.67,
       "news_digest": "AI synthesis unavailable",
@@ -6525,9 +6537,9 @@
     {
       "ticker": "PLS",
       "name": "Pilbara Minerals",
-      "price": 5.36,
-      "change_pct": 4.08,
-      "volume_vs_avg": 0.9,
+      "price": 5.47,
+      "change_pct": 1.3,
+      "volume_vs_avg": 0.06,
       "week52_high": 6.74,
       "week52_low": 1.97,
       "news_digest": "AI synthesis unavailable",
@@ -6536,9 +6548,9 @@
     {
       "ticker": "QRE",
       "name": "Qualitas Real Estate",
-      "price": 11.0,
-      "change_pct": 0.82,
-      "volume_vs_avg": 0.54,
+      "price": 10.84,
+      "change_pct": 0.37,
+      "volume_vs_avg": 14.48,
       "week52_high": 11.04,
       "week52_low": 7.3,
       "news_digest": "AI synthesis unavailable",
@@ -6547,9 +6559,9 @@
     {
       "ticker": "TLS",
       "name": "Telstra",
-      "price": 4.61,
-      "change_pct": 0.66,
-      "volume_vs_avg": 0.67,
+      "price": 4.66,
+      "change_pct": -0.21,
+      "volume_vs_avg": 0.02,
       "week52_high": 5.43,
       "week52_low": 4.52,
       "news_digest": "AI synthesis unavailable",
@@ -6558,9 +6570,9 @@
     {
       "ticker": "WEB",
       "name": "Webjet",
-      "price": 3.81,
-      "change_pct": -0.78,
-      "volume_vs_avg": 0.99,
+      "price": 3.75,
+      "change_pct": -1.32,
+      "volume_vs_avg": 0.04,
       "week52_high": 5.03,
       "week52_low": 2.23,
       "news_digest": "AI synthesis unavailable",
@@ -6569,11 +6581,11 @@
     {
       "ticker": "WOW",
       "name": "Woolworths",
-      "price": 39.65,
-      "change_pct": 0.25,
-      "volume_vs_avg": 1.13,
-      "week52_high": 40.66,
-      "week52_low": 25.59,
+      "price": 39.19,
+      "change_pct": -1.51,
+      "volume_vs_avg": 0.22,
+      "week52_high": 40.14,
+      "week52_low": 25.26,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
@@ -6581,8 +6593,8 @@
       "ticker": "WQG",
       "name": "WCM Quality Global Growth",
       "price": 2.14,
-      "change_pct": 0.71,
-      "volume_vs_avg": 0.8,
+      "change_pct": -0.0,
+      "volume_vs_avg": 0.96,
       "week52_high": 2.19,
       "week52_low": 1.61,
       "news_digest": "AI synthesis unavailable",
@@ -6592,9 +6604,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-08-31T09:18:46.056504+10:00",
-    "date": "2026-08-31",
-    "display_date": "Monday 31 August 2026",
-    "display_time": "09:18 AM AEST"
+    "generated_at": "2026-09-01T10:28:01.815359+10:00",
+    "date": "2026-09-01",
+    "display_date": "Tuesday 01 September 2026",
+    "display_time": "10:28 AM AEST"
   }
 }
