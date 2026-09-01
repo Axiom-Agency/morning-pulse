@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7686.14,
-      "change": -25.62,
-      "change_pct": -0.33,
+      "price": 7631.47,
+      "change": -54.67,
+      "change_pct": -0.71,
       "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26370.89,
-      "change": -31.53,
-      "change_pct": -0.12,
-      "trend_5d": "up"
+      "price": 26099.77,
+      "change": -271.12,
+      "change_pct": -1.03,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53185.9,
-      "change": -374.09,
-      "change_pct": -0.7,
-      "trend_5d": "down"
+      "price": 52766.88,
+      "change": -419.02,
+      "change_pct": -0.79,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.92,
-      "change": 0.49,
-      "change_pct": 3.4,
-      "trend_5d": "down"
+      "price": 16.34,
+      "change": 1.42,
+      "change_pct": 9.52,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.76,
+      "price": 4.8,
       "change": 0.04,
-      "change_pct": 0.85,
-      "trend_5d": "up"
+      "change_pct": 0.84,
+      "trend_5d": "flat"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66405.56,
-      "change": 273.58,
-      "change_pct": 0.41,
+      "price": 66311.93,
+      "change": 179.95,
+      "change_pct": 0.27,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25584.79,
-      "change": 19.05,
-      "change_pct": 0.07,
+      "price": 25566.99,
+      "change": 1.25,
+      "change_pct": 0.0,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6788.88,
-      "change": -123.49,
-      "change_pct": -1.79,
+      "price": 6820.02,
+      "change": -92.35,
+      "change_pct": -1.34,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,61 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4492.7,
-      "change_pct": 0.33
+      "price": 4375.4,
+      "change_pct": -1.26
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 88.58,
-      "change_pct": -0.82
+      "price": 95.36,
+      "change_pct": 5.38
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 86.4,
-      "change_pct": 3.6
+      "price": 90.95,
+      "change_pct": 6.05
     }
   ],
   "asx200": {
-    "level": 9092.3,
-    "change_pct": 0.6
+    "level": 9076.0,
+    "change_pct": 0.42
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7171,
-      "change_pct": -0.3345
+      "current_rate": 0.7149,
+      "change_pct": -0.1885
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5919,
-      "change_pct": -0.6043
+      "current_rate": 0.5897,
+      "change_pct": -0.3957
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2113,
-      "change_pct": 0.2491
+      "current_rate": 1.2122,
+      "change_pct": 0.2266
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: NSW confirms new HSC assessment rules to crack down on AI use; Sydney man killed in home invasion",
-      "summary": "<p>Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>43 Australians still missing, with concerns growing \u2018every day, every hour\u2019 that goes by, Wong says</strong></p><p>The foreign affairs minister, <strong>Penny Wong, </strong>says there are still 43 Australian missing after the flooding in Nepal, saying the government holds grave concerns for their safety that only gets worse as the days go by.</p><p>This is such a distressing time and I know this is so difficult for the family and friends of those 43 Australians.</p><p>Every day, every hour, only increases our concern for those who have not been found and remain missing, and that is many Australians. \u2026 You can imagine how many families and friends are traumatised as a consequence.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb\">Continue reading...</a>",
+      "headline": "Bledisloe Cup quadruple-header announced as sevens added to ticket",
+      "summary": "Australia's sevens teams will share the stage in a scheduling first with the Wallabies and Wallaroos to create a Bledisloe Cup quadruple-header in Sydney.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Dozens arrested after fatal pre-dawn shootout in Dutch village",
+      "summary": "<p>Police urged people in Overasselt to stay indoors after one person died and 34 were arrested</p><p>Authorities have arrested 34 people, including French, Belgian and Algerian nationals, after a person died in a pre-dawn shootout in a Dutch village reportedly linked to a notorious drug lord.</p><p>Police urged people in Overasselt, near the German border, to stay indoors with doors and windows shut in case further suspects were on the loose.</p> <a href=\"https://www.theguardian.com/world/2026/sep/01/dozens-arrested-after-fatal-pre-dawn-shootout-in-dutch-village\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +143,30 @@
       ]
     },
     {
-      "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
-      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
+      "headline": "News live: Five Australians confirmed safe after Nepal-Tibet flooding; Chanel Contos urges action on \u2018manosphere\u2019",
+      "summary": "<p>Package steps up support to fight transnational drug trafficking flowing through the Pacific. Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Great news\u2019 that five Australians found safe in Nepal amid grave concerns for those still missing</strong></p><p>The minister for the defence industry, <strong>Pat Conroy</strong>, said the revelation that five Australians have been confirmed safe in Nepal since yesterday morning is \u201cgreat news\u201d, but said the government still had grave concerns for the 38 others still unaccounted for.</p><p>Obviously having five citizens confirmed safe, which is great news for those Australians and their families, reduces the numbers of unaccounted Australians down to 38.</p><p>But we are very concerned for the safety of those 38 that have not had contact with their families or next to kin since the disaster struck. And we\u2019re really focused on establishing their whereabouts and supporting their families in this very difficult time and supporting the people of Nepal in what is tragic circumstances.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "US launches new airstrikes on Iranian targets as hostilities flare",
+      "summary": "<p>Move from Washington quashes hopes that exchange of fire last weekend might not presage \u2060wider renewal of hostilities</p><p>The US launched new airstrikes on Iranian targets on Tuesday, quashing hopes that an exchange of fire last \u2060weekend might not presage a \u2060wider renewal of hostilities.</p><p>Oil prices had \u200balready risen after that first exchange of direct attacks since July and after reports of two tankers being hit leaving the strait of Hormuz, the global oil supply waterway that Iran has effectively closed to shipping.</p> <a href=\"https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "US strikes Iran as state media reports four killed at wedding party",
+      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,30 +176,8 @@
       ]
     },
     {
-      "headline": "Three minors killed in Colombia armed group crackdown",
-      "summary": "Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
-      "summary": "Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Orangutans in danger as wildfires blaze through Borneo",
-      "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
+      "headline": "Ariana Grande ends tour and steps back from public life",
+      "summary": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +187,19 @@
       ]
     },
     {
-      "headline": "Poland opens terror probe into fire at factory supplying Ukraine drones",
-      "summary": "Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.",
+      "headline": "Relief as Australians missing in Nepal-Tibet flood disaster found alive",
+      "summary": "<p>Five missing Australians have been found since Tuesday morning, bringing the total citizens unaccounted for to 38</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-australians-missing-list-names-what-we-know-so-far-ntwnfb\">Australians missing in the Nepal floods: what we know so far</a></p></li></ul><p>A total of five Australians missing after devastating floods <a href=\"https://www.theguardian.com/world/2026/sep/01/nepal-china-border-area-gyirong-port-almost-entirely-cut-off-missing-australians-ntwnfb\">ravaged the Nepal-Tibet border</a> last week have been found.</p><p>Of the five Australians confirmed safe, one was found in Nepal, one in Tibet, one in China and three outside the crisis-hit area. The total number still missing is 38.</p> <a href=\"https://www.theguardian.com/world/2026/sep/01/missing-australian-found-alive-nepal-tibet-floods\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+      "summary": "The IAEA said lack of information and access to facilities to verify Iran&#039;s nuclear material is a proliferation concern.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,41 +209,19 @@
       ]
     },
     {
-      "headline": "Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal",
-      "summary": "Victory \u200blifts Arsenal to six points \u2060along with Man \u2060City, Hull City and Chelsea, while Villa remain without a point.",
+      "headline": "Germany says Russia behind Leipzig airport drone attack",
+      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "BBC World"
       ]
     },
     {
-      "headline": "Putin, Xi reaffirm Russia-China ties amid \u2018unpredictable\u2019 world",
-      "summary": "The Russian and Chinese leaders met on the sidelines of the SCO summit.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Argentinian footballer Lionel Messi announces his retirement",
-      "summary": "Argentinian footballer Lionel Messi announces his retirement",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Israeli outposts expand as Palestinian homes are demolished",
-      "summary": "Israeli forces demolish Palestinian homes in Nablus, while in Hebron settlers cleared land for a new outpost.",
+      "headline": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+      "summary": "President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-01T09:36:43.526530+10:00",
-    "date": "2026-09-01",
-    "display_date": "Tuesday 01 September 2026",
-    "display_time": "09:36 AM AEST"
+    "generated_at": "2026-09-02T08:22:09.185036+10:00",
+    "date": "2026-09-02",
+    "display_date": "Wednesday 02 September 2026",
+    "display_time": "08:22 AM AEST"
   }
 }
