@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7666.6,
-      "change": 35.13,
-      "change_pct": 0.46,
-      "trend_5d": "down"
+      "price": 7747.71,
+      "change": 81.11,
+      "change_pct": 1.06,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26217.83,
-      "change": 118.06,
-      "change_pct": 0.45,
-      "trend_5d": "down"
+      "price": 26584.06,
+      "change": 366.23,
+      "change_pct": 1.4,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53061.95,
-      "change": 295.07,
-      "change_pct": 0.56,
-      "trend_5d": "down"
+      "price": 53686.11,
+      "change": 624.16,
+      "change_pct": 1.18,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.2,
-      "change": -1.14,
-      "change_pct": -6.98,
-      "trend_5d": "up"
+      "price": 14.32,
+      "change": -0.88,
+      "change_pct": -5.79,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.8,
-      "change": 0.0,
-      "change_pct": 0.0,
+      "price": 4.76,
+      "change": -0.04,
+      "change_pct": -0.83,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66215.34,
-      "change": -96.59,
-      "change_pct": -0.15,
+      "price": 64325.64,
+      "change": -1889.7,
+      "change_pct": -2.85,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25329.73,
-      "change": -237.26,
-      "change_pct": -0.93,
+      "price": 25311.21,
+      "change": -18.52,
+      "change_pct": -0.07,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6835.8,
-      "change": 15.78,
-      "change_pct": 0.23,
+      "price": 6562.72,
+      "change": -273.08,
+      "change_pct": -3.99,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4435.6,
-      "change_pct": 2.01
+      "price": 4523.5,
+      "change_pct": 3.6
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 95.35,
-      "change_pct": 0.74
+      "price": 95.76,
+      "change_pct": 0.14
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 90.74,
-      "change_pct": 0.58
+      "price": 91.66,
+      "change_pct": 0.71
     }
   ],
   "asx200": {
-    "level": 9066.7,
-    "change_pct": -0.1
+    "level": 8978.4,
+    "change_pct": -0.97
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7172,
-      "change_pct": -0.0203
+      "current_rate": 0.7204,
+      "change_pct": 0.7902
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5851,
-      "change_pct": -1.2093
+      "current_rate": 0.5885,
+      "change_pct": -0.1836
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2253,
-      "change_pct": 1.1984
+      "current_rate": 1.2238,
+      "change_pct": 0.9461
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Chalmers concedes \u2018softness\u2019 in housing market; teen charged after \u2018near complete amputation\u2019 of boy\u2019s hand in Sydney",
-      "summary": "<p>Boy to face court today. Follow the day\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A teenage boy will face court today after a \u201cnear-complete amputation\u201d of a boy\u2019s hand during an alleged assault in Sydney on Wednesday night.</p><p><strong>NSW police</strong> were called to Redfern about 6pm last night and found a 17-year-old with a partially severed hand.</p><p>This is not a slogan. This is not a headline. This is a solution to a policy problem, a failure of this government. \u2026 We have no time to waste. We have a solution. We\u2019ve done the work. Now let\u2019s see if we can get it adopted \u2026</p><p>This is not a perfect solution, but it is the only solution because the alternative, maintaining the same thing, means that criminals take over.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb\">Continue reading...</a>",
+      "headline": "News live: Two more Australians confirmed safe in Nepal-Tibet floods; Hanson to make cost of living \u2018worse\u2019, union boss warns",
+      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Chris Bowen</strong> has called a joint statement about China\u2019s missile test \u201cstrong\u201d despite it not referring to the nation by name.</p><p>One of the biggest talking points of this week\u2019s Pacific Islands Forum been the lack of a regional response to China\u2019s nuclear-capable inter-continental ballistic missile test in July, as AAP reports.</p><p>I think that leaders in the Pacific were deeply concerned: one, that a missile test was done without permission of the countries whose airspace had travelled through, and two, that there was no notice of the said missile test. So I think it\u2019s both. It is a concern about sovereignty and safety, and one that Australia fully backs. <br /><br />\n It\u2019s a pretty strong statement, Sally, and one that Australia played a role in crafting.</p><p>That would be a huge relief to the loved ones of these two Australians who\u2019ve been located, but we still have very serious concerns for the 36 Australians that we haven\u2019t been able to be located yet.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,30 @@
       ]
     },
     {
-      "headline": "Aviation authorities to review low flyover at Cape Town rugby match",
-      "summary": "South African authorities confirm they are reviewing a flyover during a rugby match against New Zealand that saw two jets perilously close to the stadium roof.",
+      "headline": "Volkswagen confirms it will cut 100,000 jobs by 2030",
+      "summary": "<p>Under-pressure carmaker will shed 15% of workforce and halve its product line in sector\u2019s biggest ever restructure</p><p>The car company Volkswagen has confirmed that it will shed 100,000 jobs by the end of the decade after being hit by US tariffs and fierce competition from Chinese rivals.</p><p>The German manufacturer said management and unions had agreed as part of a sweeping cost-cutting plan to cut a further 50,000 positions by 2030, bringing total job losses in the pipeline to 100,000.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Burnham, Macron talk border security and stronger Europe-UK ties",
+      "summary": "New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "After his Broncos ending, a new beginning looms for Payne Haas",
+      "summary": "Payne Haas's final game for Brisbane was hardly a fitting occasion to end his legendary career with the club but it showed that even a player of his greatness can grapple with a premiership hangover.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +165,19 @@
       ]
     },
     {
-      "headline": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-      "summary": "Senator Thom Tillis accuses Pentagon chief of &#039;inept mismanagement&#039; as US military is strained by war on Iran.",
+      "headline": "Dockers wilt against masterful Hawthorn in qualifying final",
+      "summary": "So good for so long this year, Fremantle chose an inopportune time to put in \u2014 by some distance \u2014 their worst shift of the season, going down by 32 points to a brilliant Hawthorn.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "NYC\u2019s AI ban through grade 8 sets stage for rest of US, experts say",
+      "summary": "The ban will last for one year and affect 600,000 students.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,30 +187,19 @@
       ]
     },
     {
-      "headline": "Protests in Spain over government's handling of Ceuta migrant crisis",
-      "summary": "Spanish opposition parties accuse Prime Minister Pedro S\u00e1nchez of abandoning the residents of Ceuta.",
+      "headline": "Kiss makes selection gamble for Wallabies-Argentina rematch",
+      "summary": "Ben Donaldson will wear the Wallabies' number 10 for the first time in two years while Joseph-Aukuso Suaalii and Len Ikitau have been returned to the centres.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "ABC Australia"
       ]
     },
     {
-      "headline": "Andy Burnham targets migrant crisis ahead of Macron\u2019s visit to No 10",
-      "summary": "<p>PM will aim to centre talks with French president on key foreign policy issues such as Iran, smuggling gangs and EU relations</p><p>Andy Burnham will begin the process of courting European leaders when he welcomes Emmanuel Macron as the first foreign head of state to visit him in Downing Street.</p><p>The prime minister will meet the French president at No 10 on Thursday as he looks to make inroads on a number of foreign policy objectives, including curbing irregular migration and sealing a new deal with the EU.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Israeli PM says Israel is working to overthrow Iran\u2019s government",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran\u2019s government.",
+      "headline": "Nepal flood victims to be identified through DNA",
+      "summary": "Nepal flood victims to be identified through DNA",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +209,8 @@
       ]
     },
     {
-      "headline": "Children return to school in DR Congo amid growing concerns over Ebola",
-      "summary": "Children return to school in DR Congo amid growing concerns over Ebola",
+      "headline": "El Nino: A phenomenon supercharged by climate change",
+      "summary": "Scientists warn the 2026-27 El Nino could become the strongest ever, exacerbating global heat, droughts and floods.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,36 +220,14 @@
       ]
     },
     {
-      "headline": "South African airline behind daring stadium stunt cancels next flyby",
-      "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Israel still wants to remove Palestinians from Gaza, defence minister says",
-      "summary": "Israel Katz says &#039;there is no real solution for Gaza&#039; without de-populating the territory.",
+      "headline": "US Vice President JD Vance declines to offer timeline for end of Iran war",
+      "summary": "The Trump official expressed scepticism at White House briefing about the conflict being a war despite recent flare-up.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Apple Maps renames Lake Ontario as \u2018Lake America\u2019 for US users after Trump order",
-      "summary": "<p>Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada</p><p>Apple has renamed Lake Ontario as \u201cLake America\u201d for US users of its Maps app, after an <a href=\"https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america\">executive order</a> from Donald Trump to change the name of the Great Lake amid his trade spat with Canada.</p><p>The Apple Maps app now displays the controversial new name for the lake, which sits between New York state and the Canadian province of Ontario, for users in the US. Apple users outside the country will still see the Lake Ontario name.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-03T08:20:21.006834+10:00",
-    "date": "2026-09-03",
-    "display_date": "Thursday 03 September 2026",
-    "display_time": "08:20 AM AEST"
+    "generated_at": "2026-09-04T08:15:58.466261+10:00",
+    "date": "2026-09-04",
+    "display_date": "Friday 04 September 2026",
+    "display_time": "08:15 AM AEST"
   }
 }
