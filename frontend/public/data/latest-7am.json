@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7747.71,
-      "change": 81.11,
-      "change_pct": 1.06,
+      "price": 7718.6,
+      "change": -29.11,
+      "change_pct": -0.38,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26584.06,
-      "change": 366.23,
-      "change_pct": 1.4,
+      "price": 26506.99,
+      "change": -77.07,
+      "change_pct": -0.29,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53686.11,
-      "change": 624.16,
-      "change_pct": 1.18,
+      "price": 53414.25,
+      "change": -271.86,
+      "change_pct": -0.51,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.32,
-      "change": -0.88,
-      "change_pct": -5.79,
+      "price": 14.53,
+      "change": 0.21,
+      "change_pct": 1.47,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.76,
-      "change": -0.04,
-      "change_pct": -0.83,
+      "price": 4.78,
+      "change": 0.02,
+      "change_pct": 0.42,
       "trend_5d": "up"
     }
   ],
@@ -45,84 +45,84 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64325.64,
-      "change": -1889.7,
-      "change_pct": -2.85,
-      "trend_5d": "flat"
+      "price": 65020.94,
+      "change": 806.46,
+      "change_pct": 1.26,
+      "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25311.21,
-      "change": -18.52,
-      "change_pct": -0.07,
-      "trend_5d": "flat"
+      "price": 25650.87,
+      "change": 437.56,
+      "change_pct": 1.74,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3930.12,
+      "change": -11.97,
+      "change_pct": -0.3,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6562.72,
-      "change": -273.08,
-      "change_pct": -3.99,
-      "trend_5d": "flat"
+      "price": 6687.21,
+      "change": 107.73,
+      "change_pct": 1.64,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4523.5,
-      "change_pct": 3.6
+      "price": 4476.6,
+      "change_pct": -0.34
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 95.76,
-      "change_pct": 0.14
+      "price": 96.28,
+      "change_pct": 0.8
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 91.66,
-      "change_pct": 0.71
+      "price": 91.48,
+      "change_pct": 0.2
     }
   ],
   "asx200": {
-    "level": 8978.4,
-    "change_pct": -0.97
+    "level": 9005.9,
+    "change_pct": -0.16
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7204,
-      "change_pct": 0.7902
+      "current_rate": 0.7206,
+      "change_pct": 0.0676
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5885,
-      "change_pct": -0.1836
+      "current_rate": 0.588,
+      "change_pct": -0.0964
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2238,
-      "change_pct": 0.9461
+      "current_rate": 1.2234,
+      "change_pct": -0.0163
     }
   ],
   "world_news": [
     {
-      "headline": "News live: Two more Australians confirmed safe in Nepal-Tibet floods; Hanson to make cost of living \u2018worse\u2019, union boss warns",
-      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Chris Bowen</strong> has called a joint statement about China\u2019s missile test \u201cstrong\u201d despite it not referring to the nation by name.</p><p>One of the biggest talking points of this week\u2019s Pacific Islands Forum been the lack of a regional response to China\u2019s nuclear-capable inter-continental ballistic missile test in July, as AAP reports.</p><p>I think that leaders in the Pacific were deeply concerned: one, that a missile test was done without permission of the countries whose airspace had travelled through, and two, that there was no notice of the said missile test. So I think it\u2019s both. It is a concern about sovereignty and safety, and one that Australia fully backs. <br /><br />\n It\u2019s a pretty strong statement, Sally, and one that Australia played a role in crafting.</p><p>That would be a huge relief to the loved ones of these two Australians who\u2019ve been located, but we still have very serious concerns for the 36 Australians that we haven\u2019t been able to be located yet.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb\">Continue reading...</a>",
+      "headline": "News live: parents of Australian surfers killed in Mexico fly in for trial; Labor pressured to toughen lobbying rules",
+      "summary": "<p>Follow the day\u2019s news live</p><p><strong>One Nation propose divert super payments to pay packet</strong></p><p>One Nation has come up with a plan to give people their superannuation earlier, reducing the amount they\u2019ll have at retirement in exchange for a current cash boost.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,30 +132,19 @@
       ]
     },
     {
-      "headline": "Volkswagen confirms it will cut 100,000 jobs by 2030",
-      "summary": "<p>Under-pressure carmaker will shed 15% of workforce and halve its product line in sector\u2019s biggest ever restructure</p><p>The car company Volkswagen has confirmed that it will shed 100,000 jobs by the end of the decade after being hit by US tariffs and fierce competition from Chinese rivals.</p><p>The German manufacturer said management and unions had agreed as part of a sweeping cost-cutting plan to cut a further 50,000 positions by 2030, bringing total job losses in the pipeline to 100,000.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030\">Continue reading...</a>",
+      "headline": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "BBC World"
       ]
     },
     {
-      "headline": "Burnham, Macron talk border security and stronger Europe-UK ties",
-      "summary": "New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "After his Broncos ending, a new beginning looms for Payne Haas",
-      "summary": "Payne Haas's final game for Brisbane was hardly a fitting occasion to end his legendary career with the club but it showed that even a player of his greatness can grapple with a premiership hangover.",
+      "headline": "Sabalenka powers back to US Open quarters in search for first 2026 slam",
+      "summary": "Aryna Sabalenka's quest for her first major crown of 2026 continues as she moves into a US Open quarterfinal against Wimbledon champion Linda Noskova.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,19 +154,8 @@
       ]
     },
     {
-      "headline": "Dockers wilt against masterful Hawthorn in qualifying final",
-      "summary": "So good for so long this year, Fremantle chose an inopportune time to put in \u2014 by some distance \u2014 their worst shift of the season, going down by 32 points to a brilliant Hawthorn.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "NYC\u2019s AI ban through grade 8 sets stage for rest of US, experts say",
-      "summary": "The ban will last for one year and affect 600,000 students.",
+      "headline": "Amazon cargo plane crashes in US while landing at Miami airport",
+      "summary": "The cause of the crash is being investigated.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,19 +165,8 @@
       ]
     },
     {
-      "headline": "Kiss makes selection gamble for Wallabies-Argentina rematch",
-      "summary": "Ben Donaldson will wear the Wallabies' number 10 for the first time in two years while Joseph-Aukuso Suaalii and Len Ikitau have been returned to the centres.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Nepal flood victims to be identified through DNA",
-      "summary": "Nepal flood victims to be identified through DNA",
+      "headline": "At least 10 killed in central Mexico fireworks blast during festival",
+      "summary": "Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +176,19 @@
       ]
     },
     {
-      "headline": "El Nino: A phenomenon supercharged by climate change",
-      "summary": "Scientists warn the 2026-27 El Nino could become the strongest ever, exacerbating global heat, droughts and floods.",
+      "headline": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Can AfD form Germany\u2019s first far-right state government since World War II?",
+      "summary": "Germany\u2019s far-right Alternative for Germany (AfD) is projected to win a regional election in Saxony-Anhalt.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +198,30 @@
       ]
     },
     {
-      "headline": "US Vice President JD Vance declines to offer timeline for end of Iran war",
-      "summary": "The Trump official expressed scepticism at White House briefing about the conflict being a war despite recent flare-up.",
+      "headline": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Video shows damaged Amazon cargo plane after crash",
+      "summary": "An Amazon Air cargo plane has overshot the runway while attempting to land at Miami International Airport.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Susan Sarandon says she still loses film roles over support for Palestine",
+      "summary": "Susan Sarandon says she still loses film roles over support for Palestine",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-04T08:15:58.466261+10:00",
-    "date": "2026-09-04",
-    "display_date": "Friday 04 September 2026",
-    "display_time": "08:15 AM AEST"
+    "generated_at": "2026-09-07T07:57:21.479757+10:00",
+    "date": "2026-09-07",
+    "display_date": "Monday 07 September 2026",
+    "display_time": "07:57 AM AEST"
   }
 }
