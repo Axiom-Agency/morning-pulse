@@ -27,9 +27,9 @@
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.53,
-      "change": 0.21,
-      "change_pct": 1.47,
+      "price": 15.3,
+      "change": 0.77,
+      "change_pct": 5.3,
       "trend_5d": "down"
     },
     {
@@ -48,7 +48,7 @@
       "price": 65020.94,
       "change": 806.46,
       "change_pct": 1.26,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 25650.87,
       "change": 437.56,
       "change_pct": 1.74,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3930.12,
-      "change": -11.97,
-      "change_pct": -0.3,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 6687.21,
       "change": 107.73,
       "change_pct": 1.64,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4476.6,
-      "change_pct": -0.34
+      "price": 4458.4,
+      "change_pct": 0.65
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 96.28,
-      "change_pct": 0.8
+      "price": 97.27,
+      "change_pct": 1.03
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 91.48,
-      "change_pct": 0.2
+      "price": 92.63,
+      "change_pct": 1.26
     }
   ],
   "asx200": {
@@ -103,26 +103,37 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7206,
-      "change_pct": 0.0676
+      "current_rate": 0.7222,
+      "change_pct": 0.2844
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
       "current_rate": 0.588,
-      "change_pct": -0.0964
+      "change_pct": -0.0906
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2234,
-      "change_pct": -0.0163
+      "current_rate": 1.2279,
+      "change_pct": 0.3522
     }
   ],
   "world_news": [
     {
-      "headline": "News live: parents of Australian surfers killed in Mexico fly in for trial; Labor pressured to toughen lobbying rules",
-      "summary": "<p>Follow the day\u2019s news live</p><p><strong>One Nation propose divert super payments to pay packet</strong></p><p>One Nation has come up with a plan to give people their superannuation earlier, reducing the amount they\u2019ll have at retirement in exchange for a current cash boost.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Continue reading...</a>",
+      "headline": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Australia politics live: Howard warns about limiting immigration; Chaney condemns Labor \u2018park barrelling\u2019 allegations",
+      "summary": "<p>Follow the day\u2019s news live</p><p><strong>One Nation policy will leave people $25k worse off at retirement, Mulino says</strong></p><p>Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage.</p><p>It took us decades to get to 12% superannuation guarantee and that\u2019s a level that will provide people with a high level of dignity and security in retirement.</p><p>To do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off.</p><p>I\u2019m deeply sceptical of giving any government, whether I was in charge, or <strong>Anika Wells</strong> is in charge, I\u2019m deeply sceptical of giving any government the power to decide what you read on your phone.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +143,19 @@
       ]
     },
     {
-      "headline": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "headline": "NSW Greens MP pleads with federal colleagues not to back National party motion to block koala park deal",
+      "summary": "<p>Federal Greens partyroom split over plan for NSW to get millions of dollars worth in carbon credits for creating a koala national park</p><p>A New South Wales Greens MP has made an impassioned plea to her federal colleagues, urging them not to vote with the Coalition and One Nation to block a plan for the NSW government to get millions of dollars worth in carbon credits for creating a koala national park.</p><p>Sue Higginson, a former lawyer and forest campaigner turned NSW upper house MP, is the first member of the minor party to speak in detail about a dispute that has split the Greens and environmentalists.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Sabalenka powers back to US Open quarters in search for first 2026 slam",
-      "summary": "Aryna Sabalenka's quest for her first major crown of 2026 continues as she moves into a US Open quarterfinal against Wimbledon champion Linda Noskova.",
+      "headline": "Mixed emotions as Andreeva embraces injured idol after US Open win",
+      "summary": "Mirra Andreeva says it was hard to be purely happy after beating an injured Anastasia Potapova in the fourth round of the US Open after the Russian-born Austrian's late knee injury.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +165,8 @@
       ]
     },
     {
-      "headline": "Amazon cargo plane crashes in US while landing at Miami airport",
-      "summary": "The cause of the crash is being investigated.",
+      "headline": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+      "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +176,19 @@
       ]
     },
     {
-      "headline": "At least 10 killed in central Mexico fireworks blast during festival",
-      "summary": "Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.",
+      "headline": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Indian temple collapses into Ganges as riverbank erodes",
+      "summary": "A temple collapsed into the Ganges River in India\u2019s West Bengal after severe erosion breached protective barriers",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,19 +198,8 @@
       ]
     },
     {
-      "headline": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Can AfD form Germany\u2019s first far-right state government since World War II?",
-      "summary": "Germany\u2019s far-right Alternative for Germany (AfD) is projected to win a regional election in Saxony-Anhalt.",
+      "headline": "Israel\u2019s removal of Gaza rubble risk to war crimes evidence: UN",
+      "summary": "International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,30 +209,19 @@
       ]
     },
     {
-      "headline": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "headline": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
+      "summary": "Fighting is intensifying in Yemen as government-aligned forces launch counterattacks against the Iran-backed Houthis.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Video shows damaged Amazon cargo plane after crash",
-      "summary": "An Amazon Air cargo plane has overshot the runway while attempting to land at Miami International Airport.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Susan Sarandon says she still loses film roles over support for Palestine",
-      "summary": "Susan Sarandon says she still loses film roles over support for Palestine",
+      "headline": "Robots protest in Poland over AI regulation concerns",
+      "summary": "Robots protest in Poland over AI regulation concerns",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-07T07:57:21.479757+10:00",
-    "date": "2026-09-07",
-    "display_date": "Monday 07 September 2026",
-    "display_time": "07:57 AM AEST"
+    "generated_at": "2026-09-08T08:29:29.759071+10:00",
+    "date": "2026-09-08",
+    "display_date": "Tuesday 08 September 2026",
+    "display_time": "08:29 AM AEST"
   }
 }
