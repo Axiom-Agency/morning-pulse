@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7718.6,
-      "change": -29.11,
-      "change_pct": -0.38,
+      "price": 7673.52,
+      "change": -45.08,
+      "change_pct": -0.58,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26506.99,
-      "change": -77.07,
-      "change_pct": -0.29,
+      "price": 26421.41,
+      "change": -85.58,
+      "change_pct": -0.32,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53414.25,
-      "change": -271.86,
-      "change_pct": -0.51,
-      "trend_5d": "up"
+      "price": 52786.07,
+      "change": -628.18,
+      "change_pct": -1.18,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.3,
-      "change": 0.77,
-      "change_pct": 5.3,
-      "trend_5d": "down"
+      "price": 15.72,
+      "change": 0.42,
+      "change_pct": 2.75,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.78,
-      "change": 0.02,
-      "change_pct": 0.42,
+      "price": 4.81,
+      "change": 0.03,
+      "change_pct": 0.63,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 65020.94,
-      "change": 806.46,
-      "change_pct": 1.26,
+      "price": 66399.84,
+      "change": 1378.9,
+      "change_pct": 2.12,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25650.87,
-      "change": 437.56,
-      "change_pct": 1.74,
+      "price": 25413.12,
+      "change": -237.75,
+      "change_pct": -0.93,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6687.21,
-      "change": 107.73,
-      "change_pct": 1.64,
+      "price": 6995.39,
+      "change": 308.18,
+      "change_pct": 4.61,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4458.4,
-      "change_pct": 0.65
+      "price": 4398.6,
+      "change_pct": -0.7
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 97.27,
-      "change_pct": 1.03
+      "price": 99.5,
+      "change_pct": 3.34
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 92.63,
-      "change_pct": 1.26
+      "price": 94.32,
+      "change_pct": 3.1
     }
   ],
   "asx200": {
-    "level": 9005.9,
-    "change_pct": -0.16
+    "level": 9010.9,
+    "change_pct": 0.06
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7222,
-      "change_pct": 0.2844
+      "current_rate": 0.7221,
+      "change_pct": 0.1993
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.588,
-      "change_pct": -0.0906
+      "current_rate": 0.5857,
+      "change_pct": -0.4428
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2279,
-      "change_pct": 0.3522
+      "current_rate": 1.2325,
+      "change_pct": 0.6172
     }
   ],
   "world_news": [
     {
-      "headline": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-      "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Australia politics live: Howard warns about limiting immigration; Chaney condemns Labor \u2018park barrelling\u2019 allegations",
-      "summary": "<p>Follow the day\u2019s news live</p><p><strong>One Nation policy will leave people $25k worse off at retirement, Mulino says</strong></p><p>Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage.</p><p>It took us decades to get to 12% superannuation guarantee and that\u2019s a level that will provide people with a high level of dignity and security in retirement.</p><p>To do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off.</p><p>I\u2019m deeply sceptical of giving any government, whether I was in charge, or <strong>Anika Wells</strong> is in charge, I\u2019m deeply sceptical of giving any government the power to decide what you read on your phone.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Continue reading...</a>",
+      "headline": "Politics live: RBA concedes Australians \u2018furious\u2019 about cost of living; Victorian energy bills may rise by $100 a year under Coalition",
+      "summary": "<p>Follow the day\u2019s news live</p><p><strong>Albanese dismisses concerns over powers in digital duty of care bill</strong></p><p><strong>Anthony Albanese</strong> says the Nationals leader, <strong>Matt Canavan,</strong> is being \u201cdisingenuous\u201d over his criticisms that the communications minister, <strong>Anika Wells,</strong> will have too much power to broaden the content that platforms will have to protect users from under the new digital duty of care legislation.</p><p>The eSafety commissioner will of course provide the advice, but <strong>Matt Canavan</strong> actually knows that he\u2019s being disingenuous because all of these things will be disallowable. That is, will be up to the whole parliament, like the other previous laws have been.</p><p>Otherwise, what you\u2019ve got to do in order to make a change, is to change the legislation, so to be coming forward over and over again.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +132,8 @@
       ]
     },
     {
-      "headline": "NSW Greens MP pleads with federal colleagues not to back National party motion to block koala park deal",
-      "summary": "<p>Federal Greens partyroom split over plan for NSW to get millions of dollars worth in carbon credits for creating a koala national park</p><p>A New South Wales Greens MP has made an impassioned plea to her federal colleagues, urging them not to vote with the Coalition and One Nation to block a plan for the NSW government to get millions of dollars worth in carbon credits for creating a koala national park.</p><p>Sue Higginson, a former lawyer and forest campaigner turned NSW upper house MP, is the first member of the minor party to speak in detail about a dispute that has split the Greens and environmentalists.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park\">Continue reading...</a>",
+      "headline": "UK air traffic control problem strands hundreds of thousands of passengers",
+      "summary": "<p>More than 1,000 flights cancelled as airlines call for overhaul of ATC system after third incident in just over three years</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/08/uk-airport-disruption-rights-if-affected-london-gatwick-heathrow-manchester-birmingham\">UK airport disruption: what are your rights?</a></p></li></ul><p>Hundreds of thousands of air passengers had flights delayed or cancelled after another UK air traffic control technical glitch kept planes grounded for hours on Tuesday.</p><p>Airlines demanded action after a \u201ctechnical issue\u201d at the air traffic control services provider Nats caused the third large-scale stoppage in just over three years.</p> <a href=\"https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,19 +143,8 @@
       ]
     },
     {
-      "headline": "Mixed emotions as Andreeva embraces injured idol after US Open win",
-      "summary": "Mirra Andreeva says it was hard to be purely happy after beating an injured Anastasia Potapova in the fourth round of the US Open after the Russian-born Austrian's late knee injury.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-      "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+      "headline": "Haaland to the double as Manchester City beat Porto in Champions League",
+      "summary": "Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +154,8 @@
       ]
     },
     {
-      "headline": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+      "headline": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +165,19 @@
       ]
     },
     {
-      "headline": "Indian temple collapses into Ganges as riverbank erodes",
-      "summary": "A temple collapsed into the Ganges River in India\u2019s West Bengal after severe erosion breached protective barriers",
+      "headline": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "summary": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "What the UK ban on goods from illegal Israeli settlements really means",
+      "summary": "Israel has announced that it\u2019s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +187,8 @@
       ]
     },
     {
-      "headline": "Israel\u2019s removal of Gaza rubble risk to war crimes evidence: UN",
-      "summary": "International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.",
+      "headline": "US warns Ford over ties with Chinese firms amid tensions",
+      "summary": "US officials criticise Ford\u2019s partnerships with Chinese firms CATL, Geely, and BYD over security risks.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +198,19 @@
       ]
     },
     {
-      "headline": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-      "summary": "Fighting is intensifying in Yemen as government-aligned forces launch counterattacks against the Iran-backed Houthis.",
+      "headline": "LIV files for bankruptcy protection with $45m owed to players",
+      "summary": "LIV Golf still intends to start its new league early next year after filing for bankruptcy protection in the United States.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Real Madrid beat Inter Milan as Mbappe goal sets Mourinho\u2019s men on way",
+      "summary": "Kylian Mbappe opens the scoring but Real Madrid fail to convince in 2-1 Champions League win against Inter Milan.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +220,8 @@
       ]
     },
     {
-      "headline": "Robots protest in Poland over AI regulation concerns",
-      "summary": "Robots protest in Poland over AI regulation concerns",
+      "headline": "US forces sink vessel \u2018linked to Ecuador criminal gang\u2019",
+      "summary": "The US military says it intercepted and sank a floating refueling station in the eastern Pacific.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-08T08:29:29.759071+10:00",
-    "date": "2026-09-08",
-    "display_date": "Tuesday 08 September 2026",
-    "display_time": "08:29 AM AEST"
+    "generated_at": "2026-09-09T08:21:39.510514+10:00",
+    "date": "2026-09-09",
+    "display_date": "Wednesday 09 September 2026",
+    "display_time": "08:21 AM AEST"
   }
 }
