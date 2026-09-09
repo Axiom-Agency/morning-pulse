@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7673.52,
-      "change": -45.08,
-      "change_pct": -0.58,
-      "trend_5d": "up"
+      "price": 7636.36,
+      "change": -37.16,
+      "change_pct": -0.48,
+      "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26421.41,
-      "change": -85.58,
-      "change_pct": -0.32,
-      "trend_5d": "up"
+      "price": 26253.34,
+      "change": -168.07,
+      "change_pct": -0.64,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52786.07,
-      "change": -628.18,
-      "change_pct": -1.18,
-      "trend_5d": "flat"
+      "price": 52380.66,
+      "change": -405.41,
+      "change_pct": -0.77,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.72,
-      "change": 0.42,
-      "change_pct": 2.75,
+      "price": 16.46,
+      "change": 0.74,
+      "change_pct": 4.71,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.81,
+      "price": 4.84,
       "change": 0.03,
-      "change_pct": 0.63,
+      "change_pct": 0.62,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66399.84,
-      "change": 1378.9,
-      "change_pct": 2.12,
+      "price": 65269.33,
+      "change": -1130.51,
+      "change_pct": -1.7,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25413.12,
-      "change": -237.75,
-      "change_pct": -0.93,
+      "price": 25317.18,
+      "change": -95.94,
+      "change_pct": -0.38,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6995.39,
-      "change": 308.18,
-      "change_pct": 4.61,
+      "price": 6954.52,
+      "change": -40.87,
+      "change_pct": -0.58,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,72 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4398.6,
-      "change_pct": -0.7
+      "price": 4449.2,
+      "change_pct": 1.26
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 99.5,
-      "change_pct": 3.34
+      "price": 102.17,
+      "change_pct": 4.34
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 94.32,
-      "change_pct": 3.1
+      "price": 97.38,
+      "change_pct": 4.68
     }
   ],
   "asx200": {
-    "level": 9010.9,
-    "change_pct": 0.06
+    "level": 8920.8,
+    "change_pct": -1.0
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
       "current_rate": 0.7221,
-      "change_pct": 0.1993
+      "change_pct": -0.0022
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5857,
-      "change_pct": -0.4428
+      "current_rate": 0.5841,
+      "change_pct": -0.7085
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2325,
-      "change_pct": 0.6172
+      "current_rate": 1.2359,
+      "change_pct": 0.6835
     }
   ],
   "world_news": [
     {
-      "headline": "Politics live: RBA concedes Australians \u2018furious\u2019 about cost of living; Victorian energy bills may rise by $100 a year under Coalition",
-      "summary": "<p>Follow the day\u2019s news live</p><p><strong>Albanese dismisses concerns over powers in digital duty of care bill</strong></p><p><strong>Anthony Albanese</strong> says the Nationals leader, <strong>Matt Canavan,</strong> is being \u201cdisingenuous\u201d over his criticisms that the communications minister, <strong>Anika Wells,</strong> will have too much power to broaden the content that platforms will have to protect users from under the new digital duty of care legislation.</p><p>The eSafety commissioner will of course provide the advice, but <strong>Matt Canavan</strong> actually knows that he\u2019s being disingenuous because all of these things will be disallowable. That is, will be up to the whole parliament, like the other previous laws have been.</p><p>Otherwise, what you\u2019ve got to do in order to make a change, is to change the legislation, so to be coming forward over and over again.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb\">Continue reading...</a>",
+      "headline": "Aging Australia's parallels with fallen Test giant too close for comfort",
+      "summary": "As much of Australia's selection chatter once again centres around the inclusion of Marnus Labuschagne, the No.3's struggles are a symptom of a far greater problem.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "How the NFL's trip to Melbourne is only the beginning",
+      "summary": "The NFL will open its 2026 season with a match in Melbourne, Australia, this week, one of a record nine matches to take place overseas this season. And it shows no signs of slowing down yet.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Australia politics live: Malinauskas warns Albanese not to follow One Nation down rabbit hole of migration cuts",
+      "summary": "<p>Follow the day\u2019s news live</p><p><strong>\u2018We need to explain Australia doesn\u2019t have a migration crisis\u2019: Malinauskas</strong></p><p><strong>Peter Malinaukas</strong> says he understands the concerns of Australians worried about migration and the housing shortage in Australia, but that the answer is politicians need to explain there is a housing crisis not a migration crisis happening.</p><p>We need to explain that Australia doesn\u2019t really have a migration crisis so much as a housing crisis. If we have a housing crisis, we would do well to focus our skills policy on making sure that we\u2019re bringing in the very workers that we require in the housing construction industry. You know, Australia\u2019s got a massive shortage of almost every trade.</p><p>Everyone, I think, accepts that it needs to be a well-calibrated, balanced migration program. My point is that we haven\u2019t seen much evidence in the political discourse in this country in the last few years making the case for migration. Just to be seeing be a lot of culture wars being executed against migration. And I think that\u2019s self-defeating, and we\u2019ve got a responsibility to stand up against it.</p><p>Above all else, [we must] preserve our strong migration program \u2026 The correct political response to anti-immigration politics and populists is not appeasement.</p><p>More troubling is the prospect of mainstream politics entering a political race to the bottom for who can cut migration numbers the most. This is not unfortunate \u2013 this is madness.</p><p>Imagine if we did this to the mining industry, there world be an ad on every television station and mobile phone about how we\u2019re killing the goose that lays the golden egg. It is crazy.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +154,8 @@
       ]
     },
     {
-      "headline": "UK air traffic control problem strands hundreds of thousands of passengers",
-      "summary": "<p>More than 1,000 flights cancelled as airlines call for overhaul of ATC system after third incident in just over three years</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/08/uk-airport-disruption-rights-if-affected-london-gatwick-heathrow-manchester-birmingham\">UK airport disruption: what are your rights?</a></p></li></ul><p>Hundreds of thousands of air passengers had flights delayed or cancelled after another UK air traffic control technical glitch kept planes grounded for hours on Tuesday.</p><p>Airlines demanded action after a \u201ctechnical issue\u201d at the air traffic control services provider Nats caused the third large-scale stoppage in just over three years.</p> <a href=\"https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Haaland to the double as Manchester City beat Porto in Champions League",
-      "summary": "Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.",
+      "headline": "US court denies Tate brothers\u2019 bid to be released from Miami jail",
+      "summary": "A judge rules the brothers are a &#039;quintessential flight risk&#039; due to their wealth and frequent international travel.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +165,8 @@
       ]
     },
     {
-      "headline": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "headline": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,19 +176,8 @@
       ]
     },
     {
-      "headline": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "summary": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "What the UK ban on goods from illegal Israeli settlements really means",
-      "summary": "Israel has announced that it\u2019s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.",
+      "headline": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
+      "summary": "Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +187,19 @@
       ]
     },
     {
-      "headline": "US warns Ford over ties with Chinese firms amid tensions",
-      "summary": "US officials criticise Ford\u2019s partnerships with Chinese firms CATL, Geely, and BYD over security risks.",
+      "headline": "Women's tennis has a new world number one as US Open showdown looms",
+      "summary": "Elena Rybakina becomes world number one for the first time by reaching the US Open semifinals, despite defending champion and current top-ranked player Aryna Sabalenka still being alive in the tournament.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Manchester United vs Sabah: UEFA Champions League \u2013 preview, team news",
+      "summary": "Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +209,8 @@
       ]
     },
     {
-      "headline": "LIV files for bankruptcy protection with $45m owed to players",
-      "summary": "LIV Golf still intends to start its new league early next year after filing for bankruptcy protection in the United States.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Real Madrid beat Inter Milan as Mbappe goal sets Mourinho\u2019s men on way",
-      "summary": "Kylian Mbappe opens the scoring but Real Madrid fail to convince in 2-1 Champions League win against Inter Milan.",
+      "headline": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
+      "summary": "Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +220,14 @@
       ]
     },
     {
-      "headline": "US forces sink vessel \u2018linked to Ecuador criminal gang\u2019",
-      "summary": "The US military says it intercepted and sank a floating refueling station in the eastern Pacific.",
+      "headline": "Overlooked by the whole AFL, Isaiah Dudley used disappointment as fuel",
+      "summary": "As his Fremantle Dockers look to bounce back against Geelong in an AFL semifinal tomorrow night, Isaiah Dudley hopes his improbable story encourages other footballers to never give up on their dreams.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "ABC Australia"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-09T08:21:39.510514+10:00",
-    "date": "2026-09-09",
-    "display_date": "Wednesday 09 September 2026",
-    "display_time": "08:21 AM AEST"
+    "generated_at": "2026-09-10T08:15:25.380163+10:00",
+    "date": "2026-09-10",
+    "display_date": "Thursday 10 September 2026",
+    "display_time": "08:15 AM AEST"
   }
 }
