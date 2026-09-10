@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7636.36,
-      "change": -37.16,
-      "change_pct": -0.48,
+      "price": 7591.7,
+      "change": -44.66,
+      "change_pct": -0.58,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26253.34,
-      "change": -168.07,
-      "change_pct": -0.64,
-      "trend_5d": "flat"
+      "price": 26081.72,
+      "change": -171.62,
+      "change_pct": -0.65,
+      "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52380.66,
-      "change": -405.41,
-      "change_pct": -0.77,
+      "price": 52064.1,
+      "change": -316.56,
+      "change_pct": -0.6,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.46,
-      "change": 0.74,
-      "change_pct": 4.71,
+      "price": 17.84,
+      "change": 1.38,
+      "change_pct": 8.38,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.84,
-      "change": 0.03,
-      "change_pct": 0.62,
+      "price": 4.94,
+      "change": 0.1,
+      "change_pct": 2.07,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 65269.33,
-      "change": -1130.51,
-      "change_pct": -1.7,
+      "price": 65142.78,
+      "change": -126.55,
+      "change_pct": -0.19,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25317.18,
-      "change": -95.94,
-      "change_pct": -0.38,
+      "price": 25274.96,
+      "change": -42.22,
+      "change_pct": -0.17,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6954.52,
-      "change": -40.87,
-      "change_pct": -0.58,
+      "price": 7051.64,
+      "change": 97.12,
+      "change_pct": 1.4,
       "trend_5d": "flat"
     }
   ],
@@ -79,72 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4449.2,
-      "change_pct": 1.26
+      "price": 4363.1,
+      "change_pct": -1.2
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 102.17,
-      "change_pct": 4.34
+      "price": 109.44,
+      "change_pct": 8.13
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 97.38,
-      "change_pct": 4.68
+      "price": 104.25,
+      "change_pct": 8.54
     }
   ],
   "asx200": {
-    "level": 8920.8,
-    "change_pct": -1.0
+    "level": 8911.4,
+    "change_pct": -0.11
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7221,
-      "change_pct": -0.0022
+      "current_rate": 0.7159,
+      "change_pct": -0.8473
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5841,
-      "change_pct": -0.7085
+      "current_rate": 0.58,
+      "change_pct": -0.9942
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2359,
-      "change_pct": 0.6835
+      "current_rate": 1.2339,
+      "change_pct": 0.1217
     }
   ],
   "world_news": [
     {
-      "headline": "Aging Australia's parallels with fallen Test giant too close for comfort",
-      "summary": "As much of Australia's selection chatter once again centres around the inclusion of Marnus Labuschagne, the No.3's struggles are a symptom of a far greater problem.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "How the NFL's trip to Melbourne is only the beginning",
-      "summary": "The NFL will open its 2026 season with a match in Melbourne, Australia, this week, one of a record nine matches to take place overseas this season. And it shows no signs of slowing down yet.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Australia politics live: Malinauskas warns Albanese not to follow One Nation down rabbit hole of migration cuts",
-      "summary": "<p>Follow the day\u2019s news live</p><p><strong>\u2018We need to explain Australia doesn\u2019t have a migration crisis\u2019: Malinauskas</strong></p><p><strong>Peter Malinaukas</strong> says he understands the concerns of Australians worried about migration and the housing shortage in Australia, but that the answer is politicians need to explain there is a housing crisis not a migration crisis happening.</p><p>We need to explain that Australia doesn\u2019t really have a migration crisis so much as a housing crisis. If we have a housing crisis, we would do well to focus our skills policy on making sure that we\u2019re bringing in the very workers that we require in the housing construction industry. You know, Australia\u2019s got a massive shortage of almost every trade.</p><p>Everyone, I think, accepts that it needs to be a well-calibrated, balanced migration program. My point is that we haven\u2019t seen much evidence in the political discourse in this country in the last few years making the case for migration. Just to be seeing be a lot of culture wars being executed against migration. And I think that\u2019s self-defeating, and we\u2019ve got a responsibility to stand up against it.</p><p>Above all else, [we must] preserve our strong migration program \u2026 The correct political response to anti-immigration politics and populists is not appeasement.</p><p>More troubling is the prospect of mainstream politics entering a political race to the bottom for who can cut migration numbers the most. This is not unfortunate \u2013 this is madness.</p><p>Imagine if we did this to the mining industry, there world be an ad on every television station and mobile phone about how we\u2019re killing the goose that lays the golden egg. It is crazy.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb\">Continue reading...</a>",
+      "headline": "Woolworths increased prices of at least four \u2018family staples\u2019 during \u2018Price Freeze\u2019 promotion",
+      "summary": "<p><strong>Exclusive:</strong> Analysis shows cost of chicken fillets, potatoes and donuts rose during supermarket giant\u2019s three-month promotion</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Woolworths raised prices for popular items \u2013 including a 33% mark up on chicken fillets \u2013 within days of promising to freeze prices on 300 \u201cfamily staples\u201d for three months to help customers with the cost of living.</p><p>Pricing data, compiled by comparison website CW Scanner and provided to Guardian Australia, shows the supermarket chain increasing the prices of at least four key products after starting the three-month \u201cPrice Freeze\u201d promotion on 1 May.</p> <a href=\"https://www.theguardian.com/business/2026/sep/11/woolworths-hike-family-staples-during-price-freeze-promotion\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +132,19 @@
       ]
     },
     {
-      "headline": "US court denies Tate brothers\u2019 bid to be released from Miami jail",
-      "summary": "A judge rules the brothers are a &#039;quintessential flight risk&#039; due to their wealth and frequent international travel.",
+      "headline": "Australia news live: Marles says One Nation \u2018traitor\u2019 cartoon about Hastie is \u2018tasteless\u2019; Albanese marks 25 years since September 11",
+      "summary": "<p>Follow the day\u2019s news live</p><p><strong>John Howard says Australia did the \u2018right thing\u2019 after September 11 attacks</strong></p><p>Former prime minister <strong>John Howard, </strong>who was in Washington DC during the September 11 terror attacks, spoke to the ABC this morning about his experience 25 years ago.</p><p>I just knew that it meant a lot to the whole world, and it certainly meant that I quickly came to realize just how important our association with the Americans was because this powerful country had been attacked in an atrocious, cruel manner.</p><p>I think we did the right thing. I was unhappy with aspects of the ultimate withdrawal from Afghanistan. It did look rather chaotic at the time. \u2026 Overall, I don\u2019t have any regrets. I think we did the right thing in going into Afghanistan.</p><p>I remember on that night watching West Wing, a number of people I have spoken to in the last few days were doing the same thing. When it finished, it cut into this extraordinary vision of smoke coming out of the North Tower. We weren\u2019t really sure what was going on. Then astonishingly it looked as though we were witnessing a plane fly into the South Tower.</p><p>What it then heralded was obviously a huge change in terms of wars in \u2026 Iraq and Afghanistan. More than 40,000 Australians served over the coming years in those, more than 40 lost their lives. Ten Australians lost their lives that day on September 11. We very much remember them.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Spain\u2019s Parliament backs citizenship for Western Saharans born before 1977",
+      "summary": "After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,19 +154,8 @@
       ]
     },
     {
-      "headline": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
-      "summary": "Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.",
+      "headline": "LG defends smart-TV features amid audio surveillance allegations",
+      "summary": "Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +165,8 @@
       ]
     },
     {
-      "headline": "Women's tennis has a new world number one as US Open showdown looms",
-      "summary": "Elena Rybakina becomes world number one for the first time by reaching the US Open semifinals, despite defending champion and current top-ranked player Aryna Sabalenka still being alive in the tournament.",
+      "headline": "Opals knocked out of World Cup as luckless captain's torn ACL confirmed",
+      "summary": "Without a number of their biggest stars, Australia's Opals are knocked out of the FIBA Women's Basketball World Cup in a comprehensive quarterfinal loss to Spain.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +176,8 @@
       ]
     },
     {
-      "headline": "Manchester United vs Sabah: UEFA Champions League \u2013 preview, team news",
-      "summary": "Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.",
+      "headline": "Peru joins US-led \u2018Shield of the Americas\u2019 security alliance",
+      "summary": "Fujimori administration is latest right-wing government to join alliance for a more aggressive approach against crime.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +187,8 @@
       ]
     },
     {
-      "headline": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
-      "summary": "Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.",
+      "headline": "Republican midterm convention live: Trump, Vance headline day two in Dallas",
+      "summary": "US Republicans return to the stage to close their midterm convention, still betting on Trump&#039;s political magnetism.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +198,36 @@
       ]
     },
     {
-      "headline": "Overlooked by the whole AFL, Isaiah Dudley used disappointment as fuel",
-      "summary": "As his Fremantle Dockers look to bounce back against Geelong in an AFL semifinal tomorrow night, Isaiah Dudley hopes his improbable story encourages other footballers to never give up on their dreams.",
+      "headline": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
+      "summary": "Israel\u2019s military says it has destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in Lebanon.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Gaza hospitals ration power as fuel shortages deepen",
+      "summary": "Fuel and engine oil shortages are forcing Gaza\u2019s hospitals to ration electricity",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Russian strike hits shopping centre in central Ukraine",
+      "summary": "A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-10T08:15:25.380163+10:00",
-    "date": "2026-09-10",
-    "display_date": "Thursday 10 September 2026",
+    "generated_at": "2026-09-11T08:15:32.128187+10:00",
+    "date": "2026-09-11",
+    "display_date": "Friday 11 September 2026",
     "display_time": "08:15 AM AEST"
   }
 }
