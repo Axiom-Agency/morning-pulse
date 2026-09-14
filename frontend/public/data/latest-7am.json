@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7656.98,
-      "change": 65.28,
-      "change_pct": 0.86,
+      "price": 7619.98,
+      "change": -37.0,
+      "change_pct": -0.48,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26333.04,
-      "change": 251.32,
-      "change_pct": 0.96,
+      "price": 26186.41,
+      "change": -146.63,
+      "change_pct": -0.56,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52573.29,
-      "change": 509.19,
-      "change_pct": 0.98,
+      "price": 52421.2,
+      "change": -152.09,
+      "change_pct": -0.29,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.84,
-      "change": -2.0,
-      "change_pct": -11.21,
+      "price": 17.1,
+      "change": 1.26,
+      "change_pct": 7.95,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.97,
-      "change": 0.03,
-      "change_pct": 0.61,
+      "price": 4.96,
+      "change": -0.01,
+      "change_pct": -0.2,
       "trend_5d": "up"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 64011.34,
       "change": -1259.61,
       "change_pct": -1.93,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 24805.63,
       "change": -148.84,
       "change_pct": -0.6,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3888.11,
-      "change": -46.29,
-      "change_pct": -1.18,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 6909.91,
       "change": -124.01,
       "change_pct": -1.76,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4408.9,
-      "change_pct": 1.02
+      "price": 4336.4,
+      "change_pct": -1.64
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 104.61,
-      "change_pct": -2.81
+      "price": 106.24,
+      "change_pct": 1.56
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 100.05,
-      "change_pct": -2.37
+      "price": 101.92,
+      "change_pct": 1.87
     }
   ],
   "asx200": {
@@ -103,26 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7169,
-      "change_pct": 0.1813
+      "current_rate": 0.7143,
+      "change_pct": -0.1836
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5812,
-      "change_pct": 0.1145
+      "current_rate": 0.5782,
+      "change_pct": -0.4065
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2323,
-      "change_pct": -0.03
+      "current_rate": 1.2351,
+      "change_pct": 0.2036
     }
   ],
   "world_news": [
     {
-      "headline": "Politics live: One Nation reveals \u2018net-negative\u2019 migration policy; electrifying push for Australians to save $5,000 a year",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Labor has \u2018refused to adopt\u2019 Coalition migration asks</strong></p><p>Perhaps one reason for Labor\u2019s delay in making its migration announcement has been because it wants to see if it can get the Coalition somewhat on board.</p><p>Well, it seemed that there were a number of things that we had proposed to the government that they simply have refused to adopt. We\u2019ve been pretty clear. We want to make sure that we link our migration numbers to the number of houses that are built, that the Housing Minister should come to Parliament each year and announce the number of new houses that have been built, and that will then put a cap on the number of people that can come to the country.</p><p>But the mix of your migration policy is just as important, and getting that right to make sure that you don\u2019t push the country into recession is really important.</p><p>Simply saying we\u2019re going to have negative migration for a number of years, negative nom, well, that would be a real shock to the economy, and it would make all Australians poorer.</p><p>My concern here is that these numbers have simply been plucked out of thin air that there isn\u2019t any modelling behind them.</p><p>We\u2019ve been talking about migration, from the moment that Angus Taylor became the leader \u2026 Work has been going on to the background, but it\u2019s so important to get this right, because <strong>sending the country into recession means that all Australians pay the price. It simply can\u2019t be a slogan, you have to do the work behind it.</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia politics live: Labor defends Catherine King\u2019s top-tier Qantas membership gift; defence recruitment reaches 16-year high",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The South Australian premier, <strong>Peter Malinauskas</strong>, says there is optimism that steel making will continue in his state, after the closure of a major blast furnace at Whyalla was announced yesterday.</p><p>Speaking to ABC News Breakfast from Whyalla and donned in some hi-vis, Malinauskas says there was disappointment, heartbreak, but also a sense of inevitability when the announcement was made.</p><p>[Whyalla] has the capacity to be a viable operation but it hasn\u2019t been recapitalised. The blast furnace is over 60 years old. It was first built in 1965 and blast furnaces of this age not to be realigned on a frequent basis. This hasn\u2019t been done in 20 years. The fact it\u2019s still going is a miracle.</p><p>We need to have the plant recapitalised and that\u2019s exactly the plan we have in conjunction with the federal government \u2026 if we lose this capacity behind me, this country doesn\u2019t have structural steel-making capacity and we can\u2019t afford that.</p><p>If Pauline Hanson wants to take us down the road of Americanising our politics, so people in a family who disagree on political issues can\u2019t speak to each other any longer, this is the pathway to do it \u2026</p><p>We\u2019ve got lots of challenges facing Australia, but we\u2019re not going to solve them by punching down on things that are brilliant about our country. So I think it\u2019s rotten. I think it\u2019s awful. I think it\u2019s ugly.</p><p>I just don\u2019t agree with those comments. But I actually do agree with Senator <strong>Jacinta Nampijinpa Price</strong> when she says that there are serious issues that do need to be discussed. And these comments shouldn\u2019t be a distraction from them. I mean, why aren\u2019t we closing the gap?</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/15/one-nation-pauline-hanson-immigration-coalition-andrew-hastie-angus-taylor-labor-anthony-albanese-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "Sweden election live: results too close to call, with projections narrowing as more votes are counted",
-      "summary": "<p>Projection taking in latest results has opposition bloc on 175 seats and the government parties on 174</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government\">Swedish election \u2013 full report</a></p></li></ul><p>If you\u2019re looking just for a single story to quickly catch up on the story of tonight, let\u2019s cross to our Nordic correspondent, <strong>Miranda Bryant</strong>, for her preview.</p><p><strong>The prospect of far-right anti-immigration Sweden Democrats entering the government has understandably attracted a lot of international attention,</strong> particularly coming just days after the Alternative f\u00fcr Deutschland won the regional elections in Saxony Anhalt in Germany.</p> <a href=\"https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates\">Continue reading...</a>",
+      "headline": "AI-linked stocks slide after tech bosses call for slowdown in \u2018reckless\u2019 development",
+      "summary": "<p>Donald Trump dismisses attempts to increase controls on artificial intelligence as \u2018sick conspiracy\u2019  </p><p><a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">AI</a>-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a <a href=\"https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development\">slowdown in AI \u201creckless\u201d development</a>, citing fears the technology could soon run out of control.</p><p>Shares in the semiconductor designer Nvidia \u2013 the world\u2019s most valuable company \u2013 were down 3.3% by market closing in New York City, while Advanced Micro Devices (AMD) slid 4% and Micron Technology and Sandisk shares slumped by 5%. The tech-heavy Nasdaq index fund was down 0.5% by the end of the day.</p> <a href=\"https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +143,41 @@
       ]
     },
     {
-      "headline": "Hull bounces back for surprise second, 'perfect race' not enough for Myers",
-      "summary": "Jess Hull surprises with second in the 5,000m and Cam Myers finishes just behind Josh Kerr again, but both Australian stars are left happy with their efforts at the Ultimate Championship in Budapest.",
+      "headline": "Landowners in Texas ask court to stop Trump border wall",
+      "summary": "Indigenous groups, environmentalists and locals oppose the wall; Big Bend sees about 1 percent of border arrests.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israeli attack targets Gaza displacement camp",
+      "summary": "Israeli attack targets Gaza displacement camp",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US repeals rules limiting greenhouse gas emissions by power plants",
+      "summary": "The Trump administration says it could save power plants more than $300bn and &#039;unleash&#039; American energy.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "India refuses to accept Asia Cup cricket trophy from Pakistani minister",
+      "summary": "After winning the women's cricket crown in Dubai, the Indian team leaves the field without collecting the trophy because it was to be handed over by Pakistan Cricket Board chairman Moshin Naqvi.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,19 +187,8 @@
       ]
     },
     {
-      "headline": "Swedish election: left and right parties appear to be heading for deadlock",
-      "summary": "<p>Though early exit polls suggested a new left-leaning government, later forecasts suggest an incredibly close race</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates\">Sweden general election \u2013 live updates</a></p></li></ul><p>Sweden\u2019s left and right parties appeared to be heading for deadlock on Sunday night with the majority of the votes counted.</p><p>Earlier in the night, exit polls suggested that the country was on course for a brand new left-leaning government. But later forecasts showed it likely to be an incredibly close race, with just one seat\u2019s difference between the two blocs.</p> <a href=\"https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "A third person has died of measles in the US, health officials say",
-      "summary": "Pennsylvania reports that a 40-year-old woman died from the disease, which was declared eliminated in the US in 2000.",
+      "headline": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
+      "summary": "Macklemore says he was dropped from Ed Sheeran\u2019s US tour over his pro-Palestinian stance.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +198,8 @@
       ]
     },
     {
-      "headline": "Swedish party blocs tied after Sunday vote, projections say",
-      "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
+      "headline": "Legendary costume designer Bob Mackie dies aged 87",
+      "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +209,8 @@
       ]
     },
     {
-      "headline": "USA defeat France to win 12th FIBA Women\u2019s Basketball World Cup",
-      "summary": "Breanna Stewart leads comeback win for the record champions despite France&#039;s early lead in the Berlin final.",
+      "headline": "\u2018Columbia did not care\u2019: Mahmoud Khalil files discrimination lawsuit",
+      "summary": "Activist and former Columbia University student Mahmoud Khalil is filing a lawsuit against the university and a dean.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,30 +220,8 @@
       ]
     },
     {
-      "headline": "Poland, Ukraine accuse Russia of \u2018escalation\u2019 after strikes near border",
-      "summary": "Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Donald Trump doubles down on support for united Ireland",
-      "summary": "<p>US president brushes off Andy Burnham\u2019s opposition to referendum and says he will remove Irish whiskey tariff </p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has reiterated his support for Irish unification and brushed off Andy Burnham\u2019s opposition to a referendum.</p><p>\u201cEverybody says that. Then things happen,\u201d the US president said on Sunday of the British prime minister\u2019s response.</p> <a href=\"https://www.theguardian.com/uk-news/2026/sep/13/donald-trump-doubles-down-on-support-for-united-ireland\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Pro-Palestine protest demands Australia increases pressure on Israel",
-      "summary": "A pro-Palestine protest in Sydney demanded that the Australian government take further action and implement on Israel.",
+      "headline": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+      "summary": "Hopes for a breakthrough on the Iran war have taken a hit after talks in Oman between Iran-Gulf nations were postponed.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-14T08:06:02.547728+10:00",
-    "date": "2026-09-14",
-    "display_date": "Monday 14 September 2026",
-    "display_time": "08:06 AM AEST"
+    "generated_at": "2026-09-15T08:56:37.822214+10:00",
+    "date": "2026-09-15",
+    "display_date": "Tuesday 15 September 2026",
+    "display_time": "08:56 AM AEST"
   }
 }
