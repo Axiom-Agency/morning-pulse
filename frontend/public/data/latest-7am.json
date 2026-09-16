@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7585.73,
-      "change": -34.25,
+      "price": 7551.81,
+      "change": -33.92,
       "change_pct": -0.45,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25981.57,
-      "change": -204.84,
-      "change_pct": -0.78,
+      "price": 25978.42,
+      "change": -3.15,
+      "change_pct": -0.01,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52093.11,
-      "change": -328.09,
-      "change_pct": -0.63,
+      "price": 51461.9,
+      "change": -631.21,
+      "change_pct": -1.21,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.2,
-      "change": 0.1,
-      "change_pct": 0.58,
-      "trend_5d": "up"
+      "price": 17.71,
+      "change": 0.51,
+      "change_pct": 2.97,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.0,
-      "change": 0.04,
-      "change_pct": 0.81,
+      "price": 5.01,
+      "change": 0.01,
+      "change_pct": 0.2,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 63492.99,
-      "change": -518.35,
-      "change_pct": -0.81,
+      "price": 63484.1,
+      "change": -8.89,
+      "change_pct": -0.01,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24917.6,
-      "change": 111.97,
-      "change_pct": 0.45,
+      "price": 24667.24,
+      "change": -250.36,
+      "change_pct": -1.0,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6684.37,
-      "change": -225.54,
-      "change_pct": -3.26,
+      "price": 6627.26,
+      "change": -57.11,
+      "change_pct": -0.85,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4337.9,
-      "change_pct": -0.32
+      "price": 4299.4,
+      "change_pct": -0.77
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 108.42,
-      "change_pct": 2.59
+      "price": 105.52,
+      "change_pct": -2.97
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 105.33,
-      "change_pct": 3.89
+      "price": 101.93,
+      "change_pct": -3.69
     }
   ],
   "asx200": {
-    "level": 8749.9,
-    "change_pct": 0.1
+    "level": 8672.5,
+    "change_pct": -0.88
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7133,
-      "change_pct": -0.2632
+      "current_rate": 0.709,
+      "change_pct": -0.6742
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5762,
-      "change_pct": -0.8654
+      "current_rate": 0.572,
+      "change_pct": -1.0057
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2378,
-      "change_pct": 0.5826
+      "current_rate": 1.239,
+      "change_pct": 0.3052
     }
   ],
   "world_news": [
     {
-      "headline": "Australian politics live: Lambie compares \u2018dangerous\u2019 Hanson to Trump; NSW One Nation leader wants abortion \u2018stopped\u2019",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Sports precinct funding report reveals a \u2018pattern of behaviour\u2019, Wilson says</strong></p><p><strong>Tim Wilson</strong> says there are plenty of questions for Labor to answer over an ABC report which says health minister <strong>Mark Butler\u2019s</strong> office asked an Adelaide council to put forward a $6m sports precinct upgrade for federal funding before any detailed costings or formal planning had been done.</p><p>I think what we\u2019re now seeing is a pattern of behaviour. The prime minister gave a grant to a golf course in his electorate just around the corner from his home, of which he was a member, which he failed to declare. Now we have the health minister, the next wannabe prime minister, doing exactly the same thing.</p><p>I think the problem we\u2019ve got is the government was in a desperate attempt before the last election to stay in office. Now, the election turned out differently than as it appeared in, say, November 2024. And so they scurry to try and dole out public money to get themselves in a winnable position. The problem is it\u2019s now catching up with them.</p><p>That\u2019s a difficult thing to do. However, I think one way to do it is to ensure that Muslim leaders are at the centre of any such discussion and guide that discussion in a way that Australian Muslims as a whole do not feel targeted. Because there is a real risk when you have a discussion about extremist Islam, you have a real risk that Muslims as a whole feel under pressure. Equally, if you don\u2019t have that discussion, you play into the hands of extremists at the other end of the spectrum.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Why is the far-right embracing crypto?",
-      "summary": "From billionaire donors backing parties to far-right activists raising funds in Bitcoin.",
+      "headline": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+      "summary": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran\u2019s tour grows.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,19 +132,8 @@
       ]
     },
     {
-      "headline": "Algeria faces calls to drop death penalty plans after wildfires",
-      "summary": "Rights group warns Algeria could exploit proposed death penalty laws to suppress domestic political opposition.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
-      "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit.",
+      "headline": "US interest rates raised for first time in three years",
+      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,19 +143,8 @@
       ]
     },
     {
-      "headline": "Messi offered farewell by Argentina after international retirement",
-      "summary": "Argentine fans may have the opportunity to farewell football great Lionel Messi, who announced his international retirement earlier this month.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Iran war cost US $38bn and significantly depleted missile stockpile, report finds",
-      "summary": "<p>Damaging budget report estimates cost would grow $3bn per month and stockpile could take five years to rebuild</p><p>The war in Iran has cost the US at least $38bn and left its stockpile of defensive missiles so depleted it could take five years to rebuild, the non-partisan Congressional Budget Office (CBO) has found, in a damaging report less than two months before midterm elections where the war and the cost of living crisis will likely hurt Republicans at the polls.</p><p>The <a href=\"https://www.cbo.gov/system/files/2026-09/62756-Iran.pdf\">economic report</a> comes one day after the Pentagon\u2019s inspector general finally released its own first review of the war, saying that the US spent $22.3bn on munitions alone through 30 June, put total spending at $33.4bn and found the fighting had \u201cresulted in strategic inventory shortfalls and revealed industrial base bottlenecks for munitions resupply\u201d.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/iran-war-cost-cbo-report\">Continue reading...</a>",
+      "headline": "Australian politics live: Labor says people with child support debts to be banned from leaving Australia; Burke to reveal new immigration rules",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Barnaby Joyce</strong> says Labor is copying and pasting One Nation\u2019s homework because the measures we know so far around blocking the families of international students and preventing visa hopping have some similarity to what <strong>Pauline Hanson</strong> is suggesting.</p><p>Speaking to the Today show a little earlier, Joyce says Burke\u2019s last minute cancellation at the press club was \u201cthe greatest no-show since Amelia Earhart\u201d.</p><p>He [Burke] can\u2019t possibly be about to announce One Nation\u2019s policy. I mean, Tony \u2013 Tony\u2019s a great guy, right? I like Tony, but honestly, he was the greatest no-show since Amelia Earhart when he didn\u2019t turn up to the Press Club \u2026</p><p>What I\u2019ve heard thus far is that it\u2019s an exact replication, but not to the extent of what One Nation is doing.</p><p>I will be watching this with absolute fascination and some trepidation, and I\u2019ll be waiting for Jim Chalmers to explain his new budget.</p><p>I was on polling booths with my colleagues like <strong>Sally Sitou</strong>. I was out there in Reid with her in those last weeks of the campaign, standing there for hours at a time. She would be surrounded by men a foot taller than her, stopping her physically talking to or giving information to voters.</p><p>I would think secretly paying known rightwing figures to disrupt events and pretend that they are just disgruntled citizens having their say is certainly immoral, if it\u2019s not illegal.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,47 +154,80 @@
       ]
     },
     {
-      "headline": "US Senate crypto bill collapses in blow to industry",
-      "summary": "The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market",
+      "headline": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+      "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by Singapore police in a $2.2 billion money laundering case that are now up for auction.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "BBC World"
       ]
     },
     {
-      "headline": "Government accused of throwing creatives \u2018under the bus\u2019 with proposal to ease copyright protections for AI giants",
-      "summary": "<p>Proposals revealed as senior personnel from OpenAI, the creator of ChatGPT, met with Albanese ministers</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Albanese government is considering giving AI companies access to Australian creatives\u2019 works by default as it pursues a compromise with American tech giants.</p><p>The proposals were revealed as senior personnel from OpenAI, the creator of ChatGPT, met with Labor ministers and warned Australia\u2019s copyright laws were preventing the company training models locally.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Hundreds protest in DR Congo against third presidential term",
-      "summary": "Hundreds protest in DR Congo against third presidential term",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "PGA Tour not considering return program for LIV Golf players",
-      "summary": "LIV Golf's bankruptcy filing has left the playing futures of some of the breakaway circuit's biggest names in doubt. \u200b",
+      "headline": "Broncos NRLW stars credit 'Princey blow-up' for season turnaround",
+      "summary": "Tamika Upton and Romy Teitzel insist an emotive half-time address from coach Scott Prince was the catalyst for the team's return to form.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
+      "summary": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+      "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Rescue workers search for survivors after Gaza building collapse",
+      "summary": "Rescue workers search for survivors after Gaza building collapse",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "WTA Finals hoped to become 'Super Bowl of women's sports'",
+      "summary": "The season-ending WTA Finals find a new home in North Carolina, as the tour seeks to take greater control of its flagship event amid financial concerns.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "US removes Venezuela from drug list, Trump says",
+      "summary": "Trump says the country has made progress against narcotics since Maduro&#039;s removal, may also remove Colombia and Bolivia.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-16T08:43:26.093409+10:00",
-    "date": "2026-09-16",
-    "display_date": "Wednesday 16 September 2026",
-    "display_time": "08:43 AM AEST"
+    "generated_at": "2026-09-17T08:38:29.628409+10:00",
+    "date": "2026-09-17",
+    "display_date": "Thursday 17 September 2026",
+    "display_time": "08:38 AM AEST"
   }
 }
