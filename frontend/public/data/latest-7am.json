@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7551.81,
-      "change": -33.92,
-      "change_pct": -0.45,
+      "price": 7637.76,
+      "change": 85.95,
+      "change_pct": 1.14,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25978.42,
-      "change": -3.15,
-      "change_pct": -0.01,
-      "trend_5d": "down"
+      "price": 26418.3,
+      "change": 439.87,
+      "change_pct": 1.69,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51461.9,
-      "change": -631.21,
-      "change_pct": -1.21,
+      "price": 51778.04,
+      "change": 316.14,
+      "change_pct": 0.61,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.71,
-      "change": 0.51,
-      "change_pct": 2.97,
+      "price": 15.44,
+      "change": -2.27,
+      "change_pct": -12.82,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.01,
-      "change": 0.01,
-      "change_pct": 0.2,
-      "trend_5d": "up"
+      "price": 4.95,
+      "change": -0.06,
+      "change_pct": -1.2,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 63484.1,
-      "change": -8.89,
-      "change_pct": -0.01,
+      "price": 63923.0,
+      "change": 438.9,
+      "change_pct": 0.69,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24667.24,
-      "change": -250.36,
-      "change_pct": -1.0,
+      "price": 24713.78,
+      "change": 46.54,
+      "change_pct": 0.19,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6627.26,
-      "change": -57.11,
-      "change_pct": -0.85,
+      "price": 6717.97,
+      "change": 90.71,
+      "change_pct": 1.37,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,61 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4299.4,
-      "change_pct": -0.77
+      "price": 4381.4,
+      "change_pct": -0.14
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 105.52,
-      "change_pct": -2.97
+      "price": 104.16,
+      "change_pct": -1.58
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 101.93,
-      "change_pct": -3.69
+      "price": 101.26,
+      "change_pct": -1.14
     }
   ],
   "asx200": {
-    "level": 8672.5,
-    "change_pct": -0.88
+    "level": 8696.5,
+    "change_pct": 0.28
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.709,
-      "change_pct": -0.6742
+      "current_rate": 0.7113,
+      "change_pct": -0.1771
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.572,
-      "change_pct": -1.0057
+      "current_rate": 0.5734,
+      "change_pct": -0.3073
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.239,
-      "change_pct": 0.3052
+      "current_rate": 1.2403,
+      "change_pct": 0.1049
     }
   ],
   "world_news": [
     {
-      "headline": "Macklemore pledges $1m in tour earnings to Palestinian groups",
-      "summary": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran\u2019s tour grows.",
+      "headline": "First Nations netballers driving change, bringing cultural safety",
+      "summary": "Netball has long lacked Indigenous representation at the elite level. The introduction of the First Nations Tournament and Black Swans are some measures the code is taking to address cultural safety.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Russia election: Could other parties challenge United Russia?",
+      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +143,19 @@
       ]
     },
     {
-      "headline": "US interest rates raised for first time in three years",
-      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "headline": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
+      "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Australian politics live: Labor says people with child support debts to be banned from leaving Australia; Burke to reveal new immigration rules",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Barnaby Joyce</strong> says Labor is copying and pasting One Nation\u2019s homework because the measures we know so far around blocking the families of international students and preventing visa hopping have some similarity to what <strong>Pauline Hanson</strong> is suggesting.</p><p>Speaking to the Today show a little earlier, Joyce says Burke\u2019s last minute cancellation at the press club was \u201cthe greatest no-show since Amelia Earhart\u201d.</p><p>He [Burke] can\u2019t possibly be about to announce One Nation\u2019s policy. I mean, Tony \u2013 Tony\u2019s a great guy, right? I like Tony, but honestly, he was the greatest no-show since Amelia Earhart when he didn\u2019t turn up to the Press Club \u2026</p><p>What I\u2019ve heard thus far is that it\u2019s an exact replication, but not to the extent of what One Nation is doing.</p><p>I will be watching this with absolute fascination and some trepidation, and I\u2019ll be waiting for Jim Chalmers to explain his new budget.</p><p>I was on polling booths with my colleagues like <strong>Sally Sitou</strong>. I was out there in Reid with her in those last weeks of the campaign, standing there for hours at a time. She would be surrounded by men a foot taller than her, stopping her physically talking to or giving information to voters.</p><p>I would think secretly paying known rightwing figures to disrupt events and pretend that they are just disgruntled citizens having their say is certainly immoral, if it\u2019s not illegal.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Albanese to meet Apple heads in US after social media reform; medicinal cannabis driving laws pass in NSW",
+      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia needs to slow down its artificial intelligence use and create better security laws, the companies creating the technology have told the federal government.</p><p>In a submission to an ongoing inquiry, <strong>OpenAI</strong> said national leaders had a responsibility to work with other countries to stop global security threats:</p><p>Many of the most consequential risks will not stop at national borders, making international co-ordination increasingly important.</p><p>Drivers deserve laws that are fair, clear and based on science. Police deserve laws that are workable and properly drafted. Patients deserve clarity about how their prescribed medication may affect their legal position.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,30 +165,8 @@
       ]
     },
     {
-      "headline": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
-      "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by Singapore police in a $2.2 billion money laundering case that are now up for auction.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Broncos NRLW stars credit 'Princey blow-up' for season turnaround",
-      "summary": "Tamika Upton and Romy Teitzel insist an emotive half-time address from coach Scott Prince was the catalyst for the team's return to form.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
-      "summary": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
+      "headline": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+      "summary": "The ruling comes amid legal battle over Trump\u2019s changes to the Kennedy Center, including his effort to rename it.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +176,8 @@
       ]
     },
     {
-      "headline": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
-      "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
+      "headline": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +187,8 @@
       ]
     },
     {
-      "headline": "Rescue workers search for survivors after Gaza building collapse",
-      "summary": "Rescue workers search for survivors after Gaza building collapse",
+      "headline": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington&#039;s help in its war with Yemen&#039;s Houthis.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,19 +198,30 @@
       ]
     },
     {
-      "headline": "WTA Finals hoped to become 'Super Bowl of women's sports'",
-      "summary": "The season-ending WTA Finals find a new home in North Carolina, as the tour seeks to take greater control of its flagship event amid financial concerns.",
+      "headline": "Yemenis recount journey to Djibouti as refugee arrivals surge",
+      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "US removes Venezuela from drug list, Trump says",
-      "summary": "Trump says the country has made progress against narcotics since Maduro&#039;s removal, may also remove Colombia and Bolivia.",
+      "headline": "US approves visas for top Iranian leaders to attend UN General Assembly",
+      "summary": "Iran&#039;s delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
+      "summary": "The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-17T08:38:29.628409+10:00",
-    "date": "2026-09-17",
-    "display_date": "Thursday 17 September 2026",
+    "generated_at": "2026-09-18T08:38:51.457970+10:00",
+    "date": "2026-09-18",
+    "display_date": "Friday 18 September 2026",
     "display_time": "08:38 AM AEST"
   }
 }
