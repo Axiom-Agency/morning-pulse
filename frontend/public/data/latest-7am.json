@@ -3,159 +3,126 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7637.76,
-      "change": 85.95,
-      "change_pct": 1.14,
-      "trend_5d": "down"
+      "price": 7650.5,
+      "change": 12.74,
+      "change_pct": 0.17,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26418.3,
-      "change": 439.87,
-      "change_pct": 1.69,
+      "price": 26522.54,
+      "change": 104.24,
+      "change_pct": 0.39,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51778.04,
-      "change": 316.14,
-      "change_pct": 0.61,
+      "price": 51682.64,
+      "change": -95.4,
+      "change_pct": -0.18,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.44,
-      "change": -2.27,
-      "change_pct": -12.82,
+      "price": 14.81,
+      "change": -0.63,
+      "change_pct": -4.08,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.95,
-      "change": -0.06,
-      "change_pct": -1.2,
-      "trend_5d": "down"
+      "price": 5.0,
+      "change": 0.05,
+      "change_pct": 1.01,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 63923.0,
-      "change": 438.9,
-      "change_pct": 0.69,
-      "trend_5d": "flat"
+      "price": 65018.95,
+      "change": 882.7,
+      "change_pct": 1.38,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24713.78,
-      "change": 46.54,
-      "change_pct": 0.19,
-      "trend_5d": "flat"
+      "price": 24750.78,
+      "change": 146.49,
+      "change_pct": 0.6,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3911.87,
+      "change": 36.27,
+      "change_pct": 0.94,
+      "trend_5d": "up"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6717.97,
-      "change": 90.71,
-      "change_pct": 1.37,
-      "trend_5d": "flat"
+      "price": 6894.23,
+      "change": 178.82,
+      "change_pct": 2.66,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4381.4,
-      "change_pct": -0.14
+      "price": 4424.9,
+      "change_pct": 0.0
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 104.16,
-      "change_pct": -1.58
+      "price": 99.29,
+      "change_pct": -4.41
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 101.26,
-      "change_pct": -1.14
+      "price": 96.08,
+      "change_pct": -4.21
     }
   ],
   "asx200": {
-    "level": 8696.5,
-    "change_pct": 0.28
+    "level": 8731.2,
+    "change_pct": -0.01
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7113,
-      "change_pct": -0.1771
+      "current_rate": 0.7126,
+      "change_pct": 0.1484
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5734,
-      "change_pct": -0.3073
+      "current_rate": 0.5727,
+      "change_pct": -0.0143
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2403,
-      "change_pct": 0.1049
+      "current_rate": 1.244,
+      "change_pct": 0.1457
     }
   ],
   "world_news": [
     {
-      "headline": "First Nations netballers driving change, bringing cultural safety",
-      "summary": "Netball has long lacked Indigenous representation at the elite level. The introduction of the First Nations Tournament and Black Swans are some measures the code is taking to address cultural safety.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Russia election: Could other parties challenge United Russia?",
-      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
-      "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Australia news live: Albanese to meet Apple heads in US after social media reform; medicinal cannabis driving laws pass in NSW",
-      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia needs to slow down its artificial intelligence use and create better security laws, the companies creating the technology have told the federal government.</p><p>In a submission to an ongoing inquiry, <strong>OpenAI</strong> said national leaders had a responsibility to work with other countries to stop global security threats:</p><p>Many of the most consequential risks will not stop at national borders, making international co-ordination increasingly important.</p><p>Drivers deserve laws that are fair, clear and based on science. Police deserve laws that are workable and properly drafted. Patients deserve clarity about how their prescribed medication may affect their legal position.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Albanese to put AI concerns to Trump; former police officer Beau Lamarre-Condon\u2019s murder trial to begin",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Finance minister says Coalition proposal to cut fuel excise during periods of high oil prices \u2018unfunded, uncounted promise\u2019</strong></p><p><strong>Katy Gallagher</strong>, the federal finance minister, said the government doesn\u2019t think a Coalition plan to halve the fuel excise whenever oil prices skyrocket is a \u201cgood idea\u201d, saying it is an \u201cunfunded, uncounted promise\u201d from <strong>Angus Taylor</strong>.</p><p>Obviously, we\u2019ve helped when the war started with some changes to the fuel excise, but we\u2019ve shifted and [are] including in the budget to providing more permanent cost of living arrangements, including through the tax system, to make sure that that ongoing cost of living help is there permanently, not just in these one-off arrangements, which, when we\u2019ve got higher inflation, could be difficult in the economy.</p><p>Our decisions have been built and baked into the budget to make sure that that cost of living help is permanent. You know, the sooner this war in the Middle East stops, the better.</p><p>Australia\u2019s diplomatic network enables us to promote our interests in peace, security, trade, investment and other areas of cooperation.</p><p>Australia takes the world as it is and seeks to shape it for the better \u2013 these diplomatic appointments will deepen Australia\u2019s connections abroad and increase our ability to influence where it matters.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,19 +132,19 @@
       ]
     },
     {
-      "headline": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
-      "summary": "The ruling comes amid legal battle over Trump\u2019s changes to the Kennedy Center, including his effort to rename it.",
+      "headline": "Albanese launches bid for UN security council seat and names former Murdoch aide to top diplomatic post",
+      "summary": "<p>Australia and Finland are vying for a spot on the council, and the PM needs two thirds of member states to back him</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Anthony Albanese launched a formal bid for Australia to serve a two-year term on powerful UN body in 2029 and 2030.</p><p>Albanese also unveiled former News Corp head of broadcasting Siobhan McKenna as Australia\u2019s next consul-general to New York.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/21/anthony-albanese-un-security-council-bid-siobhan-mckenna-news-corp-consul-general-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     },
     {
-      "headline": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "headline": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +154,19 @@
       ]
     },
     {
-      "headline": "Trump administration approves sale of F-35 jets to Saudi Arabia",
-      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington&#039;s help in its war with Yemen&#039;s Houthis.",
+      "headline": "Winless Bombers, Saints and Magpies AFLW coaches under pressure",
+      "summary": "Umpiring, teams without a win and big risers: These are the topics fans are talking about midway through the AFLW 2026 season.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Qatar PM urges Gulf security framework with Iran",
+      "summary": "Qatar\u2019s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +176,8 @@
       ]
     },
     {
-      "headline": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen.",
+      "headline": "Argentina\u2019s Left stages \u2018March of Anger\u2019 over Milei\u2019s austerity measures",
+      "summary": "Thousands of protesters took to the streets of Buenos Aires for the \u2018March of Anger\u2019.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +187,8 @@
       ]
     },
     {
-      "headline": "US approves visas for top Iranian leaders to attend UN General Assembly",
-      "summary": "Iran&#039;s delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases.",
+      "headline": "Eighteen suspects extradited to US over Haitian president\u2019s 2021 killing",
+      "summary": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +198,30 @@
       ]
     },
     {
-      "headline": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
-      "summary": "The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.",
+      "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+      "summary": "<p>Jovenel Mo\u00efse, 53, was shot dead in July 2021 in a killing which sparked chaos in Haiti</p><p>Eighteen people have been arrested in association with the 2021 assassination of the Haitian president Jovenel Mo\u00efse, according to US officials.</p><p>Mo\u00efse, 53, was shot dead on 7 July 2021 at his private residence by a hired group of about 20 military-trained Colombian mercenaries. His security detail did not intervene to protect him.</p> <a href=\"https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Qatar PM describes fallout of US-Israel war on Iran as \u2018earthquake\u2019",
+      "summary": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar&#039;s investment strategy.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-18T08:38:51.457970+10:00",
-    "date": "2026-09-18",
-    "display_date": "Friday 18 September 2026",
-    "display_time": "08:38 AM AEST"
+    "generated_at": "2026-09-21T08:10:50.762118+10:00",
+    "date": "2026-09-21",
+    "display_date": "Monday 21 September 2026",
+    "display_time": "08:10 AM AEST"
   }
 }
