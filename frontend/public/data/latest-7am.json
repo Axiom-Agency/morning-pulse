@@ -3,42 +3,42 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7650.5,
-      "change": 12.74,
-      "change_pct": 0.17,
+      "price": 7764.7,
+      "change": 114.2,
+      "change_pct": 1.49,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26522.54,
-      "change": 104.24,
-      "change_pct": 0.39,
+      "price": 27122.09,
+      "change": 599.55,
+      "change_pct": 2.26,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51682.64,
-      "change": -95.4,
-      "change_pct": -0.18,
-      "trend_5d": "down"
+      "price": 52048.83,
+      "change": 366.19,
+      "change_pct": 0.71,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.81,
-      "change": -0.63,
-      "change_pct": -4.08,
+      "price": 14.87,
+      "change": 0.06,
+      "change_pct": 0.41,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.0,
-      "change": 0.05,
-      "change_pct": 1.01,
-      "trend_5d": "up"
+      "price": 4.96,
+      "change": -0.04,
+      "change_pct": -0.8,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
@@ -56,15 +56,15 @@
       "price": 24750.78,
       "change": 146.49,
       "change_pct": 0.6,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3911.87,
-      "change": 36.27,
-      "change_pct": 0.94,
-      "trend_5d": "up"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 6894.23,
       "change": 178.82,
       "change_pct": 2.66,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4424.9,
-      "change_pct": 0.0
+      "price": 4396.9,
+      "change_pct": -0.63
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 99.29,
-      "change_pct": -4.41
+      "price": 96.03,
+      "change_pct": -7.55
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 96.08,
-      "change_pct": -4.21
+      "price": 92.06,
+      "change_pct": -8.22
     }
   ],
   "asx200": {
@@ -103,26 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7126,
-      "change_pct": 0.1484
+      "current_rate": 0.7123,
+      "change_pct": 0.0985
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5727,
-      "change_pct": -0.0143
+      "current_rate": 0.5717,
+      "change_pct": -0.1972
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.244,
-      "change_pct": 0.1457
+      "current_rate": 1.2457,
+      "change_pct": 0.2801
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Albanese to put AI concerns to Trump; former police officer Beau Lamarre-Condon\u2019s murder trial to begin",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Finance minister says Coalition proposal to cut fuel excise during periods of high oil prices \u2018unfunded, uncounted promise\u2019</strong></p><p><strong>Katy Gallagher</strong>, the federal finance minister, said the government doesn\u2019t think a Coalition plan to halve the fuel excise whenever oil prices skyrocket is a \u201cgood idea\u201d, saying it is an \u201cunfunded, uncounted promise\u201d from <strong>Angus Taylor</strong>.</p><p>Obviously, we\u2019ve helped when the war started with some changes to the fuel excise, but we\u2019ve shifted and [are] including in the budget to providing more permanent cost of living arrangements, including through the tax system, to make sure that that ongoing cost of living help is there permanently, not just in these one-off arrangements, which, when we\u2019ve got higher inflation, could be difficult in the economy.</p><p>Our decisions have been built and baked into the budget to make sure that that cost of living help is permanent. You know, the sooner this war in the Middle East stops, the better.</p><p>Australia\u2019s diplomatic network enables us to promote our interests in peace, security, trade, investment and other areas of cooperation.</p><p>Australia takes the world as it is and seeks to shape it for the better \u2013 these diplomatic appointments will deepen Australia\u2019s connections abroad and increase our ability to influence where it matters.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: PM and world leaders urge human control over AI; Chalmers says \u2018monetised misogyny\u2019 online fuelling DV",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Jim Chalmers</strong> was also asked earlier if the government would support a national royal commission into violence against women and children. He said the government had chosen to increase resourcing for child and family violence and domestic violence, adding to the ABC:</p><p>We\u2019re trying to deal with the sources of all of this violence, whether it be more security in the housing system, whether it be the monetised misogyny that we see online \u2013 there are a whole range of factors feeding in here.</p><p>We do acknowledge that all of this violence is obviously entirely unacceptable. It\u2019s horrific in every way. That\u2019s why we\u2019ve increased the resources and that\u2019s why we all need to do better to do everything we can to make a difference here.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +132,8 @@
       ]
     },
     {
-      "headline": "Albanese launches bid for UN security council seat and names former Murdoch aide to top diplomatic post",
-      "summary": "<p>Australia and Finland are vying for a spot on the council, and the PM needs two thirds of member states to back him</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Anthony Albanese launched a formal bid for Australia to serve a two-year term on powerful UN body in 2029 and 2030.</p><p>Albanese also unveiled former News Corp head of broadcasting Siobhan McKenna as Australia\u2019s next consul-general to New York.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/21/anthony-albanese-un-security-council-bid-siobhan-mckenna-news-corp-consul-general-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
-      "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "headline": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +143,19 @@
       ]
     },
     {
-      "headline": "Winless Bombers, Saints and Magpies AFLW coaches under pressure",
-      "summary": "Umpiring, teams without a win and big risers: These are the topics fans are talking about midway through the AFLW 2026 season.",
+      "headline": "Healthcare in Africa \u2018under growing strain\u2019 after US withdrawal from aid programs, report warns",
+      "summary": "<p>Accra Reset\u2019s report states countries in the region and global south should take greater control of their health development after USAID debacle</p><p>The United States\u2019 withdrawal from key aid programs has put has put healthcare in Africa and the Global South \u201cunder growing strain\u201d a new report warns.</p><p>The report says the Trump administration\u2019s cuts to programs such as US Agency for International Development (USAID), as well as the Covid-19 pandemic and rising costs of living globally have brought \u201cnew urgency\u201d for the need to reform healthcare in the region.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Formula 1 agrees to shorter races in 2027",
+      "summary": "Formula 1 races will be shortened from next season, with concerns for organisers and spectators among the reasons behind the change.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,52 +165,8 @@
       ]
     },
     {
-      "headline": "Qatar PM urges Gulf security framework with Iran",
-      "summary": "Qatar\u2019s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Argentina\u2019s Left stages \u2018March of Anger\u2019 over Milei\u2019s austerity measures",
-      "summary": "Thousands of protesters took to the streets of Buenos Aires for the \u2018March of Anger\u2019.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Eighteen suspects extradited to US over Haitian president\u2019s 2021 killing",
-      "summary": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
-      "summary": "<p>Jovenel Mo\u00efse, 53, was shot dead in July 2021 in a killing which sparked chaos in Haiti</p><p>Eighteen people have been arrested in association with the 2021 assassination of the Haitian president Jovenel Mo\u00efse, according to US officials.</p><p>Mo\u00efse, 53, was shot dead on 7 July 2021 at his private residence by a hired group of about 20 military-trained Colombian mercenaries. His security detail did not intervene to protect him.</p> <a href=\"https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president\">Continue reading...</a>",
+      "headline": "UK to give support to Saudi jets in attempt to counter Houthi fighters",
+      "summary": "<p>Andy Burnham seeks stability in Middle East to bring down prices at home as first meeting with Trump looms</p><p>The UK has agreed to provide defensive air support to Saudi Arabia to help counter Houthi fighters and restore stability in the Middle East while driving down the cost of living at home, Andy Burnham has said, ahead of his first meeting with Donald Trump.</p><p>The prime minister said he had agreed to a request for air-to-air refuelling of Saudi jets to defend energy infrastructure against the Iran-backed rebels and help keep oil flowing from the Gulf to ease global economic turmoil.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/21/uk-to-give-support-to-saudi-jets-in-attempt-to-counter-houthi-fighters\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +176,52 @@
       ]
     },
     {
-      "headline": "Qatar PM describes fallout of US-Israel war on Iran as \u2018earthquake\u2019",
-      "summary": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar&#039;s investment strategy.",
+      "headline": "Lions 'praying' Neale gets off but confident they will cope if ban stands",
+      "summary": "Lachie Neale will face the AFL tribunal in the hope of playing in Saturday's grand final, as his teammates prepare for the worst-case scenario.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "World leaders address climate crisis before UN meet amid record-breaking El-Ni\u00f1o",
+      "summary": "<p>Prime ministers of Australia and Iceland discuss effects on their countries even as some shy away in face of war and inflation</p><p>World political leaders are descending on New York for the UN general assembly and some of them are putting the climate crisis on the agenda as they spoke on Monday at the start of the city\u2019s annual Climate Week.</p><p>This year\u2019s Climate Week \u2013 which runs alongside UNGA \u2013 comes after months of extreme heat in large parts of the world including Europe and the US, wildfires in Africa, flash flooding in Asia and a <a href=\"https://www.theguardian.com/environment/2026/sep/21/super-el-nino-temperature-record\">record-breaking El Ni\u00f1o</a>.</p> <a href=\"https://www.theguardian.com/environment/2026/sep/21/world-leaders-climate-crisis-el-nino\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "How thousands of migrants stranded in Ceuta are surviving",
+      "summary": "Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Former \u2018death squad\u2019 leader appears in military trial in The Gambia",
+      "summary": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh&#039;s 20-year rule.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump speech inaudible as US networks boycott White House event",
+      "summary": "US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-21T08:10:50.762118+10:00",
-    "date": "2026-09-21",
-    "display_date": "Monday 21 September 2026",
-    "display_time": "08:10 AM AEST"
+    "generated_at": "2026-09-22T08:59:44.492993+10:00",
+    "date": "2026-09-22",
+    "display_date": "Tuesday 22 September 2026",
+    "display_time": "08:59 AM AEST"
   }
 }
