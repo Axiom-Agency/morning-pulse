@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7706.03,
-      "change": -58.67,
-      "change_pct": -0.76,
+      "price": 7704.13,
+      "change": -1.9,
+      "change_pct": -0.02,
       "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26936.04,
-      "change": -186.05,
-      "change_pct": -0.69,
+      "price": 26939.37,
+      "change": 3.33,
+      "change_pct": 0.01,
       "trend_5d": "flat"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51511.59,
-      "change": -537.24,
-      "change_pct": -1.03,
+      "price": 51349.98,
+      "change": -161.61,
+      "change_pct": -0.31,
       "trend_5d": "flat"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.18,
-      "change": 0.31,
-      "change_pct": 2.08,
+      "price": 15.67,
+      "change": 0.49,
+      "change_pct": 3.23,
       "trend_5d": "flat"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.11,
-      "change": 0.15,
-      "change_pct": 3.02,
+      "price": 5.16,
+      "change": 0.05,
+      "change_pct": 0.98,
       "trend_5d": "flat"
     }
   ],
@@ -48,14 +48,14 @@
       "price": 65018.95,
       "change": 882.7,
       "change_pct": 1.38,
-      "trend_5d": "up"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 25042.71,
-      "change": 291.93,
-      "change_pct": 1.18,
+      "price": 24834.12,
+      "change": -208.59,
+      "change_pct": -0.83,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
+      "price": 7080.92,
+      "change": 73.2,
+      "change_pct": 1.04,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4323.4,
-      "change_pct": -1.21
+      "price": 4306.6,
+      "change_pct": -0.27
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 98.3,
-      "change_pct": -0.96
+      "price": 106.45,
+      "change_pct": 3.27
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 92.6,
-      "change_pct": -2.1
+      "price": 94.4,
+      "change_pct": 2.43
     }
   ],
   "asx200": {
-    "level": 8731.9,
-    "change_pct": 0.01
+    "level": 8765.3,
+    "change_pct": 0.38
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7042,
-      "change_pct": -1.078
+      "current_rate": 0.7013,
+      "change_pct": -1.3918
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5678,
-      "change_pct": -0.5837
+      "current_rate": 0.5663,
+      "change_pct": -1.0771
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.24,
-      "change_pct": -0.5223
+      "current_rate": 1.2382,
+      "change_pct": -0.338
     }
   ],
   "world_news": [
     {
-      "headline": "News live: OECD says Australia will struggle to get inflation below 3%; Qantas staff strike",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>More than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute.</p><p>Qantas said that it has contingency plans in place and any impacts would be felt primarily by the airline\u2019s freight and regional QantasLink services.</p><p>We remain focused on reaching an agreement through the bargaining process and continue to engage constructively with the union.</p><p>The world has become more volatile, more contested and less secure. In this geopolitical environment, it is more important than ever that like-minded partners stand together and deepen their cooperation.</p><p>Australia and the Netherlands recognise the need to continue investing in our close cooperation to meet current and future challenges.</p><p>Australia and the Netherlands remain resolute in their commitment to pursuing truth, justice and accountability on behalf of the victims of the downing of MH17 and their next of kin.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Paterson says PM\u2019s AI hack timing not a coincidence; police officer killed in Sydney crash",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Jane Hume says AI breach should be warning bell that we need more AI in Australia</strong></p><p>Jane Hume, the deputy leader of the opposition, was on Sunrise this morning talking about the AI breach.</p><p>What if it was a less benign breach? What if it was a less benign actor? Let\u2019s face it, clearly, Services Australia\u2019s cybersecurity is woefully inadequate.</p><p>I mean the irony here is that you actually need AI to fight AI. This should hasten, if anything, our move over in the US to less finger wagging and Trump one-upmanship, and <strong>more about embracing these AI companies and bringing them here so that we can have frontier models providing sovereign capability to Australia.</strong> Because AI is going to happen.</p><p>This was an AI agent acting independently of its instructions, that is learning by itself. So it\u2019s a bit of a wake-up call \u2026 about the risks.</p><p>This technology is moving very very fast, and we need to make sure that we have a responsibility to keep on top of it.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,52 +132,8 @@
       ]
     },
     {
-      "headline": "Trump greets Xi Jinping at airport in rare personal welcome ahead of US-China summit on sidelines of UN general assembly \u2013 live",
-      "summary": "<p>The US president travelled to Joint Base Andrews to meet the Chinese leader; Polish president tells UN general assembly Russia is \u2018destabilising\u2019 Europe</p><p><strong>These latest attacks come just hours before Volodymyr Zelenskyy\u2019s address to the UN general assembly,</strong> so he is likely to reflect on them during his UN speech later.</p><p>So far, we have had no public comment from Zelenskyy or Ukraine\u2019s foreign minister Andrii Sybiha.</p> <a href=\"https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed \u2018extreme concern\u2019 to Sam Altman",
-      "summary": "<p>Prime minister says he expressed \u2018disappointment\u2019 to chief executive it had taken the company \u2018way too long\u2019 to inform him about the breach</p><p>Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June.</p><p>Australia\u2019s prime minister made the comments at the UN summit in New York, saying it appeared no personal information had been accessed.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Federal judge delays ruling on White House media ban",
-      "summary": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "V'landys steps down as Racing NSW boss to secure firmer grip on NRL",
-      "summary": "Peter V'landys moves one step closer to becoming the NRL's executive chairman after stepping down from Racing NSW.",
+      "headline": "Brazil\u2019s big-name squad meets mega hype from soccer fanatics",
+      "summary": "Football fans have welcomed some of the world's most famous players to a regional city known for its love of another code.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,30 +143,8 @@
       ]
     },
     {
-      "headline": "Watch: The arms race in space and how the UK is defending itself",
-      "summary": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "FBI says investigating breach of \u2018very sensitive\u2019 data by hackers",
-      "summary": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.",
+      "headline": "Benjamin Netanyahu attacks Israel\u2019s enemies and allies in UN speech",
+      "summary": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +154,80 @@
       ]
     },
     {
-      "headline": "UK survivor of Canadian poison seller says he exploited her despair",
-      "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "headline": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days",
+      "summary": "<p>Country says US must lift sanctions on its oil exports and end the war on all fronts, including in Lebanon</p><p>Iran said it has told Donald Trump it is willing to open the strait of Hormuz in six days, and to start talks on its nuclear program the day after, so long as the US lifts sanctions on Iran\u2019s oil exports in return, ends the war on all fronts \u2013 including in Lebanon \u2013 and releases some of Iran\u2019s frozen assets.</p><p>The proposal is designed to accelerate the steps first laid down in the memorandum of understanding signed by the US and Iran in June, particularly by helping the talks on Iran\u2019s nuclear program start much more quickly than previously agreed.</p> <a href=\"https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
+      "summary": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Infantino calls for 'culture of dialogue' amid resignation calls",
+      "summary": "The FIFA president says he wants to create a culture that is \"not about generating positive headlines\" as federations call for him to step down.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Croatian court approves extradition in Nord Stream bombing case",
+      "summary": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump and Xi hold critical talks at White House summit",
+      "summary": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "Incredible catch helps South Africa beat Australia in one-day clash",
+      "summary": "Marco Jansen takes a catch that needs to be seen to be believed, halting Australia's spirited chase of 298 in the process.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-24T08:40:26.636943+10:00",
-    "date": "2026-09-24",
-    "display_date": "Thursday 24 September 2026",
-    "display_time": "08:40 AM AEST"
+    "generated_at": "2026-09-25T09:00:13.949365+10:00",
+    "date": "2026-09-25",
+    "display_date": "Friday 25 September 2026",
+    "display_time": "09:00 AM AEST"
   }
 }
