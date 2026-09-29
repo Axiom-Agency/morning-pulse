@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7743.41,
-      "change": 39.28,
-      "change_pct": 0.51,
+      "price": 7683.69,
+      "change": -59.72,
+      "change_pct": -0.77,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 27068.72,
-      "change": 129.35,
-      "change_pct": 0.48,
-      "trend_5d": "flat"
+      "price": 26820.38,
+      "change": -248.34,
+      "change_pct": -0.92,
+      "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51828.62,
-      "change": 478.64,
-      "change_pct": 0.93,
+      "price": 51481.51,
+      "change": -347.11,
+      "change_pct": -0.67,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 14.87,
-      "change": -0.8,
-      "change_pct": -5.11,
-      "trend_5d": "flat"
+      "price": 16.07,
+      "change": 1.2,
+      "change_pct": 8.07,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.18,
-      "change": 0.02,
-      "change_pct": 0.39,
+      "price": 5.24,
+      "change": 0.06,
+      "change_pct": 1.16,
       "trend_5d": "up"
     }
   ],
@@ -45,10 +45,10 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66364.2,
-      "change": 850.21,
-      "change_pct": 1.3,
-      "trend_5d": "up"
+      "price": 65350.68,
+      "change": -1013.52,
+      "change_pct": -1.53,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,23 +56,23 @@
       "price": 24510.09,
       "change": -251.04,
       "change_pct": -1.01,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3888.37,
-      "change": -48.15,
-      "change_pct": -1.22,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7080.92,
-      "change": 63.01,
-      "change_pct": 0.9,
-      "trend_5d": "up"
+      "price": 6881.44,
+      "change": -199.48,
+      "change_pct": -2.82,
+      "trend_5d": "flat"
     }
   ],
   "crypto": [
@@ -80,18 +80,10 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 120349,
-      "change_24h_pct": 0.28,
-      "yoy_change_pct": -28.32,
+      "current_price": 118881,
+      "change_24h_pct": -1.32,
+      "yoy_change_pct": -31.32,
       "history": [
-        {
-          "date": "2025-09-28",
-          "price": 167416.47
-        },
-        {
-          "date": "2025-09-29",
-          "price": 170528.17
-        },
         {
           "date": "2025-09-30",
           "price": 172914.24
@@ -1545,8 +1537,16 @@
           "price": 120032.13
         },
         {
-          "date": "2026-09-27",
-          "price": 120004.23
+          "date": "2026-09-28",
+          "price": 120486.58
+        },
+        {
+          "date": "2026-09-29",
+          "price": 118995.25
+        },
+        {
+          "date": "2026-09-29",
+          "price": 118751.98
         }
       ]
     },
@@ -1554,18 +1554,10 @@
       "coin_id": "ethereum",
       "name": "Ethereum",
       "symbol": "ETH",
-      "current_price": 3830.83,
-      "change_24h_pct": -0.01,
-      "yoy_change_pct": -37.74,
+      "current_price": 3826.7,
+      "change_24h_pct": -0.1,
+      "yoy_change_pct": -40.04,
       "history": [
-        {
-          "date": "2025-09-28",
-          "price": 6134.46
-        },
-        {
-          "date": "2025-09-29",
-          "price": 6292.88
-        },
         {
           "date": "2025-09-30",
           "price": 6374.22
@@ -3019,8 +3011,16 @@
           "price": 3832.88
         },
         {
-          "date": "2026-09-27",
-          "price": 3819.21
+          "date": "2026-09-28",
+          "price": 3834.42
+        },
+        {
+          "date": "2026-09-29",
+          "price": 3831.49
+        },
+        {
+          "date": "2026-09-29",
+          "price": 3822.21
         }
       ]
     }
@@ -3029,9 +3029,9 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7012,
-      "change_pct": 0.059,
-      "yoy_change_pct": 6.99,
+      "current_rate": 0.7013,
+      "change_pct": 0.0503,
+      "yoy_change_pct": 7.0,
       "history": [
         {
           "date": "2025-09-29",
@@ -4067,16 +4067,20 @@
         },
         {
           "date": "2026-09-28",
-          "rate": 0.7012
+          "rate": 0.7009
+        },
+        {
+          "date": "2026-09-29",
+          "rate": 0.7013
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5652,
-      "change_pct": -0.0876,
-      "yoy_change_pct": -2.19,
+      "current_rate": 0.566,
+      "change_pct": 0.1511,
+      "yoy_change_pct": -2.05,
       "history": [
         {
           "date": "2025-09-29",
@@ -5112,16 +5116,20 @@
         },
         {
           "date": "2026-09-28",
-          "rate": 0.5652
+          "rate": 0.5651
+        },
+        {
+          "date": "2026-09-29",
+          "rate": 0.566
         }
       ]
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2403,
-      "change_pct": 0.1502,
-      "yoy_change_pct": 9.39,
+      "current_rate": 1.2388,
+      "change_pct": -0.125,
+      "yoy_change_pct": 9.25,
       "history": [
         {
           "date": "2025-09-29",
@@ -6158,14 +6166,18 @@
         {
           "date": "2026-09-28",
           "rate": 1.2403
+        },
+        {
+          "date": "2026-09-29",
+          "rate": 1.2388
         }
       ]
     }
   ],
   "world_news": [
     {
-      "headline": "One dead as nor'easter storm pummels New York and New Jersey",
-      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "headline": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6175,41 +6187,8 @@
       ]
     },
     {
-      "headline": "Australia news live: Gallagher says final budget outcome will shave $6bn off deficit; RBA interest rate hike looms",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>RBA expected to hike cash rate to 4.6%, its highest level since 2011</strong></p><p>Australia\u2019s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than $100 to typical monthly mortgage repayments.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Mighty Sparrow, the Trinidad and Tobago singer known as the \u2018calypso king of the world\u2019, dies aged 91",
-      "summary": "<p>Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York</p><p>Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the \u201ccalypso king of the world\u201d, has died aged 91.</p><p>Francisco, who got his breakthrough in calypso music with his 1956 hit song Jean and Dinah, died peacefully surrounded by his family in New York on Sunday, his family said in a statement.</p> <a href=\"https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Coach goes viral after smearing player's blood on own face",
-      "summary": "College football coach PJ Fleck is described as \"crazy\" after smearing the blood of one his player's onto his own face after their team's US college football victory.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Pope pledges action on clergy child abuse in meeting with French survivors",
-      "summary": "Head of the Roman Catholic Church holds &#039;emotional&#039; two-hour meeting with seven abuse victims in French town of Lourdes.",
+      "headline": "OpenAI scraps release of latest AI model over safety concerns",
+      "summary": "AI giant scraps planned released of GPT-6.1 Astra following concerns raised during internal testing, reports say.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6219,19 +6198,8 @@
       ]
     },
     {
-      "headline": "Man City\u2019s 115 Charges \u2014 The Scandal, The Escape, and Pep\u2019s Own Past",
-      "summary": "Man City just got found guilty on 114 of 115 financial charges \u2014 but the story behind it is much more complex.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo",
-      "summary": "<p>Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists</p><p>Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and strong winds persisted in areas of the island chain still recovering from previous storms.</p><p>Nolo was about 365 miles (585km) south-south-west of Honolulu and moving away from the Big Island at about 12mph (19kph). But the <a href=\"https://hawaii-county-civil-defense-agency-hawaiicountygis.hub.arcgis.com/\">Hawaii county civil defense agency</a> said a high wind warning, wind advisory and high surf advisory remained in effect for parts of the island through Sunday evening as Nolo\u2019s maximum sustained winds rose to 115mph (165kph).</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico\">Continue reading...</a>",
+      "headline": "Australia news live: Greens to choose new leader next week after Waters steps down; bogong moths back at parliament",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>New South Wales police say they are investigating the suspicious deaths of two men in the state\u2019s north.</p><p>Police said they found the first man \u2013 who has since been identified as a 79-year-old \u2013 dead at a property on Summerland Way at Gurranang, near Grafton, on 13 September.</p><p>And that\u2019s equally important in the Reserve Bank\u2019s mandate, dual mandate, which talks about maintaining full employment at the same time as they go for price stability, which means inflation in the target band.</p><p>Well, it\u2019s still lower than what we saw under Howard and Costello, is the first point.</p><p>I think that\u2019s pretty clear. And what we\u2019ve seen in recent years is that it\u2019s possible to have low and steady unemployment at the same time as we see inflation moderate to more normal levels.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6241,8 +6209,8 @@
       ]
     },
     {
-      "headline": "Powerful storm floods US Northeast, causes power outages",
-      "summary": "The nor&#039;easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power.",
+      "headline": "Africa\u2019s space ambitions are moving from policy to practice",
+      "summary": "As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6252,25 +6220,69 @@
       ]
     },
     {
-      "headline": "Australian middle order collapses again as South Africa claims ODI",
-      "summary": "Mitch Marsh and Travis Head pile on the runs in their opening partnership, but the middle order fails again in South Africa.",
+      "headline": "Inside Al Jazeera\u2019s UNGA coverage",
+      "summary": "Here\u2019s a look at what it was like behind the scenes of the coverage you saw online and on TV.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Birrell claims long-awaited WTA title, but loses top Aussie ranking",
-      "summary": "Kim Birrell downs compatriot Maya Joint to claim her first WTA title, but loses her number one ranking as another Australian performs well in Singapore.",
+      "headline": "Vietnamese government accused of abducting Melbourne human rights activist",
+      "summary": "<p>Tran Hiep, a 50-year-old Vietnamese Australian anti-human trafficking campaigner, not heard from since 18 September</p><p>Vietnamese authorities have detained three activists, including an Australian, on what have been described as \u201cfabricated\u201d charges.</p><p>The Vietnamese government said the three confessed to being members of Viet Tan \u2013 a pro-democracy organisation \u2013 which it describes as a terrorist organisation.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/29/melbourne-human-rights-activist-tran-hiep-missing-cambodia-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+      "summary": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Fiery end for SpaceX Starship mission",
+      "summary": "Elon Musk\u2019s SpaceX&#039;s next-generation Starship rocket reached orbit for the first time despite an engine shutdown.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Journalist to be crowned king in Uganda after bitter succession dispute",
+      "summary": "Kijanangoma is being crowned amid a dispute over a young heir whom the royal clan does not recognise.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
       ]
     }
   ],
@@ -6281,174 +6293,174 @@
   "asx_deep_dive": {
     "overview": "AI synthesis unavailable. Showing raw data.",
     "asx200": {
-      "level": 8665.0,
-      "change_pct": -0.43
+      "level": 8671.8,
+      "change_pct": 0.08
     },
     "sectors": [
       {
         "name": "Mining & Resources",
-        "change_pct": -1.36,
+        "change_pct": 0.55,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
+            "ticker": "S32",
+            "name": "S32.AX",
+            "price": 4.99,
+            "change_pct": 2.25,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "BHP",
+            "name": "BHP.AX",
+            "price": 60.3,
+            "change_pct": 0.84,
+            "explanation": "No AI analysis available"
+          },
+          {
             "ticker": "MIN",
             "name": "MIN.AX",
-            "price": 52.41,
-            "change_pct": -3.27,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "FMG",
-            "name": "FMG.AX",
-            "price": 16.37,
-            "change_pct": -2.27,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "RIO",
-            "name": "RIO.AX",
-            "price": 164.85,
-            "change_pct": -0.97,
+            "price": 51.63,
+            "change_pct": -0.37,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Banks & Financials",
-        "change_pct": 0.5,
+        "change_pct": -0.52,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "MQG",
-            "name": "MQG.AX",
-            "price": 239.53,
-            "change_pct": -1.25,
+            "ticker": "CBA",
+            "name": "CBA.AX",
+            "price": 150.49,
+            "change_pct": -0.68,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "ANZ",
             "name": "ANZ.AX",
-            "price": 37.84,
-            "change_pct": 1.1,
+            "price": 38.22,
+            "change_pct": -0.55,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "WBC",
-            "name": "WBC.AX",
-            "price": 34.49,
-            "change_pct": 1.05,
+            "ticker": "MQG",
+            "name": "MQG.AX",
+            "price": 243.64,
+            "change_pct": -0.55,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Tech",
-        "change_pct": -2.02,
+        "change_pct": -0.01,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "REA",
-            "name": "REA.AX",
-            "price": 147.66,
-            "change_pct": -2.91,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "XRO",
             "name": "XRO.AX",
-            "price": 57.36,
-            "change_pct": -2.81,
+            "price": 57.39,
+            "change_pct": -0.55,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "WTC",
-            "name": "WTC.AX",
-            "price": 31.33,
-            "change_pct": -2.25,
+            "ticker": "TNE",
+            "name": "TNE.AX",
+            "price": 29.32,
+            "change_pct": 0.55,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "REA",
+            "name": "REA.AX",
+            "price": 147.79,
+            "change_pct": -0.5,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Healthcare",
-        "change_pct": -0.84,
+        "change_pct": -0.02,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "PME",
             "name": "PME.AX",
-            "price": 161.0,
-            "change_pct": -1.63,
+            "price": 164.63,
+            "change_pct": 1.53,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "CSL",
-            "name": "CSL.AX",
-            "price": 176.95,
-            "change_pct": -1.21,
+            "ticker": "COH",
+            "name": "COH.AX",
+            "price": 143.44,
+            "change_pct": -1.16,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "SHL",
             "name": "SHL.AX",
-            "price": 18.79,
-            "change_pct": -0.63,
+            "price": 18.88,
+            "change_pct": -0.68,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Energy",
-        "change_pct": -0.73,
+        "change_pct": -0.77,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "AGL",
-            "name": "AGL.AX",
-            "price": 8.01,
-            "change_pct": -1.84,
+            "ticker": "WDS",
+            "name": "WDS.AX",
+            "price": 31.37,
+            "change_pct": -1.26,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "STO",
+            "name": "STO.AX",
+            "price": 8.48,
+            "change_pct": -1.17,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "ORG",
             "name": "ORG.AX",
-            "price": 10.84,
-            "change_pct": -1.54,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "WDS",
-            "name": "WDS.AX",
-            "price": 31.72,
-            "change_pct": 0.35,
+            "price": 10.88,
+            "change_pct": -0.64,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "REITs / Property",
-        "change_pct": -0.6,
+        "change_pct": -0.42,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "MGR",
-            "name": "MGR.AX",
-            "price": 1.72,
-            "change_pct": -1.43,
+            "ticker": "GMG",
+            "name": "GMG.AX",
+            "price": 25.91,
+            "change_pct": -1.48,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "CHC",
             "name": "CHC.AX",
-            "price": 17.63,
-            "change_pct": -1.29,
+            "price": 17.79,
+            "change_pct": -0.39,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "GMG",
-            "name": "GMG.AX",
-            "price": 26.38,
-            "change_pct": 0.69,
+            "ticker": "GPT",
+            "name": "GPT.AX",
+            "price": 4.42,
+            "change_pct": -0.23,
             "explanation": "No AI analysis available"
           }
         ]
@@ -6459,9 +6471,9 @@
     {
       "ticker": "AMC",
       "name": "Amcor",
-      "price": 59.87,
-      "change_pct": -1.64,
-      "volume_vs_avg": 0.52,
+      "price": 60.93,
+      "change_pct": 0.53,
+      "volume_vs_avg": 0.04,
       "week52_high": 68.41,
       "week52_low": 49.84,
       "news_digest": "AI synthesis unavailable",
@@ -6470,9 +6482,9 @@
     {
       "ticker": "IHVV",
       "name": "iShares S&P500 ETF",
-      "price": 67.49,
-      "change_pct": 0.39,
-      "volume_vs_avg": 1.42,
+      "price": 67.25,
+      "change_pct": -0.49,
+      "volume_vs_avg": 0.03,
       "week52_high": 68.24,
       "week52_low": 55.76,
       "news_digest": "AI synthesis unavailable",
@@ -6481,9 +6493,9 @@
     {
       "ticker": "JHX",
       "name": "James Hardie",
-      "price": 36.98,
-      "change_pct": -2.48,
-      "volume_vs_avg": 0.51,
+      "price": 36.08,
+      "change_pct": -2.49,
+      "volume_vs_avg": 0.06,
       "week52_high": 43.85,
       "week52_low": 25.43,
       "news_digest": "AI synthesis unavailable",
@@ -6492,9 +6504,9 @@
     {
       "ticker": "LTR",
       "name": "Liontown Resources",
-      "price": 0.94,
-      "change_pct": -3.59,
-      "volume_vs_avg": 0.77,
+      "price": 0.93,
+      "change_pct": 2.76,
+      "volume_vs_avg": 0.27,
       "week52_high": 2.64,
       "week52_low": 0.88,
       "news_digest": "AI synthesis unavailable",
@@ -6503,9 +6515,9 @@
     {
       "ticker": "MQG",
       "name": "Macquarie Group",
-      "price": 239.53,
-      "change_pct": -1.25,
-      "volume_vs_avg": 1.02,
+      "price": 243.69,
+      "change_pct": -0.53,
+      "volume_vs_avg": 0.06,
       "week52_high": 267.25,
       "week52_low": 186.62,
       "news_digest": "AI synthesis unavailable",
@@ -6514,9 +6526,9 @@
     {
       "ticker": "NIC",
       "name": "Nickel Industries",
-      "price": 0.81,
-      "change_pct": -1.22,
-      "volume_vs_avg": 0.39,
+      "price": 0.8,
+      "change_pct": 0.63,
+      "volume_vs_avg": 0.03,
       "week52_high": 1.1,
       "week52_low": 0.67,
       "news_digest": "AI synthesis unavailable",
@@ -6526,8 +6538,8 @@
       "ticker": "PLS",
       "name": "Pilbara Minerals",
       "price": 3.84,
-      "change_pct": -2.54,
-      "volume_vs_avg": 1.59,
+      "change_pct": 0.0,
+      "volume_vs_avg": 0.18,
       "week52_high": 6.68,
       "week52_low": 2.34,
       "news_digest": "AI synthesis unavailable",
@@ -6536,20 +6548,20 @@
     {
       "ticker": "QRE",
       "name": "Qualitas Real Estate",
-      "price": 10.23,
-      "change_pct": -0.58,
-      "volume_vs_avg": 0.13,
+      "price": 10.11,
+      "change_pct": 0.0,
+      "volume_vs_avg": 0.08,
       "week52_high": 11.04,
-      "week52_low": 7.66,
+      "week52_low": 7.69,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
     {
       "ticker": "TLS",
       "name": "Telstra",
-      "price": 4.78,
-      "change_pct": -0.0,
-      "volume_vs_avg": 0.51,
+      "price": 4.8,
+      "change_pct": -0.21,
+      "volume_vs_avg": 0.05,
       "week52_high": 5.43,
       "week52_low": 4.52,
       "news_digest": "AI synthesis unavailable",
@@ -6558,9 +6570,9 @@
     {
       "ticker": "WEB",
       "name": "Webjet",
-      "price": 3.37,
-      "change_pct": -2.32,
-      "volume_vs_avg": 1.41,
+      "price": 3.38,
+      "change_pct": -0.88,
+      "volume_vs_avg": 0.03,
       "week52_high": 5.03,
       "week52_low": 2.23,
       "news_digest": "AI synthesis unavailable",
@@ -6569,9 +6581,9 @@
     {
       "ticker": "WOW",
       "name": "Woolworths",
-      "price": 38.47,
-      "change_pct": 0.52,
-      "volume_vs_avg": 0.72,
+      "price": 38.52,
+      "change_pct": -0.87,
+      "volume_vs_avg": 0.06,
       "week52_high": 40.32,
       "week52_low": 25.26,
       "news_digest": "AI synthesis unavailable",
@@ -6580,9 +6592,9 @@
     {
       "ticker": "WQG",
       "name": "WCM Quality Global Growth",
-      "price": 2.15,
-      "change_pct": 2.38,
-      "volume_vs_avg": 0.74,
+      "price": 2.1,
+      "change_pct": 0.0,
+      "volume_vs_avg": 0.04,
       "week52_high": 2.17,
       "week52_low": 1.59,
       "news_digest": "AI synthesis unavailable",
@@ -6592,9 +6604,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-09-28T09:43:15.884450+10:00",
-    "date": "2026-09-28",
-    "display_date": "Monday 28 September 2026",
-    "display_time": "09:43 AM AEST"
+    "generated_at": "2026-09-29T10:53:51.059007+10:00",
+    "date": "2026-09-29",
+    "display_date": "Tuesday 29 September 2026",
+    "display_time": "10:53 AM AEST"
   }
 }
