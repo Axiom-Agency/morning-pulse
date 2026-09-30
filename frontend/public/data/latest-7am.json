@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7670.84,
-      "change": -12.85,
-      "change_pct": -0.17,
+      "price": 7651.54,
+      "change": -19.3,
+      "change_pct": -0.25,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26797.54,
-      "change": -22.84,
-      "change_pct": -0.09,
+      "price": 26861.06,
+      "change": 63.52,
+      "change_pct": 0.24,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51349.92,
-      "change": -131.59,
-      "change_pct": -0.26,
+      "price": 50906.05,
+      "change": -443.87,
+      "change_pct": -0.86,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.04,
-      "change": -0.03,
-      "change_pct": -0.19,
+      "price": 16.34,
+      "change": 0.3,
+      "change_pct": 1.87,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.26,
-      "change": 0.02,
-      "change_pct": 0.38,
+      "price": 5.29,
+      "change": 0.03,
+      "change_pct": 0.57,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 65877.62,
-      "change": -486.58,
-      "change_pct": -0.73,
+      "price": 65481.27,
+      "change": -396.35,
+      "change_pct": -0.6,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24642.51,
-      "change": 132.42,
-      "change_pct": 0.54,
+      "price": 24523.57,
+      "change": -118.94,
+      "change_pct": -0.48,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6889.74,
-      "change": -191.18,
-      "change_pct": -2.7,
+      "price": 6870.81,
+      "change": -18.93,
+      "change_pct": -0.27,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4215.1,
-      "change_pct": -2.46
+      "price": 4182.8,
+      "change_pct": 0.07
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 96.08,
-      "change_pct": -8.74
+      "price": 97.7,
+      "change_pct": -4.77
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 89.24,
-      "change_pct": -3.63
+      "price": 90.09,
+      "change_pct": 0.79
     }
   ],
   "asx200": {
-    "level": 8679.7,
-    "change_pct": 0.17
+    "level": 8709.3,
+    "change_pct": 0.34
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.699,
-      "change_pct": -0.3822
+      "current_rate": 0.6949,
+      "change_pct": -0.5684
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.564,
-      "change_pct": -0.4179
+      "current_rate": 0.5635,
+      "change_pct": -0.1014
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.239,
-      "change_pct": 0.0089
+      "current_rate": 1.2331,
+      "change_pct": -0.4794
     }
   ],
   "world_news": [
     {
-      "headline": "Iraq begins high-stakes security balancing act as US troops withdraw",
-      "summary": "Iraq marks national &#039;Sovereignty Days&#039; as US troops depart, but must navigate risks of new security landscape.",
+      "headline": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+      "summary": "Mammoth deal has raised questions about corporate consolidation and editorial independence in media.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,19 @@
       ]
     },
     {
-      "headline": "Man City CEO: Premier League verdict based on \u2018conspiracy theory\u2019",
-      "summary": "Man City says it will appeal after an independent commission convicted it of breaking Premier League financial rules.",
+      "headline": "Australia news live: ATO finds one-quarter of big firms pay zero tax; one in two homebuyers using 5% deposit scheme",
+      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Queensland\u2019s state government has missed a deadline to sign up to the federal government\u2019s Thriving Kids program before its rollout begins today.</p><p>Under the program, state governments will <a href=\"https://www.theguardian.com/australia-news/2026/aug/23/ndis-reforms-autism-funding-thriving-kids-queensland\">provide supports to children up to 8</a> years old with mild to moderate autism or developmental delays. They will be made ineligible for federal aid through the NDIS in 2028.</p><p>This scheme is helping Australians, particularly young Australians, get their foot in the door and achieve the dream of home ownership. When it comes to housing challenges, we\u2019re tackling it from every angle \u2013 making it easier for first home buyers, boosting supply and helping renters get a better deal.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "US Senate rejects bill targeting AI data centre electricity costs",
+      "summary": "Democrats criticise bill as lacking &#039;teeth&#039; and push for mandatory measures to address soaring electricity bills.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +154,19 @@
       ]
     },
     {
-      "headline": "Hundreds detained as student protests across France turn violent",
-      "summary": "<p>More than 400 detained as police and students clash over class sizes, exhausting timetables and staff shortages</p><p>More than 400 people, most of them children, have been detained in France on Tuesday after teenagers across the country blockaded their schools in protest at class sizes, teacher shortages and long timetables.</p><p>Interior minister Laurent Nunez told BFM TV: \u201c440 were detained across national territory. We don\u2019t have the final tally yet, but I\u2019m told two-thirds led to police custody.\u201d</p> <a href=\"https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent\">Continue reading...</a>",
+      "headline": "Wallaby who overcame cystic fibrosis to play rugby diagnosed with MND",
+      "summary": "Former Wallaby Nathan Charles, who defied cystic fibrosis to play international rugby, has been diagnosed with motor neurone disease (MND).",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
+      "summary": "<p>Accused pilot being questioned in Saudi Arabia as Israeli officials investigate if incident was attempted terror attack</p><p>One of the pilots of a plane flying from the United Arab Emirates to Israel stabbed his co-pilot and appeared to try<strong> </strong>to crash the aircraft, the Israeli prime minister, Benjamin Netanyahu, has said, as Israeli officials said they were investigating whether the incident was an attempted terror attack on Israelis.</p><p>Eyewitnesses reported chaos onboard the flydubai flight, as the attacker tried to barricade himself and the wounded co-pilot in the cockpit, and then attempted to disable the controls, forcing the plane to descend 17,000 feet in just two minutes.</p> <a href=\"https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,30 +176,8 @@
       ]
     },
     {
-      "headline": "Australia news live: Shoebridge and Hodgins-May announce Greens leadership bid, saying Labor \u2018can\u2019t stop One Nation\u2019",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Who is potential Greens deputy leader candidate Steph Hodgins-May?</strong></p><p>So who is the first-term senator expected to announce a leadership ticket tilt with <strong>David Shoebridge</strong>?</p><p>Get your dirty hands off our kids, that is our message to the fossil fuel industry, who have no place in early-learning centres, in schools, or in our cultural institutions in this country.</p><p>Children should go to school to get evidence-based education, not to be brainwashed by fossil fuel corporations seeking to build social licence.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "From One Nation to fossil fuels, Adam Bandt and Bob Brown reveal vision for Greens ahead of leadership showdown",
-      "summary": "<p>No excuses for next leader of party, Adam Bandt says, while Bob Brown warns they must also be able to take on Pauline Hanson and One Nation</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The former Greens leader Adam Bandt says the party\u2019s new leadership team, which could be chosen as early as Wednesday, will face mounting pressure to block the Albanese government from approving any new coal and gas projects \u201cby whatever means\u201d.</p><p>Bandt told Guardian Australia there would be no excuses for the new leader, likely to be elected at a two-day retreat in Sydney which begins on Wednesday, to allow Labor to approve any new fossil fuel development.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia\u2019s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/30/senior-greens-figures-say-new-leadership-must-stop-labor-approving-fossil-fuel-projects-by-whatever-means\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "UN extends mandate of Gang Suppression Force in Haiti for six months",
-      "summary": "Security force members deployed to Haiti have struggled to make progress against criminal groups as violence continues.",
+      "headline": "Hong Kong journalist arrested on sedition charge",
+      "summary": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +187,19 @@
       ]
     },
     {
-      "headline": "South Africa to clean up high-risk areas after 12 women killed",
-      "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
+      "headline": "Russian drone crashes into Kyiv playground without exploding",
+      "summary": "A Russian attack drone crashed into a children\u2019s playground in Kyiv, Ukraine without exploding.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,30 +209,19 @@
       ]
     },
     {
-      "headline": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
-      "summary": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
+      "headline": "Indian smashes fastest-ever ODI double century in huge run chase",
+      "summary": "Indian batter Shubman Gill has smashed the fastest ODI double century on his way to an unbeaten 223 off 133 balls and a win against West Indies.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "ABC Australia"
       ]
     },
     {
-      "headline": "US consumer confidence hits its lowest level since 2014 ahead of midterms",
-      "summary": "Rising goods and fuel costs are cited as key factors in the sharp drop in consumer confidence.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Former American Idol contestant and pastor found guilty of murdering wife",
-      "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
+      "headline": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+      "summary": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-09-30T09:25:48.478555+10:00",
-    "date": "2026-09-30",
-    "display_date": "Wednesday 30 September 2026",
-    "display_time": "09:25 AM AEST"
+    "generated_at": "2026-10-01T09:27:06.045378+10:00",
+    "date": "2026-10-01",
+    "display_date": "Thursday 01 October 2026",
+    "display_time": "09:27 AM AEST"
   }
 }
