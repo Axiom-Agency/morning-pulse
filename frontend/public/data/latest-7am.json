@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7651.54,
-      "change": -19.3,
-      "change_pct": -0.25,
+      "price": 7666.45,
+      "change": 14.91,
+      "change_pct": 0.19,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26861.06,
-      "change": 63.52,
-      "change_pct": 0.24,
+      "price": 26871.6,
+      "change": 10.54,
+      "change_pct": 0.04,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50906.05,
-      "change": -443.87,
-      "change_pct": -0.86,
+      "price": 50926.56,
+      "change": 20.51,
+      "change_pct": 0.04,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.34,
-      "change": 0.3,
-      "change_pct": 1.87,
+      "price": 16.39,
+      "change": 0.05,
+      "change_pct": 0.31,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.29,
-      "change": 0.03,
-      "change_pct": 0.57,
+      "price": 5.24,
+      "change": -0.05,
+      "change_pct": -0.94,
       "trend_5d": "up"
     }
   ],
@@ -45,33 +45,33 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 65481.27,
-      "change": -396.35,
-      "change_pct": -0.6,
+      "price": 66753.72,
+      "change": 1272.45,
+      "change_pct": 1.94,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24523.57,
-      "change": -118.94,
-      "change_pct": -0.48,
-      "trend_5d": "flat"
+      "price": 24613.27,
+      "change": 89.7,
+      "change_pct": 0.37,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3842.2,
+      "change": 11.75,
+      "change_pct": 0.31,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6870.81,
-      "change": -18.93,
-      "change_pct": -0.27,
+      "price": 6838.04,
+      "change": -32.77,
+      "change_pct": -0.48,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4182.8,
-      "change_pct": 0.07
+      "price": 4211.5,
+      "change_pct": 0.59
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 97.7,
-      "change_pct": -4.77
+      "price": 102.48,
+      "change_pct": -1.01
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 90.09,
-      "change_pct": 0.79
+      "price": 93.02,
+      "change_pct": 2.88
     }
   ],
   "asx200": {
-    "level": 8709.3,
-    "change_pct": 0.34
+    "level": 8789.3,
+    "change_pct": 0.92
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6949,
-      "change_pct": -0.5684
+      "current_rate": 0.693,
+      "change_pct": -0.219
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5635,
-      "change_pct": -0.1014
+      "current_rate": 0.5602,
+      "change_pct": -0.5887
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2331,
-      "change_pct": -0.4794
+      "current_rate": 1.237,
+      "change_pct": 0.3521
     }
   ],
   "world_news": [
     {
-      "headline": "US judge approves settlement allowing Paramount to acquire Warner Bros",
-      "summary": "Mammoth deal has raised questions about corporate consolidation and editorial independence in media.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Australia news live: ATO finds one-quarter of big firms pay zero tax; one in two homebuyers using 5% deposit scheme",
-      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Queensland\u2019s state government has missed a deadline to sign up to the federal government\u2019s Thriving Kids program before its rollout begins today.</p><p>Under the program, state governments will <a href=\"https://www.theguardian.com/australia-news/2026/aug/23/ndis-reforms-autism-funding-thriving-kids-queensland\">provide supports to children up to 8</a> years old with mild to moderate autism or developmental delays. They will be made ineligible for federal aid through the NDIS in 2028.</p><p>This scheme is helping Australians, particularly young Australians, get their foot in the door and achieve the dream of home ownership. When it comes to housing challenges, we\u2019re tackling it from every angle \u2013 making it easier for first home buyers, boosting supply and helping renters get a better deal.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Continue reading...</a>",
+      "headline": "Australia news live: Julie Inman-Grant says \u2018time for new leadership\u2019 at eSafety; Ayres defends \u2018cooperation\u2019 with OpenAI after hack",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, <strong>Australian Associated Press</strong> reports.</p><p>A 23-year-old woman was walking from Flemington Station through Airey Park in Homebush, in Sydney\u2019s west, around 11.15pm on Friday, 18 September, when she was stopped by a man not known to her, police say.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,63 +132,8 @@
       ]
     },
     {
-      "headline": "US Senate rejects bill targeting AI data centre electricity costs",
-      "summary": "Democrats criticise bill as lacking &#039;teeth&#039; and push for mandatory measures to address soaring electricity bills.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Wallaby who overcame cystic fibrosis to play rugby diagnosed with MND",
-      "summary": "Former Wallaby Nathan Charles, who defied cystic fibrosis to play international rugby, has been diagnosed with motor neurone disease (MND).",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
-      "summary": "<p>Accused pilot being questioned in Saudi Arabia as Israeli officials investigate if incident was attempted terror attack</p><p>One of the pilots of a plane flying from the United Arab Emirates to Israel stabbed his co-pilot and appeared to try<strong> </strong>to crash the aircraft, the Israeli prime minister, Benjamin Netanyahu, has said, as Israeli officials said they were investigating whether the incident was an attempted terror attack on Israelis.</p><p>Eyewitnesses reported chaos onboard the flydubai flight, as the attacker tried to barricade himself and the wounded co-pilot in the cockpit, and then attempted to disable the controls, forcing the plane to descend 17,000 feet in just two minutes.</p> <a href=\"https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Hong Kong journalist arrested on sedition charge",
-      "summary": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Russian drone crashes into Kyiv playground without exploding",
-      "summary": "A Russian attack drone crashed into a children\u2019s playground in Kyiv, Ukraine without exploding.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-      "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "headline": "What happened in the failed execution of Christa Pike - and what next?",
+      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +143,8 @@
       ]
     },
     {
-      "headline": "Indian smashes fastest-ever ODI double century in huge run chase",
-      "summary": "Indian batter Shubman Gill has smashed the fastest ODI double century on his way to an unbeaten 223 off 133 balls and a win against West Indies.",
+      "headline": "Pallister and Short continue winning form at short course title",
+      "summary": "Lani Pallister and Sam Short, Australia's stars of the pool in 2026, continue their terrific year with more success at the national short course championships in Sydney.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +154,80 @@
       ]
     },
     {
-      "headline": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
-      "summary": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+      "headline": "Brazilian government calls for probe into US funding of far-right causes",
+      "summary": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "94-year-old Jewish barrister arrested for supporting Palestine Action",
+      "summary": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "France vs Italy: UEFA Nations League \u2013 Zidane, Olise, Esposito, teams, form",
+      "summary": "France face neighbours Italy in new coach Zinedine Zidane&#039;s first home game, with Mbappe out injured.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
+      "summary": "The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "summary": "Pike\u2019s lawyers have asked for her death sentence to be commuted following the botched execution.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "A town, a team and a dream come together as Newcastle rises as one",
+      "summary": "Ahead of their first grand final in a generation, Newcastle is ready to hold the Knights closer to their hearts than ever before as team and city show why they are one.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?",
+      "summary": "As Fury and Joshua confirm long-awaited boxing fight, Al Jazeera explains the delays and exchanges between the sides.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-01T09:27:06.045378+10:00",
-    "date": "2026-10-01",
-    "display_date": "Thursday 01 October 2026",
-    "display_time": "09:27 AM AEST"
+    "generated_at": "2026-10-02T09:40:51.283622+10:00",
+    "date": "2026-10-02",
+    "display_date": "Friday 02 October 2026",
+    "display_time": "09:40 AM AEST"
   }
 }
