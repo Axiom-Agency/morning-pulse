@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7666.45,
-      "change": 14.91,
-      "change_pct": 0.19,
-      "trend_5d": "down"
+      "price": 7722.72,
+      "change": 56.27,
+      "change_pct": 0.73,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26871.6,
-      "change": 10.54,
-      "change_pct": 0.04,
-      "trend_5d": "down"
+      "price": 27190.86,
+      "change": 319.26,
+      "change_pct": 1.19,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50926.56,
-      "change": 20.51,
-      "change_pct": 0.04,
+      "price": 51176.96,
+      "change": 250.4,
+      "change_pct": 0.49,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.39,
-      "change": 0.05,
-      "change_pct": 0.31,
-      "trend_5d": "up"
+      "price": 15.31,
+      "change": -1.08,
+      "change_pct": -6.59,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.24,
-      "change": -0.05,
-      "change_pct": -0.94,
+      "price": 5.28,
+      "change": 0.04,
+      "change_pct": 0.76,
       "trend_5d": "up"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66753.72,
-      "change": 1272.45,
-      "change_pct": 1.94,
-      "trend_5d": "flat"
+      "price": 68309.46,
+      "change": -647.26,
+      "change_pct": -0.94,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24613.27,
-      "change": 89.7,
-      "change_pct": 0.37,
+      "price": 23972.29,
+      "change": -640.98,
+      "change_pct": -2.6,
       "trend_5d": "down"
     },
     {
@@ -69,60 +69,71 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6838.04,
-      "change": -32.77,
-      "change_pct": -0.48,
-      "trend_5d": "flat"
+      "price": 7003.74,
+      "change": 32.39,
+      "change_pct": 0.46,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4211.5,
-      "change_pct": 0.59
+      "price": 4169.8,
+      "change_pct": 0.18
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 102.48,
-      "change_pct": -1.01
+      "price": 102.83,
+      "change_pct": 0.57
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 93.02,
-      "change_pct": 2.88
+      "price": 91.19,
+      "change_pct": 0.09
     }
   ],
   "asx200": {
-    "level": 8789.3,
-    "change_pct": 0.92
+    "level": 8682.1,
+    "change_pct": 0.79
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.693,
-      "change_pct": -0.219
+      "current_rate": 0.6958,
+      "change_pct": 0.4295
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5602,
-      "change_pct": -0.5887
+      "current_rate": 0.5622,
+      "change_pct": 0.3621
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.237,
-      "change_pct": 0.3521
+      "current_rate": 1.2375,
+      "change_pct": 0.0566
     }
   ],
   "world_news": [
     {
-      "headline": "Australia news live: Julie Inman-Grant says \u2018time for new leadership\u2019 at eSafety; Ayres defends \u2018cooperation\u2019 with OpenAI after hack",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, <strong>Australian Associated Press</strong> reports.</p><p>A 23-year-old woman was walking from Flemington Station through Airey Park in Homebush, in Sydney\u2019s west, around 11.15pm on Friday, 18 September, when she was stopped by a man not known to her, police say.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb\">Continue reading...</a>",
+      "headline": "'Don't drop it': Star's nervous moment as Roosters celebrate in Bondi",
+      "summary": "Grand final hero Mark Nawaqanitawase lifts the Provan-Summons trophy to adoring fans as his coach describes the Roosters star as \"extraordinary\".",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Brazil presidential election 2026: first-round live results",
+      "summary": "<p>Luiz In\u00e1cio Lula da Silva is standing against Fl\u00e1vio Bolsonaro in the first round of the presidential race</p><p>The incumbent, Luiz In\u00e1cio Lula da Silva, is up against Fl\u00e1vio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup. The president in Brazil is directly elected, and candidates need more than 50% of the vote to avoid a second round.</p> <a href=\"https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +143,30 @@
       ]
     },
     {
-      "headline": "What happened in the failed execution of Christa Pike - and what next?",
-      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "headline": "Cornell case puts New York\u2019s progressive image at odds with its rape laws",
+      "summary": "New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Pallister and Short continue winning form at short course title",
-      "summary": "Lani Pallister and Sam Short, Australia's stars of the pool in 2026, continue their terrific year with more success at the national short course championships in Sydney.",
+      "headline": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
+      "summary": "Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Live: AFL trade period officially opens as stars eye blockbuster moves",
+      "summary": "The AFL trade period officially opens as stars like Zak Butters, Zach Merrett and Ben King chase blockbuster moves. Follow all the news and debate live.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,63 +176,8 @@
       ]
     },
     {
-      "headline": "Brazilian government calls for probe into US funding of far-right causes",
-      "summary": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "94-year-old Jewish barrister arrested for supporting Palestine Action",
-      "summary": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "France vs Italy: UEFA Nations League \u2013 Zidane, Olise, Esposito, teams, form",
-      "summary": "France face neighbours Italy in new coach Zinedine Zidane&#039;s first home game, with Mbappe out injured.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
-      "summary": "The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "summary": "Pike\u2019s lawyers have asked for her death sentence to be commuted following the botched execution.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "A town, a team and a dream come together as Newcastle rises as one",
-      "summary": "Ahead of their first grand final in a generation, Newcastle is ready to hold the Knights closer to their hearts than ever before as team and city show why they are one.",
+      "headline": "What to look for during the AFL trade period",
+      "summary": "As one footy season ends, the next one begins almost immediately with free agency, trade and the draft period.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +187,41 @@
       ]
     },
     {
-      "headline": "Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?",
-      "summary": "As Fury and Joshua confirm long-awaited boxing fight, Al Jazeera explains the delays and exchanges between the sides.",
+      "headline": "Polls close in Brazil as Lula and Fl\u00e1vio Bolsonaro remain neck and neck",
+      "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
+      "summary": "Holders Portugal first team to qualify for 2026-27 UEFA Nations League despite Cristiano Ronaldo&#039;s absence.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Bosnian Serb nationalist Dodik declares party victory in Bosnia election",
+      "summary": "<p>Staunchly pro-Russia politician has dominated campaign and inflamed divisions despite not appearing on ballot</p><p>Bosnian Serb nationalist politician Milorad Dodik has declared victory for his party in an election in Bosnia shaped by economic pressures, the prospect of the Balkan nation joining the European Union and ethnic tensions that have divided the country since its brutal 1992-95 war.</p><p>Dodik is a staunchly pro-Russia politician who, despite not appearing on the ballot, has dominated the campaign and inflamed divisions with separatist rhetoric that has sparked fears of renewed instability in Bosnia.</p> <a href=\"https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Israel lashes out as UK\u2019s Green Party formally defines Zionism as \u2018racism\u2019",
+      "summary": "Israel&#039;s president declared that the &#039;antisemitic lie&#039; deliberately endangers Jews and Israelis.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-02T09:40:51.283622+10:00",
-    "date": "2026-10-02",
-    "display_date": "Friday 02 October 2026",
-    "display_time": "09:40 AM AEST"
+    "generated_at": "2026-10-05T09:43:40.152690+11:00",
+    "date": "2026-10-05",
+    "display_date": "Monday 05 October 2026",
+    "display_time": "09:43 AM AEST"
   }
 }
