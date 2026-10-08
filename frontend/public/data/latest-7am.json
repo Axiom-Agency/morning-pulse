@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7818.93,
-      "change": 44.98,
-      "change_pct": 0.58,
+      "price": 7801.77,
+      "change": -17.16,
+      "change_pct": -0.22,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 27599.89,
-      "change": 122.58,
-      "change_pct": 0.45,
+      "price": 27538.69,
+      "change": -61.1,
+      "change_pct": -0.22,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51521.28,
-      "change": 253.38,
-      "change_pct": 0.49,
+      "price": 51179.87,
+      "change": -341.41,
+      "change_pct": -0.66,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.01,
-      "change": -0.51,
-      "change_pct": -3.29,
+      "price": 15.08,
+      "change": 0.07,
+      "change_pct": 0.47,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.27,
-      "change": -0.04,
-      "change_pct": -0.75,
-      "trend_5d": "down"
+      "price": 5.28,
+      "change": 0.01,
+      "change_pct": 0.19,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69946.86,
-      "change": 1637.4,
-      "change_pct": 2.4,
+      "price": 70683.98,
+      "change": 737.12,
+      "change_pct": 1.05,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24040.34,
-      "change": 68.05,
-      "change_pct": 0.28,
+      "price": 24280.56,
+      "change": 240.22,
+      "change_pct": 1.0,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 7003.74,
-      "change": 32.39,
-      "change_pct": 0.46,
+      "price": 6941.39,
+      "change": -62.35,
+      "change_pct": -0.89,
       "trend_5d": "flat"
     }
   ],
@@ -79,72 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4193.4,
-      "change_pct": 0.88
+      "price": 4135.6,
+      "change_pct": -1.23
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 101.04,
-      "change_pct": 0.72
+      "price": 100.98,
+      "change_pct": 0.4
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 89.87,
-      "change_pct": 0.49
+      "price": 88.95,
+      "change_pct": -0.55
     }
   ],
   "asx200": {
-    "level": 8740.4,
-    "change_pct": 0.62
+    "level": 8699.8,
+    "change_pct": -0.41
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6984,
-      "change_pct": 0.2428
+      "current_rate": 0.6965,
+      "change_pct": -0.2441
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5627,
-      "change_pct": 0.4985
+      "current_rate": 0.5602,
+      "change_pct": -0.3927
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.241,
-      "change_pct": -0.274
+      "current_rate": 1.2429,
+      "change_pct": 0.1265
     }
   ],
   "world_news": [
     {
-      "headline": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
-      "summary": "<p>World Health Organization detects no sign of further outbreak since Darya Shipilova died last week</p><p>The World Health Organization has said the risk of an epidemic in Russia is low after the <a href=\"https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk\">sudden death of a lab technician</a> who worked at a plague research institute in Siberia.</p><p>Darya Shipilova, who was 28, died last week, two days after falling ill. Russian media reports suggested she <a href=\"https://www.rferl.org/a/russia-plague-warning-siberia-irkutsk-laboratory/33870385.html\">may have become infected after an accident at her workplace</a>, where dangerous pathogens are kept and studied.</p> <a href=\"https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
-      "summary": "<p>Government report finds the country could be hit with more frequent and intense heatwaves, as well as damaging storms and cyclones</p><p>New Zealand could be hit with more frequent and intense heatwaves and catastrophic glacier melts in the near future, as greenhouse gas levels hit record highs, a new report about the nation\u2019s climate has revealed.</p><p>Released on Wednesday, the Our Atmosphere and Climate 2026 report shows New Zealand is experiencing mounting climate pressures, which will have wide-reaching implications for the environment, native species and communities.</p> <a href=\"https://www.theguardian.com/world/2026/oct/07/new-zealand-greenhouse-gas-record-high-threatening-catastrophic-glacier-melts-climate\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "\u2018We are desperate\u2019: Venezuela\u2019s power cuts fuel growing public anger",
-      "summary": "Frequent outages have fuelled protests against the government of interim Venezuelan President Delcy Rodriguez.",
+      "headline": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+      "summary": "The United Nations Interim Force in Lebanon said there were no casualties after small arms fire targeted a border post.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,30 +132,8 @@
       ]
     },
     {
-      "headline": "Privacy watchdog launches probe into China-based company behind Kmart \u2018pervert glasses\u2019 app",
-      "summary": "<p>Commissioner said Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Australian privacy regulator has opened an investigation into the China-based software company behind the HeyCyan app in Kmart\u2019s $89 smartglasses, following public outrage over the covert use of the devices.</p><p>In August, <a href=\"https://www.theguardian.com/australia-news/2026/aug/04/kmart-camera-glasses-anko-meta-smartglasses-australia\">Guardian Australia reported</a> Kmart had sold out of the Anko-branded discount version of Meta\u2019s smartglasses that can capture images and record high-definition video, which led to widespread concern and calls to ban or restrict their use.</p> <a href=\"https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Ikea to pilot online buyback service for secondhand furniture",
-      "summary": "<p>Service to be tested in Spain and Portugal this year, with a UK rollout if successful, as pre-loved markets boom</p><p><a href=\"https://www.theguardian.com/business/ikea\">Ikea</a> is to test an online version of its buy-back service where the retailer offers vouchers for unwanted secondhand furniture.</p><p>The service will be tested in Spain and Portugal before the end of December and will be launched in the UK if it proves successful. Ikea already offers buy-back in stores, including in the UK. The online version will extend it to a much wider audience, with Ikea predicting pre-owned goods are likely to grab 16% of the UK homewares market by next year</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/ikea-to-pilot-online-buyback-service-for-secondhand-furniture\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Christa Pike lawyers say she is speaking one week after failed execution",
-      "summary": "The 50-year-old has regained consciousness and is receiving care nearly one week after being sent to the hospital.",
+      "headline": "Christa Pike was nearly taken off life support before waking, lawyers say",
+      "summary": "Death row inmate who survived execution by lethal injection is said to be &#039;angry and confused&#039; about what happened.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +143,19 @@
       ]
     },
     {
-      "headline": "Sarah Macdonald returns to ABC radio after being sacked in 2024",
-      "summary": "<p>Manager who removed Macdonald announces she will replace the late James Valentine from March</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Two years after her shock axing the ABC has backflipped and reinstated ABC Radio presenter Sarah Macdonald to Sydney\u2019s local radio schedule, where she will replace the late James Valentine from March.</p><p>The manager who had removed Macdonald without explanation, ABC director audio Ben Latimer, announced her return on Wednesday to take on the afternoons slot.</p> <a href=\"https://www.theguardian.com/media/2026/oct/07/sarah-macdonald-returns-abc-radio-james-valentine-ntwnfb\">Continue reading...</a>",
+      "headline": "\u2018No to the father, no to the son\u2019: Thousands march in Rio against Bolsonaro",
+      "summary": "Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil&#039;s presidential run-off.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Rubio in Greece digs into past to tout Trump\u2019s \u2018America first\u2019 approach",
+      "summary": "<p>In the shadow of the Parthenon, the secretary of state gave a selective reading of history as he urged Europe to \u2018awaken from its slumber\u2019</p><p>The US secretary of state, Marco Rubio, delivered a classically inspired apologia for Donald Trump\u2019s \u201cAmerica first\u201d foreign policy on Wednesday, giving a sweeping speech to the backdrop of the Parthenon in Athens that appeared tailor-made for campaign ads if he runs for president in 2028.</p><p>In the speech, the top US diplomat drew historical parallels from the founders, philosophers and conquerers of antiquity to the modern American spirit \u2013 as well as his family\u2019s own journey to the United States \u2013 as he called on Europe to \u201cawaken from its long slumber\u201d and reject a \u201cfuture of atrophy and servitude and decline\u201d.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/07/rubio-greece-trump-america-first-speech\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +165,30 @@
       ]
     },
     {
-      "headline": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-      "summary": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
+      "headline": "Judge orders officials to preserve Pike execution evidence",
+      "summary": "A Nashville judge ordered Tennessee officials to preserve evidence from Christa Pike\u2019s failed execution",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Adelaide 36ers coach claims he was 'targeted' by refs in United loss",
+      "summary": "Trevor Gleeson is left flabbergasted after being whistled for a technical foul during the 36ers' loss to Melbourne United in the NBL's Ignite Cup.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,25 +198,36 @@
       ]
     },
     {
-      "headline": "Richard Morecroft, veteran ABC news presenter, dies aged 70 after cancer diagnosis",
-      "summary": "<p>Anthony Albanese fondly recalls the passionate environmental advocate  keeping an infant flying fox under his desk as he presented the news</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Former ABC news presenter Richard Morecroft has been remembered as \u201cone of the great broadcasters of his generation\u201d and a \u201ctrusted presence\u201d for Australians after his death at the age of 70.</p><p>Morecroft presented ABC\u2019s 7pm news bulletin for almost 20 years until 2002 and was a fixture on screens.</p> <a href=\"https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Fans flood Buenos Aires ahead of Messi\u2019s final international match",
-      "summary": "Thousands of Argentina fans poured into Buenos Aires\u2019 Monumental stadium ahead of Lionel Messi\u2019s final match.",
+      "headline": "Pro-Palestine university groups march in London on October 7 anniversary",
+      "summary": "Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump on why he thinks he deserves the Nobel Peace Prize",
+      "summary": "US President Donald Trump said it would be a \u2018great discredit\u2019 to the Nobel Peace Prize committee.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Live: Blakey chase intensifies as blockbuster AFL trade looms",
+      "summary": "The prospect of a Nick Blakey trade suddenly looks very real, with clubs ready to pounce for the suspended Sydney star. Follow all the news and debate from the AFL trade period in our live blog.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-07T10:33:19.002413+11:00",
-    "date": "2026-10-07",
-    "display_date": "Wednesday 07 October 2026",
-    "display_time": "10:33 AM AEST"
+    "generated_at": "2026-10-08T11:00:52.448937+11:00",
+    "date": "2026-10-08",
+    "display_date": "Thursday 08 October 2026",
+    "display_time": "11:00 AM AEST"
   }
 }
