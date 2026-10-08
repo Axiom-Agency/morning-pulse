@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7818.93,
-      "change": 44.98,
-      "change_pct": 0.58,
+      "price": 7801.77,
+      "change": -17.16,
+      "change_pct": -0.22,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 27599.89,
-      "change": 122.58,
-      "change_pct": 0.45,
+      "price": 27538.69,
+      "change": -61.1,
+      "change_pct": -0.22,
       "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51521.28,
-      "change": 253.38,
-      "change_pct": 0.49,
+      "price": 51179.87,
+      "change": -341.41,
+      "change_pct": -0.66,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.01,
-      "change": -0.51,
-      "change_pct": -3.29,
+      "price": 15.08,
+      "change": 0.07,
+      "change_pct": 0.47,
       "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.27,
-      "change": -0.04,
-      "change_pct": -0.75,
-      "trend_5d": "down"
+      "price": 5.28,
+      "change": 0.01,
+      "change_pct": 0.19,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 70623.99,
-      "change": 677.13,
-      "change_pct": 0.97,
+      "price": 69430.3,
+      "change": -1253.68,
+      "change_pct": -1.77,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24040.34,
-      "change": 68.05,
-      "change_pct": 0.28,
+      "price": 24280.56,
+      "change": 240.22,
+      "change_pct": 1.0,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6888.58,
-      "change": -115.16,
-      "change_pct": -1.64,
+      "price": 6777.19,
+      "change": -164.2,
+      "change_pct": -2.37,
       "trend_5d": "flat"
     }
   ],
@@ -80,14 +80,10 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 122405,
-      "change_24h_pct": -0.73,
-      "yoy_change_pct": -33.64,
+      "current_price": 119678,
+      "change_24h_pct": -2.32,
+      "yoy_change_pct": -36.43,
       "history": [
-        {
-          "date": "2025-10-08",
-          "price": 184492.88
-        },
         {
           "date": "2025-10-09",
           "price": 188034.41
@@ -1545,8 +1541,8 @@
           "price": 122544.64
         },
         {
-          "date": "2026-10-07",
-          "price": 122431.34
+          "date": "2026-10-08",
+          "price": 119539.6
         }
       ]
     },
@@ -1554,14 +1550,10 @@
       "coin_id": "ethereum",
       "name": "Ethereum",
       "symbol": "ETH",
-      "current_price": 3860.14,
-      "change_24h_pct": -0.93,
-      "yoy_change_pct": -42.92,
+      "current_price": 3696.5,
+      "change_24h_pct": -4.36,
+      "yoy_change_pct": -46.48,
       "history": [
-        {
-          "date": "2025-10-08",
-          "price": 6764.94
-        },
         {
           "date": "2025-10-09",
           "price": 6899.91
@@ -3019,8 +3011,8 @@
           "price": 3863.97
         },
         {
-          "date": "2026-10-07",
-          "price": 3861.17
+          "date": "2026-10-08",
+          "price": 3692.62
         }
       ]
     }
@@ -3029,14 +3021,10 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6983,
-      "change_pct": 0.2288,
-      "yoy_change_pct": 5.54,
+      "current_rate": 0.6959,
+      "change_pct": -0.3205,
+      "yoy_change_pct": 5.76,
       "history": [
-        {
-          "date": "2025-10-07",
-          "rate": 0.6617
-        },
         {
           "date": "2025-10-08",
           "rate": 0.6581
@@ -4071,21 +4059,21 @@
         },
         {
           "date": "2026-10-07",
-          "rate": 0.6983
+          "rate": 0.6982
+        },
+        {
+          "date": "2026-10-08",
+          "rate": 0.6959
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5621,
-      "change_pct": 0.4025,
-      "yoy_change_pct": -3.76,
+      "current_rate": 0.5602,
+      "change_pct": -0.3927,
+      "yoy_change_pct": -3.38,
       "history": [
-        {
-          "date": "2025-10-07",
-          "rate": 0.5841
-        },
         {
           "date": "2025-10-08",
           "rate": 0.5798
@@ -5120,7 +5108,11 @@
         },
         {
           "date": "2026-10-07",
-          "rate": 0.5621
+          "rate": 0.5624
+        },
+        {
+          "date": "2026-10-08",
+          "rate": 0.5602
         }
       ]
     },
@@ -5128,13 +5120,9 @@
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
       "current_rate": 1.2421,
-      "change_pct": -0.1856,
-      "yoy_change_pct": 9.67,
+      "change_pct": 0.0596,
+      "yoy_change_pct": 9.44,
       "history": [
-        {
-          "date": "2025-10-07",
-          "rate": 1.1326
-        },
         {
           "date": "2025-10-08",
           "rate": 1.1349
@@ -6169,6 +6157,10 @@
         },
         {
           "date": "2026-10-07",
+          "rate": 1.2414
+        },
+        {
+          "date": "2026-10-08",
           "rate": 1.2421
         }
       ]
@@ -6176,52 +6168,8 @@
   ],
   "world_news": [
     {
-      "headline": "South Sudan\u2019s aid crisis deepens as food stocks run low",
-      "summary": "More than one million people could lose life-saving aid by October as funding shrinks and arrivals from Sudan continue.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "French mayor tear-gassed after shielding protesters from police",
-      "summary": "Saint-Denis Mayor Bally Bagayoko was tear-gassed after shielding student protesters from riot police.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
-      "summary": "Yemeni forces claim they have tightened control over the highest peak in the Jabal Habashi district of Taiz.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Privacy watchdog launches probe into China-based company behind Kmart \u2018pervert glasses\u2019 app",
-      "summary": "<p>Commissioner said Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Australian privacy regulator has opened an investigation into the China-based software company behind the HeyCyan app in Kmart\u2019s $89 smartglasses, following public outrage over the covert use of the devices.</p><p>In August, <a href=\"https://www.theguardian.com/australia-news/2026/aug/04/kmart-camera-glasses-anko-meta-smartglasses-australia\">Guardian Australia reported</a> Kmart had sold out of the Anko-branded discount version of Meta\u2019s smartglasses that can capture images and record high-definition video, which led to widespread concern and calls to ban or restrict their use.</p> <a href=\"https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "headline": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6231,8 +6179,8 @@
       ]
     },
     {
-      "headline": "Electric car bursts into flames at charging station in Turkiye",
-      "summary": "Turkiye\u2019s first domestically produced electric SUV, the Togg T10X burst into flames at a charging station.",
+      "headline": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
+      "summary": "Saudi-backed Yemeni forces claim advances in western Taiz&#039;s mountain belt overlooking the coast.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6242,8 +6190,52 @@
       ]
     },
     {
-      "headline": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
-      "summary": "<p>World Health Organization detects no sign of further outbreak since Darya Shipilova died last week</p><p>The World Health Organization has said the risk of an epidemic in Russia is low after the <a href=\"https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk\">sudden death of a lab technician</a> who worked at a plague research institute in Siberia.</p><p>Darya Shipilova, who was 28, died last week, two days after falling ill. Russian media reports suggested she <a href=\"https://www.rferl.org/a/russia-plague-warning-siberia-irkutsk-laboratory/33870385.html\">may have become infected after an accident at her workplace</a>, where dangerous pathogens are kept and studied.</p> <a href=\"https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who\">Continue reading...</a>",
+      "headline": "EU-China trade talks begin in Beijing amid escalating pressure",
+      "summary": "Talks will focus on the \u20ac1bn daily deficit and rare earth export restrictions.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+      "summary": "The United Nations Interim Force in Lebanon said there were no casualties after small arms fire targeted a border post.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Christa Pike was nearly taken off life support before waking, lawyers say",
+      "summary": "Death row inmate who survived execution by lethal injection is said to be &#039;angry and confused&#039; about what happened.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "\u2018No to the father, no to the son\u2019: Thousands march in Rio against Bolsonaro",
+      "summary": "Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil&#039;s presidential run-off.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Rubio in Greece digs into past to tout Trump\u2019s \u2018America first\u2019 approach",
+      "summary": "<p>In the shadow of the Parthenon, the secretary of state gave a selective reading of history as he urged Europe to \u2018awaken from its slumber\u2019</p><p>The US secretary of state, Marco Rubio, delivered a classically inspired apologia for Donald Trump\u2019s \u201cAmerica first\u201d foreign policy on Wednesday, giving a sweeping speech to the backdrop of the Parthenon in Athens that appeared tailor-made for campaign ads if he runs for president in 2028.</p><p>In the speech, the top US diplomat drew historical parallels from the founders, philosophers and conquerers of antiquity to the modern American spirit \u2013 as well as his family\u2019s own journey to the United States \u2013 as he called on Europe to \u201cawaken from its long slumber\u201d and reject a \u201cfuture of atrophy and servitude and decline\u201d.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/07/rubio-greece-trump-america-first-speech\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6253,30 +6245,30 @@
       ]
     },
     {
-      "headline": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
-      "summary": "<p>Government report finds the country could be hit with more frequent and intense heatwaves, as well as damaging storms and cyclones</p><p>New Zealand could be hit with more frequent and intense heatwaves and catastrophic glacier melts in the near future, as greenhouse gas levels hit record highs, a new report about the nation\u2019s climate has revealed.</p><p>Released on Wednesday, the Our Atmosphere and Climate 2026 report shows New Zealand is experiencing mounting climate pressures, which will have wide-reaching implications for the environment, native species and communities.</p> <a href=\"https://www.theguardian.com/world/2026/oct/07/new-zealand-greenhouse-gas-record-high-threatening-catastrophic-glacier-melts-climate\">Continue reading...</a>",
+      "headline": "Judge orders officials to preserve Pike execution evidence",
+      "summary": "A Nashville judge ordered Tennessee officials to preserve evidence from Christa Pike\u2019s failed execution",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-      "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "headline": "Adelaide 36ers coach claims he was 'targeted' by refs in United loss",
+      "summary": "Trevor Gleeson is left flabbergasted after being whistled for a technical foul during the 36ers' loss to Melbourne United in the NBL's Ignite Cup.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "ABC Australia"
       ]
     },
     {
-      "headline": "\u2018We are desperate\u2019: Venezuela\u2019s power cuts fuel growing public anger",
-      "summary": "Frequent outages have fuelled protests against the government of interim Venezuelan President Delcy Rodriguez.",
+      "headline": "Pro-Palestine university groups march in London on October 7 anniversary",
+      "summary": "Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6293,174 +6285,174 @@
   "asx_deep_dive": {
     "overview": "AI synthesis unavailable. Showing raw data.",
     "asx200": {
-      "level": 8722.0,
-      "change_pct": 0.41
+      "level": 8699.5,
+      "change_pct": -0.41
     },
     "sectors": [
       {
         "name": "Mining & Resources",
-        "change_pct": -0.98,
+        "change_pct": -2.92,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "FMG",
-            "name": "FMG.AX",
-            "price": 16.12,
-            "change_pct": -1.77,
+            "ticker": "MIN",
+            "name": "MIN.AX",
+            "price": 49.51,
+            "change_pct": -4.7,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "BHP",
-            "name": "BHP.AX",
-            "price": 62.23,
-            "change_pct": -1.0,
+            "ticker": "FMG",
+            "name": "FMG.AX",
+            "price": 15.46,
+            "change_pct": -3.44,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "RIO",
             "name": "RIO.AX",
-            "price": 166.25,
-            "change_pct": -0.91,
+            "price": 161.81,
+            "change_pct": -2.96,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Banks & Financials",
-        "change_pct": -0.69,
+        "change_pct": 0.46,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "CBA",
-            "name": "CBA.AX",
-            "price": 150.43,
-            "change_pct": -1.28,
+            "ticker": "NAB",
+            "name": "NAB.AX",
+            "price": 38.65,
+            "change_pct": 0.65,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "WBC",
             "name": "WBC.AX",
-            "price": 34.28,
-            "change_pct": -1.1,
+            "price": 34.42,
+            "change_pct": 0.53,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "NAB",
-            "name": "NAB.AX",
-            "price": 38.44,
-            "change_pct": -0.67,
+            "ticker": "MQG",
+            "name": "MQG.AX",
+            "price": 249.87,
+            "change_pct": 0.44,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Tech",
-        "change_pct": 0.32,
+        "change_pct": 0.06,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "TNE",
-            "name": "TNE.AX",
-            "price": 30.58,
-            "change_pct": 1.43,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "REA",
-            "name": "REA.AX",
-            "price": 152.9,
-            "change_pct": -1.35,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "XRO",
             "name": "XRO.AX",
-            "price": 56.13,
-            "change_pct": 0.75,
+            "price": 57.05,
+            "change_pct": 1.69,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "CPU",
+            "name": "CPU.AX",
+            "price": 40.52,
+            "change_pct": 1.48,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "WTC",
+            "name": "WTC.AX",
+            "price": 31.64,
+            "change_pct": -1.4,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Healthcare",
-        "change_pct": -0.17,
+        "change_pct": -0.14,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "RMD",
             "name": "RMD.AX",
-            "price": 31.6,
-            "change_pct": -1.25,
+            "price": 32.5,
+            "change_pct": 1.88,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "PME",
             "name": "PME.AX",
-            "price": 159.13,
-            "change_pct": 0.66,
+            "price": 157.49,
+            "change_pct": -1.51,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "COH",
-            "name": "COH.AX",
-            "price": 129.59,
-            "change_pct": -0.51,
+            "ticker": "SHL",
+            "name": "SHL.AX",
+            "price": 18.74,
+            "change_pct": -0.48,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Energy",
-        "change_pct": -0.03,
+        "change_pct": 0.88,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "ORG",
-            "name": "ORG.AX",
-            "price": 10.98,
-            "change_pct": -0.27,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "AGL",
-            "name": "AGL.AX",
-            "price": 8.34,
-            "change_pct": 0.24,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "WDS",
             "name": "WDS.AX",
-            "price": 31.17,
-            "change_pct": -0.22,
+            "price": 32.03,
+            "change_pct": 1.68,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "ORG",
+            "name": "ORG.AX",
+            "price": 11.11,
+            "change_pct": 0.91,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "STO",
+            "name": "STO.AX",
+            "price": 8.6,
+            "change_pct": 0.7,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "REITs / Property",
-        "change_pct": 0.5,
+        "change_pct": 0.19,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "MGR",
             "name": "MGR.AX",
-            "price": 1.81,
-            "change_pct": 1.4,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "GPT",
-            "name": "GPT.AX",
-            "price": 4.51,
-            "change_pct": 0.89,
+            "price": 1.82,
+            "change_pct": 0.83,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "CHC",
             "name": "CHC.AX",
-            "price": 18.59,
-            "change_pct": 0.38,
+            "price": 18.5,
+            "change_pct": -0.38,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "SCG",
+            "name": "SCG.AX",
+            "price": 3.44,
+            "change_pct": 0.29,
             "explanation": "No AI analysis available"
           }
         ]
@@ -6471,9 +6463,9 @@
     {
       "ticker": "AMC",
       "name": "Amcor",
-      "price": 59.9,
-      "change_pct": 0.15,
-      "volume_vs_avg": 0.04,
+      "price": 59.44,
+      "change_pct": -0.7,
+      "volume_vs_avg": 0.82,
       "week52_high": 68.41,
       "week52_low": 49.84,
       "news_digest": "AI synthesis unavailable",
@@ -6482,10 +6474,10 @@
     {
       "ticker": "IHVV",
       "name": "iShares S&P500 ETF",
-      "price": 68.57,
-      "change_pct": 0.6,
-      "volume_vs_avg": 0.08,
-      "week52_high": 68.57,
+      "price": 68.3,
+      "change_pct": -0.32,
+      "volume_vs_avg": 0.33,
+      "week52_high": 68.52,
       "week52_low": 55.76,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
@@ -6493,9 +6485,9 @@
     {
       "ticker": "JHX",
       "name": "James Hardie",
-      "price": 36.94,
-      "change_pct": 2.95,
-      "volume_vs_avg": 0.19,
+      "price": 35.04,
+      "change_pct": -4.96,
+      "volume_vs_avg": 0.13,
       "week52_high": 43.85,
       "week52_low": 25.43,
       "news_digest": "AI synthesis unavailable",
@@ -6504,9 +6496,9 @@
     {
       "ticker": "LTR",
       "name": "Liontown Resources",
-      "price": 0.82,
-      "change_pct": -1.2,
-      "volume_vs_avg": 0.18,
+      "price": 0.79,
+      "change_pct": -3.66,
+      "volume_vs_avg": 0.29,
       "week52_high": 2.64,
       "week52_low": 0.79,
       "news_digest": "AI synthesis unavailable",
@@ -6515,9 +6507,9 @@
     {
       "ticker": "MQG",
       "name": "Macquarie Group",
-      "price": 250.02,
-      "change_pct": -0.0,
-      "volume_vs_avg": 0.06,
+      "price": 249.86,
+      "change_pct": 0.44,
+      "volume_vs_avg": 0.1,
       "week52_high": 267.25,
       "week52_low": 186.62,
       "news_digest": "AI synthesis unavailable",
@@ -6526,9 +6518,9 @@
     {
       "ticker": "NIC",
       "name": "Nickel Industries",
-      "price": 0.77,
-      "change_pct": -0.65,
-      "volume_vs_avg": 0.02,
+      "price": 0.75,
+      "change_pct": -3.85,
+      "volume_vs_avg": 0.07,
       "week52_high": 1.1,
       "week52_low": 0.67,
       "news_digest": "AI synthesis unavailable",
@@ -6537,9 +6529,9 @@
     {
       "ticker": "PLS",
       "name": "Pilbara Minerals",
-      "price": 3.82,
-      "change_pct": 0.26,
-      "volume_vs_avg": 0.12,
+      "price": 3.78,
+      "change_pct": -2.58,
+      "volume_vs_avg": 0.25,
       "week52_high": 6.68,
       "week52_low": 2.58,
       "news_digest": "AI synthesis unavailable",
@@ -6548,9 +6540,9 @@
     {
       "ticker": "QRE",
       "name": "Qualitas Real Estate",
-      "price": 10.27,
-      "change_pct": -0.1,
-      "volume_vs_avg": 0.28,
+      "price": 10.09,
+      "change_pct": -1.27,
+      "volume_vs_avg": 0.18,
       "week52_high": 11.04,
       "week52_low": 7.8,
       "news_digest": "AI synthesis unavailable",
@@ -6559,9 +6551,9 @@
     {
       "ticker": "TLS",
       "name": "Telstra",
-      "price": 4.82,
-      "change_pct": 0.21,
-      "volume_vs_avg": 0.2,
+      "price": 4.86,
+      "change_pct": 1.25,
+      "volume_vs_avg": 0.34,
       "week52_high": 5.43,
       "week52_low": 4.52,
       "news_digest": "AI synthesis unavailable",
@@ -6570,9 +6562,9 @@
     {
       "ticker": "WEB",
       "name": "Webjet",
-      "price": 3.45,
-      "change_pct": 0.88,
-      "volume_vs_avg": 0.03,
+      "price": 3.38,
+      "change_pct": -1.17,
+      "volume_vs_avg": 0.06,
       "week52_high": 5.03,
       "week52_low": 2.23,
       "news_digest": "AI synthesis unavailable",
@@ -6581,9 +6573,9 @@
     {
       "ticker": "WOW",
       "name": "Woolworths",
-      "price": 38.04,
-      "change_pct": -0.21,
-      "volume_vs_avg": 0.09,
+      "price": 38.84,
+      "change_pct": 1.62,
+      "volume_vs_avg": 0.14,
       "week52_high": 40.32,
       "week52_low": 25.26,
       "news_digest": "AI synthesis unavailable",
@@ -6592,9 +6584,9 @@
     {
       "ticker": "WQG",
       "name": "WCM Quality Global Growth",
-      "price": 2.06,
-      "change_pct": 1.48,
-      "volume_vs_avg": 0.63,
+      "price": 2.03,
+      "change_pct": -0.98,
+      "volume_vs_avg": 0.62,
       "week52_high": 2.17,
       "week52_low": 1.59,
       "news_digest": "AI synthesis unavailable",
@@ -6604,9 +6596,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-10-07T11:28:58.647662+11:00",
-    "date": "2026-10-07",
-    "display_date": "Wednesday 07 October 2026",
-    "display_time": "11:28 AM AEST"
+    "generated_at": "2026-10-08T11:49:00.635617+11:00",
+    "date": "2026-10-08",
+    "display_date": "Thursday 08 October 2026",
+    "display_time": "11:49 AM AEST"
   }
 }
