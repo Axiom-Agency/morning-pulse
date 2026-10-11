@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7811.54,
+      "change": 46.18,
+      "change_pct": 0.59,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 27366.17,
+      "change": 172.83,
+      "change_pct": 0.64,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 51654.95,
+      "change": 423.31,
+      "change_pct": 0.83,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 14.84,
+      "change": -0.57,
+      "change_pct": -3.7,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 5.24,
+      "change": 0.01,
+      "change_pct": 0.19,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 69030.92,
+      "change": -11.19,
+      "change_pct": -0.02,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 24211.35,
+      "change": 425.56,
+      "change_pct": 1.79,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3813.79,
+      "change": 1.89,
+      "change_pct": 0.05,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 6625.93,
+      "change": -177.97,
+      "change_pct": -2.62,
+      "trend_5d": "down"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4215.5,
+      "change_pct": -0.02
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 105.13,
+      "change_pct": 0.39
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 92.11,
+      "change_pct": 0.28
+    }
+  ],
+  "asx200": {
+    "level": 8735.5,
+    "change_pct": 0.22
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6989,
+      "change_pct": 0.4255
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5616,
+      "change_pct": 0.2033
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2442,
+      "change_pct": 0.211
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Politics live: Ryan \u2018not bothered\u2019 by possible Frydenberg return; Lambie accuses Labor of \u2018financial coercion\u2019 over FoI",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Labor not watering down trust tax bill, says Mulino</strong></p><p>The assistant treasurer, <strong>Daniel Mulino</strong>, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts.</p><p>We\u2019re not watering this down. This is a very substantial review. This is about fairness in our tax system. It\u2019s about trying to better align the taxes that people pay when they earn income through trusts versus when they earn income from working, from providing their labour.</p><p>These are changes that have been called for by experts for decades. If we go back to major reviews in the 1970s and all the way through the Howard government, the Henry review, even the Abbott government\u2019s review, these changes to trust taxation have been called for.</p><p>I think he\u2019s getting that from lots of corners. People are saying that the Liberal party needs to do better.</p><p>The polls are showing that the Liberal party is at an all-time low. And so, things have to change. Because there\u2019s something existential about the threat that I think the party now faces.</p><p><strong>Look, I certainly haven\u2019t closed the door, but I don\u2019t need to rush to a decision. The next election is 18 months away.</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Footage shows moment Russian strike hits Ukrainian grocery store",
+      "summary": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Boy, 13, charged with murder after man stabbed to death in Sydney\u2019s west",
+      "summary": "<p>A second boy, 16, was also charged in relation to the stabbing death of a 30-year-old man in Mt Druitt</p><p>A thirteen-year-old boy has been charged with murder after a man was stabbed to death in Sydney\u2019s west on Friday.</p><p>Emergency services were called to the suburb of Mt Druitt on Friday evening amid reports a man had been assaulted.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+      "summary": "<p>Unidentified projectile strikes King Khalid airport, killing one and injuring 11, as escalating attacks threaten to draw more countries into Yemen conflict</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy\">Analysis: attack will force rethink of Trump strategy</a></p></li></ul><p>A projectile hit a passenger terminal at the airport in Riyadh on Sunday, the day after a deadly missile attack on the facility carried out by Yemen\u2019s Iran-backed Houthi rebel group killed 13 people.</p><p>An unidentified projectile hit terminal 4 at King Khalid international airport, starting a fire, killing one person and injuring 11, according to Saudi civil aviation authorities. Air defences also intercepted a cruise missile in the vicinity of the airport. It was the latest of several attacks on the airport in the past week.</p> <a href=\"https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Live: Roos and Swans in Blakey standoff, Suns and Hawks complete double-deal",
+      "summary": "North Melbourne's opening offer to Sydney for Nick Blakey is knocked back as the AFL trade period reaches its crucial final days. Follow the live coverage as the AFL trade period continues.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Waves crash into homes as excavators try to protect California properties",
+      "summary": "Construction crews were seen trying to block waves entering homes along California&#039;s coast",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "UK Greens leader seeks rule change after party declares Zionism is racism",
+      "summary": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-10-12T10:26:50.987847+11:00",
+    "date": "2026-10-12",
+    "display_date": "Monday 12 October 2026",
+    "display_time": "10:26 AM AEST"
+  }
+}

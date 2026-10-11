@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7765.36,
-      "change": -36.41,
-      "change_pct": -0.47,
+      "price": 7811.54,
+      "change": 46.18,
+      "change_pct": 0.59,
       "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 27193.34,
-      "change": -345.35,
-      "change_pct": -1.25,
-      "trend_5d": "flat"
+      "price": 27366.17,
+      "change": 172.83,
+      "change_pct": 0.64,
+      "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51231.64,
-      "change": 51.77,
-      "change_pct": 0.1,
-      "trend_5d": "flat"
+      "price": 51654.95,
+      "change": 423.31,
+      "change_pct": 0.83,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.41,
-      "change": 0.33,
-      "change_pct": 2.19,
-      "trend_5d": "up"
+      "price": 14.84,
+      "change": -0.57,
+      "change_pct": -3.7,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.23,
-      "change": -0.05,
-      "change_pct": -0.95,
+      "price": 5.24,
+      "change": 0.01,
+      "change_pct": 0.19,
       "trend_5d": "down"
     }
   ],
@@ -45,84 +45,84 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 70035.71,
-      "change": -648.27,
-      "change_pct": -0.92,
-      "trend_5d": "flat"
+      "price": 69030.92,
+      "change": -11.19,
+      "change_pct": -0.02,
+      "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24130.5,
-      "change": -150.06,
-      "change_pct": -0.62,
-      "trend_5d": "flat"
+      "price": 24211.35,
+      "change": 425.56,
+      "change_pct": 1.79,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3813.79,
+      "change": 1.89,
+      "change_pct": 0.05,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 6625.93,
+      "change": -177.97,
+      "change_pct": -2.62,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4168.4,
-      "change_pct": 0.67
+      "price": 4215.5,
+      "change_pct": -0.02
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 103.82,
-      "change_pct": 3.61
+      "price": 105.13,
+      "change_pct": 0.39
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 91.17,
-      "change_pct": 3.27
+      "price": 92.11,
+      "change_pct": 0.28
     }
   ],
   "asx200": {
-    "level": 8699.1,
-    "change_pct": -0.33
+    "level": 8735.5,
+    "change_pct": 0.22
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6962,
-      "change_pct": -0.0309
+      "current_rate": 0.6989,
+      "change_pct": 0.4255
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5606,
-      "change_pct": 0.0858
+      "current_rate": 0.5616,
+      "change_pct": 0.2033
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2415,
-      "change_pct": -0.1207
+      "current_rate": 1.2442,
+      "change_pct": 0.211
     }
   ],
   "world_news": [
     {
-      "headline": "Plans for Sydney\u2019s controversial new public square in doubt after NSW government intervention",
-      "summary": "<p>State planning minister declares project \u2018state significant\u2019, wresting approval process away from local council</p><p>Plans for a grand new public square in centre of Sydney are in doubt after the New South Wales planning minister declared the project \u201cstate significant\u201d, wresting the approval process away from the City of Sydney.</p><p>The lord mayor, Clover Moore, <a href=\"https://www.theguardian.com/australia-news/2026/aug/11/clover-moore-unveils-4500-sq-metre-sydney-plaza-design-after-more-than-40-years-of-planning\">released renders</a> in August for the plaza opposite Sydney\u2019s town hall. The design for the space, which the council had expected to be completed by 2031, include a semi-circular clearing projecting eastwards towards Hyde park, with a fountain and a grove of native trees.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/09/sydney-public-square-controversy-state-government-intervention\">Continue reading...</a>",
+      "headline": "Politics live: Ryan \u2018not bothered\u2019 by possible Frydenberg return; Lambie accuses Labor of \u2018financial coercion\u2019 over FoI",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Labor not watering down trust tax bill, says Mulino</strong></p><p>The assistant treasurer, <strong>Daniel Mulino</strong>, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts.</p><p>We\u2019re not watering this down. This is a very substantial review. This is about fairness in our tax system. It\u2019s about trying to better align the taxes that people pay when they earn income through trusts versus when they earn income from working, from providing their labour.</p><p>These are changes that have been called for by experts for decades. If we go back to major reviews in the 1970s and all the way through the Howard government, the Henry review, even the Abbott government\u2019s review, these changes to trust taxation have been called for.</p><p>I think he\u2019s getting that from lots of corners. People are saying that the Liberal party needs to do better.</p><p>The polls are showing that the Liberal party is at an all-time low. And so, things have to change. Because there\u2019s something existential about the threat that I think the party now faces.</p><p><strong>Look, I certainly haven\u2019t closed the door, but I don\u2019t need to rush to a decision. The next election is 18 months away.</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "Hegseth says firing squad execution of Fort Hood shooter will be \u2018public\u2019",
-      "summary": "An official at the Pentagon told Al Jazeera that former US Army Major Nidal Hasan&#039;s execution would be &#039;livestreamed&#039;.",
+      "headline": "Footage shows moment Russian strike hits Ukrainian grocery store",
+      "summary": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,19 +143,8 @@
       ]
     },
     {
-      "headline": "Man City charges: Mourinho jokes Premier League case will outlast him",
-      "summary": "Jose Mourinho, long an outspoken critic of Man City&#039;s spending, joked that the Premier League case could outlast him.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+      "headline": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,30 +154,8 @@
       ]
     },
     {
-      "headline": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
-      "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
-      "summary": "Islamic Relief calls for global action as deadly Israeli attacks in Gaza continue and humanitarian conditions worsen.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
-      "summary": "<p>The $11-a-share offer would have been the biggest debut on the stock market since the telecommunication giant in 1997</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Firmus Technologies has scrapped what was set to be Australia\u2019s biggest company listing in decades after investor demand for its much-hyped AI datacentre business failed to materialise.</p><p>A Firmus spokesperson said the board decided that proceeding with the offer was no longer in the best interests of the company and its shareholders.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia\">Continue reading...</a>",
+      "headline": "Boy, 13, charged with murder after man stabbed to death in Sydney\u2019s west",
+      "summary": "<p>A second boy, 16, was also charged in relation to the stabbing death of a 30-year-old man in Mt Druitt</p><p>A thirteen-year-old boy has been charged with murder after a man was stabbed to death in Sydney\u2019s west on Friday.</p><p>Emergency services were called to the suburb of Mt Druitt on Friday evening amid reports a man had been assaulted.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,19 +165,30 @@
       ]
     },
     {
-      "headline": "Putin pledges Russia\u2019s support to end US-led war on Iran",
-      "summary": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
+      "headline": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+      "summary": "<p>Unidentified projectile strikes King Khalid airport, killing one and injuring 11, as escalating attacks threaten to draw more countries into Yemen conflict</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy\">Analysis: attack will force rethink of Trump strategy</a></p></li></ul><p>A projectile hit a passenger terminal at the airport in Riyadh on Sunday, the day after a deadly missile attack on the facility carried out by Yemen\u2019s Iran-backed Houthi rebel group killed 13 people.</p><p>An unidentified projectile hit terminal 4 at King Khalid international airport, starting a fire, killing one person and injuring 11, according to Saudi civil aviation authorities. Air defences also intercepted a cruise missile in the vicinity of the airport. It was the latest of several attacks on the airport in the past week.</p> <a href=\"https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Khawaja's 'Sandpapergate' book does not worry Cummins",
-      "summary": "Pat Cummins says he is proud of the Australian team's evolution since the 2018 \"Sandpapergate\" incident, as Usman Khawaja, who played in that Test, prepares to release his autobiography.",
+      "headline": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Live: Roos and Swans in Blakey standoff, Suns and Hawks complete double-deal",
+      "summary": "North Melbourne's opening offer to Sydney for Nick Blakey is knocked back as the AFL trade period reaches its crucial final days. Follow the live coverage as the AFL trade period continues.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +198,30 @@
       ]
     },
     {
-      "headline": "French giants Bordeaux relegated to sixth tier for financial irregularities",
-      "summary": "Six-time French champions Bordeaux, the club where Zinedine Zidane made his name, to play in sixth tier after sanctions.",
+      "headline": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Waves crash into homes as excavators try to protect California properties",
+      "summary": "Construction crews were seen trying to block waves entering homes along California&#039;s coast",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "UK Greens leader seeks rule change after party declares Zionism is racism",
+      "summary": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-09T11:08:29.158111+11:00",
-    "date": "2026-10-09",
-    "display_date": "Friday 09 October 2026",
-    "display_time": "11:08 AM AEST"
+    "generated_at": "2026-10-12T10:26:50.987847+11:00",
+    "date": "2026-10-12",
+    "display_date": "Monday 12 October 2026",
+    "display_time": "10:26 AM AEST"
   }
 }
