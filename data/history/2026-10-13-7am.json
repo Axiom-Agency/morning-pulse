@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7807.24,
+      "change": -4.3,
+      "change_pct": -0.06,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 27245.9,
+      "change": -120.27,
+      "change_pct": -0.44,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 51850.55,
+      "change": 195.6,
+      "change_pct": 0.38,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 15.21,
+      "change": 0.37,
+      "change_pct": 2.49,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 5.24,
+      "change": -0.0,
+      "change_pct": -0.0,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 67220.73,
+      "change": -1810.19,
+      "change_pct": -2.62,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 24157.5,
+      "change": -113.7,
+      "change_pct": -0.47,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3754.85,
+      "change": -42.39,
+      "change_pct": -1.12,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5991.94,
+      "change": -392.3,
+      "change_pct": -6.14,
+      "trend_5d": "down"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4179.8,
+      "change_pct": -0.87
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 105.75,
+      "change_pct": 0.98
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 92.82,
+      "change_pct": 1.06
+    }
+  ],
+  "asx200": {
+    "level": 8749.5,
+    "change_pct": -0.38
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6955,
+      "change_pct": -0.0634
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5587,
+      "change_pct": -0.3173
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2445,
+      "change_pct": 0.2368
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Australian politics live: businesses increasing prices under cover of surcharge ban, UBS economists warn; fire ants in Sydney\u2019s inner west",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Robert</strong> <strong>Pether</strong> has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail.</p><p>Pether and his Egyptian colleague <strong>Khalid</strong> <strong>Radwan</strong> were detained in Baghdad in 2021 after flying in for a meeting with bank officials to resolve a dispute with his engineering firm, CME Consulting.</p><p>We were innocent when we were taken on the 7th of April 2021, and we remain innocent today.</p><p>I was released from prison hours away from death. My body was shutting down after months of critical illness and excruciating pain, but I remained trapped in Iraq.</p><p>She is an incredible person, someone that I have so much respect for, and being able to come home was incredible. Just the emotion that it brings is, you can\u2019t describe it. I mean, it\u2019s been years.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Body found in stockyard trough confirmed to be missing 73-year-old Yvonne Whear",
+      "summary": "<p>Police treating death as homicide. Whear was last seen in mid-February buying orange juice and putting $50 credit on her phone in Murwillumbah</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb\">Follow our Australia politics live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>New South Wales police say a decomposed body found in a stockyard dip last week was missing woman Yvonne Whear, who vanished eight months ago after last being seen in Murwillumbah.</p><p>Police said a week ago that a partially submerged body believed to be a woman had been <a href=\"https://www.theguardian.com/australia-news/2026/oct/06/womans-body-found-stockyard-trough-terragon-farm-nsw-queensland-border\">discovered in a remote stockyard</a> in Terragon near Murwillumbah.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/13/yvonne-whear-body-found-in-stockyard-trough-missing-woman-murwillumbah-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Breaking Bad actor RJ Mitte dies aged 34",
+      "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Iran war live: Trump says Houthis \u2018misbehaving\u2019 as Riyadh flights halted",
+      "summary": "US President Trump condemns Yemen&#039;s Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+      "summary": "Saudi Arabia claims it downed a ballistic missile fired at Riyadh, as the Houthis say they targeted King Khalid airport.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico\u2019s coast",
+      "summary": "Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US archbishop says Catholics in army should not participate in firing squad",
+      "summary": "Archbishop Timothy Broglio says US plan to livestream Fort Hood attacker&#039;s execution is contrary to church teachings.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Queensland prison where children self-harm to get transferred \u2018more suitable\u2019 than police watch houses: ombudsman",
+      "summary": "<p>Inmate advocacy group attacks watchdog\u2019s \u2018gutless retreat\u2019 on Wacol youth remand centre</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb\">Follow our Australia politics live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Queensland ombudsman has backed away from calls to close a youth prison so \u201cunsuitable\u201d for children that some are self-harming in an attempt to get transferred, amid concerns that the Crisafulli government\u2019s hardline bail laws could create a new crowding crisis in police watch houses.</p><p>The ombudsman, Anthony Reilly, published an inspection report last week that raised serious new concerns about the suitability of the Wacol youth remand centre to hold children for extended periods, including the fact that young people were being held in conditions where there is \u201ca lack of space, privacy and natural light\u201d.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/13/queensland-ombudsman-backs-away-from-calls-to-close-youth-prison-so-unsuitable-some-children-self-harm-to-get-transferred-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+      "summary": "Warsaw says the 2 suspects held in Germany will face sabotage charges.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-10-13T12:48:21.960176+11:00",
+    "date": "2026-10-13",
+    "display_date": "Tuesday 13 October 2026",
+    "display_time": "12:48 PM AEST"
+  }
+}
