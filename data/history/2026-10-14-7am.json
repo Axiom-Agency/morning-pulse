@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7807.24,
+      "change": -4.3,
+      "change_pct": -0.06,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 27204.38,
+      "change": -41.52,
+      "change_pct": -0.15,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 51850.55,
+      "change": 195.6,
+      "change_pct": 0.38,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 15.27,
+      "change": 0.06,
+      "change_pct": 0.39,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 5.22,
+      "change": -0.02,
+      "change_pct": -0.38,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 69030.92,
+      "change": -11.19,
+      "change_pct": -0.02,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 24271.2,
+      "change": 59.85,
+      "change_pct": 0.25,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 6384.24,
+      "change": -241.69,
+      "change_pct": -3.65,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4178.5,
+      "change_pct": -0.29
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 106.21,
+      "change_pct": -0.41
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 94.64,
+      "change_pct": 0.96
+    }
+  ],
+  "asx200": {
+    "level": 8732.9,
+    "change_pct": -0.57
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6985,
+      "change_pct": 0.4112
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5614,
+      "change_pct": 0.4885
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.244,
+      "change_pct": -0.0819
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Zimbabwean author denies using AI to write award-winning story",
+      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Australian politics live: Hanson dismisses \u2018shamed and stoned\u2019 remark as \u2018heat of moment\u2019; PM extends \u2018thoughts and prayers\u2019 to pope",
+      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Australia missing out on $45bn of revenue from resources: Greens</strong></p><p>As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being left on the table because the government won\u2019t properly tax the resource.</p><p>We\u2019re giving away billions in resource wealth while families struggle to pay the rent, put food on the table and afford basic healthcare.</p><p>Labor can find billions to prop up the fossil fuel industry, but when it comes to making corporations like Santos, Woodside and Adani pay a fair return, suddenly it\u2019s all too hard.</p><p>The prime minister has a kink for punishing small businesses and a fetish for humiliating his treasurer. So I say this is a consistent pattern of behaviour where the prime minister constantly goes in, overrides his treasurer, humiliates him in public. I suspect it\u2019s going to sour the relationship somewhat.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Manchester United\u2019s Martinez blasts board\u2019s lack of investment",
+      "summary": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club&#039;s failure to invest in team.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Bayern\u2019s Michael Olise sent off for \u2018super dumb\u2019 yellows within seconds",
+      "summary": "Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Mauritius imposes curfew after night of unrest over police shooting",
+      "summary": "Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Albanian police fire tear gas at protesters as Education Ministry attacked",
+      "summary": "At least 23 protesters have been arrested in demonstrations in the capital.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "F1 returns to Africa with Rwanda signing 10-year deal",
+      "summary": "Africa will return to the Formula 1 calendar for the first time since 1993 with Rwanda set to host a grand prix from the early 2030s in a 10-year deal.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Man City vs PSG: Champions League \u2013 teams, predictions, line ups",
+      "summary": "Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US trial begins for Rwandan-American accused of role in genocide",
+      "summary": "Eric Nshimiye, a US citizen, says the evidence against him consists of unreliable eyewitness accounts.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-10-14T10:35:59.579100+11:00",
+    "date": "2026-10-14",
+    "display_date": "Wednesday 14 October 2026",
+    "display_time": "10:35 AM AEST"
+  }
+}
