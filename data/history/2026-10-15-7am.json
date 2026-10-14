@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7718.94,
+      "change": -86.51,
+      "change_pct": -1.11,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 26692.87,
+      "change": -511.51,
+      "change_pct": -1.88,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 51621.48,
+      "change": -48.62,
+      "change_pct": -0.09,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 16.87,
+      "change": 1.6,
+      "change_pct": 10.48,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 5.19,
+      "change": -0.03,
+      "change_pct": -0.58,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 67777.52,
+      "change": -1253.4,
+      "change_pct": -1.82,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 24345.22,
+      "change": 74.02,
+      "change_pct": 0.3,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 6035.35,
+      "change": -348.89,
+      "change_pct": -5.46,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4131.6,
+      "change_pct": -1.09
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 105.87,
+      "change_pct": 0.17
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 95.01,
+      "change_pct": 0.92
+    }
+  ],
+  "asx200": {
+    "level": 8727.9,
+    "change_pct": -0.64
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6976,
+      "change_pct": 0.2851
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5598,
+      "change_pct": 0.196
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2458,
+      "change_pct": 0.0667
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Australian politics live: Paterson accuses Labor of \u2018contempt\u2019 for senate over private health rebate bill; AEC warns about AI",
+      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Private health insurance changes \u2018recalibrating precious taxpayer dollars\u2019, says Wells</strong></p><p>The health minister, <strong>Mark Butler,</strong> yesterday promised to reintroduce a bill to reduce private health insurance rebates for over-65s, after it was thrown out of the Senate by the crossbench and Coalition.</p><p>It\u2019s really important we reintroduce it, because we need to raise the level of support and resourcing for aged care. I was the aged care minister before being the communications minister, we need to work urgently. There\u2019s not enough beds being built for older Australians who need that support. It\u2019s recalibrating precious taxpayer dollars.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Australia is the monster that turns World Cup dreams to nightmares",
+      "summary": "Ahead of the women's Rugby League World Cup, the dominance of the Jillaroos looms like a spectre.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Pope Leo\u2019s recovery from lung cancer surgery \u2018progressing as planned\u2019",
+      "summary": "<p>Pontiff has begun walking in his hospital room and is eating normally after operation to remove growth, doctors say</p><p>Pope Leo\u2019s recovery from a lung cancer operation is progressing as planned, his doctors have said, as the pontiff received good wishes from around the world, including from Britain\u2019s King Charles.</p><p>Leo, who had a <a href=\"https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung\">cancerous mass removed from his right lung</a> late on Tuesday, began walking in his hospital room after respiratory therapy on Wednesday. He was eating normally, his doctors Luigi Carbone and Stefano Margaritoria said in a statement issued by the Vatican.</p> <a href=\"https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+      "summary": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "The data that shows who won and lost in this year's AFL trade period",
+      "summary": "With compromised drafts on the horizon, this trade period saw two distinct methods as AFL clubs planned for the \"win now\" and the \"win later\".",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "PSG beat Man City 4-2 in Champions League thriller",
+      "summary": "PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Colombia opposition groups launch protest against de la Espriella\u2019s cuts",
+      "summary": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "West Indies beat India to level T20 series as Hope continues record run",
+      "summary": "Shai Hope\u2019s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-10-15T09:58:17.296681+11:00",
+    "date": "2026-10-15",
+    "display_date": "Thursday 15 October 2026",
+    "display_time": "09:58 AM AEST"
+  }
+}
