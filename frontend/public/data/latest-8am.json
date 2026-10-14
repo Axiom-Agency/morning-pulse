@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7807.24,
-      "change": -4.3,
-      "change_pct": -0.06,
+      "price": 7805.45,
+      "change": -1.79,
+      "change_pct": -0.02,
       "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 27245.9,
-      "change": -120.27,
-      "change_pct": -0.44,
+      "price": 27204.38,
+      "change": -41.52,
+      "change_pct": -0.15,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51850.55,
-      "change": 195.6,
-      "change_pct": 0.38,
+      "price": 51670.1,
+      "change": -180.45,
+      "change_pct": -0.35,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 15.21,
-      "change": 0.37,
-      "change_pct": 2.49,
+      "price": 15.27,
+      "change": 0.06,
+      "change_pct": 0.39,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.24,
-      "change": -0.0,
-      "change_pct": -0.0,
+      "price": 5.22,
+      "change": -0.02,
+      "change_pct": -0.38,
       "trend_5d": "down"
     }
   ],
@@ -45,34 +45,34 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 67314.39,
-      "change": -1716.53,
-      "change_pct": -2.49,
-      "trend_5d": "down"
+      "price": 69030.92,
+      "change": -11.19,
+      "change_pct": -0.02,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24066.64,
-      "change": -204.56,
-      "change_pct": -0.84,
-      "trend_5d": "down"
+      "price": 24271.2,
+      "change": 59.85,
+      "change_pct": 0.25,
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3769.89,
-      "change": -27.35,
-      "change_pct": -0.72,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5989.3,
-      "change": -394.94,
-      "change_pct": -6.19,
-      "trend_5d": "down"
+      "price": 6384.24,
+      "change": -241.69,
+      "change_pct": -3.65,
+      "trend_5d": "flat"
     }
   ],
   "crypto": [
@@ -80,14 +80,10 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 118866,
-      "change_24h_pct": -0.83,
-      "yoy_change_pct": -32.99,
+      "current_price": 119182,
+      "change_24h_pct": 1.67,
+      "yoy_change_pct": -31.42,
       "history": [
-        {
-          "date": "2025-10-14",
-          "price": 177462.77
-        },
         {
           "date": "2025-10-15",
           "price": 173789.99
@@ -1545,8 +1541,12 @@
           "price": 117591.96
         },
         {
-          "date": "2026-10-13",
-          "price": 118915.18
+          "date": "2026-10-14",
+          "price": 119007.28
+        },
+        {
+          "date": "2026-10-14",
+          "price": 119188.44
         }
       ]
     },
@@ -1554,14 +1554,10 @@
       "coin_id": "ethereum",
       "name": "Ethereum",
       "symbol": "ETH",
-      "current_price": 3564.01,
-      "change_24h_pct": -2.29,
-      "yoy_change_pct": -45.45,
+      "current_price": 3581.33,
+      "change_24h_pct": 2.47,
+      "yoy_change_pct": -43.53,
       "history": [
-        {
-          "date": "2025-10-14",
-          "price": 6538.5
-        },
         {
           "date": "2025-10-15",
           "price": 6342.28
@@ -1884,11 +1880,11 @@
         },
         {
           "date": "2026-01-03",
-          "price": 4684.86
+          "price": 4672.75
         },
         {
           "date": "2026-01-04",
-          "price": 4684.33
+          "price": 4677.53
         },
         {
           "date": "2026-01-05",
@@ -1904,7 +1900,7 @@
         },
         {
           "date": "2026-01-08",
-          "price": 4728.39
+          "price": 4727.14
         },
         {
           "date": "2026-01-09",
@@ -1920,7 +1916,7 @@
         },
         {
           "date": "2026-01-12",
-          "price": 4651.42
+          "price": 4644.44
         },
         {
           "date": "2026-01-13",
@@ -1940,7 +1936,7 @@
         },
         {
           "date": "2026-01-17",
-          "price": 4925.96
+          "price": 4927.55
         },
         {
           "date": "2026-01-18",
@@ -1948,7 +1944,7 @@
         },
         {
           "date": "2026-01-19",
-          "price": 4885.37
+          "price": 4866.88
         },
         {
           "date": "2026-01-20",
@@ -1964,7 +1960,7 @@
         },
         {
           "date": "2026-01-23",
-          "price": 4279.85
+          "price": 4278.56
         },
         {
           "date": "2026-01-24",
@@ -1988,7 +1984,7 @@
         },
         {
           "date": "2026-01-29",
-          "price": 4273.68
+          "price": 4267.63
         },
         {
           "date": "2026-01-30",
@@ -2084,11 +2080,11 @@
         },
         {
           "date": "2026-02-22",
-          "price": 2795.8
+          "price": 2777.39
         },
         {
           "date": "2026-02-23",
-          "price": 2672.07
+          "price": 2653.37
         },
         {
           "date": "2026-02-24",
@@ -2140,7 +2136,7 @@
         },
         {
           "date": "2026-03-08",
-          "price": 2847.57
+          "price": 2828.62
         },
         {
           "date": "2026-03-09",
@@ -2168,7 +2164,7 @@
         },
         {
           "date": "2026-03-15",
-          "price": 3007.69
+          "price": 2990.37
         },
         {
           "date": "2026-03-16",
@@ -2212,7 +2208,7 @@
         },
         {
           "date": "2026-03-26",
-          "price": 3155.06
+          "price": 3149.46
         },
         {
           "date": "2026-03-27",
@@ -2224,11 +2220,11 @@
         },
         {
           "date": "2026-03-29",
-          "price": 2919.44
+          "price": 2911.3
         },
         {
           "date": "2026-03-30",
-          "price": 2894.96
+          "price": 2896.52
         },
         {
           "date": "2026-03-31",
@@ -2248,7 +2244,7 @@
         },
         {
           "date": "2026-04-04",
-          "price": 2914.74
+          "price": 2976.74
         },
         {
           "date": "2026-04-05",
@@ -2256,7 +2252,7 @@
         },
         {
           "date": "2026-04-06",
-          "price": 2987.56
+          "price": 3069.53
         },
         {
           "date": "2026-04-07",
@@ -2276,7 +2272,7 @@
         },
         {
           "date": "2026-04-11",
-          "price": 3181.06
+          "price": 3177.27
         },
         {
           "date": "2026-04-12",
@@ -2296,7 +2292,7 @@
         },
         {
           "date": "2026-04-16",
-          "price": 3297.64
+          "price": 3296.92
         },
         {
           "date": "2026-04-17",
@@ -2332,7 +2328,7 @@
         },
         {
           "date": "2026-04-25",
-          "price": 3241.01
+          "price": 3240.33
         },
         {
           "date": "2026-04-26",
@@ -2348,7 +2344,7 @@
         },
         {
           "date": "2026-04-29",
-          "price": 3217.06
+          "price": 3212.05
         },
         {
           "date": "2026-04-30",
@@ -2364,11 +2360,11 @@
         },
         {
           "date": "2026-05-03",
-          "price": 3220.28
+          "price": 3213.63
         },
         {
           "date": "2026-05-04",
-          "price": 3240.59
+          "price": 3239.63
         },
         {
           "date": "2026-05-05",
@@ -3019,8 +3015,12 @@
           "price": 3516.32
         },
         {
-          "date": "2026-10-13",
-          "price": 3566.65
+          "date": "2026-10-14",
+          "price": 3574.71
+        },
+        {
+          "date": "2026-10-14",
+          "price": 3581.2
         }
       ]
     }
@@ -3029,14 +3029,10 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6962,
-      "change_pct": 0.0409,
-      "yoy_change_pct": 7.13,
+      "current_rate": 0.6988,
+      "change_pct": 0.4533,
+      "yoy_change_pct": 7.31,
       "history": [
-        {
-          "date": "2025-10-13",
-          "rate": 0.6498
-        },
         {
           "date": "2025-10-14",
           "rate": 0.6512
@@ -4066,22 +4062,26 @@
           "rate": 0.6959
         },
         {
+          "date": "2026-10-12",
+          "rate": 0.6985
+        },
+        {
           "date": "2026-10-13",
-          "rate": 0.6962
+          "rate": 0.6956
+        },
+        {
+          "date": "2026-10-14",
+          "rate": 0.6988
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5592,
-      "change_pct": -0.2337,
-      "yoy_change_pct": -2.36,
+      "current_rate": 0.5617,
+      "change_pct": 0.5393,
+      "yoy_change_pct": -1.76,
       "history": [
-        {
-          "date": "2025-10-13",
-          "rate": 0.5727
-        },
         {
           "date": "2025-10-14",
           "rate": 0.5717
@@ -5111,22 +5111,26 @@
           "rate": 0.5605
         },
         {
+          "date": "2026-10-12",
+          "rate": 0.5615
+        },
+        {
           "date": "2026-10-13",
-          "rate": 0.5592
+          "rate": 0.5587
+        },
+        {
+          "date": "2026-10-14",
+          "rate": 0.5617
         }
       ]
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2447,
-      "change_pct": 0.2497,
-      "yoy_change_pct": 9.7,
+      "current_rate": 1.2438,
+      "change_pct": -0.0964,
+      "yoy_change_pct": 9.22,
       "history": [
-        {
-          "date": "2025-10-13",
-          "rate": 1.1346
-        },
         {
           "date": "2025-10-14",
           "rate": 1.1388
@@ -6156,16 +6160,24 @@
           "rate": 1.2416
         },
         {
+          "date": "2026-10-12",
+          "rate": 1.2431
+        },
+        {
           "date": "2026-10-13",
-          "rate": 1.2447
+          "rate": 1.245
+        },
+        {
+          "date": "2026-10-14",
+          "rate": 1.2438
         }
       ]
     }
   ],
   "world_news": [
     {
-      "headline": "Australian politics live: businesses increasing prices under cover of surcharge ban, UBS economists warn; fire ants in Sydney\u2019s inner west",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Robert</strong> <strong>Pether</strong> has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail.</p><p>Pether and his Egyptian colleague <strong>Khalid</strong> <strong>Radwan</strong> were detained in Baghdad in 2021 after flying in for a meeting with bank officials to resolve a dispute with his engineering firm, CME Consulting.</p><p>We were innocent when we were taken on the 7th of April 2021, and we remain innocent today.</p><p>I was released from prison hours away from death. My body was shutting down after months of critical illness and excruciating pain, but I remained trapped in Iraq.</p><p>She is an incredible person, someone that I have so much respect for, and being able to come home was incredible. Just the emotion that it brings is, you can\u2019t describe it. I mean, it\u2019s been years.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb\">Continue reading...</a>",
+      "headline": "Flying foxes in NSW and Victoria face mass starvation amid food shortages",
+      "summary": "<p>Rescuers respond to surge in callouts for the vulnerable bat species, which usually feeds on blossoms and tree nectar</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Flying foxes are starving en masse across New South Wales and parts of Victoria, with wildlife rescuers responding to a surge in reports of \u201cexhausted and emaciated\u201d adults and skeletal pups.</p><p>Most reports involved grey-headed flying foxes, listed as vulnerable under federal environment laws and which usually feed on the blossoms and nectar of native trees.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/14/flying-foxes-in-nsw-and-victoria-face-mass-starvation-amid-food-shortages\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6175,8 +6187,8 @@
       ]
     },
     {
-      "headline": "\u2018Clear and present danger\u2019: fuel prices could rise by 30c a litre across Australia under IMF scenario",
-      "summary": "<p>IMF\u2019s World Economic Outlook shows how a worsening Middle East crisis could affect global growth and inflation </p><p>An International Monetary Fund scenario where global oil prices jump to US$130 a barrel over coming months could push Australian petrol prices up by another 30 cents per litre and pile pressure on the Reserve Bank to hike interest rates, economists say.</p><p>In its latest World Economic Outlook, the IMF modelled the impact on global growth and inflation from a worsening Middle East crisis that extended into next year, highlighting the \u201cclear and present danger\u201d to a resilient global economy from turmoil in commodity and bond markets.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/13/australia-fuel-prices-rise-imf-rba-us-oil-interest-rates\">Continue reading...</a>",
+      "headline": "Australian politics live: Hanson dismisses \u2018shamed and stoned\u2019 remark as \u2018heat of moment\u2019; PM extends \u2018thoughts and prayers\u2019 to pope",
+      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Australia missing out on $45bn of revenue from resources: Greens</strong></p><p>As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being left on the table because the government won\u2019t properly tax the resource.</p><p>We\u2019re giving away billions in resource wealth while families struggle to pay the rent, put food on the table and afford basic healthcare.</p><p>Labor can find billions to prop up the fossil fuel industry, but when it comes to making corporations like Santos, Woodside and Adani pay a fair return, suddenly it\u2019s all too hard.</p><p>The prime minister has a kink for punishing small businesses and a fetish for humiliating his treasurer. So I say this is a consistent pattern of behaviour where the prime minister constantly goes in, overrides his treasurer, humiliates him in public. I suspect it\u2019s going to sour the relationship somewhat.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6186,19 +6198,8 @@
       ]
     },
     {
-      "headline": "IMF warns global economy \u2018could soon test the limits of resilience\u2019",
-      "summary": "<p>World Economic Outlook says states\u2019 oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns\">Developing nations face triple shock, UN warns</a></p></li></ul><p>The global economy \u201ccould soon test the limits of resilience\u201d, as emergency oil stocks run low and government budgets become overstretched, the International Monetary Fund has warned.</p><p>In its twice-yearly World Economic Outlook, the IMF said global growth had withstood the Middle East conflict better than feared over the past six months.</p> <a href=\"https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Ethiopia\u2019s Tigray war: Where do the UAE and Saudi Arabia stand?",
-      "summary": "The Tigray conflict puts the UAE\u2019s backing of Ethiopia and Saudi Arabia\u2019s diplomatic role under scrutiny.",
+      "headline": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur\u2019s 1996 murder",
+      "summary": "A 30-year hunt for justice ends with the sentencing of Duane &#039;Keffe D&#039; Davis, who has written about Shakur&#039;s shooting.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6208,8 +6209,8 @@
       ]
     },
     {
-      "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "headline": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6219,19 +6220,8 @@
       ]
     },
     {
-      "headline": "Body found in stockyard trough confirmed to be missing 73-year-old Yvonne Whear",
-      "summary": "<p>Police treating death as homicide. Whear was last seen in mid-February buying orange juice and putting $50 credit on her phone in Murwillumbah</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb\">Follow our Australia politics live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>New South Wales police say a decomposed body found in a stockyard dip last week was missing woman Yvonne Whear, who vanished eight months ago after last being seen in Murwillumbah.</p><p>Police said a week ago that a partially submerged body believed to be a woman had been <a href=\"https://www.theguardian.com/australia-news/2026/oct/06/womans-body-found-stockyard-trough-terragon-farm-nsw-queensland-border\">discovered in a remote stockyard</a> in Terragon near Murwillumbah.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/13/yvonne-whear-body-found-in-stockyard-trough-missing-woman-murwillumbah-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Breaking Bad actor RJ Mitte dies aged 34",
-      "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "headline": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
+      "summary": "One person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6241,8 +6231,19 @@
       ]
     },
     {
-      "headline": "Iran war live: Trump says Houthis \u2018misbehaving\u2019 as Riyadh flights halted",
-      "summary": "US President Trump condemns Yemen&#039;s Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
+      "headline": "Zimbabwean author denies using AI to write award-winning story",
+      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Manchester United\u2019s Martinez blasts board\u2019s lack of investment",
+      "summary": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club&#039;s failure to invest in team.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6252,8 +6253,8 @@
       ]
     },
     {
-      "headline": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
-      "summary": "Saudi Arabia claims it downed a ballistic missile fired at Riyadh, as the Houthis say they targeted King Khalid airport.",
+      "headline": "Bayern\u2019s Michael Olise sent off for \u2018super dumb\u2019 yellows within seconds",
+      "summary": "Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6263,8 +6264,19 @@
       ]
     },
     {
-      "headline": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico\u2019s coast",
-      "summary": "Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico.",
+      "headline": "Mauritius imposes curfew after night of unrest over police shooting",
+      "summary": "Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Albanian police fire tear gas at protesters as Education Ministry attacked",
+      "summary": "At least 23 protesters have been arrested in demonstrations in the capital.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6281,174 +6293,174 @@
   "asx_deep_dive": {
     "overview": "AI synthesis unavailable. Showing raw data.",
     "asx200": {
-      "level": 8763.1,
-      "change_pct": -0.23
+      "level": 8730.7,
+      "change_pct": -0.6
     },
     "sectors": [
       {
         "name": "Mining & Resources",
-        "change_pct": -1.24,
+        "change_pct": 0.53,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "MIN",
             "name": "MIN.AX",
-            "price": 46.6,
-            "change_pct": -5.59,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "BHP",
-            "name": "BHP.AX",
-            "price": 61.61,
-            "change_pct": 1.1,
+            "price": 47.11,
+            "change_pct": 2.84,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "RIO",
             "name": "RIO.AX",
-            "price": 160.61,
-            "change_pct": -1.08,
+            "price": 159.97,
+            "change_pct": -0.64,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "S32",
+            "name": "S32.AX",
+            "price": 4.86,
+            "change_pct": 0.62,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Banks & Financials",
-        "change_pct": 2.72,
+        "change_pct": -1.28,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "WBC",
-            "name": "WBC.AX",
-            "price": 34.98,
-            "change_pct": 3.74,
+            "ticker": "CBA",
+            "name": "CBA.AX",
+            "price": 151.39,
+            "change_pct": -2.01,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "NAB",
             "name": "NAB.AX",
-            "price": 38.99,
-            "change_pct": 3.48,
+            "price": 38.71,
+            "change_pct": -1.38,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "ANZ",
-            "name": "ANZ.AX",
-            "price": 38.17,
-            "change_pct": 2.66,
+            "ticker": "MQG",
+            "name": "MQG.AX",
+            "price": 248.79,
+            "change_pct": -1.23,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Tech",
-        "change_pct": -0.67,
+        "change_pct": -1.3,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "TNE",
-            "name": "TNE.AX",
-            "price": 30.42,
-            "change_pct": -2.72,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "WTC",
-            "name": "WTC.AX",
-            "price": 32.88,
-            "change_pct": -2.23,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "REA",
             "name": "REA.AX",
-            "price": 157.85,
-            "change_pct": 1.35,
+            "price": 154.14,
+            "change_pct": -1.76,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "TNE",
+            "name": "TNE.AX",
+            "price": 30.19,
+            "change_pct": -1.44,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "CPU",
+            "name": "CPU.AX",
+            "price": 40.24,
+            "change_pct": -1.35,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Healthcare",
-        "change_pct": 0.8,
+        "change_pct": -1.16,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "RMD",
-            "name": "RMD.AX",
-            "price": 33.71,
-            "change_pct": 3.47,
+            "ticker": "PME",
+            "name": "PME.AX",
+            "price": 161.09,
+            "change_pct": -2.78,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "COH",
             "name": "COH.AX",
-            "price": 129.34,
-            "change_pct": 0.74,
+            "price": 127.58,
+            "change_pct": -1.48,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "SHL",
             "name": "SHL.AX",
-            "price": 18.56,
-            "change_pct": -0.48,
+            "price": 18.19,
+            "change_pct": -1.09,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Energy",
-        "change_pct": 2.16,
+        "change_pct": 0.56,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "AGL",
-            "name": "AGL.AX",
-            "price": 8.77,
-            "change_pct": 4.03,
+            "ticker": "STO",
+            "name": "STO.AX",
+            "price": 9.07,
+            "change_pct": 1.8,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "STO",
-            "name": "STO.AX",
-            "price": 8.95,
-            "change_pct": 2.05,
+            "ticker": "WDS",
+            "name": "WDS.AX",
+            "price": 32.98,
+            "change_pct": 0.61,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "ORG",
             "name": "ORG.AX",
-            "price": 11.52,
-            "change_pct": 1.32,
+            "price": 11.53,
+            "change_pct": -0.17,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "REITs / Property",
-        "change_pct": -1.78,
+        "change_pct": 0.36,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "CHC",
-            "name": "CHC.AX",
-            "price": 18.21,
-            "change_pct": -3.5,
+            "ticker": "GMG",
+            "name": "GMG.AX",
+            "price": 26.71,
+            "change_pct": 0.79,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "GMG",
-            "name": "GMG.AX",
-            "price": 26.36,
-            "change_pct": -2.95,
+            "ticker": "CHC",
+            "name": "CHC.AX",
+            "price": 18.45,
+            "change_pct": 0.76,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "SCG",
             "name": "SCG.AX",
-            "price": 3.4,
-            "change_pct": -1.45,
+            "price": 3.42,
+            "change_pct": 0.59,
             "explanation": "No AI analysis available"
           }
         ]
@@ -6459,9 +6471,9 @@
     {
       "ticker": "AMC",
       "name": "Amcor",
-      "price": 59.81,
-      "change_pct": -0.75,
-      "volume_vs_avg": 0.33,
+      "price": 59.85,
+      "change_pct": 0.07,
+      "volume_vs_avg": 0.09,
       "week52_high": 68.41,
       "week52_low": 49.84,
       "news_digest": "AI synthesis unavailable",
@@ -6470,9 +6482,9 @@
     {
       "ticker": "IHVV",
       "name": "iShares S&P500 ETF",
-      "price": 68.27,
-      "change_pct": -0.6,
-      "volume_vs_avg": 0.56,
+      "price": 68.37,
+      "change_pct": 0.1,
+      "volume_vs_avg": 0.08,
       "week52_high": 68.68,
       "week52_low": 55.76,
       "news_digest": "AI synthesis unavailable",
@@ -6481,8 +6493,8 @@
     {
       "ticker": "JHX",
       "name": "James Hardie",
-      "price": 35.5,
-      "change_pct": -1.63,
+      "price": 35.3,
+      "change_pct": -0.84,
       "volume_vs_avg": 0.37,
       "week52_high": 43.85,
       "week52_low": 25.43,
@@ -6492,20 +6504,20 @@
     {
       "ticker": "LTR",
       "name": "Liontown Resources",
-      "price": 0.73,
-      "change_pct": -5.19,
-      "volume_vs_avg": 0.45,
+      "price": 0.71,
+      "change_pct": -0.7,
+      "volume_vs_avg": 0.23,
       "week52_high": 2.64,
-      "week52_low": 0.73,
+      "week52_low": 0.71,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
     {
       "ticker": "MQG",
       "name": "Macquarie Group",
-      "price": 252.24,
-      "change_pct": 1.56,
-      "volume_vs_avg": 0.13,
+      "price": 248.93,
+      "change_pct": -1.18,
+      "volume_vs_avg": 0.1,
       "week52_high": 267.25,
       "week52_low": 186.62,
       "news_digest": "AI synthesis unavailable",
@@ -6515,8 +6527,8 @@
       "ticker": "NIC",
       "name": "Nickel Industries",
       "price": 0.72,
-      "change_pct": -4.64,
-      "volume_vs_avg": 0.44,
+      "change_pct": 0.7,
+      "volume_vs_avg": 0.13,
       "week52_high": 1.1,
       "week52_low": 0.67,
       "news_digest": "AI synthesis unavailable",
@@ -6526,19 +6538,19 @@
       "ticker": "PLS",
       "name": "Pilbara Minerals",
       "price": 3.16,
-      "change_pct": -9.71,
-      "volume_vs_avg": 1.01,
+      "change_pct": 2.6,
+      "volume_vs_avg": 0.24,
       "week52_high": 6.68,
-      "week52_low": 2.58,
+      "week52_low": 2.63,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
     {
       "ticker": "QRE",
       "name": "Qualitas Real Estate",
-      "price": 10.11,
-      "change_pct": -1.37,
-      "volume_vs_avg": 0.95,
+      "price": 10.14,
+      "change_pct": 0.3,
+      "volume_vs_avg": 0.15,
       "week52_high": 11.04,
       "week52_low": 7.8,
       "news_digest": "AI synthesis unavailable",
@@ -6547,9 +6559,9 @@
     {
       "ticker": "TLS",
       "name": "Telstra",
-      "price": 4.61,
-      "change_pct": -3.35,
-      "volume_vs_avg": 0.54,
+      "price": 4.66,
+      "change_pct": 0.43,
+      "volume_vs_avg": 0.15,
       "week52_high": 5.43,
       "week52_low": 4.52,
       "news_digest": "AI synthesis unavailable",
@@ -6558,9 +6570,9 @@
     {
       "ticker": "WEB",
       "name": "Webjet",
-      "price": 3.38,
-      "change_pct": -1.17,
-      "volume_vs_avg": 0.2,
+      "price": 3.36,
+      "change_pct": -0.3,
+      "volume_vs_avg": 0.13,
       "week52_high": 5.03,
       "week52_low": 2.23,
       "news_digest": "AI synthesis unavailable",
@@ -6569,9 +6581,9 @@
     {
       "ticker": "WOW",
       "name": "Woolworths",
-      "price": 39.58,
-      "change_pct": -0.03,
-      "volume_vs_avg": 0.26,
+      "price": 39.7,
+      "change_pct": 0.08,
+      "volume_vs_avg": 0.09,
       "week52_high": 40.32,
       "week52_low": 25.26,
       "news_digest": "AI synthesis unavailable",
@@ -6580,9 +6592,9 @@
     {
       "ticker": "WQG",
       "name": "WCM Quality Global Growth",
-      "price": 2.01,
-      "change_pct": 0.0,
-      "volume_vs_avg": 0.92,
+      "price": 2.04,
+      "change_pct": 0.99,
+      "volume_vs_avg": 0.03,
       "week52_high": 2.17,
       "week52_low": 1.59,
       "news_digest": "AI synthesis unavailable",
@@ -6592,9 +6604,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-10-13T13:29:28.037316+11:00",
-    "date": "2026-10-13",
-    "display_date": "Tuesday 13 October 2026",
-    "display_time": "01:29 PM AEST"
+    "generated_at": "2026-10-14T11:13:19.610144+11:00",
+    "date": "2026-10-14",
+    "display_date": "Wednesday 14 October 2026",
+    "display_time": "11:13 AM AEST"
   }
 }
