@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7744.06,
-      "change": 25.12,
-      "change_pct": 0.33,
+      "price": 7659.44,
+      "change": -84.62,
+      "change_pct": -1.09,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26713.03,
-      "change": 20.16,
-      "change_pct": 0.08,
+      "price": 26140.03,
+      "change": -573.0,
+      "change_pct": -2.15,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52177.69,
-      "change": 556.21,
-      "change_pct": 1.08,
+      "price": 52002.41,
+      "change": -175.28,
+      "change_pct": -0.34,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.46,
-      "change": -0.41,
-      "change_pct": -2.43,
+      "price": 19.99,
+      "change": 3.53,
+      "change_pct": 21.45,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.09,
-      "change": -0.1,
-      "change_pct": -1.93,
+      "price": 5.1,
+      "change": 0.01,
+      "change_pct": 0.2,
       "trend_5d": "down"
     }
   ],
@@ -45,84 +45,84 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 67744.29,
-      "change": -33.23,
-      "change_pct": -0.05,
-      "trend_5d": "flat"
+      "price": 65324.29,
+      "change": 898.34,
+      "change_pct": 1.39,
+      "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24314.17,
-      "change": -31.05,
-      "change_pct": -0.13,
-      "trend_5d": "flat"
+      "price": 24186.83,
+      "change": 124.11,
+      "change_pct": 0.52,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3716.28,
+      "change": 8.8,
+      "change_pct": 0.24,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6008.81,
-      "change": -26.54,
-      "change_pct": -0.44,
-      "trend_5d": "flat"
+      "price": 5668.05,
+      "change": 113.83,
+      "change_pct": 2.05,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4187.9,
-      "change_pct": 1.95
+      "price": 4181.1,
+      "change_pct": -0.0
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 105.55,
-      "change_pct": -0.48
+      "price": 109.86,
+      "change_pct": -0.0
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 96.11,
-      "change_pct": 1.07
+      "price": 99.02,
+      "change_pct": -2.36
     }
   ],
   "asx200": {
-    "level": 8719.7,
-    "change_pct": -0.09
+    "level": 8806.7,
+    "change_pct": 1.0
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6924,
-      "change_pct": -0.8725
+      "current_rate": 0.697,
+      "change_pct": 0.7388
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5623,
-      "change_pct": 0.1479
+      "current_rate": 0.5663,
+      "change_pct": 0.7333
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2312,
-      "change_pct": -1.0115
+      "current_rate": 1.2301,
+      "change_pct": 0.0228
     }
   ],
   "world_news": [
     {
-      "headline": "Letters with 'suspicious substances' sent to US senators and election offices",
-      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+      "headline": "What we know so far about deadly fire at Canadian military base",
+      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,63 +132,8 @@
       ]
     },
     {
-      "headline": "Supercars to return to Phillip Island, plugging hole left by MotoGP exit",
-      "summary": "The Victorian government has announced a five-year deal to bring the Supercars to Phillip Island, helping offset an $80 million loss caused by losing the MotoGP.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-      "summary": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Man United\u2019s Martinez apologises for outburst after talks with Carrick",
-      "summary": "Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump administration sues California over noncitizens on voter rolls",
-      "summary": "Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Nineteen injured in collision between minibus and train on Eurotunnel loading platform",
-      "summary": "<p>Two people critically hurt when vehicle carrying HGV drivers hit stationary train in Calais, say French authorities</p><p>Nineteen people have been injured after a minibus collided with a stationary freight train at the loading platform of the Eurotunnel near Calais, French authorities have said.</p><p>Pas-de-Calais underprefect Agathe Cury said 18 passengers and the bus driver were injured in the incident.</p> <a href=\"https://www.theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais\">Continue reading...</a>",
+      "headline": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
+      "summary": "<p>Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man has been charged with a slew of offences following an investigation into reports a man was allegedly seen with a firearm in Sydney\u2019s inner west last week.</p><p>About 10.20am on Friday, police were called to a car park on Williams Parade, Dulwich Hill, after reports of an alleged stolen vehicle.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +143,8 @@
       ]
     },
     {
-      "headline": "Several people dead or missing after Istanbul floods",
-      "summary": "Three people have died and several are reported missing after torrential rain triggered severe flooding across Istanbul",
+      "headline": "Macron condemns violence after riots lead to looting and mass arrests",
+      "summary": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +154,41 @@
       ]
     },
     {
-      "headline": "Israeli \u2018ad\u2019 firm helped infect spyware into Al Jazeera devices",
-      "summary": "An Israeli spyware disguised as a digital advertisement firm has targeted journalists\u2019 devices at Al Jazeera.",
+      "headline": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Brighton winger's long-range goal conjures decades-old memories of Beckham",
+      "summary": "Diego Gomez lights up the Premier League with one of its most spectacular goals as Brighton & Hove Albion continues a fantastic start to the season.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Macron calls for 'calm and order' after riots across France",
+      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Fire engulfs Albania\u2019s Supreme Court as protests enter fifth day",
+      "summary": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +198,30 @@
       ]
     },
     {
-      "headline": "ICE tactics spark debate before pivotal US midterm elections",
-      "summary": "Polls have found that Trump&#039;s hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
+      "headline": "\u2018Anger and shame\u2019: Macron denounces France\u2019s nationwide rioting, looting",
+      "summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "'Anxious' Smith's concussion admission after latest head knock",
+      "summary": "Steve Smith explains how he felt in the immediate aftermath of a brutal blow to his helmet during the first Test against South Africa.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "What\u2019s behind Europe\u2019s youth protests?",
+      "summary": "What&#039;s behind Europe&#039;s youth protests?",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-16T09:53:13.415334+11:00",
-    "date": "2026-10-16",
-    "display_date": "Friday 16 October 2026",
-    "display_time": "09:53 AM AEST"
+    "generated_at": "2026-10-19T09:12:45.087537+11:00",
+    "date": "2026-10-19",
+    "display_date": "Monday 19 October 2026",
+    "display_time": "09:12 AM AEST"
   }
 }

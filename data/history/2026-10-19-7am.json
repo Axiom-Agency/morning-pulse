@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7659.44,
+      "change": -84.62,
+      "change_pct": -1.09,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 26140.03,
+      "change": -573.0,
+      "change_pct": -2.15,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 52002.41,
+      "change": -175.28,
+      "change_pct": -0.34,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 19.99,
+      "change": 3.53,
+      "change_pct": 21.45,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 5.1,
+      "change": 0.01,
+      "change_pct": 0.2,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 65324.29,
+      "change": 898.34,
+      "change_pct": 1.39,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 24186.83,
+      "change": 124.11,
+      "change_pct": 0.52,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3716.28,
+      "change": 8.8,
+      "change_pct": 0.24,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5668.05,
+      "change": 113.83,
+      "change_pct": 2.05,
+      "trend_5d": "down"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4181.1,
+      "change_pct": -0.0
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 109.86,
+      "change_pct": -0.0
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 99.02,
+      "change_pct": -2.36
+    }
+  ],
+  "asx200": {
+    "level": 8806.7,
+    "change_pct": 1.0
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.697,
+      "change_pct": 0.7388
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5663,
+      "change_pct": 0.7333
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2301,
+      "change_pct": 0.0228
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "What we know so far about deadly fire at Canadian military base",
+      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
+      "summary": "<p>Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man has been charged with a slew of offences following an investigation into reports a man was allegedly seen with a firearm in Sydney\u2019s inner west last week.</p><p>About 10.20am on Friday, police were called to a car park on Williams Parade, Dulwich Hill, after reports of an alleged stolen vehicle.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Macron condemns violence after riots lead to looting and mass arrests",
+      "summary": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Brighton winger's long-range goal conjures decades-old memories of Beckham",
+      "summary": "Diego Gomez lights up the Premier League with one of its most spectacular goals as Brighton & Hove Albion continues a fantastic start to the season.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Macron calls for 'calm and order' after riots across France",
+      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Fire engulfs Albania\u2019s Supreme Court as protests enter fifth day",
+      "summary": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "\u2018Anger and shame\u2019: Macron denounces France\u2019s nationwide rioting, looting",
+      "summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "'Anxious' Smith's concussion admission after latest head knock",
+      "summary": "Steve Smith explains how he felt in the immediate aftermath of a brutal blow to his helmet during the first Test against South Africa.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "What\u2019s behind Europe\u2019s youth protests?",
+      "summary": "What&#039;s behind Europe&#039;s youth protests?",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-10-19T09:12:45.087537+11:00",
+    "date": "2026-10-19",
+    "display_date": "Monday 19 October 2026",
+    "display_time": "09:12 AM AEST"
+  }
+}
