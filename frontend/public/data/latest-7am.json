@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7659.44,
-      "change": -84.62,
-      "change_pct": -1.09,
+      "price": 7690.73,
+      "change": 31.29,
+      "change_pct": 0.41,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26140.03,
-      "change": -573.0,
-      "change_pct": -2.15,
+      "price": 26430.89,
+      "change": 290.86,
+      "change_pct": 1.11,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52002.41,
-      "change": -175.28,
-      "change_pct": -0.34,
+      "price": 51966.03,
+      "change": -36.38,
+      "change_pct": -0.07,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 19.99,
-      "change": 3.53,
-      "change_pct": 21.45,
+      "price": 18.44,
+      "change": -1.55,
+      "change_pct": -7.75,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.1,
-      "change": 0.01,
-      "change_pct": 0.2,
+      "price": 5.14,
+      "change": 0.04,
+      "change_pct": 0.78,
       "trend_5d": "down"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 65324.29,
       "change": 898.34,
       "change_pct": 1.39,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -61,10 +61,10 @@
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3716.28,
-      "change": 8.8,
-      "change_pct": 0.24,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,27 +72,27 @@
       "price": 5668.05,
       "change": 113.83,
       "change_pct": 2.05,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4181.1,
-      "change_pct": -0.0
+      "price": 4155.5,
+      "change_pct": -0.61
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 109.86,
-      "change_pct": -0.0
+      "price": 109.28,
+      "change_pct": -0.53
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 99.02,
-      "change_pct": -2.36
+      "price": 98.25,
+      "change_pct": -3.12
     }
   ],
   "asx200": {
@@ -103,37 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.697,
-      "change_pct": 0.7388
+      "current_rate": 0.6983,
+      "change_pct": 0.1598
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
       "current_rate": 0.5663,
-      "change_pct": 0.7333
+      "change_pct": 0.0793
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2301,
-      "change_pct": 0.0228
+      "current_rate": 1.233,
+      "change_pct": 0.0787
     }
   ],
   "world_news": [
     {
-      "headline": "What we know so far about deadly fire at Canadian military base",
-      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
-      "summary": "<p>Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man has been charged with a slew of offences following an investigation into reports a man was allegedly seen with a firearm in Sydney\u2019s inner west last week.</p><p>About 10.20am on Friday, police were called to a car park on Williams Parade, Dulwich Hill, after reports of an alleged stolen vehicle.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb\">Continue reading...</a>",
+      "headline": "Helen Haines: independent MP in critical condition in Melbourne\u2019s Alfred hospital after being struck by car in Wangaratta  \u2013 follow updates",
+      "summary": "<p>A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged \u2018wasn\u2019t an accident\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb\">\u2018Deeply appalled\u2019: politicians condemn alleged attack after Helen Haines critically injured</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb\">Helen Haines, the principled MP respected across parliament</a></p></li></ul><p><strong>\u2018It\u2019s very clear that this was a deliberate act\u2019, PM says</strong></p><p>The prime minister, <strong>Anthony Albanese</strong>, said Haines\u2019 alleged attacker \u201cdid a U-turn in order to get back to where <strong>Helen Haines</strong> was\u201d after passing her on the road.</p><p>It would appear that the driver of the vehicle that inflicted the damage to Helen Haines did a U-turn in order to get back to where Helen Haines was after passing where she was getting things from the boot or putting things into the boot of her car.</p><p>So it\u2019s clear that there was a deliberate act here, this wasn\u2019t an accident \u2013 someone, you know, just getting off the road here.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +132,19 @@
       ]
     },
     {
-      "headline": "Macron condemns violence after riots lead to looting and mass arrests",
-      "summary": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+      "headline": "Trump borrows from far right to blame unrest in France on immigration",
+      "summary": "<p>President ignores school conditions and cost of living and says he warned Macron \u2018the whole world was coming in\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer\">Explainer: why are people protesting across Europe?</a></p></li></ul><p>Donald Trump and JD Vance deployed a familiar US playbook on Europe, claiming that immigrants were responsible for rioting in France that began as student protests against crumbling schools and the <a href=\"https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-frances-protests-a-polarised-country-is-in-a-perilous-political-moment\">high cost of living</a>.</p><p>The nationwide protests on Saturday <a href=\"https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france\">were called over</a> rising fuel prices and falling purchasing power, and in several cities they escalated into clashes with police that left a historic town hall torched and led to 1,800 arrests. On Monday, <a href=\"https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister\">overnight curfews were issued</a> for a number of French cities, including parts of <a href=\"https://www.theguardian.com/world/paris\">Paris</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Trump: \u2018Paris is going to be a Muslim city very soon\u2019",
+      "summary": "US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a \u2018Muslim city\u2019.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,19 +154,19 @@
       ]
     },
     {
-      "headline": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+      "headline": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "summary": "<p>DHS says migrants \u2018retain protections\u2019 after temporary protected status was set to expire on Monday</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a\">Send us your questions about immigration and the midterms</a></p></li></ul><p>More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday.</p><p>Temporary protected status was set to end on Monday for about 101,000 Ukrainians and 1,800 Sudanese. But the DHS said an announcement \u201cwill be made at the appropriate time\u201d. Until then, the department said in a written statement, Ukrainians and Sudanese in the US covered by those temporary measures \u201cretain protection\u201d. The department did not indicate how long they could stay or when a final announcement would be made on their status.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Brighton winger's long-range goal conjures decades-old memories of Beckham",
-      "summary": "Diego Gomez lights up the Premier League with one of its most spectacular goals as Brighton & Hove Albion continues a fantastic start to the season.",
+      "headline": "NFL QB in hospital at 4am before London game due to blood clots",
+      "summary": "Philadelphia Eagles quarterback Jalen Hurts has blood clots in his lungs and, according to media reports, the former Super Bowl MVP is expected to miss the rest of the 2026 season.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +176,30 @@
       ]
     },
     {
-      "headline": "Macron calls for 'calm and order' after riots across France",
-      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "headline": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "summary": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "160 people reported killed in escalating drone attacks across Sudan",
+      "summary": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Clean up begins after French riots but police remain",
+      "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +209,8 @@
       ]
     },
     {
-      "headline": "Fire engulfs Albania\u2019s Supreme Court as protests enter fifth day",
-      "summary": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
+      "headline": "Could your halal pension be funding Israel\u2019s military?",
+      "summary": "HSBC\u2019s \u2018sharia-compliant\u2019 fund invested over $100 million in companies linked to Israel\u2019s military.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,36 +220,14 @@
       ]
     },
     {
-      "headline": "\u2018Anger and shame\u2019: Macron denounces France\u2019s nationwide rioting, looting",
-      "summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "'Anxious' Smith's concussion admission after latest head knock",
-      "summary": "Steve Smith explains how he felt in the immediate aftermath of a brutal blow to his helmet during the first Test against South Africa.",
+      "headline": "Quick hits: Renshaw floored by miracle grab as Bavuma's six stops traffic",
+      "summary": "Matt Renshaw cannot believe his own fielding brilliance and Temba Bavuma's soaring six stops traffic after a soggy outfield threatens to ruin it all. Here are the quick hits from day two of the second Test between Australia and South Africa.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
-      ]
-    },
-    {
-      "headline": "What\u2019s behind Europe\u2019s youth protests?",
-      "summary": "What&#039;s behind Europe&#039;s youth protests?",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-19T09:12:45.087537+11:00",
-    "date": "2026-10-19",
-    "display_date": "Monday 19 October 2026",
-    "display_time": "09:12 AM AEST"
+    "generated_at": "2026-10-20T10:17:30.443527+11:00",
+    "date": "2026-10-20",
+    "display_date": "Tuesday 20 October 2026",
+    "display_time": "10:17 AM AEST"
   }
 }
