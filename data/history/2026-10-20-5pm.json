@@ -1,0 +1,382 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7690.73,
+      "change": 31.29,
+      "change_pct": 0.41,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 26430.89,
+      "change": 290.86,
+      "change_pct": 1.11,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 51966.03,
+      "change": -36.38,
+      "change_pct": -0.07,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 18.74,
+      "change": 0.3,
+      "change_pct": 1.63,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 5.14,
+      "change": 0.04,
+      "change_pct": 0.78,
+      "trend_5d": "down"
+    }
+  ],
+  "asx_deep_dive": {
+    "overview": "AI synthesis unavailable. Showing raw data.",
+    "asx200": {
+      "level": 8816.9,
+      "change_pct": -0.33
+    },
+    "sectors": [
+      {
+        "name": "Mining & Resources",
+        "change_pct": -0.48,
+        "summary": "AI synthesis unavailable",
+        "movers": [
+          {
+            "ticker": "S32",
+            "name": "S32.AX",
+            "price": 4.4,
+            "change_pct": -2.44,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "MIN",
+            "name": "MIN.AX",
+            "price": 45.46,
+            "change_pct": 2.07,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "BHP",
+            "name": "BHP.AX",
+            "price": 59.5,
+            "change_pct": -1.59,
+            "explanation": "No AI analysis available"
+          }
+        ]
+      },
+      {
+        "name": "Banks & Financials",
+        "change_pct": -0.73,
+        "summary": "AI synthesis unavailable",
+        "movers": [
+          {
+            "ticker": "NAB",
+            "name": "NAB.AX",
+            "price": 39.2,
+            "change_pct": -1.75,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "WBC",
+            "name": "WBC.AX",
+            "price": 35.13,
+            "change_pct": -0.79,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "ANZ",
+            "name": "ANZ.AX",
+            "price": 38.98,
+            "change_pct": -0.79,
+            "explanation": "No AI analysis available"
+          }
+        ]
+      },
+      {
+        "name": "Tech",
+        "change_pct": 0.34,
+        "summary": "AI synthesis unavailable",
+        "movers": [
+          {
+            "ticker": "XRO",
+            "name": "XRO.AX",
+            "price": 61.34,
+            "change_pct": 1.69,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "REA",
+            "name": "REA.AX",
+            "price": 158.66,
+            "change_pct": -1.41,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "WTC",
+            "name": "WTC.AX",
+            "price": 38.64,
+            "change_pct": 1.36,
+            "explanation": "No AI analysis available"
+          }
+        ]
+      },
+      {
+        "name": "Healthcare",
+        "change_pct": 1.82,
+        "summary": "AI synthesis unavailable",
+        "movers": [
+          {
+            "ticker": "COH",
+            "name": "COH.AX",
+            "price": 139.4,
+            "change_pct": 5.17,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "PME",
+            "name": "PME.AX",
+            "price": 179.93,
+            "change_pct": 1.29,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "CSL",
+            "name": "CSL.AX",
+            "price": 196.3,
+            "change_pct": 1.16,
+            "explanation": "No AI analysis available"
+          }
+        ]
+      },
+      {
+        "name": "Energy",
+        "change_pct": -0.25,
+        "summary": "AI synthesis unavailable",
+        "movers": [
+          {
+            "ticker": "STO",
+            "name": "STO.AX",
+            "price": 9.26,
+            "change_pct": -0.64,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "WDS",
+            "name": "WDS.AX",
+            "price": 33.82,
+            "change_pct": -0.62,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "AGL",
+            "name": "AGL.AX",
+            "price": 8.9,
+            "change_pct": 0.34,
+            "explanation": "No AI analysis available"
+          }
+        ]
+      },
+      {
+        "name": "REITs / Property",
+        "change_pct": 0.4,
+        "summary": "AI synthesis unavailable",
+        "movers": [
+          {
+            "ticker": "GMG",
+            "name": "GMG.AX",
+            "price": 26.51,
+            "change_pct": 0.88,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "SCG",
+            "name": "SCG.AX",
+            "price": 3.47,
+            "change_pct": 0.87,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "MGR",
+            "name": "MGR.AX",
+            "price": 1.8,
+            "change_pct": 0.84,
+            "explanation": "No AI analysis available"
+          }
+        ]
+      }
+    ]
+  },
+  "watchlist": [
+    {
+      "ticker": "AMC",
+      "name": "Amcor",
+      "price": 62.92,
+      "change_pct": 0.06,
+      "volume_vs_avg": 0.66,
+      "week52_high": 68.41,
+      "week52_low": 49.84,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "IHVV",
+      "name": "iShares S&P500 ETF",
+      "price": 67.43,
+      "change_pct": -0.37,
+      "volume_vs_avg": 0.79,
+      "week52_high": 68.68,
+      "week52_low": 55.76,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "JHX",
+      "name": "James Hardie",
+      "price": 36.47,
+      "change_pct": -1.54,
+      "volume_vs_avg": 1.3,
+      "week52_high": 43.85,
+      "week52_low": 25.43,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "LTR",
+      "name": "Liontown Resources",
+      "price": 0.69,
+      "change_pct": 0.73,
+      "volume_vs_avg": 0.71,
+      "week52_high": 2.64,
+      "week52_low": 0.68,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "MQG",
+      "name": "Macquarie Group",
+      "price": 248.15,
+      "change_pct": -0.47,
+      "volume_vs_avg": 0.6,
+      "week52_high": 267.25,
+      "week52_low": 186.62,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "NIC",
+      "name": "Nickel Industries",
+      "price": 0.68,
+      "change_pct": -0.0,
+      "volume_vs_avg": 1.08,
+      "week52_high": 1.1,
+      "week52_low": 0.67,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "PLS",
+      "name": "Pilbara Minerals",
+      "price": 2.93,
+      "change_pct": 1.03,
+      "volume_vs_avg": 1.26,
+      "week52_high": 6.68,
+      "week52_low": 2.71,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "QRE",
+      "name": "Qualitas Real Estate",
+      "price": 9.84,
+      "change_pct": -1.3,
+      "volume_vs_avg": 0.84,
+      "week52_high": 11.04,
+      "week52_low": 7.8,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "TLS",
+      "name": "Telstra",
+      "price": 4.76,
+      "change_pct": -0.0,
+      "volume_vs_avg": 0.91,
+      "week52_high": 5.43,
+      "week52_low": 4.52,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "WEB",
+      "name": "Webjet",
+      "price": 3.49,
+      "change_pct": -0.29,
+      "volume_vs_avg": 0.6,
+      "week52_high": 5.03,
+      "week52_low": 2.23,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "WOW",
+      "name": "Woolworths",
+      "price": 41.61,
+      "change_pct": 1.09,
+      "volume_vs_avg": 1.04,
+      "week52_high": 41.61,
+      "week52_low": 26.05,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    },
+    {
+      "ticker": "WQG",
+      "name": "WCM Quality Global Growth",
+      "price": 1.97,
+      "change_pct": -1.99,
+      "volume_vs_avg": 1.21,
+      "week52_high": 2.17,
+      "week52_low": 1.59,
+      "news_digest": "AI synthesis unavailable",
+      "has_announcement": false
+    }
+  ],
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6988,
+      "change_pct": 0.2298
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5682,
+      "change_pct": 0.4034
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.23,
+      "change_pct": -0.1672
+    }
+  ],
+  "meta": {
+    "briefing_type": "5pm",
+    "generated_at": "2026-10-20T22:00:58.806241+11:00",
+    "date": "2026-10-20",
+    "display_date": "Tuesday 20 October 2026",
+    "display_time": "10:00 PM AEST"
+  }
+}
