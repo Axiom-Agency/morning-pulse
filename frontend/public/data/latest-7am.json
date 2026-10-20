@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7690.73,
-      "change": 31.29,
-      "change_pct": 0.41,
-      "trend_5d": "down"
+      "price": 7712.57,
+      "change": 21.84,
+      "change_pct": 0.28,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26430.89,
-      "change": 290.86,
-      "change_pct": 1.11,
+      "price": 26424.82,
+      "change": -6.07,
+      "change_pct": -0.02,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51966.03,
-      "change": -36.38,
-      "change_pct": -0.07,
+      "price": 52495.88,
+      "change": 529.85,
+      "change_pct": 1.02,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 18.44,
-      "change": -1.55,
-      "change_pct": -7.75,
+      "price": 17.31,
+      "change": -1.13,
+      "change_pct": -6.13,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.14,
-      "change": 0.04,
-      "change_pct": 0.78,
+      "price": 5.12,
+      "change": -0.02,
+      "change_pct": -0.39,
       "trend_5d": "down"
     }
   ],
@@ -45,9 +45,9 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 65324.29,
-      "change": 898.34,
-      "change_pct": 1.39,
+      "price": 64916.7,
+      "change": -407.59,
+      "change_pct": -0.62,
       "trend_5d": "flat"
     },
     {
@@ -56,7 +56,7 @@
       "price": 24186.83,
       "change": 124.11,
       "change_pct": 0.52,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5668.05,
-      "change": 113.83,
-      "change_pct": 2.05,
+      "price": 5768.01,
+      "change": 99.96,
+      "change_pct": 1.76,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4155.5,
-      "change_pct": -0.61
+      "price": 4140.3,
+      "change_pct": -0.48
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 109.28,
-      "change_pct": -0.53
+      "price": 109.15,
+      "change_pct": -0.37
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 98.25,
-      "change_pct": -3.12
+      "price": 98.19,
+      "change_pct": -5.28
     }
   ],
   "asx200": {
-    "level": 8806.7,
-    "change_pct": 1.0
+    "level": 8816.9,
+    "change_pct": -0.33
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6983,
-      "change_pct": 0.1598
+      "current_rate": 0.7015,
+      "change_pct": 0.6094
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5663,
-      "change_pct": 0.0793
+      "current_rate": 0.5681,
+      "change_pct": 0.3806
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.233,
-      "change_pct": 0.0787
+      "current_rate": 1.2346,
+      "change_pct": 0.2094
     }
   ],
   "world_news": [
     {
-      "headline": "Helen Haines: independent MP in critical condition in Melbourne\u2019s Alfred hospital after being struck by car in Wangaratta  \u2013 follow updates",
-      "summary": "<p>A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged \u2018wasn\u2019t an accident\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb\">\u2018Deeply appalled\u2019: politicians condemn alleged attack after Helen Haines critically injured</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb\">Helen Haines, the principled MP respected across parliament</a></p></li></ul><p><strong>\u2018It\u2019s very clear that this was a deliberate act\u2019, PM says</strong></p><p>The prime minister, <strong>Anthony Albanese</strong>, said Haines\u2019 alleged attacker \u201cdid a U-turn in order to get back to where <strong>Helen Haines</strong> was\u201d after passing her on the road.</p><p>It would appear that the driver of the vehicle that inflicted the damage to Helen Haines did a U-turn in order to get back to where Helen Haines was after passing where she was getting things from the boot or putting things into the boot of her car.</p><p>So it\u2019s clear that there was a deliberate act here, this wasn\u2019t an accident \u2013 someone, you know, just getting off the road here.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb\">Continue reading...</a>",
+      "headline": "Helen Haines live updates: Police are charging \u2018almost one individual every week\u2019 for targeting politicians, MP critical after surgery to save second leg",
+      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb\">\u2018Deeply appalled\u2019: politicians condemn alleged attack after Helen Haines critically injured</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb\">Helen Haines, the principled MP respected across parliament</a></p></li></ul><p><strong>Anthony</strong> <strong>Albanese</strong> has described the police interview on Tuesday with <strong>Brendan</strong> <strong>Nugent</strong> as \u201cextensive\u201d but that the motivation of the alleged \u201cviolent\u201d attack against <strong>Helen Haines</strong> is still unknown.</p><p>Certainly, it\u2019s a reminder that the world is a more dangerous and divided place than it was a generation ago.</p><p>But I think that Australians do want to see their politicians be able to go about their business, to be able to get something from the back of their car, for goodness sake.</p><p>My side, every side included. We all have to recognise that politics has got more aggressive.</p><p>The particular impact on women in politics \u2026 [They] have got a different form of vilification and aggression towards them as well.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +132,8 @@
       ]
     },
     {
-      "headline": "Trump borrows from far right to blame unrest in France on immigration",
-      "summary": "<p>President ignores school conditions and cost of living and says he warned Macron \u2018the whole world was coming in\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer\">Explainer: why are people protesting across Europe?</a></p></li></ul><p>Donald Trump and JD Vance deployed a familiar US playbook on Europe, claiming that immigrants were responsible for rioting in France that began as student protests against crumbling schools and the <a href=\"https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-frances-protests-a-polarised-country-is-in-a-perilous-political-moment\">high cost of living</a>.</p><p>The nationwide protests on Saturday <a href=\"https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france\">were called over</a> rising fuel prices and falling purchasing power, and in several cities they escalated into clashes with police that left a historic town hall torched and led to 1,800 arrests. On Monday, <a href=\"https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister\">overnight curfews were issued</a> for a number of French cities, including parts of <a href=\"https://www.theguardian.com/world/paris\">Paris</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Trump: \u2018Paris is going to be a Muslim city very soon\u2019",
-      "summary": "US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a \u2018Muslim city\u2019.",
+      "headline": "\u2018I don\u2019t care how it\u2019s done\u2019: Trump pressures Ukraine to cut peace deal",
+      "summary": "The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,19 +143,8 @@
       ]
     },
     {
-      "headline": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-      "summary": "<p>DHS says migrants \u2018retain protections\u2019 after temporary protected status was set to expire on Monday</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a\">Send us your questions about immigration and the midterms</a></p></li></ul><p>More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday.</p><p>Temporary protected status was set to end on Monday for about 101,000 Ukrainians and 1,800 Sudanese. But the DHS said an announcement \u201cwill be made at the appropriate time\u201d. Until then, the department said in a written statement, Ukrainians and Sudanese in the US covered by those temporary measures \u201cretain protection\u201d. The department did not indicate how long they could stay or when a final announcement would be made on their status.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "NFL QB in hospital at 4am before London game due to blood clots",
-      "summary": "Philadelphia Eagles quarterback Jalen Hurts has blood clots in his lungs and, according to media reports, the former Super Bowl MVP is expected to miss the rest of the 2026 season.",
+      "headline": "AFL sets date and time of AFL Origin between WA and SA",
+      "summary": "The AFL has set the date for next year's State of Origin clash between Western Australia and South Australia.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,30 +154,8 @@
       ]
     },
     {
-      "headline": "Egyptian parliament delays vote on military support for Saudi Arabia",
-      "summary": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "160 people reported killed in escalating drone attacks across Sudan",
-      "summary": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Clean up begins after French riots but police remain",
-      "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+      "headline": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +165,8 @@
       ]
     },
     {
-      "headline": "Could your halal pension be funding Israel\u2019s military?",
-      "summary": "HSBC\u2019s \u2018sharia-compliant\u2019 fund invested over $100 million in companies linked to Israel\u2019s military.",
+      "headline": "Trump commits more than $400m ahead of high-stakes midterm elections",
+      "summary": "The president&#039;s Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +176,58 @@
       ]
     },
     {
-      "headline": "Quick hits: Renshaw floored by miracle grab as Bavuma's six stops traffic",
-      "summary": "Matt Renshaw cannot believe his own fielding brilliance and Temba Bavuma's soaring six stops traffic after a soggy outfield threatens to ruin it all. Here are the quick hits from day two of the second Test between Australia and South Africa.",
+      "headline": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+      "summary": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Italy to deploy 500 troops to Milan after days of protests and looting",
+      "summary": "<p>Government planning tougher security measures as France also says military forces will be deployed</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer\">Why are people protesting across Europe?</a></p></li></ul><p>Italy\u2019s government is sending 500 soldiers to Milan and vowed a \u201cfirm response from the state\u201d after protests against the cost of living descended into clashes with police, vandalism and looting. Further demonstrations are planned on Saturday.</p><p>The government of the far-right prime minister, Giorgia Meloni, is also planning to swiftly approve tougher new security measures, including extending preventive detention for minors, cracking down on youth gangs and banning gatherings for people deemed a threat to public order, Italian media reported on Tuesday.</p> <a href=\"https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Ellis scores monster 47 points, most in WNBL game for over two decades",
+      "summary": "Townsville's Abbey Ellis has produced one of the all-time great WNBL individual performances with a mammoth 47-point effort in the Fire's 86-68 away win over Adelaide.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Suspect arrested after historic town hall set alight - French media",
+      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-20T10:17:30.443527+11:00",
-    "date": "2026-10-20",
-    "display_date": "Tuesday 20 October 2026",
-    "display_time": "10:17 AM AEST"
+    "generated_at": "2026-10-21T09:55:25.333083+11:00",
+    "date": "2026-10-21",
+    "display_date": "Wednesday 21 October 2026",
+    "display_time": "09:55 AM AEST"
   }
 }
