@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7757.17,
+      "change": 44.6,
+      "change_pct": 0.58,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 26702.86,
+      "change": 278.04,
+      "change_pct": 1.05,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 52856.09,
+      "change": 360.21,
+      "change_pct": 0.69,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 16.68,
+      "change": -0.63,
+      "change_pct": -3.64,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 5.15,
+      "change": 0.03,
+      "change_pct": 0.59,
+      "trend_5d": "up"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 64075.42,
+      "change": -841.28,
+      "change_pct": -1.3,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 23867.74,
+      "change": -319.09,
+      "change_pct": -1.32,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5552.74,
+      "change": -215.27,
+      "change_pct": -3.73,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4149.2,
+      "change_pct": 0.16
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 110.05,
+      "change_pct": 1.16
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 98.03,
+      "change_pct": -3.69
+    }
+  ],
+  "asx200": {
+    "level": 8816.9,
+    "change_pct": -0.33
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.7007,
+      "change_pct": 0.3405
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5678,
+      "change_pct": 0.2118
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2344,
+      "change_pct": 0.0348
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Man United captain branded 'disgrace' for comments following latest loss",
+      "summary": "Bruno Fernandes takes aim at Michael Carrick as Manchester United's horrible start to the season goes from bad to worse in the Champions League.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Diamonds looking lost and panicked as Constellation Cup woes continue",
+      "summary": "Australia's losing streak across the ditch continues in the Constellation Cup, where penalty counts, multiple injuries and world rankings have been major talking points.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Canadian publisher cuts ties with best-selling writer Orelien over AI use",
+      "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Video shows Israeli settler assaulting Palestinian child",
+      "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Japan is known for world-class events - but the Asian Games were chaotic",
+      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "House prices falling in every Australian capital city for first time in 15 years",
+      "summary": "<p>House prices in Sydney are at a two-year low after falling 4.7% in the September quarter to $1.66m, according to Domain report</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>House prices are falling across every capital city for the first time in 15 years and the second time on record, according to figures from Domain\u2019s September Quarter 2026 House Price report.</p><p>House prices in Sydney are at a two-year low after falling 4.7% in the September quarter, to $1.66m.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/22/house-prices-fall-sydney-melbourne-perth-brisbane-adelaide-hobart-darwin\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Man United captain Fernandes slams Carrick\u2019s tactics after Como hammering",
+      "summary": "Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Meta fined $25bn for 'lies' over user data privacy",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Tehran displays mock installation of Trump behind bars",
+      "summary": "An Iranian performer in Tehran\u2019s busy Tajrish Square has impersonated US President Donald Trump behind bars.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
+      "summary": "Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-10-22T10:00:46.230682+11:00",
+    "date": "2026-10-22",
+    "display_date": "Thursday 22 October 2026",
+    "display_time": "10:00 AM AEST"
+  }
+}

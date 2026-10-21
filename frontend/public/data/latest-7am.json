@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7712.57,
-      "change": 21.84,
-      "change_pct": 0.28,
+      "price": 7757.17,
+      "change": 44.6,
+      "change_pct": 0.58,
       "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26424.82,
-      "change": -6.07,
-      "change_pct": -0.02,
-      "trend_5d": "down"
+      "price": 26702.86,
+      "change": 278.04,
+      "change_pct": 1.05,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52495.88,
-      "change": 529.85,
-      "change_pct": 1.02,
+      "price": 52856.09,
+      "change": 360.21,
+      "change_pct": 0.69,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.31,
-      "change": -1.13,
-      "change_pct": -6.13,
+      "price": 16.68,
+      "change": -0.63,
+      "change_pct": -3.64,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.12,
-      "change": -0.02,
-      "change_pct": -0.39,
-      "trend_5d": "down"
+      "price": 5.15,
+      "change": 0.03,
+      "change_pct": 0.59,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64916.7,
-      "change": -407.59,
-      "change_pct": -0.62,
+      "price": 64075.42,
+      "change": -841.28,
+      "change_pct": -1.3,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24186.83,
-      "change": 124.11,
-      "change_pct": 0.52,
+      "price": 23867.74,
+      "change": -319.09,
+      "change_pct": -1.32,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5768.01,
-      "change": 99.96,
-      "change_pct": 1.76,
+      "price": 5552.74,
+      "change": -215.27,
+      "change_pct": -3.73,
       "trend_5d": "flat"
     }
   ],
@@ -79,20 +79,20 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4140.3,
-      "change_pct": -0.48
+      "price": 4149.2,
+      "change_pct": 0.16
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 109.15,
-      "change_pct": -0.37
+      "price": 110.05,
+      "change_pct": 1.16
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 98.19,
-      "change_pct": -5.28
+      "price": 98.03,
+      "change_pct": -3.69
     }
   ],
   "asx200": {
@@ -103,48 +103,26 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7015,
-      "change_pct": 0.6094
+      "current_rate": 0.7007,
+      "change_pct": 0.3405
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5681,
-      "change_pct": 0.3806
+      "current_rate": 0.5678,
+      "change_pct": 0.2118
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2346,
-      "change_pct": 0.2094
+      "current_rate": 1.2344,
+      "change_pct": 0.0348
     }
   ],
   "world_news": [
     {
-      "headline": "Helen Haines live updates: Police are charging \u2018almost one individual every week\u2019 for targeting politicians, MP critical after surgery to save second leg",
-      "summary": "<p>Follow the day\u2019s news live.</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb\">\u2018Deeply appalled\u2019: politicians condemn alleged attack after Helen Haines critically injured</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb\">Helen Haines, the principled MP respected across parliament</a></p></li></ul><p><strong>Anthony</strong> <strong>Albanese</strong> has described the police interview on Tuesday with <strong>Brendan</strong> <strong>Nugent</strong> as \u201cextensive\u201d but that the motivation of the alleged \u201cviolent\u201d attack against <strong>Helen Haines</strong> is still unknown.</p><p>Certainly, it\u2019s a reminder that the world is a more dangerous and divided place than it was a generation ago.</p><p>But I think that Australians do want to see their politicians be able to go about their business, to be able to get something from the back of their car, for goodness sake.</p><p>My side, every side included. We all have to recognise that politics has got more aggressive.</p><p>The particular impact on women in politics \u2026 [They] have got a different form of vilification and aggression towards them as well.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "\u2018I don\u2019t care how it\u2019s done\u2019: Trump pressures Ukraine to cut peace deal",
-      "summary": "The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "AFL sets date and time of AFL Origin between WA and SA",
-      "summary": "The AFL has set the date for next year's State of Origin clash between Western Australia and South Australia.",
+      "headline": "Man United captain branded 'disgrace' for comments following latest loss",
+      "summary": "Bruno Fernandes takes aim at Michael Carrick as Manchester United's horrible start to the season goes from bad to worse in the Champions League.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,63 +132,8 @@
       ]
     },
     {
-      "headline": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Trump commits more than $400m ahead of high-stakes midterm elections",
-      "summary": "The president&#039;s Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
-      "summary": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Italy to deploy 500 troops to Milan after days of protests and looting",
-      "summary": "<p>Government planning tougher security measures as France also says military forces will be deployed</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer\">Why are people protesting across Europe?</a></p></li></ul><p>Italy\u2019s government is sending 500 soldiers to Milan and vowed a \u201cfirm response from the state\u201d after protests against the cost of living descended into clashes with police, vandalism and looting. Further demonstrations are planned on Saturday.</p><p>The government of the far-right prime minister, Giorgia Meloni, is also planning to swiftly approve tougher new security measures, including extending preventive detention for minors, cracking down on youth gangs and banning gatherings for people deemed a threat to public order, Italian media reported on Tuesday.</p> <a href=\"https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-      "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Ellis scores monster 47 points, most in WNBL game for over two decades",
-      "summary": "Townsville's Abbey Ellis has produced one of the all-time great WNBL individual performances with a mammoth 47-point effort in the Fire's 86-68 away win over Adelaide.",
+      "headline": "Diamonds looking lost and panicked as Constellation Cup woes continue",
+      "summary": "Australia's losing streak across the ditch continues in the Constellation Cup, where penalty counts, multiple injuries and world rankings have been major talking points.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +143,91 @@
       ]
     },
     {
-      "headline": "Suspect arrested after historic town hall set alight - French media",
-      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "headline": "Canadian publisher cuts ties with best-selling writer Orelien over AI use",
+      "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Video shows Israeli settler assaulting Palestinian child",
+      "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Japan is known for world-class events - but the Asian Games were chaotic",
+      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "House prices falling in every Australian capital city for first time in 15 years",
+      "summary": "<p>House prices in Sydney are at a two-year low after falling 4.7% in the September quarter to $1.66m, according to Domain report</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>House prices are falling across every capital city for the first time in 15 years and the second time on record, according to figures from Domain\u2019s September Quarter 2026 House Price report.</p><p>House prices in Sydney are at a two-year low after falling 4.7% in the September quarter, to $1.66m.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/22/house-prices-fall-sydney-melbourne-perth-brisbane-adelaide-hobart-darwin\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Man United captain Fernandes slams Carrick\u2019s tactics after Como hammering",
+      "summary": "Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Meta fined $25bn for 'lies' over user data privacy",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Tehran displays mock installation of Trump behind bars",
+      "summary": "An Iranian performer in Tehran\u2019s busy Tajrish Square has impersonated US President Donald Trump behind bars.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
+      "summary": "Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-21T09:55:25.333083+11:00",
-    "date": "2026-10-21",
-    "display_date": "Wednesday 21 October 2026",
-    "display_time": "09:55 AM AEST"
+    "generated_at": "2026-10-22T10:00:46.230682+11:00",
+    "date": "2026-10-22",
+    "display_date": "Thursday 22 October 2026",
+    "display_time": "10:00 AM AEST"
   }
 }
