@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7663.43,
+      "change": -93.74,
+      "change_pct": -1.21,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 26008.86,
+      "change": -694.0,
+      "change_pct": -2.6,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 52867.98,
+      "change": 11.89,
+      "change_pct": 0.02,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 19.03,
+      "change": 2.35,
+      "change_pct": 14.09,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.95,
+      "change": -0.2,
+      "change_pct": -3.89,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 64621.24,
+      "change": 545.82,
+      "change_pct": 0.85,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 23651.87,
+      "change": -215.87,
+      "change_pct": -0.9,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5735.66,
+      "change": 182.92,
+      "change_pct": 3.29,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4046.1,
+      "change_pct": -2.5
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 112.8,
+      "change_pct": 3.66
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 98.95,
+      "change_pct": 1.85
+    }
+  ],
+  "asx200": {
+    "level": 8793.2,
+    "change_pct": -0.43
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.7021,
+      "change_pct": 0.2057
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5686,
+      "change_pct": 0.1391
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2345,
+      "change_pct": 0.0502
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "US-sanctioned ICC wins Sakharov Prize, EU\u2019s top human rights award",
+      "summary": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+      "summary": "Gonzalez\u2019s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "summary": "<ul><li><p>41-year-old set on \u2018dream to be able to race in Africa\u2019</p></li><li><p>Rwanda to host despite criticism of human rights record</p></li></ul><p>Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is <a href=\"https://www.theguardian.com/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s\">set to take place in Rwanda in the 2030s</a>. The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country\u2019s human rights record.</p><p>Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s. It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993.</p> <a href=\"https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "US judge blocks federal operations seeking to identify non-citizen voters",
+      "summary": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Michigan voters closely divided between Rogers and El-Sayed",
+      "summary": "Less than two weeks before the midterm elections, some Michigan voters are still deciding.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "What is the history behind Trump\u2019s LeBron blast over US national anthem?",
+      "summary": "What led to LeBron James being labelled a disgrace by US President Donald Trump, who says NBA star disgraced anthem?",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Awkward questions linger as creaky Australia receives South African hiding",
+      "summary": "It is a case of the same old problems leading to the same old questions as Australia squanders a series lead, setting up a grandstand finale in South Africa next week.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Magnitude 7 earthquake kills 16 people in China\u2019s Tibet, Xinhua reports",
+      "summary": "The powerful earthquake has injured 32 others so far, local medics report.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump ordered to sit for deposition in BBC defamation lawsuit",
+      "summary": "Judge says Trump must sit for questioning from a BBC lawyer by December 11 or face possible dismissal of lawsuit.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-10-23T09:57:23.598180+11:00",
+    "date": "2026-10-23",
+    "display_date": "Friday 23 October 2026",
+    "display_time": "09:57 AM AEST"
+  }
+}

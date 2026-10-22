@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7757.17,
-      "change": 44.6,
-      "change_pct": 0.58,
+      "price": 7663.43,
+      "change": -93.74,
+      "change_pct": -1.21,
       "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26702.86,
-      "change": 278.04,
-      "change_pct": 1.05,
-      "trend_5d": "flat"
+      "price": 26008.86,
+      "change": -694.0,
+      "change_pct": -2.6,
+      "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52856.09,
-      "change": 360.21,
-      "change_pct": 0.69,
+      "price": 52867.98,
+      "change": 11.89,
+      "change_pct": 0.02,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 16.68,
-      "change": -0.63,
-      "change_pct": -3.64,
-      "trend_5d": "up"
+      "price": 19.03,
+      "change": 2.35,
+      "change_pct": 14.09,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.15,
-      "change": 0.03,
-      "change_pct": 0.59,
-      "trend_5d": "up"
+      "price": 4.95,
+      "change": -0.2,
+      "change_pct": -3.89,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64075.42,
-      "change": -841.28,
-      "change_pct": -1.3,
+      "price": 64621.24,
+      "change": 545.82,
+      "change_pct": 0.85,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23867.74,
-      "change": -319.09,
-      "change_pct": -1.32,
+      "price": 23651.87,
+      "change": -215.87,
+      "change_pct": -0.9,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5552.74,
-      "change": -215.27,
-      "change_pct": -3.73,
+      "price": 5735.66,
+      "change": 182.92,
+      "change_pct": 3.29,
       "trend_5d": "flat"
     }
   ],
@@ -79,72 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4149.2,
-      "change_pct": 0.16
+      "price": 4046.1,
+      "change_pct": -2.5
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 110.05,
-      "change_pct": 1.16
+      "price": 112.8,
+      "change_pct": 3.66
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 98.03,
-      "change_pct": -3.69
+      "price": 98.95,
+      "change_pct": 1.85
     }
   ],
   "asx200": {
-    "level": 8816.9,
-    "change_pct": -0.33
+    "level": 8793.2,
+    "change_pct": -0.43
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7007,
-      "change_pct": 0.3405
+      "current_rate": 0.7021,
+      "change_pct": 0.2057
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5678,
-      "change_pct": 0.2118
+      "current_rate": 0.5686,
+      "change_pct": 0.1391
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2344,
-      "change_pct": 0.0348
+      "current_rate": 1.2345,
+      "change_pct": 0.0502
     }
   ],
   "world_news": [
     {
-      "headline": "Man United captain branded 'disgrace' for comments following latest loss",
-      "summary": "Bruno Fernandes takes aim at Michael Carrick as Manchester United's horrible start to the season goes from bad to worse in the Champions League.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Diamonds looking lost and panicked as Constellation Cup woes continue",
-      "summary": "Australia's losing streak across the ditch continues in the Constellation Cup, where penalty counts, multiple injuries and world rankings have been major talking points.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Canadian publisher cuts ties with best-selling writer Orelien over AI use",
-      "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+      "headline": "US-sanctioned ICC wins Sakharov Prize, EU\u2019s top human rights award",
+      "summary": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +132,8 @@
       ]
     },
     {
-      "headline": "Video shows Israeli settler assaulting Palestinian child",
-      "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+      "headline": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+      "summary": "Gonzalez\u2019s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,19 +143,8 @@
       ]
     },
     {
-      "headline": "Japan is known for world-class events - but the Asian Games were chaotic",
-      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "House prices falling in every Australian capital city for first time in 15 years",
-      "summary": "<p>House prices in Sydney are at a two-year low after falling 4.7% in the September quarter to $1.66m, according to Domain report</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>House prices are falling across every capital city for the first time in 15 years and the second time on record, according to figures from Domain\u2019s September Quarter 2026 House Price report.</p><p>House prices in Sydney are at a two-year low after falling 4.7% in the September quarter, to $1.66m.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/22/house-prices-fall-sydney-melbourne-perth-brisbane-adelaide-hobart-darwin\">Continue reading...</a>",
+      "headline": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "summary": "<ul><li><p>41-year-old set on \u2018dream to be able to race in Africa\u2019</p></li><li><p>Rwanda to host despite criticism of human rights record</p></li></ul><p>Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is <a href=\"https://www.theguardian.com/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s\">set to take place in Rwanda in the 2030s</a>. The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country\u2019s human rights record.</p><p>Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s. It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993.</p> <a href=\"https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +154,8 @@
       ]
     },
     {
-      "headline": "Man United captain Fernandes slams Carrick\u2019s tactics after Como hammering",
-      "summary": "Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.",
+      "headline": "US judge blocks federal operations seeking to identify non-citizen voters",
+      "summary": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +165,30 @@
       ]
     },
     {
-      "headline": "Meta fined $25bn for 'lies' over user data privacy",
-      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "headline": "Michigan voters closely divided between Rogers and El-Sayed",
+      "summary": "Less than two weeks before the midterm elections, some Michigan voters are still deciding.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "What is the history behind Trump\u2019s LeBron blast over US national anthem?",
+      "summary": "What led to LeBron James being labelled a disgrace by US President Donald Trump, who says NBA star disgraced anthem?",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +198,19 @@
       ]
     },
     {
-      "headline": "Tehran displays mock installation of Trump behind bars",
-      "summary": "An Iranian performer in Tehran\u2019s busy Tajrish Square has impersonated US President Donald Trump behind bars.",
+      "headline": "Awkward questions linger as creaky Australia receives South African hiding",
+      "summary": "It is a case of the same old problems leading to the same old questions as Australia squanders a series lead, setting up a grandstand finale in South Africa next week.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Magnitude 7 earthquake kills 16 people in China\u2019s Tibet, Xinhua reports",
+      "summary": "The powerful earthquake has injured 32 others so far, local medics report.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +220,8 @@
       ]
     },
     {
-      "headline": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
-      "summary": "Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.",
+      "headline": "Trump ordered to sit for deposition in BBC defamation lawsuit",
+      "summary": "Judge says Trump must sit for questioning from a BBC lawyer by December 11 or face possible dismissal of lawsuit.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-22T10:00:46.230682+11:00",
-    "date": "2026-10-22",
-    "display_date": "Thursday 22 October 2026",
-    "display_time": "10:00 AM AEST"
+    "generated_at": "2026-10-23T09:57:23.598180+11:00",
+    "date": "2026-10-23",
+    "display_date": "Friday 23 October 2026",
+    "display_time": "09:57 AM AEST"
   }
 }
