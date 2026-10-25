@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7623.68,
+      "change": -39.75,
+      "change_pct": -0.52,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 25955.34,
+      "change": -53.52,
+      "change_pct": -0.21,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 52215.16,
+      "change": -652.82,
+      "change_pct": -1.23,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 19.45,
+      "change": 0.42,
+      "change_pct": 2.21,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.99,
+      "change": 0.04,
+      "change_pct": 0.81,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 62693.16,
+      "change": -214.68,
+      "change_pct": -0.34,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 23093.37,
+      "change": 158.69,
+      "change_pct": 0.69,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3690.48,
+      "change": 32.45,
+      "change_pct": 0.89,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5550.3,
+      "change": 16.53,
+      "change_pct": 0.3,
+      "trend_5d": "down"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4007.9,
+      "change_pct": 0.0
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 111.7,
+      "change_pct": -4.3
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 103.27,
+      "change_pct": 0.0
+    }
+  ],
+  "asx200": {
+    "level": 8795.2,
+    "change_pct": 0.02
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.7038,
+      "change_pct": 0.2563
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5704,
+      "change_pct": 0.326
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2335,
+      "change_pct": -0.0421
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Australia politics live: MPs to pay tribute to Helen Haines as parliament resumes; Hanson says One Nation cartoons \u2018not going anywhere\u2019",
+      "summary": "<p>Follow live updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Steggall calls for civility and respect</strong></p><p>Independent MP <strong>Zali Steggall</strong> has called for more respect in times of disagreement, telling ABC that leadership and words matter.</p><p><em>We absolutely need to make sure there is more civility and respect.</em></p><p><em>Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff</em></p><p><em>It\u2019s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats.</em></p><p><em>There\u2019s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House.</em></p><p><em>I think the vulnerability is actually when we\u2019re out doing our job in the community, and that\u2019s probably where we need to put the focus.</em></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Wild scenes of celebration in Belgrade as Vu\u010di\u0107 concedes Serbian election \u2013 Europe live",
+      "summary": "<p>Student List movement projected to have 138 seats in the new parliament, well clear of the 126 required for majority, to Vu\u010di\u0107\u2019s 104</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election\">Serbian leader Aleksandar Vu\u010di\u0107 concedes defeat in fiercely contested parliamentary election</a></p></li><li><p><a href=\"https://xn--what%20is%20at%20stake%20in%20serbias%20election-wu73a/?%20The%20key%20players,%20main%20issues%20and%20potential%20fallout\">What is at stake in Serbia\u2019s election?</a></p></li></ul><p><strong>The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local time (4pm UK), with three hours still to go until the polling stations close.</strong></p><p>That\u2019s more than 13 percentage points higher than in 2023, and would be the highest turnout since mid-2000s.</p><p><em>\u201c<strong>What hasn\u2019t motivated me?</strong> There isn\u2019t a single reason I could give that would keep me from showing up</em> <em>at my polling station at 6:20 in the morning.\u201d</em></p> <a href=\"https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Brazil election 2026: Live second round results",
+      "summary": "<p>After a shock defeat in the first round, the incumbent Brazilian president, Luiz In\u00e1cio Lula da Silva,<strong> </strong>is seeking a new term in a runoff with Fl\u00e1vio Bolsonaro, the son of his convicted predecessor</p><p><em><strong>Polls were originally due to close at 17.00BRT, 20.00GMT, but voting was extended for two hours; the full count is now under way. <a href=\"https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula\">Full coverage here</a></strong></em></p> <a href=\"https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Deeply divided Israel braces for pivotal election",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Serbia's veteran ruler Vu\u010di\u0107 concedes election to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Why Israel's election is one of the most important in its history",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Marine Le Pen vows French \u2018renaissance\u2019 as far right eyes seat of power",
+      "summary": "National Rally&#039;s Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+      "summary": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump VS California",
+      "summary": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Manchester United booed off pitch after calamitous defeat",
+      "summary": "Manchester United's players were booed off at Old Trafford after the club fell to another shocking defeat, this time against Bournemouth in the Premier League,",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-10-26T09:17:13.181570+11:00",
+    "date": "2026-10-26",
+    "display_date": "Monday 26 October 2026",
+    "display_time": "09:17 AM AEST"
+  }
+}

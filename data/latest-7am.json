@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7663.43,
-      "change": -93.74,
-      "change_pct": -1.21,
-      "trend_5d": "flat"
+      "price": 7623.68,
+      "change": -39.75,
+      "change_pct": -0.52,
+      "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26008.86,
-      "change": -694.0,
-      "change_pct": -2.6,
+      "price": 25955.34,
+      "change": -53.52,
+      "change_pct": -0.21,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52867.98,
-      "change": 11.89,
-      "change_pct": 0.02,
+      "price": 52215.16,
+      "change": -652.82,
+      "change_pct": -1.23,
       "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 19.03,
-      "change": 2.35,
-      "change_pct": 14.09,
-      "trend_5d": "down"
+      "price": 19.45,
+      "change": 0.42,
+      "change_pct": 2.21,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.95,
-      "change": -0.2,
-      "change_pct": -3.89,
+      "price": 4.99,
+      "change": 0.04,
+      "change_pct": 0.81,
       "trend_5d": "down"
     }
   ],
@@ -45,106 +45,84 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64621.24,
-      "change": 545.82,
-      "change_pct": 0.85,
-      "trend_5d": "flat"
+      "price": 62693.16,
+      "change": -214.68,
+      "change_pct": -0.34,
+      "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23651.87,
-      "change": -215.87,
-      "change_pct": -0.9,
-      "trend_5d": "flat"
+      "price": 23093.37,
+      "change": 158.69,
+      "change_pct": 0.69,
+      "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3690.48,
+      "change": 32.45,
+      "change_pct": 0.89,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5735.66,
-      "change": 182.92,
-      "change_pct": 3.29,
-      "trend_5d": "flat"
+      "price": 5550.3,
+      "change": 16.53,
+      "change_pct": 0.3,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4046.1,
-      "change_pct": -2.5
+      "price": 4007.9,
+      "change_pct": 0.0
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 112.8,
-      "change_pct": 3.66
+      "price": 111.7,
+      "change_pct": -4.3
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 98.95,
-      "change_pct": 1.85
+      "price": 103.27,
+      "change_pct": 0.0
     }
   ],
   "asx200": {
-    "level": 8793.2,
-    "change_pct": -0.43
+    "level": 8795.2,
+    "change_pct": 0.02
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7021,
-      "change_pct": 0.2057
+      "current_rate": 0.7038,
+      "change_pct": 0.2563
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5686,
-      "change_pct": 0.1391
+      "current_rate": 0.5704,
+      "change_pct": 0.326
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2345,
-      "change_pct": 0.0502
+      "current_rate": 1.2335,
+      "change_pct": -0.0421
     }
   ],
   "world_news": [
     {
-      "headline": "US-sanctioned ICC wins Sakharov Prize, EU\u2019s top human rights award",
-      "summary": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
-      "summary": "Gonzalez\u2019s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-      "summary": "<ul><li><p>41-year-old set on \u2018dream to be able to race in Africa\u2019</p></li><li><p>Rwanda to host despite criticism of human rights record</p></li></ul><p>Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is <a href=\"https://www.theguardian.com/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s\">set to take place in Rwanda in the 2030s</a>. The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country\u2019s human rights record.</p><p>Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s. It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993.</p> <a href=\"https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix\">Continue reading...</a>",
+      "headline": "Australia politics live: MPs to pay tribute to Helen Haines as parliament resumes; Hanson says One Nation cartoons \u2018not going anywhere\u2019",
+      "summary": "<p>Follow live updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Steggall calls for civility and respect</strong></p><p>Independent MP <strong>Zali Steggall</strong> has called for more respect in times of disagreement, telling ABC that leadership and words matter.</p><p><em>We absolutely need to make sure there is more civility and respect.</em></p><p><em>Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff</em></p><p><em>It\u2019s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats.</em></p><p><em>There\u2019s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House.</em></p><p><em>I think the vulnerability is actually when we\u2019re out doing our job in the community, and that\u2019s probably where we need to put the focus.</em></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,41 +132,30 @@
       ]
     },
     {
-      "headline": "US judge blocks federal operations seeking to identify non-citizen voters",
-      "summary": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters.",
+      "headline": "Wild scenes of celebration in Belgrade as Vu\u010di\u0107 concedes Serbian election \u2013 Europe live",
+      "summary": "<p>Student List movement projected to have 138 seats in the new parliament, well clear of the 126 required for majority, to Vu\u010di\u0107\u2019s 104</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election\">Serbian leader Aleksandar Vu\u010di\u0107 concedes defeat in fiercely contested parliamentary election</a></p></li><li><p><a href=\"https://xn--what%20is%20at%20stake%20in%20serbias%20election-wu73a/?%20The%20key%20players,%20main%20issues%20and%20potential%20fallout\">What is at stake in Serbia\u2019s election?</a></p></li></ul><p><strong>The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local time (4pm UK), with three hours still to go until the polling stations close.</strong></p><p>That\u2019s more than 13 percentage points higher than in 2023, and would be the highest turnout since mid-2000s.</p><p><em>\u201c<strong>What hasn\u2019t motivated me?</strong> There isn\u2019t a single reason I could give that would keep me from showing up</em> <em>at my polling station at 6:20 in the morning.\u201d</em></p> <a href=\"https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     },
     {
-      "headline": "Michigan voters closely divided between Rogers and El-Sayed",
-      "summary": "Less than two weeks before the midterm elections, some Michigan voters are still deciding.",
+      "headline": "Brazil election 2026: Live second round results",
+      "summary": "<p>After a shock defeat in the first round, the incumbent Brazilian president, Luiz In\u00e1cio Lula da Silva,<strong> </strong>is seeking a new term in a runoff with Fl\u00e1vio Bolsonaro, the son of his convicted predecessor</p><p><em><strong>Polls were originally due to close at 17.00BRT, 20.00GMT, but voting was extended for two hours; the full count is now under way. <a href=\"https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula\">Full coverage here</a></strong></em></p> <a href=\"https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "The Guardian"
       ]
     },
     {
-      "headline": "What is the history behind Trump\u2019s LeBron blast over US national anthem?",
-      "summary": "What led to LeBron James being labelled a disgrace by US President Donald Trump, who says NBA star disgraced anthem?",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "headline": "Deeply divided Israel braces for pivotal election",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,36 +165,69 @@
       ]
     },
     {
-      "headline": "Awkward questions linger as creaky Australia receives South African hiding",
-      "summary": "It is a case of the same old problems leading to the same old questions as Australia squanders a series lead, setting up a grandstand finale in South Africa next week.",
+      "headline": "Serbia's veteran ruler Vu\u010di\u0107 concedes election to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Why Israel's election is one of the most important in its history",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Marine Le Pen vows French \u2018renaissance\u2019 as far right eyes seat of power",
+      "summary": "National Rally&#039;s Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+      "summary": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump VS California",
+      "summary": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Manchester United booed off pitch after calamitous defeat",
+      "summary": "Manchester United's players were booed off at Old Trafford after the club fell to another shocking defeat, this time against Bournemouth in the Premier League,",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Magnitude 7 earthquake kills 16 people in China\u2019s Tibet, Xinhua reports",
-      "summary": "The powerful earthquake has injured 32 others so far, local medics report.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump ordered to sit for deposition in BBC defamation lawsuit",
-      "summary": "Judge says Trump must sit for questioning from a BBC lawyer by December 11 or face possible dismissal of lawsuit.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-23T09:57:23.598180+11:00",
-    "date": "2026-10-23",
-    "display_date": "Friday 23 October 2026",
-    "display_time": "09:57 AM AEST"
+    "generated_at": "2026-10-26T09:17:13.181570+11:00",
+    "date": "2026-10-26",
+    "display_date": "Monday 26 October 2026",
+    "display_time": "09:17 AM AEST"
   }
 }
