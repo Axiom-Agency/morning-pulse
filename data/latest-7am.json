@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7623.68,
-      "change": -39.75,
-      "change_pct": -0.52,
+      "price": 7676.77,
+      "change": 53.09,
+      "change_pct": 0.7,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25955.34,
-      "change": -53.52,
-      "change_pct": -0.21,
+      "price": 26169.38,
+      "change": 214.04,
+      "change_pct": 0.82,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52215.16,
-      "change": -652.82,
-      "change_pct": -1.23,
-      "trend_5d": "up"
+      "price": 52361.58,
+      "change": 146.42,
+      "change_pct": 0.28,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 19.45,
-      "change": 0.42,
-      "change_pct": 2.21,
+      "price": 18.39,
+      "change": -1.06,
+      "change_pct": -5.45,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
       "price": 4.99,
-      "change": 0.04,
-      "change_pct": 0.81,
+      "change": 0.0,
+      "change_pct": 0.0,
       "trend_5d": "down"
     }
   ],
@@ -48,7 +48,7 @@
       "price": 62693.16,
       "change": -214.68,
       "change_pct": -0.34,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
@@ -56,15 +56,15 @@
       "price": 23093.37,
       "change": 158.69,
       "change_pct": 0.69,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3690.48,
-      "change": 32.45,
-      "change_pct": 0.89,
-      "trend_5d": "down"
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
@@ -72,57 +72,57 @@
       "price": 5550.3,
       "change": 16.53,
       "change_pct": 0.3,
-      "trend_5d": "down"
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4007.9,
-      "change_pct": 0.0
+      "price": 4025.0,
+      "change_pct": 0.43
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 111.7,
-      "change_pct": -4.3
+      "price": 110.26,
+      "change_pct": -5.53
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 103.27,
-      "change_pct": 0.0
+      "price": 101.4,
+      "change_pct": -1.81
     }
   ],
   "asx200": {
-    "level": 8795.2,
-    "change_pct": 0.02
+    "level": 8795.0,
+    "change_pct": -0.0
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7038,
-      "change_pct": 0.2563
+      "current_rate": 0.7018,
+      "change_pct": -0.0251
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5704,
-      "change_pct": 0.326
+      "current_rate": 0.5687,
+      "change_pct": 0.0407
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2335,
-      "change_pct": -0.0421
+      "current_rate": 1.2338,
+      "change_pct": -0.0154
     }
   ],
   "world_news": [
     {
-      "headline": "Australia politics live: MPs to pay tribute to Helen Haines as parliament resumes; Hanson says One Nation cartoons \u2018not going anywhere\u2019",
-      "summary": "<p>Follow live updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Steggall calls for civility and respect</strong></p><p>Independent MP <strong>Zali Steggall</strong> has called for more respect in times of disagreement, telling ABC that leadership and words matter.</p><p><em>We absolutely need to make sure there is more civility and respect.</em></p><p><em>Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff</em></p><p><em>It\u2019s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats.</em></p><p><em>There\u2019s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House.</em></p><p><em>I think the vulnerability is actually when we\u2019re out doing our job in the community, and that\u2019s probably where we need to put the focus.</em></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb\">Continue reading...</a>",
+      "headline": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after alleged Haines attack",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Political debate should be \u2018robust but respectful\u2019: Ruston</strong></p><p>A day after MPs addressed the House of Representatives <a href=\"https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb\">paying tribute to independent </a><strong><a href=\"https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb\">Helen Haines</a></strong>, who was injured after an alleged attack in her electorate, Liberal senator <strong>Anne Ruston</strong> maintains that respect is necessary in political debate.</p><p><em>What we do here sets the tone for what the rest of the nation thinks is acceptable.</em></p><p><em>There is a huge responsibility on politicians, not to shy away from robust debate. I don\u2019t want anyone to think that we shouldn\u2019t be having strong debate.</em></p><p><em>It\u2019s simply out of control in an online world and we\u2019ve got to make the platforms accountable.</em></p><p><em>Facebook is the worst in terms of the platforms, Instagram and TikTok less so, but still bad.</em></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,102 +132,102 @@
       ]
     },
     {
-      "headline": "Wild scenes of celebration in Belgrade as Vu\u010di\u0107 concedes Serbian election \u2013 Europe live",
-      "summary": "<p>Student List movement projected to have 138 seats in the new parliament, well clear of the 126 required for majority, to Vu\u010di\u0107\u2019s 104</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election\">Serbian leader Aleksandar Vu\u010di\u0107 concedes defeat in fiercely contested parliamentary election</a></p></li><li><p><a href=\"https://xn--what%20is%20at%20stake%20in%20serbias%20election-wu73a/?%20The%20key%20players,%20main%20issues%20and%20potential%20fallout\">What is at stake in Serbia\u2019s election?</a></p></li></ul><p><strong>The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local time (4pm UK), with three hours still to go until the polling stations close.</strong></p><p>That\u2019s more than 13 percentage points higher than in 2023, and would be the highest turnout since mid-2000s.</p><p><em>\u201c<strong>What hasn\u2019t motivated me?</strong> There isn\u2019t a single reason I could give that would keep me from showing up</em> <em>at my polling station at 6:20 in the morning.\u201d</em></p> <a href=\"https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Brazil election 2026: Live second round results",
-      "summary": "<p>After a shock defeat in the first round, the incumbent Brazilian president, Luiz In\u00e1cio Lula da Silva,<strong> </strong>is seeking a new term in a runoff with Fl\u00e1vio Bolsonaro, the son of his convicted predecessor</p><p><em><strong>Polls were originally due to close at 17.00BRT, 20.00GMT, but voting was extended for two hours; the full count is now under way. <a href=\"https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula\">Full coverage here</a></strong></em></p> <a href=\"https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Deeply divided Israel braces for pivotal election",
-      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Serbia's veteran ruler Vu\u010di\u0107 concedes election to student-led protest movement",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Why Israel's election is one of the most important in its history",
-      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Marine Le Pen vows French \u2018renaissance\u2019 as far right eyes seat of power",
-      "summary": "National Rally&#039;s Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-      "summary": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump VS California",
-      "summary": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Manchester United booed off pitch after calamitous defeat",
-      "summary": "Manchester United's players were booed off at Old Trafford after the club fell to another shocking defeat, this time against Bournemouth in the Premier League,",
+      "headline": "Kane breaks 25-year English drought to claim top football award",
+      "summary": "Harry Kane won the Ballon d'Or on Monday, local time in London, becoming the first Englishman to receive the prestigious prize in 25 years.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+      "summary": "A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Brazil: defeated Fl\u00e1vio Bolsonaro ordered to surrender passports",
+      "summary": "<p>Far-right senator banned from leaving country as supreme court judge\u2019s ruling makes reference to money-laundering case</p><p>The far-right senator Fl\u00e1vio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz In\u00e1cio Lula da Silva.</p><p>The ruling was issued by supreme court justice Alexandre de Moraes, the same justice who oversaw the trial of the senator\u2019s father, the former president Jair Bolsonaro, for attempting a coup.</p> <a href=\"https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "The chaos in France is a \u2018warning signal\u2019 for Australia\u2019s public spending and rising costs",
+      "summary": "<p>Australia\u2019s public debt may be well below that of France but there are lessons to be taken from its economic woes</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The explosion of discontent that led to major protests and violence in France and across Europe is a \u201cwarning signal\u201d that Australia could follow the same path without an \u201chonest conversation\u201d about the budget, economists say.</p><p><a href=\"https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing\">Hundreds of thousands marched</a> in cities across France on Saturday to protest against school underfunding, as complaints of insufficient teacher numbers and dilapidated infrastructure mingled with broader discontent about cost-of-living pressures.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia\u2019s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Jordan attacks militants in Syria in retaliation for last week\u2019s church attack",
+      "summary": "<p>Jordanian air force says it carried out strikes against \u2018terrorist groups\u2019 tied to killing of nine in Karak</p><p>Jordan has carried out airstrikes against armed groups in Syria in retaliation for <a href=\"https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan\">Friday\u2019s attack on a Greek Orthodox church</a> in the southern Jordanian city of Karak that killed nine people, the Jordanian air force has said in a statement.</p><p>It said the operation \u201cresulted in the killing and wounding of many members of these terrorist groups and the destruction of a number of their vehicles\u201d. It did not specify who the groups were or the precise location of the strikes.</p> <a href=\"https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Former FBI director James Comey hit with third set of charges under Trump",
+      "summary": "Comey, who was fired during Trump&#039;s first term, has been accused of unlawfully divulging national security information.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Veteran rugby prop cited for allegedly grabbing opponent's genitals",
+      "summary": "Veteran Ireland prop Leinster's Tadhg Furlong has been cited for allegedly grabbing the genitals of Munster's Gavin Coombes during their United Rugby Championship match last weekend.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Africa food security under threat due to Iran war, trade officials warn",
+      "summary": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "British politicians among international delegates barred from entering West Bank",
+      "summary": "<p>Group was on visit to meet Palestinian children, farmers and civil leaders facing escalating violence from Israeli forces</p><p>An international delegation including British politicians has been barred from entering the West Bank on a trip to meet Palestinian children, farmers and society leaders facing escalating violence from Israeli forces during olive harvest season.</p><p>The delegation of 23 people, including four elected representatives, was drawn from countries including France, Spain, Luxembourg, Switzerland, Greece, Holland, Ireland and the US. It included the Labour MP Clive Lewis, the Scottish National party MP Lara Bird, the Scottish Greens MSP Kate Nevens and the former Labour MP Sam Tarry.</p> <a href=\"https://www.theguardian.com/world/2026/oct/26/british-politicians-among-international-delegates-barred-from-entering-west-bank\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-26T09:17:13.181570+11:00",
-    "date": "2026-10-26",
-    "display_date": "Monday 26 October 2026",
-    "display_time": "09:17 AM AEST"
+    "generated_at": "2026-10-27T10:33:42.758855+11:00",
+    "date": "2026-10-27",
+    "display_date": "Tuesday 27 October 2026",
+    "display_time": "10:33 AM AEST"
   }
 }
