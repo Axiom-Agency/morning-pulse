@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7722.6,
+      "change": 45.83,
+      "change_pct": 0.6,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 26477.81,
+      "change": 308.43,
+      "change_pct": 1.18,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 52377.57,
+      "change": 15.99,
+      "change_pct": 0.03,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 17.52,
+      "change": -0.87,
+      "change_pct": -4.73,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.99,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 62189.65,
+      "change": -503.51,
+      "change_pct": -0.8,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 23211.81,
+      "change": 118.44,
+      "change_pct": 0.51,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5469.47,
+      "change": -80.83,
+      "change_pct": -1.46,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4075.2,
+      "change_pct": 0.91
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 109.4,
+      "change_pct": -5.53
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 99.88,
+      "change_pct": -1.85
+    }
+  ],
+  "asx200": {
+    "level": 8874.4,
+    "change_pct": 0.73
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.7031,
+      "change_pct": 0.0166
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5684,
+      "change_pct": -0.3166
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2369,
+      "change_pct": 0.322
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "A bad day for Ben-Gvir as he addresses his supporters",
+      "summary": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israel election live: setback for Netanyahu as exit polls show strong opposition",
+      "summary": "<p>Eisenkot still short of coalition, with Palestinian parties showing biggest gain</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats\">Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats</a></p></li></ul><p>Across <strong>Israel</strong>, voting is now under way. Here are some of the latest images being sent to us over the newswires:</p><p>Tens of thousands of <strong>Israelis</strong> living abroad have flown in for the elections, according to <strong>Aid Coalition</strong>, a US-based nonprofit focused on strengthening Israel\u2019s democracy. Israeli law generally requires citizens to vote in person in the country, with narrow exceptions for diplomats and certain official emissaries abroad.</p> <a href=\"https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Politics live: Australia Post chief paid \u2018mind-blowing\u2019 bonus; man charged over alleged false Bondi shooting claim",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Online hate is spilling into the real world, AFP warns</strong></p><p>AFP Commissioner <strong>Krissy</strong> <strong>Barrett</strong> began her late-night appearance at the Senate estimates hearing noting \u201ca heaviness that hangs across Australia\u201d after the alleged attack on independent MP <strong>Helen</strong> <strong>Haines</strong>.</p><p><em>Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns \u2026 </em></p><p><em>What helped keep us safe in recent times, such as our geography, analogue systems and far away criminals, has been impacted by fully integrated technology, social media and artificial intelligence.</em></p><p>We hear about the devastating impacts of racism from communities every day. But many experiences go unreported or uncounted, and our systems often do not capture the full picture.</p><p>This is not about collecting more data to prove racism exists. We already know it does. It is about making inequality visible, holding institutions to account and giving communities greater agency over their data to drive real change.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Trump shows off tanker with \u20181m barrels of oil\u2019 and floats Venezuela as 51st state",
+      "summary": "<p>President at Texas campaign rally hails deal struck with post-Maduro government as \u2018greatest oil victory in history\u2019</p><p>Donald Trump suggested Venezuela become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had \u201cone million barrels of oil on it\u201d from the country, nine months after <a href=\"https://www.theguardian.com/us-news/2026/jan/03/trump-venezuela-oil-industry\">deposing</a> its president.</p><p>At a campaign rally in Corpus Christ, Texas, Trump touted a <a href=\"https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement\">US oil deal</a> with Venezuela, which the US attacked in January, capturing its long-serving leader <a href=\"https://www.theguardian.com/world/nicolas-maduro\">Nicol\u00e1s Maduro</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "No clear mandate projected in Israel election: What\u2019s next?",
+      "summary": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Smotrich dances in Israel despite far-right decline",
+      "summary": "Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
+      "summary": "Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Arsenal knocked out of League Cup by fourth-tier minnow in all-time upset",
+      "summary": "Reigning English champion Arsenal has been knocked out of the EFL League Cup by fourth-tier side Fleetwood Town, in a massive boilover.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Rise of Palestinian parties in Knesset will redraw Israel\u2019s political landscape",
+      "summary": "<p>Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates\">Israeli elections: live updates</a></p></li></ul><p>The big gains made by Palestinian parties in Israel\u2019s general election pose an urgent and fundamental challenge to the country\u2019s mainstream opposition: either cooperate with Arab Israelis or hand Benjamin Netanyahu a roadmap to political survival.</p><p>In the wake of <a href=\"https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats\">Tuesday\u2019s exit polls</a>, the leader of the opposition bloc, Gadi Eisenkot, declared them a victory for \u201cIsrael\u2019s Zionist national majority\u201d but the real outcome looks as if it will be far more complex than that.</p> <a href=\"https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "\u2018Go home, Ben-Gvir\u2019; Arab Bloc celebrates record turnout in Israel election",
+      "summary": "Israel\u2019s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-10-28T10:28:27.748022+11:00",
+    "date": "2026-10-28",
+    "display_date": "Wednesday 28 October 2026",
+    "display_time": "10:28 AM AEST"
+  }
+}
