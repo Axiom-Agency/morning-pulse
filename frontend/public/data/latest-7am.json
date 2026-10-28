@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7722.6,
-      "change": 45.83,
-      "change_pct": 0.6,
-      "trend_5d": "down"
+      "price": 7743.98,
+      "change": 21.38,
+      "change_pct": 0.28,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26477.81,
-      "change": 308.43,
-      "change_pct": 1.18,
-      "trend_5d": "down"
+      "price": 26549.85,
+      "change": 72.04,
+      "change_pct": 0.27,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52377.57,
-      "change": 15.99,
-      "change_pct": 0.03,
+      "price": 52475.1,
+      "change": 97.53,
+      "change_pct": 0.19,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.52,
-      "change": -0.87,
-      "change_pct": -4.73,
-      "trend_5d": "up"
+      "price": 16.91,
+      "change": -0.61,
+      "change_pct": -3.48,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.99,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "trend_5d": "down"
+      "price": 5.05,
+      "change": 0.06,
+      "change_pct": 1.2,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 62189.65,
-      "change": -503.51,
-      "change_pct": -0.8,
+      "price": 63268.37,
+      "change": 1078.72,
+      "change_pct": 1.73,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23211.81,
-      "change": 118.44,
-      "change_pct": 0.51,
+      "price": 23041.32,
+      "change": -170.49,
+      "change_pct": -0.73,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5469.47,
-      "change": -80.83,
-      "change_pct": -1.46,
+      "price": 5638.34,
+      "change": 168.87,
+      "change_pct": 3.09,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4075.2,
-      "change_pct": 0.91
+      "price": 4064.9,
+      "change_pct": -0.24
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 109.4,
-      "change_pct": -5.53
+      "price": 110.56,
+      "change_pct": -2.92
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 99.88,
-      "change_pct": -1.85
+      "price": 101.78,
+      "change_pct": 1.88
     }
   ],
   "asx200": {
-    "level": 8874.4,
-    "change_pct": 0.73
+    "level": 8888.6,
+    "change_pct": 0.44
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7031,
-      "change_pct": 0.0166
+      "current_rate": 0.7057,
+      "change_pct": 0.5309
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5684,
-      "change_pct": -0.3166
+      "current_rate": 0.5629,
+      "change_pct": -1.0307
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2369,
-      "change_pct": 0.322
+      "current_rate": 1.2533,
+      "change_pct": 1.5566
     }
   ],
   "world_news": [
     {
-      "headline": "A bad day for Ben-Gvir as he addresses his supporters",
-      "summary": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Israel election live: setback for Netanyahu as exit polls show strong opposition",
-      "summary": "<p>Eisenkot still short of coalition, with Palestinian parties showing biggest gain</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats\">Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats</a></p></li></ul><p>Across <strong>Israel</strong>, voting is now under way. Here are some of the latest images being sent to us over the newswires:</p><p>Tens of thousands of <strong>Israelis</strong> living abroad have flown in for the elections, according to <strong>Aid Coalition</strong>, a US-based nonprofit focused on strengthening Israel\u2019s democracy. Israeli law generally requires citizens to vote in person in the country, with narrow exceptions for diplomats and certain official emissaries abroad.</p> <a href=\"https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates\">Continue reading...</a>",
+      "headline": "Australian politics live: Labor says ATO could have handled credit card ban better; man cautioned for allegedly stalking MPs",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Gas reservation policy set for lower house vote today</strong></p><p>Australia\u2019s domestic gas reservation is set to be debated and voted on in the lower house today.</p><p><em>Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control.</em></p><p><em>This isn\u2019t about government having a greater role. It\u2019s about people having a greater role, having more control themselves, and it\u2019s deserving of support of this parliament.</em></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +132,19 @@
       ]
     },
     {
-      "headline": "Politics live: Australia Post chief paid \u2018mind-blowing\u2019 bonus; man charged over alleged false Bondi shooting claim",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Online hate is spilling into the real world, AFP warns</strong></p><p>AFP Commissioner <strong>Krissy</strong> <strong>Barrett</strong> began her late-night appearance at the Senate estimates hearing noting \u201ca heaviness that hangs across Australia\u201d after the alleged attack on independent MP <strong>Helen</strong> <strong>Haines</strong>.</p><p><em>Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns \u2026 </em></p><p><em>What helped keep us safe in recent times, such as our geography, analogue systems and far away criminals, has been impacted by fully integrated technology, social media and artificial intelligence.</em></p><p>We hear about the devastating impacts of racism from communities every day. But many experiences go unreported or uncounted, and our systems often do not capture the full picture.</p><p>This is not about collecting more data to prove racism exists. We already know it does. It is about making inequality visible, holding institutions to account and giving communities greater agency over their data to drive real change.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb\">Continue reading...</a>",
+      "headline": "Fl\u00e1vio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d\u2019\u00e9tat and political persecution, recycling unsubstantiated allegations of \u201celectoral fraud\u201d.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
+      "summary": "<p>NSW government imposes water restrictions after Menindee water volumes fall below 2021 levels</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton\u2019s free Clear Air newsletter here</a></p></li></ul><p>Water levels at the Menindee Lakes in western New South Wales have fallen to their lowest point in five years, prompting the state government to impose upstream water use restrictions as experts warn of potential mass fish deaths over summer.</p><p>Combined volume at the Menindee Lakes fell below 480 gigalitres earlier this month, the first time since 2021.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,52 +154,8 @@
       ]
     },
     {
-      "headline": "Trump shows off tanker with \u20181m barrels of oil\u2019 and floats Venezuela as 51st state",
-      "summary": "<p>President at Texas campaign rally hails deal struck with post-Maduro government as \u2018greatest oil victory in history\u2019</p><p>Donald Trump suggested Venezuela become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had \u201cone million barrels of oil on it\u201d from the country, nine months after <a href=\"https://www.theguardian.com/us-news/2026/jan/03/trump-venezuela-oil-industry\">deposing</a> its president.</p><p>At a campaign rally in Corpus Christ, Texas, Trump touted a <a href=\"https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement\">US oil deal</a> with Venezuela, which the US attacked in January, capturing its long-serving leader <a href=\"https://www.theguardian.com/world/nicolas-maduro\">Nicol\u00e1s Maduro</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "No clear mandate projected in Israel election: What\u2019s next?",
-      "summary": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Smotrich dances in Israel despite far-right decline",
-      "summary": "Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
-      "summary": "Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Arsenal knocked out of League Cup by fourth-tier minnow in all-time upset",
-      "summary": "Reigning English champion Arsenal has been knocked out of the EFL League Cup by fourth-tier side Fleetwood Town, in a massive boilover.",
+      "headline": "Scans reveal extent of Steve Smith's neck injury ahead of Test summer",
+      "summary": "The Australian team says Steve Smith is expected to return for the New Zealand Test series, kicking off a run of 10 Tests in three months.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +165,30 @@
       ]
     },
     {
-      "headline": "Rise of Palestinian parties in Knesset will redraw Israel\u2019s political landscape",
-      "summary": "<p>Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates\">Israeli elections: live updates</a></p></li></ul><p>The big gains made by Palestinian parties in Israel\u2019s general election pose an urgent and fundamental challenge to the country\u2019s mainstream opposition: either cooperate with Arab Israelis or hand Benjamin Netanyahu a roadmap to political survival.</p><p>In the wake of <a href=\"https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats\">Tuesday\u2019s exit polls</a>, the leader of the opposition bloc, Gadi Eisenkot, declared them a victory for \u201cIsrael\u2019s Zionist national majority\u201d but the real outcome looks as if it will be far more complex than that.</p> <a href=\"https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape\">Continue reading...</a>",
+      "headline": "UN experts sound alarm at excessive use of force in French student protests",
+      "summary": "UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Girl seriously injured in wolf attack at German wildlife park",
+      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Australian SAS officers knew about unlawful \u2018throwdowns\u2019 on dead Afghans, report says",
+      "summary": "<p>Nothing done to stop planting weapons on dead Afghans, ADF inspector says, as \u2018breakdown of command\u2019 allowed \u2018egregious behaviour\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Some Australian SAS officers knew that soldiers under their command were using \u201cthrowdowns\u201d \u2013 planting weapons on dead Afghan civilians to portray them as combatants \u2013 but did nothing to stop the unlawful practice, a previously unpublished military report has said.</p><p>Posted online this week, the <a href=\"https://www.igadf.gov.au/system/files/2026-10/Executive%20Summary%20of%20the%20IGADF%20Inquiry%20into%20the%20Cultural%20Context%20in%20which%20Command%20over%20SOTGs%20or%20Special%20Forces%20Personnel%20was%20exercised%20in%20Afghanistan.pdf\">executive summary of a 2021 investigation</a> into the \u201ccultural context\u201d of the special operations command by the inspector general of the Australian Defence Force (IGADF) is scathing about the \u201cbreakdown of command\u201d and the erosion of military discipline during special forces operations in Afghanistan, which \u201cresulted in episodes of potential and actual egregious behaviour\u201d.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,8 +198,30 @@
       ]
     },
     {
-      "headline": "\u2018Go home, Ben-Gvir\u2019; Arab Bloc celebrates record turnout in Israel election",
-      "summary": "Israel\u2019s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.",
+      "headline": "New book makes fiery claims about Jared Kushner\u2019s finances in Trump\u2019s first term",
+      "summary": "<p>Kushner threatens to sue, denying allegations that two slush funds were set up to influence his Middle East role</p><p>A new book containing incendiary claims about <a href=\"https://www.theguardian.com/us-news/jared-kushner\">Jared Kushner</a>\u2019s financial dealings during <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>\u2019s first term has ignited a political and media firestorm.</p><p>The book by author Matthew Cole is called <a href=\"https://www.simonandschuster.com/books/Princes-and-Thieves/Matthew-Cole/9781668095324?gad_source=1&amp;gad_campaignid=24329797406&amp;gbraid=0AAAAADv-uEky8EVWeIdQjFduFs3T0cQUx&amp;gclid=Cj0KCQjw6ObWBhDDARIsAFdfcUiEFAEOybUSKsJbWx_qNJj3yRZDm0rp6Z2Frk-zBcGqesh1TtCiHEEaAoFhEALw_wcB\">Princes and Thieves: Jared Kushner and Mohamed bin Zayed\u2019s Secret Plot to Remake the Middle East</a> and was released in the US this week. An <a href=\"https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations\">excerpt was published by Vanity Fair</a> last Thursday, and immediately drew a furious response from Kushner, who called its claims \u201ccompletely insane\u201d. The book contains numerous allegations about Kushner, whose father-in-law is Trump and who has served as one of his top diplomatic envoys in the Middle East \u2013 the most explosive of which are claims linking him to huge bank accounts allegedly funded by Gulf states.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "High-speed train crash kills at least 68 people in Spain",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Costa Rica\u2019s mega-prison receives first inmates",
+      "summary": "President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-28T10:28:27.748022+11:00",
-    "date": "2026-10-28",
-    "display_date": "Wednesday 28 October 2026",
-    "display_time": "10:28 AM AEST"
+    "generated_at": "2026-10-29T10:53:18.325588+11:00",
+    "date": "2026-10-29",
+    "display_date": "Thursday 29 October 2026",
+    "display_time": "10:53 AM AEST"
   }
 }
