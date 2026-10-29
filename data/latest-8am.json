@@ -3,59 +3,59 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7722.6,
-      "change": 45.83,
-      "change_pct": 0.6,
-      "trend_5d": "down"
+      "price": 7743.98,
+      "change": 21.38,
+      "change_pct": 0.28,
+      "trend_5d": "up"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26477.81,
-      "change": 308.43,
-      "change_pct": 1.18,
-      "trend_5d": "down"
+      "price": 26549.85,
+      "change": 72.04,
+      "change_pct": 0.27,
+      "trend_5d": "up"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52377.57,
-      "change": 15.99,
-      "change_pct": 0.03,
+      "price": 52475.1,
+      "change": 97.53,
+      "change_pct": 0.19,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.52,
-      "change": -0.87,
-      "change_pct": -4.73,
-      "trend_5d": "up"
+      "price": 16.91,
+      "change": -0.61,
+      "change_pct": -3.48,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.99,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "trend_5d": "down"
+      "price": 5.05,
+      "change": 0.06,
+      "change_pct": 1.2,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 63678.59,
-      "change": 1488.94,
-      "change_pct": 2.39,
+      "price": 64462.6,
+      "change": 1194.23,
+      "change_pct": 1.89,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23211.81,
-      "change": 118.44,
-      "change_pct": 0.51,
+      "price": 23041.32,
+      "change": -170.49,
+      "change_pct": -0.73,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5469.47,
-      "change": -80.83,
-      "change_pct": -1.46,
+      "price": 6060.48,
+      "change": 422.14,
+      "change_pct": 7.49,
       "trend_5d": "flat"
     }
   ],
@@ -80,14 +80,10 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 114685,
-      "change_24h_pct": 0.44,
-      "yoy_change_pct": -33.16,
+      "current_price": 115044,
+      "change_24h_pct": 0.46,
+      "yoy_change_pct": -31.5,
       "history": [
-        {
-          "date": "2025-10-29",
-          "price": 171689.87
-        },
         {
           "date": "2025-10-30",
           "price": 167739.28
@@ -1545,8 +1541,12 @@
           "price": 114930.86
         },
         {
-          "date": "2026-10-28",
-          "price": 114757.17
+          "date": "2026-10-29",
+          "price": 115179.2
+        },
+        {
+          "date": "2026-10-29",
+          "price": 114903.97
         }
       ]
     },
@@ -1554,14 +1554,10 @@
       "coin_id": "ethereum",
       "name": "Ethereum",
       "symbol": "ETH",
-      "current_price": 3331.19,
-      "change_24h_pct": 0.53,
-      "yoy_change_pct": -44.9,
+      "current_price": 3340.75,
+      "change_24h_pct": 0.45,
+      "yoy_change_pct": -43.94,
       "history": [
-        {
-          "date": "2025-10-29",
-          "price": 6051.01
-        },
         {
           "date": "2025-10-30",
           "price": 5949.98
@@ -3019,8 +3015,12 @@
           "price": 3338.83
         },
         {
-          "date": "2026-10-28",
-          "price": 3333.83
+          "date": "2026-10-29",
+          "price": 3340.93
+        },
+        {
+          "date": "2026-10-29",
+          "price": 3335.73
         }
       ]
     }
@@ -3029,14 +3029,10 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.704,
-      "change_pct": 0.2973,
-      "yoy_change_pct": 7.34,
+      "current_rate": 0.7053,
+      "change_pct": 0.324,
+      "yoy_change_pct": 7.11,
       "history": [
-        {
-          "date": "2025-10-28",
-          "rate": 0.6559
-        },
         {
           "date": "2025-10-29",
           "rate": 0.6585
@@ -4071,21 +4067,21 @@
         },
         {
           "date": "2026-10-28",
-          "rate": 0.704
+          "rate": 0.703
+        },
+        {
+          "date": "2026-10-29",
+          "rate": 0.7053
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5685,
-      "change_pct": -0.0461,
-      "yoy_change_pct": -1.56,
+      "current_rate": 0.5625,
+      "change_pct": -0.9731,
+      "yoy_change_pct": -2.74,
       "history": [
-        {
-          "date": "2025-10-28",
-          "rate": 0.5776
-        },
         {
           "date": "2025-10-29",
           "rate": 0.5784
@@ -5120,21 +5116,21 @@
         },
         {
           "date": "2026-10-28",
-          "rate": 0.5685
+          "rate": 0.568
+        },
+        {
+          "date": "2026-10-29",
+          "rate": 0.5625
         }
       ]
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.238,
-      "change_pct": 0.3144,
-      "yoy_change_pct": 9.02,
+      "current_rate": 1.2537,
+      "change_pct": 1.296,
+      "yoy_change_pct": 10.11,
       "history": [
-        {
-          "date": "2025-10-28",
-          "rate": 1.1356
-        },
         {
           "date": "2025-10-29",
           "rate": 1.1385
@@ -6169,15 +6165,19 @@
         },
         {
           "date": "2026-10-28",
-          "rate": 1.238
+          "rate": 1.2376
+        },
+        {
+          "date": "2026-10-29",
+          "rate": 1.2537
         }
       ]
     }
   ],
   "world_news": [
     {
-      "headline": "Politics live: Australia Post chief paid \u2018mind-blowing\u2019 bonus; man charged over alleged false Bondi shooting claim",
-      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Online hate is spilling into the real world, AFP warns</strong></p><p>AFP Commissioner <strong>Krissy</strong> <strong>Barrett</strong> began her late-night appearance at the Senate estimates hearing noting \u201ca heaviness that hangs across Australia\u201d after the alleged attack on independent MP <strong>Helen</strong> <strong>Haines</strong>.</p><p><em>Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns \u2026 </em></p><p><em>What helped keep us safe in recent times, such as our geography, analogue systems and far away criminals, has been impacted by fully integrated technology, social media and artificial intelligence.</em></p><p>We hear about the devastating impacts of racism from communities every day. But many experiences go unreported or uncounted, and our systems often do not capture the full picture.</p><p>This is not about collecting more data to prove racism exists. We already know it does. It is about making inequality visible, holding institutions to account and giving communities greater agency over their data to drive real change.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb\">Continue reading...</a>",
+      "headline": "Australian SAS officers knew about unlawful \u2018throwdowns\u2019 on dead Afghans, report says",
+      "summary": "<p>Nothing done to stop planting weapons on dead Afghans, ADF inspector says, as \u2018breakdown of command\u2019 allowed \u2018egregious behaviour\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Some Australian SAS officers knew that soldiers under their command were using \u201cthrowdowns\u201d \u2013 planting weapons on dead Afghan civilians to portray them as combatants \u2013 but did nothing to stop the unlawful practice, a previously unpublished military report has said.</p><p>Posted online this week, the <a href=\"https://www.igadf.gov.au/system/files/2026-10/Executive%20Summary%20of%20the%20IGADF%20Inquiry%20into%20the%20Cultural%20Context%20in%20which%20Command%20over%20SOTGs%20or%20Special%20Forces%20Personnel%20was%20exercised%20in%20Afghanistan.pdf\">executive summary of a 2021 investigation</a> into the \u201ccultural context\u201d of the special operations command by the inspector general of the Australian Defence Force (IGADF) is scathing about the \u201cbreakdown of command\u201d and the erosion of military discipline during special forces operations in Afghanistan, which \u201cresulted in episodes of potential and actual egregious behaviour\u201d.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6187,8 +6187,8 @@
       ]
     },
     {
-      "headline": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
-      "summary": "<p>Updated exit polling shows Benjamin Netanyahu\u2019s bloc tied with Eisenkot\u2019s opposition grouping, with both on 51 seats, as Palestinian parties surge</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats\">Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape\">Analysis: Rise of Palestinian parties in Knesset will redraw Israel\u2019s political landscape</a></p></li></ul><p>Across <strong>Israel</strong>, voting is now under way. Here are some of the latest images being sent to us over the newswires:</p><p>Tens of thousands of <strong>Israelis</strong> living abroad have flown in for the elections, according to <strong>Aid Coalition</strong>, a US-based nonprofit focused on strengthening Israel\u2019s democracy. Israeli law generally requires citizens to vote in person in the country, with narrow exceptions for diplomats and certain official emissaries abroad.</p> <a href=\"https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates\">Continue reading...</a>",
+      "headline": "Australian politics live: Labor says ATO could have handled credit card ban better; man cautioned for allegedly stalking MPs",
+      "summary": "<p>Follow the day\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Gas reservation policy set for lower house vote today</strong></p><p>Australia\u2019s domestic gas reservation is set to be debated and voted on in the lower house today.</p><p><em>Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control.</em></p><p><em>This isn\u2019t about government having a greater role. It\u2019s about people having a greater role, having more control themselves, and it\u2019s deserving of support of this parliament.</em></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6198,8 +6198,8 @@
       ]
     },
     {
-      "headline": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-      "summary": "<p>Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks</p><p>King Charles has confirmed that he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour.</p><p>The king arrived in the Bahamas to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its independence from British colonial rule in 1973.</p> <a href=\"https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit\">Continue reading...</a>",
+      "headline": "Netanyahu bloc loses majority as most ballots counted \u2013 as it happened",
+      "summary": "<p>This live blog is now closed \u2013 you can read the latest elections news <a href=\"https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb\">here</a></p><p><strong>One apparent loser from Tuesday\u2019s election was far-right national security minister Itamar Ben-Gvir, who was expected to better his party\u2019s result of six seats from the 2022 elections.</strong></p><p>But instead there was stunned silence at the watch party for Otzma Yehudit (Jewish Power) in central Israel as results from the exit polls flashed across the screen, with most channels suggesting the party would remain on just six seats.</p> <a href=\"https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6209,8 +6209,41 @@
       ]
     },
     {
-      "headline": "Watch: What happens now after close vote in Israeli election?",
-      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "headline": "No clear winner in Israel election with nearly 90 percent of votes counted",
+      "summary": "Netanyahu&#039;s right-wing bloc leads but is falling short of the votes needed to form a government.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "summary": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+      "summary": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Fl\u00e1vio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d\u2019\u00e9tat and political persecution, recycling unsubstantiated allegations of \u201celectoral fraud\u201d.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6220,8 +6253,8 @@
       ]
     },
     {
-      "headline": "Rise of Palestinian parties in Knesset will redraw Israel\u2019s political landscape",
-      "summary": "<p>Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates\">Israeli elections: live updates</a></p></li></ul><p>The big gains made by Palestinian parties in Israel\u2019s general election pose an urgent and fundamental challenge to the country\u2019s mainstream opposition: either cooperate with Arab Israelis or hand Benjamin Netanyahu a roadmap to political survival.</p><p>In the wake of <a href=\"https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats\">Tuesday\u2019s exit polls</a>, the leader of the opposition bloc, Gadi Eisenkot, declared them a victory for \u201cIsrael\u2019s Zionist national majority\u201d but the real outcome looks as if it will be far more complex than that.</p> <a href=\"https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape\">Continue reading...</a>",
+      "headline": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
+      "summary": "<p>NSW government imposes water restrictions after Menindee water volumes fall below 2021 levels</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton\u2019s free Clear Air newsletter here</a></p></li></ul><p>Water levels at the Menindee Lakes in western New South Wales have fallen to their lowest point in five years, prompting the state government to impose upstream water use restrictions as experts warn of potential mass fish deaths over summer.</p><p>Combined volume at the Menindee Lakes fell below 480 gigalitres earlier this month, the first time since 2021.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6231,58 +6264,25 @@
       ]
     },
     {
-      "headline": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "headline": "Scans reveal extent of Steve Smith's neck injury ahead of Test summer",
+      "summary": "The Australian team says Steve Smith is expected to return for the New Zealand Test series, kicking off a run of 10 Tests in three months.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "ABC Australia"
       ]
     },
     {
-      "headline": "Gaza\u2019s women filmmakers turn pain into cinema as new academy launches",
-      "summary": "Gaza film festival highlights women&#039;s resilience through stories of war, loss and survival.",
+      "headline": "UN experts sound alarm at excessive use of force in French student protests",
+      "summary": "UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "President Lula calls Bolsonaro\u2019s Brazil exit \u2018shameful\u2019",
-      "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "A bad day for Ben-Gvir as he addresses his supporters",
-      "summary": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Trump shows off tanker with \u20181m barrels of oil\u2019 and floats Venezuela as 51st state",
-      "summary": "<p>President at Texas campaign rally hails deal struck with post-Maduro government as \u2018greatest oil victory in history\u2019</p><p>Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had \u201cone million barrels of oil on it\u201d from the country, nine months after <a href=\"https://www.theguardian.com/us-news/2026/jan/03/trump-venezuela-oil-industry\">deposing</a> its president.</p><p>At a campaign rally in Corpus Christ, Texas, Trump touted a <a href=\"https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement\">US oil deal</a> with Venezuela, which the US attacked in January, capturing its long-serving leader <a href=\"https://www.theguardian.com/world/nicolas-maduro\">Nicol\u00e1s Maduro</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
       ]
     }
   ],
@@ -6293,174 +6293,174 @@
   "asx_deep_dive": {
     "overview": "AI synthesis unavailable. Showing raw data.",
     "asx200": {
-      "level": 8918.0,
-      "change_pct": 1.23
+      "level": 8874.1,
+      "change_pct": 0.27
     },
     "sectors": [
       {
         "name": "Mining & Resources",
-        "change_pct": 1.5,
+        "change_pct": -0.26,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "S32",
             "name": "S32.AX",
-            "price": 4.49,
-            "change_pct": 2.75,
+            "price": 4.39,
+            "change_pct": -1.13,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "MIN",
             "name": "MIN.AX",
-            "price": 45.03,
-            "change_pct": 2.5,
+            "price": 45.58,
+            "change_pct": 0.62,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "FMG",
             "name": "FMG.AX",
-            "price": 14.72,
-            "change_pct": 1.52,
+            "price": 14.44,
+            "change_pct": -0.48,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Banks & Financials",
-        "change_pct": 0.86,
+        "change_pct": 0.99,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "CBA",
-            "name": "CBA.AX",
-            "price": 164.03,
-            "change_pct": 1.24,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "MQG",
-            "name": "MQG.AX",
-            "price": 251.59,
-            "change_pct": 1.24,
+            "ticker": "NAB",
+            "name": "NAB.AX",
+            "price": 40.97,
+            "change_pct": 1.36,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "WBC",
             "name": "WBC.AX",
-            "price": 36.54,
-            "change_pct": 1.0,
+            "price": 36.93,
+            "change_pct": 1.09,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "CBA",
+            "name": "CBA.AX",
+            "price": 164.71,
+            "change_pct": 1.04,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Tech",
-        "change_pct": 1.09,
+        "change_pct": -0.33,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "WTC",
-            "name": "WTC.AX",
-            "price": 41.37,
-            "change_pct": 2.25,
+            "ticker": "REA",
+            "name": "REA.AX",
+            "price": 157.12,
+            "change_pct": -0.66,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "TNE",
             "name": "TNE.AX",
-            "price": 32.6,
-            "change_pct": 1.49,
+            "price": 32.24,
+            "change_pct": -0.52,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "XRO",
-            "name": "XRO.AX",
-            "price": 64.9,
-            "change_pct": 1.23,
+            "ticker": "WTC",
+            "name": "WTC.AX",
+            "price": 40.93,
+            "change_pct": -0.29,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Healthcare",
-        "change_pct": 0.65,
+        "change_pct": 0.8,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "COH",
             "name": "COH.AX",
-            "price": 141.49,
-            "change_pct": 1.19,
+            "price": 142.29,
+            "change_pct": 1.64,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "CSL",
-            "name": "CSL.AX",
-            "price": 198.15,
-            "change_pct": 0.7,
+            "ticker": "PME",
+            "name": "PME.AX",
+            "price": 197.88,
+            "change_pct": 0.96,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "SHL",
-            "name": "SHL.AX",
-            "price": 19.18,
-            "change_pct": 0.68,
+            "ticker": "RMD",
+            "name": "RMD.AX",
+            "price": 35.41,
+            "change_pct": 0.8,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Energy",
-        "change_pct": -1.08,
+        "change_pct": 1.09,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "STO",
-            "name": "STO.AX",
-            "price": 8.98,
-            "change_pct": -2.18,
+            "ticker": "WDS",
+            "name": "WDS.AX",
+            "price": 32.54,
+            "change_pct": 1.28,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "WDS",
-            "name": "WDS.AX",
-            "price": 32.46,
-            "change_pct": -2.17,
+            "ticker": "ORG",
+            "name": "ORG.AX",
+            "price": 12.13,
+            "change_pct": 1.17,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "AGL",
             "name": "AGL.AX",
-            "price": 8.98,
-            "change_pct": 0.45,
+            "price": 8.93,
+            "change_pct": 1.02,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "REITs / Property",
-        "change_pct": 1.29,
+        "change_pct": 1.16,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "GMG",
             "name": "GMG.AX",
-            "price": 27.53,
-            "change_pct": 2.88,
+            "price": 27.54,
+            "change_pct": 3.22,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "CHC",
             "name": "CHC.AX",
-            "price": 20.17,
-            "change_pct": 1.66,
+            "price": 20.03,
+            "change_pct": 1.16,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "GPT",
             "name": "GPT.AX",
-            "price": 4.78,
-            "change_pct": 1.06,
+            "price": 4.72,
+            "change_pct": 0.85,
             "explanation": "No AI analysis available"
           }
         ]
@@ -6471,9 +6471,9 @@
     {
       "ticker": "AMC",
       "name": "Amcor",
-      "price": 65.56,
-      "change_pct": -0.38,
-      "volume_vs_avg": 0.08,
+      "price": 64.65,
+      "change_pct": -0.51,
+      "volume_vs_avg": 0.11,
       "week52_high": 68.41,
       "week52_low": 49.84,
       "news_digest": "AI synthesis unavailable",
@@ -6482,9 +6482,9 @@
     {
       "ticker": "IHVV",
       "name": "iShares S&P500 ETF",
-      "price": 67.72,
-      "change_pct": 0.56,
-      "volume_vs_avg": 0.11,
+      "price": 67.68,
+      "change_pct": -0.03,
+      "volume_vs_avg": 0.62,
       "week52_high": 68.68,
       "week52_low": 55.76,
       "news_digest": "AI synthesis unavailable",
@@ -6493,9 +6493,9 @@
     {
       "ticker": "JHX",
       "name": "James Hardie",
-      "price": 37.5,
-      "change_pct": 0.83,
-      "volume_vs_avg": 0.04,
+      "price": 36.96,
+      "change_pct": -0.46,
+      "volume_vs_avg": 0.1,
       "week52_high": 43.85,
       "week52_low": 25.43,
       "news_digest": "AI synthesis unavailable",
@@ -6504,9 +6504,9 @@
     {
       "ticker": "LTR",
       "name": "Liontown Resources",
-      "price": 0.73,
-      "change_pct": 5.8,
-      "volume_vs_avg": 0.26,
+      "price": 0.68,
+      "change_pct": -3.55,
+      "volume_vs_avg": 0.44,
       "week52_high": 2.64,
       "week52_low": 0.64,
       "news_digest": "AI synthesis unavailable",
@@ -6515,9 +6515,9 @@
     {
       "ticker": "MQG",
       "name": "Macquarie Group",
-      "price": 251.64,
-      "change_pct": 1.26,
-      "volume_vs_avg": 0.1,
+      "price": 250.89,
+      "change_pct": 0.65,
+      "volume_vs_avg": 0.11,
       "week52_high": 267.25,
       "week52_low": 186.62,
       "news_digest": "AI synthesis unavailable",
@@ -6526,9 +6526,9 @@
     {
       "ticker": "NIC",
       "name": "Nickel Industries",
-      "price": 0.64,
-      "change_pct": 2.4,
-      "volume_vs_avg": 0.14,
+      "price": 0.63,
+      "change_pct": -0.79,
+      "volume_vs_avg": 0.19,
       "week52_high": 1.1,
       "week52_low": 0.62,
       "news_digest": "AI synthesis unavailable",
@@ -6537,9 +6537,9 @@
     {
       "ticker": "PLS",
       "name": "Pilbara Minerals",
-      "price": 3.05,
-      "change_pct": 5.9,
-      "volume_vs_avg": 0.34,
+      "price": 2.87,
+      "change_pct": -4.01,
+      "volume_vs_avg": 0.23,
       "week52_high": 6.68,
       "week52_low": 2.62,
       "news_digest": "AI synthesis unavailable",
@@ -6548,9 +6548,9 @@
     {
       "ticker": "QRE",
       "name": "Qualitas Real Estate",
-      "price": 9.73,
-      "change_pct": 1.46,
-      "volume_vs_avg": 0.11,
+      "price": 9.69,
+      "change_pct": 0.1,
+      "volume_vs_avg": 0.05,
       "week52_high": 11.04,
       "week52_low": 7.8,
       "news_digest": "AI synthesis unavailable",
@@ -6559,9 +6559,9 @@
     {
       "ticker": "TLS",
       "name": "Telstra",
-      "price": 4.88,
-      "change_pct": -0.81,
-      "volume_vs_avg": 0.1,
+      "price": 4.86,
+      "change_pct": -0.0,
+      "volume_vs_avg": 0.07,
       "week52_high": 5.43,
       "week52_low": 4.52,
       "news_digest": "AI synthesis unavailable",
@@ -6570,9 +6570,9 @@
     {
       "ticker": "WEB",
       "name": "Webjet",
-      "price": 3.61,
-      "change_pct": 3.44,
-      "volume_vs_avg": 0.25,
+      "price": 3.63,
+      "change_pct": -0.27,
+      "volume_vs_avg": 0.16,
       "week52_high": 5.03,
       "week52_low": 2.23,
       "news_digest": "AI synthesis unavailable",
@@ -6581,11 +6581,11 @@
     {
       "ticker": "WOW",
       "name": "Woolworths",
-      "price": 41.36,
-      "change_pct": 0.85,
-      "volume_vs_avg": 0.13,
+      "price": 39.43,
+      "change_pct": -3.41,
+      "volume_vs_avg": 0.25,
       "week52_high": 41.87,
-      "week52_low": 26.29,
+      "week52_low": 26.92,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
@@ -6593,8 +6593,8 @@
       "ticker": "WQG",
       "name": "WCM Quality Global Growth",
       "price": 1.96,
-      "change_pct": 0.77,
-      "volume_vs_avg": 0.18,
+      "change_pct": 1.82,
+      "volume_vs_avg": 0.48,
       "week52_high": 2.17,
       "week52_low": 1.59,
       "news_digest": "AI synthesis unavailable",
@@ -6604,9 +6604,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-10-28T11:19:38.850885+11:00",
-    "date": "2026-10-28",
-    "display_date": "Wednesday 28 October 2026",
-    "display_time": "11:19 AM AEST"
+    "generated_at": "2026-10-29T11:40:49.751205+11:00",
+    "date": "2026-10-29",
+    "display_date": "Thursday 29 October 2026",
+    "display_time": "11:40 AM AEST"
   }
 }
