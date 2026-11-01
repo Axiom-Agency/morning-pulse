@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7580.07,
+      "change": -140.32,
+      "change_pct": -1.82,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 25437.0,
+      "change": -747.72,
+      "change_pct": -2.86,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 51770.31,
+      "change": -572.25,
+      "change_pct": -1.09,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 19.42,
+      "change": 2.22,
+      "change_pct": 12.91,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.93,
+      "change": -0.06,
+      "change_pct": -1.2,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 63290.11,
+      "change": -1369.36,
+      "change_pct": -2.12,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 23294.42,
+      "change": 335.77,
+      "change_pct": 1.46,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3599.02,
+      "change": -52.41,
+      "change_pct": -1.44,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5730.74,
+      "change": -206.92,
+      "change_pct": -3.48,
+      "trend_5d": "up"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 3902.5,
+      "change_pct": 0.09
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 111.65,
+      "change_pct": -5.09
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 102.31,
+      "change_pct": -1.74
+    }
+  ],
+  "asx200": {
+    "level": 8884.5,
+    "change_pct": -0.26
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.7031,
+      "change_pct": 0.062
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5629,
+      "change_pct": -0.0523
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.249,
+      "change_pct": 0.1058
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation\u2019s James Ashby",
+      "summary": "<p>Tilt comes after Michelle Landry announced she will not recontest her Queensland seat of Capricornia</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Nationals leader, Matt Canavan, will run in a lower house Queensland seat at the next federal election, in a move that may see him face off with Pauline Hanson\u2019s national director.</p><p>The announcement follows the retirement of the Capricornia MP Michelle Landry, and could result in a contest against James Ashby in a major battle for regional seats.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Irish 1,500m champion remembered as inspiration after death at 34",
+      "summary": "Tributes flow from the athletics world after two-time Irish Olympic runner Ciara Mageean dies at 34 after a battle with cancer.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "High-ranking US Democratic senator suffers stroke",
+      "summary": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is &#039;alert&#039; after a stroke.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "UK was \u2018vehement\u2019 slavery reparations should not be on Commonwealth summit agenda",
+      "summary": "<p>British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda</p><p>British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders\u2019 summit in Antigua and Barbuda \u2013 and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure.</p><p>Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain\u2019s decision to enter structured dialogue on reparations, but said the UK had come \u201ckicking and screaming\u201d to the conversation.</p> <a href=\"https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Matildas star continues remarkable WSL goalscoring run in huge win",
+      "summary": "Ellie Carpenter continues to hit the score sheet as Chelsea records a huge win in the WSL, while Kyra Cooney-Cross's Arsenal is frustrated after a home draw.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+      "summary": "US Democrat Haley Stevens from Michigan was heckled as a \u2018traitor\u2019, after endorsing Republican Mike Rogers.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Thousands displaced from Hebron as Israel carries on siege",
+      "summary": "Almost 5,000 people have been displaced as a result of Israel\u2019s military siege on the city of Hebron in the West Bank.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-02T10:21:51.451750+11:00",
+    "date": "2026-11-02",
+    "display_date": "Monday 02 November 2026",
+    "display_time": "10:21 AM AEST"
+  }
+}

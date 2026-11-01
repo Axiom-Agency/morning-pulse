@@ -3,126 +3,126 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7720.39,
-      "change": -23.59,
-      "change_pct": -0.3,
-      "trend_5d": "up"
+      "price": 7580.07,
+      "change": -140.32,
+      "change_pct": -1.82,
+      "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 26184.72,
-      "change": -365.13,
-      "change_pct": -1.38,
-      "trend_5d": "up"
+      "price": 25437.0,
+      "change": -747.72,
+      "change_pct": -2.86,
+      "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52342.56,
-      "change": -132.54,
-      "change_pct": -0.25,
-      "trend_5d": "up"
+      "price": 51770.31,
+      "change": -572.25,
+      "change_pct": -1.09,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 17.2,
-      "change": 0.29,
-      "change_pct": 1.71,
-      "trend_5d": "down"
+      "price": 19.42,
+      "change": 2.22,
+      "change_pct": 12.91,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.99,
+      "price": 4.93,
       "change": -0.06,
-      "change_pct": -1.19,
-      "trend_5d": "flat"
+      "change_pct": -1.2,
+      "trend_5d": "down"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 63954.19,
-      "change": 685.82,
-      "change_pct": 1.08,
-      "trend_5d": "flat"
+      "price": 63290.11,
+      "change": -1369.36,
+      "change_pct": -2.12,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23094.83,
-      "change": 53.51,
-      "change_pct": 0.23,
-      "trend_5d": "flat"
+      "price": 23294.42,
+      "change": 335.77,
+      "change_pct": 1.46,
+      "trend_5d": "up"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN,
-      "trend_5d": "flat"
+      "price": 3599.02,
+      "change": -52.41,
+      "change_pct": -1.44,
+      "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 6012.44,
-      "change": 374.1,
-      "change_pct": 6.63,
-      "trend_5d": "flat"
+      "price": 5730.74,
+      "change": -206.92,
+      "change_pct": -3.48,
+      "trend_5d": "up"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4023.4,
-      "change_pct": -0.7
+      "price": 3902.5,
+      "change_pct": 0.09
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 111.43,
-      "change_pct": -3.37
+      "price": 111.65,
+      "change_pct": -5.09
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 102.73,
-      "change_pct": -0.05
+      "price": 102.31,
+      "change_pct": -1.74
     }
   ],
   "asx200": {
-    "level": 8958.1,
-    "change_pct": 1.25
+    "level": 8884.5,
+    "change_pct": -0.26
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.7026,
-      "change_pct": -0.0637
+      "current_rate": 0.7031,
+      "change_pct": 0.062
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5631,
-      "change_pct": -0.8727
+      "current_rate": 0.5629,
+      "change_pct": -0.0523
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2476,
-      "change_pct": 0.8088
+      "current_rate": 1.249,
+      "change_pct": 0.1058
     }
   ],
   "world_news": [
     {
-      "headline": "Erin Patterson appeal live updates: Victorian woman loses bid to overturn triple-murder convictions over deadly mushroom-laced meal",
-      "summary": "<p>Court of appeal ruling on the two appeals from 10am in the high profile Australian mushroom triple-murder case</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb\">Erin Patterson to learn if she could face retrial or longer jail term</a></p></li></ul><p><strong>Patterson\u2019s actions mean it is \u2018inappropriate\u2019 to fix non-parole period, justice says</strong></p><p><strong>McLeish</strong> said the court had found <strong>Patterson</strong>\u2019s actions \u201ccarefully planned and deliberate\u201d, saying she had engaged in an \u201celaborate series of deceptions\u201d.</p><p>The applicant\u2019s murderous intent dated back to the invitations to lunch, it persisted through the lunch that the poison was administered \u2026</p><p>We have concluded that the case involved such calculated criminality that it is inappropriate to fix a non-parole period.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb\">Continue reading...</a>",
+      "headline": "Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation\u2019s James Ashby",
+      "summary": "<p>Tilt comes after Michelle Landry announced she will not recontest her Queensland seat of Capricornia</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Nationals leader, Matt Canavan, will run in a lower house Queensland seat at the next federal election, in a move that may see him face off with Pauline Hanson\u2019s national director.</p><p>The announcement follows the retirement of the Capricornia MP Michelle Landry, and could result in a contest against James Ashby in a major battle for regional seats.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "Dream shakes off scheduling controversy to force WNBA Finals decider",
-      "summary": "The WNBA Finals will go to a deciding game seven for the first time after Izzy Borlase's Atlanta Dream scored a dominant lunchtime win over Golden State.",
+      "headline": "Irish 1,500m champion remembered as inspiration after death at 34",
+      "summary": "Tributes flow from the athletics world after two-time Irish Olympic runner Ciara Mageean dies at 34 after a battle with cancer.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,30 +143,8 @@
       ]
     },
     {
-      "headline": "Netanyahu accused of smearing Arab voters to hold on to power",
-      "summary": "<p>Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority</p><p></p><p>Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to \u201csteal\u201d Tuesday\u2019s election, in which the prime minister\u2019s coalition lost its parliamentary majority.</p><p>Netanyahu and his allies called on the internal security service, Shin Bet, to investigate alleged vote buying and other irregularities in Palestinian communities in Israel, supposedly funded by foreign money.</p> <a href=\"https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "More than half of Victorian lawyers use AI \u2013 but only a quarter have cut client fees as a result",
-      "summary": "<p>Research finds 55% of lawyers are using AI in legal practices, up from 37% last year, though efficiency gains aren\u2019t as high as expected</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>More than half of Victoria\u2019s lawyers have reported using AI in their work, according to a new study, but just over a quarter say they\u2019ve reduced fees as a result of efficiency gains.</p><p>They also say clients seeking advice from chatbots has added to their workload, forcing them to correct errors made by AI.</p> <a href=\"https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Patrick Stewart, \u2018Star Trek\u2019 Captain Picard and \u2018X-Men\u2019 actor, dies at 86",
-      "summary": "Stewart died in Los Angeles after living with Alzheimer&#039;s disease and Lewy body dementia.",
+      "headline": "High-ranking US Democratic senator suffers stroke",
+      "summary": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is &#039;alert&#039; after a stroke.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +154,19 @@
       ]
     },
     {
-      "headline": "Trump administration attempts to take down leak of ICE personnel data",
-      "summary": "An Icelandic web company, FlokiNET, has defended the data&#039;s publication as satisfying a &#039;legitimate&#039; public interest.",
+      "headline": "UK was \u2018vehement\u2019 slavery reparations should not be on Commonwealth summit agenda",
+      "summary": "<p>British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda</p><p>British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders\u2019 summit in Antigua and Barbuda \u2013 and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure.</p><p>Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain\u2019s decision to enter structured dialogue on reparations, but said the UK had come \u201ckicking and screaming\u201d to the conversation.</p> <a href=\"https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,19 +176,8 @@
       ]
     },
     {
-      "headline": "Young athlete and former minister among victims of Spain train crash",
-      "summary": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "For the fans who became heroes, Samoa vs Tonga is bigger than a grand final",
-      "summary": "Ahead of the latest instalment of their timeless rivalry, a new generation of Samoan and Tongan stars have transformed from fans into the new heroes of their nation.",
+      "headline": "Matildas star continues remarkable WSL goalscoring run in huge win",
+      "summary": "Ellie Carpenter continues to hit the score sheet as Chelsea records a huge win in the WSL, while Kyra Cooney-Cross's Arsenal is frustrated after a home draw.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +187,8 @@
       ]
     },
     {
-      "headline": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +198,36 @@
       ]
     },
     {
-      "headline": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-      "summary": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.",
+      "headline": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+      "summary": "US Democrat Haley Stevens from Michigan was heckled as a \u2018traitor\u2019, after endorsing Republican Mike Rogers.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Thousands displaced from Hebron as Israel carries on siege",
+      "summary": "Almost 5,000 people have been displaced as a result of Israel\u2019s military siege on the city of Hebron in the West Bank.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-10-30T10:47:15.326701+11:00",
-    "date": "2026-10-30",
-    "display_date": "Friday 30 October 2026",
-    "display_time": "10:47 AM AEST"
+    "generated_at": "2026-11-02T10:21:51.451750+11:00",
+    "date": "2026-11-02",
+    "display_date": "Monday 02 November 2026",
+    "display_time": "10:21 AM AEST"
   }
 }
