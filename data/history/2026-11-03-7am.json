@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7541.4,
+      "change": -38.67,
+      "change_pct": -0.51,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 25164.36,
+      "change": -272.64,
+      "change_pct": -1.07,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 51983.98,
+      "change": 213.67,
+      "change_pct": 0.41,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 21.15,
+      "change": 1.73,
+      "change_pct": 8.91,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.89,
+      "change": -0.04,
+      "change_pct": -0.81,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 63290.11,
+      "change": -1369.36,
+      "change_pct": -2.12,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 23383.51,
+      "change": 89.09,
+      "change_pct": 0.38,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3586.65,
+      "change": -12.37,
+      "change_pct": -0.34,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5702.31,
+      "change": -28.43,
+      "change_pct": -0.5,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 3960.1,
+      "change_pct": 1.57
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 104.74,
+      "change_pct": -10.97
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 96.56,
+      "change_pct": -7.26
+    }
+  ],
+  "asx200": {
+    "level": 8876.9,
+    "change_pct": -0.35
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6997,
+      "change_pct": -0.4466
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5607,
+      "change_pct": -0.3134
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2476,
+      "change_pct": -0.1561
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "RBA interest rates live: Reserve Bank of Australia meeting today before cash rate decision and announcement \u2013 latest news",
+      "summary": "<p>Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Anthony Albanese</strong> defended his government\u2019s record in the face of a likely rate hike.</p><p>The prime minister is in Saint John\u2019s, Antigua and Barbuda, for the Commonwealth heads of government meeting at the request of King Charles.</p><p>We work each and every day on cost of living.</p><p>What I recognise as well is that by engaging in the world, we can deal with our national security interests, but also make our economy stronger. That\u2019s why we need to engage in the world.</p><p>We are currently working our way through the spending pressures, the economic forecasts, and the savings options to come up with the best, most responsible budget update that we can.</p><p>There have been savings in all eight of our budget updates so far. There\u2019ll be savings in the ninth as well.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
+      "summary": "<p>Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man and boy have been arrested after a One Nation volunteer was allegedly attacked with a baseball bat outside his home on Victoria\u2019s Surf Coast.</p><p>Police on Tuesday confirmed they arrested a 37-year-old Hampton Park man and a 14-year-old boy over the incident, which occurred at a Torquay home on Sunday night.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+      "summary": "US President Donald Trump urged supporters to turn out ahead of Election Day",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Ebola outbreak kills more than 5,300 people in DR Congo",
+      "summary": "The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Investigative journalist Kate McClymont gives evidence in Alan Jones indecent assault trial",
+      "summary": "<p>Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching</p><p>The Sydney Morning Herald\u2019s chief investigative reporter, Kate McClymont, has told a Sydney court the alleged victims of Alan Jones she interviewed received no benefit from her or the media company for telling their stories.</p><p>McClymont, whose 2023 articles led to other alleged victims coming forward, is giving evidence in the lengthy trial of the former broadcaster who is facing 21 charges of indecent assault and sexual touching against five men.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Opals veteran opens door to Australian return after WNBA retirement",
+      "summary": "After leaving the WNBA following a stellar 11-year stint, Bec Allen has not shut the door on a potential return to the WNBL.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Indian film star Ranbir Kapoor on AI, movies and fatherhood",
+      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-03T12:59:33.014509+11:00",
+    "date": "2026-11-03",
+    "display_date": "Tuesday 03 November 2026",
+    "display_time": "12:59 PM AEST"
+  }
+}
