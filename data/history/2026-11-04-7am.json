@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7568.92,
+      "change": 27.52,
+      "change_pct": 0.36,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 25372.01,
+      "change": 207.7,
+      "change_pct": 0.83,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 51786.72,
+      "change": -197.26,
+      "change_pct": -0.38,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 20.83,
+      "change": -0.32,
+      "change_pct": -1.51,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.95,
+      "change": 0.06,
+      "change_pct": 1.23,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 63045.21,
+      "change": -36.65,
+      "change_pct": -0.06,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 23393.32,
+      "change": 98.9,
+      "change_pct": 0.42,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5776.85,
+      "change": -82.23,
+      "change_pct": -1.4,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 3945.1,
+      "change_pct": -0.62
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 104.18,
+      "change_pct": -0.56
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 96.55,
+      "change_pct": 0.09
+    }
+  ],
+  "asx200": {
+    "level": 8832.3,
+    "change_pct": -0.27
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6973,
+      "change_pct": -0.3841
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5593,
+      "change_pct": -0.4618
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2465,
+      "change_pct": 0.0706
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Ballot scanner glitch disrupts voting in New York",
+      "summary": "There have been voting machine scanner failures at polling sites 50 km north of New York City",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "ANC under pressure to reverse South Africa decline",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Iran war live: Tehran prepares \u2018maximum deterrence\u2019 plan for any new attack",
+      "summary": "Iran says a &#039;maximum deterrence&#039; plan is ready against any new US attack, warning of an immediate response.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Where have there been technical issues so far during US midterm elections?",
+      "summary": "Some polling stations have experienced vote-delaying issues that officials describe as being minor.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "First polls close in pivotal US midterm elections",
+      "summary": "With control of the US Congress on the line, results from Tuesday&#039;s races will have marked implications for the country.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Man United claims comeback win after fans launch tennis balls in protest",
+      "summary": "Manchester United comes back from two goals down to end a winless run as the club's fans launch another protest against the owners.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Choice Shonky awards 2026: From ticket sellers and Virgin flight credits to a 25-hour laundry cycle",
+      "summary": "<p>Australia\u2019s worst products and services for the year have been named by  consumer advocacy group Choice</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Concert tickets that surge to $1,650, an airline pocketing $75m of unused flight credits and a washer/dryer cycle that takes 25 hours have all made the dishonour roll in consumer advocacy group Choice\u2019s annual Shonky awards.</p><p>Now in their 21st year, the Shonkys spotlight Australia\u2019s worst products and services as decided by Choice.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Spanish transport minister resigns days after deadly train crash",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "US midterm election results live: Polls start closing in some states",
+      "summary": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-04T11:22:01.602085+11:00",
+    "date": "2026-11-04",
+    "display_date": "Wednesday 04 November 2026",
+    "display_time": "11:22 AM AEST"
+  }
+}
