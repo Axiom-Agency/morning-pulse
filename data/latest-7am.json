@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7568.92,
-      "change": 27.52,
-      "change_pct": 0.36,
+      "price": 7688.62,
+      "change": 119.7,
+      "change_pct": 1.58,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25372.01,
-      "change": 207.7,
-      "change_pct": 0.83,
+      "price": 25736.51,
+      "change": 364.5,
+      "change_pct": 1.44,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51786.72,
-      "change": -197.26,
-      "change_pct": -0.38,
-      "trend_5d": "down"
+      "price": 53356.12,
+      "change": 1569.4,
+      "change_pct": 3.03,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 20.83,
-      "change": -0.32,
-      "change_pct": -1.51,
-      "trend_5d": "up"
+      "price": 16.61,
+      "change": -4.22,
+      "change_pct": -20.26,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.95,
-      "change": 0.06,
-      "change_pct": 1.23,
+      "price": 4.89,
+      "change": -0.06,
+      "change_pct": -1.21,
       "trend_5d": "down"
     }
   ],
@@ -45,17 +45,17 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 63045.21,
-      "change": -36.65,
-      "change_pct": -0.06,
-      "trend_5d": "down"
+      "price": 62412.58,
+      "change": -669.28,
+      "change_pct": -1.06,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23393.32,
-      "change": 98.9,
-      "change_pct": 0.42,
+      "price": 23525.97,
+      "change": 132.65,
+      "change_pct": 0.57,
       "trend_5d": "flat"
     },
     {
@@ -69,9 +69,9 @@
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5776.85,
-      "change": -82.23,
-      "change_pct": -1.4,
+      "price": 5550.33,
+      "change": -98.46,
+      "change_pct": -1.74,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 3945.1,
-      "change_pct": -0.62
+      "price": 4102.0,
+      "change_pct": 4.1
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 104.18,
-      "change_pct": -0.56
+      "price": 94.54,
+      "change_pct": -8.75
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 96.55,
-      "change_pct": 0.09
+      "price": 87.93,
+      "change_pct": -8.49
     }
   ],
   "asx200": {
-    "level": 8832.3,
-    "change_pct": -0.27
+    "level": 8957.9,
+    "change_pct": 0.8
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6973,
-      "change_pct": -0.3841
+      "current_rate": 0.7013,
+      "change_pct": 0.6346
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5593,
-      "change_pct": -0.4618
+      "current_rate": 0.5631,
+      "change_pct": 0.6768
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2465,
-      "change_pct": 0.0706
+      "current_rate": 1.2452,
+      "change_pct": -0.0522
     }
   ],
   "world_news": [
     {
-      "headline": "Ballot scanner glitch disrupts voting in New York",
-      "summary": "There have been voting machine scanner failures at polling sites 50 km north of New York City",
+      "headline": "Democrats won Congress. But can they deliver on their promises?",
+      "summary": "Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,19 +132,8 @@
       ]
     },
     {
-      "headline": "ANC under pressure to reverse South Africa decline",
-      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Iran war live: Tehran prepares \u2018maximum deterrence\u2019 plan for any new attack",
-      "summary": "Iran says a &#039;maximum deterrence&#039; plan is ready against any new US attack, warning of an immediate response.",
+      "headline": "Historic firsts redraw US political map in 2026 midterm elections",
+      "summary": "The 2026 US midterms delivered a wave of historic firsts for women, Black, Muslim,  gay and Native American politicians.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,19 +143,8 @@
       ]
     },
     {
-      "headline": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
-      "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Where have there been technical issues so far during US midterm elections?",
-      "summary": "Some polling stations have experienced vote-delaying issues that officials describe as being minor.",
+      "headline": "Iran war live: Trump says war caused election wipeout but he \u2018had to do it\u2019",
+      "summary": "President Trump admits Iran war &#039;largely&#039; caused Republicans&#039; US election wipeout, but says he &#039;had to do it&#039;.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +154,8 @@
       ]
     },
     {
-      "headline": "First polls close in pivotal US midterm elections",
-      "summary": "With control of the US Congress on the line, results from Tuesday&#039;s races will have marked implications for the country.",
+      "headline": "Who gets to vote in the US?",
+      "summary": "Tati Abu King lost his voting rights after felony convictions.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +165,19 @@
       ]
     },
     {
-      "headline": "Man United claims comeback win after fans launch tennis balls in protest",
-      "summary": "Manchester United comes back from two goals down to end a winless run as the club's fans launch another protest against the owners.",
+      "headline": "Ethiopia expels six Sudanese diplomats, orders closure of consulate",
+      "summary": "Move comes after Sudan lodged official complaints against Ethiopia, accusing Addis Ababa of supporting the RSF group.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Rugby league great Paul Langmack dies aged 61",
+      "summary": "Canterbury-Bankstown triple premiership winner Paul Langmack has died.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +187,30 @@
       ]
     },
     {
-      "headline": "Choice Shonky awards 2026: From ticket sellers and Virgin flight credits to a 25-hour laundry cycle",
-      "summary": "<p>Australia\u2019s worst products and services for the year have been named by  consumer advocacy group Choice</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Concert tickets that surge to $1,650, an airline pocketing $75m of unused flight credits and a washer/dryer cycle that takes 25 hours have all made the dishonour roll in consumer advocacy group Choice\u2019s annual Shonky awards.</p><p>Now in their 21st year, the Shonkys spotlight Australia\u2019s worst products and services as decided by Choice.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony\">Continue reading...</a>",
+      "headline": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
+      "summary": "A giant banner depicting US President Donald Trump and Israel\u2019s Prime Minister Benjamin Netanyahu was burnt in Tehran",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump blames Iran war for midterms losses",
+      "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
+      "summary": "<p>Future of department store in jeopardy after administrators appointed on Thursday morning</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia\u2019s premier upmarket department store David Jones has collapsed into voluntary administration, putting thousands of jobs at risk and leaving the future of the 188-year-old retailer hanging in the balance.</p><p>The upheaval follows years of steep losses and underperforming stores that left the heritage retailer falling behind on rent, culminating in a <a href=\"https://www.theguardian.com/business/2026/nov/04/david-jones-expected-to-fall-into-administration-rent\">breakdown of negotiations </a>with its primary landlord, Westfield owner Scentre Group.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,25 +220,14 @@
       ]
     },
     {
-      "headline": "Spanish transport minister resigns days after deadly train crash",
-      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
-      ]
-    },
-    {
-      "headline": "US midterm election results live: Polls start closing in some states",
-      "summary": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-11-04T11:22:01.602085+11:00",
-    "date": "2026-11-04",
-    "display_date": "Wednesday 04 November 2026",
-    "display_time": "11:22 AM AEST"
+    "generated_at": "2026-11-05T11:43:25.973783+11:00",
+    "date": "2026-11-05",
+    "display_date": "Thursday 05 November 2026",
+    "display_time": "11:43 AM AEST"
   }
 }
