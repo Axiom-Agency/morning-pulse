@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7353.73,
+      "change": -334.89,
+      "change_pct": -4.36,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 24315.0,
+      "change": -1421.51,
+      "change_pct": -5.52,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 51523.06,
+      "change": -1833.06,
+      "change_pct": -3.44,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 28.18,
+      "change": 11.57,
+      "change_pct": 69.66,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.84,
+      "change": -0.05,
+      "change_pct": -1.02,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 57419.07,
+      "change": -4769.56,
+      "change_pct": -7.67,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 23919.5,
+      "change": 393.53,
+      "change_pct": 1.67,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 4923.47,
+      "change": -760.33,
+      "change_pct": -13.38,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4112.8,
+      "change_pct": 0.98
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 99.04,
+      "change_pct": 4.67
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 91.1,
+      "change_pct": 3.38
+    }
+  ],
+  "asx200": {
+    "level": 9014.3,
+    "change_pct": 2.04
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6942,
+      "change_pct": -0.8959
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5599,
+      "change_pct": -0.4496
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2398,
+      "change_pct": -0.4457
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial",
+      "summary": "<p>Lamarre-Condon returns to witness box for day two of his evidence. He\u2019s accused of shooting couple Jesse Baird and Luke Davies in Sydney in 2024</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Lamarre-Condon \u2018had an idea\u2019 to dress up as an UberEats rider</strong></p><p>Lamarre-Condon tells the court he had seen what he assumed to be someone\u2019s delivery motorcycle:</p><p><em>As soon as I saw that I had an idea \u2026 I saw a hi-vis hooded jacket, waterproof long pants and gloves</em></p><p><em>This moment here \u2026 I wish that I didn\u2019t do this.. But I had the thought process that if I was to put on this helmet and outfit I could knock on Jesses\u2019 door I would look like an UberEats driver without any verbal interaction with Jessie.</em></p><p>At the very least I would have had an AVO out against me \u2026 police don\u2019t hesitate to put another police on an AVO \u2026 I was worried if I knocked on the door it would be perceived as harassment.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Socceroos still waiting for World Cup payment from FA",
+      "summary": "Socceroos players who competed at this year's World Cup are yet to be paid their match fees, three months after the tournament's conclusion.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+      "summary": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Turkiye\u2019s parliament ratifies Mecca defence agreement",
+      "summary": "Parliament&#039;s approval lays the groundwork for further Turkish involvement in Saudi Arabia&#039;s conflict with the Houthis.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+      "summary": "Trump again said a major Russia-Ukraine deal is &#039;very close&#039;, but gave no specifics.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Iran war live: Trump warns US may have to \u2018destroy\u2019 rest of Iran",
+      "summary": "Trump says the US may have to &#039;destroy&#039; the rest of Iran, adding that people will &#039;know soon enough&#039;.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Nithya Raman wins LA mayoral race, becoming city\u2019s first South Asian mayor",
+      "summary": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Aussie Rules has long history of footy gimmicks gone wrong",
+      "summary": "Forget Wharfie Time. Australian Rules football has a long history of gimmicks that haven't always turned out well, and they have involved everything from a hovercraft to a Batmobile and even an elephant.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-06T11:43:44.801003+11:00",
+    "date": "2026-11-06",
+    "display_date": "Friday 06 November 2026",
+    "display_time": "11:43 AM AEST"
+  }
+}
