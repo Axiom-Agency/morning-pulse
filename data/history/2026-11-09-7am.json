@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7376.86,
+      "change": 23.13,
+      "change_pct": 0.31,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 24579.43,
+      "change": 264.43,
+      "change_pct": 1.09,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 51285.73,
+      "change": -237.33,
+      "change_pct": -0.46,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 25.64,
+      "change": -2.54,
+      "change_pct": -9.01,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.86,
+      "change": 0.02,
+      "change_pct": 0.41,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 57434.77,
+      "change": -3643.13,
+      "change_pct": -5.96,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 24481.86,
+      "change": -315.12,
+      "change_pct": -1.27,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3649.18,
+      "change": -40.73,
+      "change_pct": -1.1,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5059.69,
+      "change": -324.11,
+      "change_pct": -6.02,
+      "trend_5d": "down"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4075.0,
+      "change_pct": 0.0
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 97.45,
+      "change_pct": -0.88
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 90.34,
+      "change_pct": -0.54
+    }
+  ],
+  "asx200": {
+    "level": 9020.6,
+    "change_pct": -0.0
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6873,
+      "change_pct": -0.8404
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5565,
+      "change_pct": -0.5387
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2346,
+      "change_pct": -0.3189
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Lopez double fires Barcelona to win at Atletico Madrid",
+      "summary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "President Milei welcomes Pope Leo during historic visit to Argentina",
+      "summary": "Pope Leo XIV&#039;s visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+      "summary": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
+      "summary": "<p>Footscray man charged over death of 47-year-old Feng Jianming in the CBD on Friday night</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man has been charged with murder after a delivery rider was stabbed to death while working, leaving his family bereft and a city in mourning.</p><p>On Friday night, HungryPanda delivery rider Feng Jianming, 47, and another rider confronted a man allegedly tampering with their bikes in Melbourne\u2019s city centre.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Why Trump wants UFC chief Dana White as his new White House press secretary",
+      "summary": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Khawaja says one state was best at ball tampering in Sheffield Shield",
+      "summary": "Usman Khawaja says players went as far as using super glue to tamper with the ball in the Sheffield Shield.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia\u2019s south-east",
+      "summary": "<p>Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Snow blanketed parts of New South Wales, Victoria and Tasmania across the weekend as an unseasonal cold blast whipped through Australia\u2019s south-east, but forecasters say warm temperatures and thunderstorms are on the way.</p><p>Thredbo, Perisher and Mount Hotham all recorded falls on Saturday and Sunday, while snow also fell on Kunanyi/Mount Wellington in Hobart.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Two police officers hailed as heroes for confronting Krak\u00f3w gunman",
+      "summary": "<p>Jakub Kulik critically injured and Artur Mora\u0144ski also wounded after actions that \u2018prevented further casualties\u2019</p><p>Two Polish police officers who were injured as they pursued and detained the gunman in Krak\u00f3w on Saturday have been hailed as heroes.</p><p>One of them is Jakub Kulik, a former paratrooper and volunteer firefighter, who was left critically injured after a close-range exchange of fire with the suspect, <a href=\"https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman\">a 24-year-old Polish national who killed six and injured 17</a> in an attack believed to have been inspired by far-right ideologies.</p> <a href=\"https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Deadly sand cliff collapses on displaced families in Gaza",
+      "summary": "Deadly sand cliff collapses on displaced families in Gaza",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-09T10:25:16.156280+11:00",
+    "date": "2026-11-09",
+    "display_date": "Monday 09 November 2026",
+    "display_time": "10:25 AM AEST"
+  }
+}
