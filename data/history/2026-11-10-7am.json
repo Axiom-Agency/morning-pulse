@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7549.94,
+      "change": 173.08,
+      "change_pct": 2.35,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 25253.14,
+      "change": 673.71,
+      "change_pct": 2.74,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 52389.75,
+      "change": 1104.02,
+      "change_pct": 2.15,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 19.92,
+      "change": -5.72,
+      "change_pct": -22.31,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.86,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 60529.7,
+      "change": 3094.93,
+      "change_pct": 5.39,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 24493.0,
+      "change": 11.14,
+      "change_pct": 0.05,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3667.71,
+      "change": 18.53,
+      "change_pct": 0.51,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5243.38,
+      "change": 183.69,
+      "change_pct": 3.63,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4133.8,
+      "change_pct": 1.45
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 92.1,
+      "change_pct": -6.33
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 86.18,
+      "change_pct": -5.12
+    }
+  ],
+  "asx200": {
+    "level": 9130.0,
+    "change_pct": 1.21
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6925,
+      "change_pct": 0.8227
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5635,
+      "change_pct": 1.3852
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2286,
+      "change_pct": -0.5802
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+      "summary": "<p>Tasmanian premier leads tributes for Russell, who earlier this month returned home to \u2018see out his days\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health.</p><p>The Tasmanian premier, Jeremy Rockliff, led the tributes on Tuesday morning, saying his thoughts were with Russell\u2019s loved ones.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Cameroon sets date for twice-delayed legislative and local elections",
+      "summary": "President Paul Biya, the world&#039;s oldest leader, sets February 7 for Cameroon&#039;s delayed legislative and local polls.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Israel\u2019s Shin Bet finds no evidence of foreign election interference",
+      "summary": "Israel&#039;s internal security service has found no evidence of foreign interference in last month\u2019s election.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+      "summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump&#039;s military goals in Iran.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Clive Palmer says dilapidated luxury resort will reopen after decade in mothballs",
+      "summary": "The billionaire has repeatedly promised to revamp the rundown five-star Coolum resort he shut in 2015. Will this time be different?",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+      "summary": "<p>Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A teenager who admitted to planning a terrorist attack in Sydney in 2024 has told the court he was radicalised online after first seeing extremist material on TikTok and used ChatGPT to form his plans.</p><p>The 16-year-old, known under the pseudonym as RK due to his age, pleaded guilty to acts in preparation for, or planning, a terrorist act. In a sentencing ruling on Monday, he avoided jail time, with the New South Wales supreme court ordering him into a three-year community corrections order.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "France blames Iran for October supermarket cyberattack",
+      "summary": "French Foreign Minister Jean-No\u00ebl Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-10T13:31:51.317089+11:00",
+    "date": "2026-11-10",
+    "display_date": "Tuesday 10 November 2026",
+    "display_time": "01:31 PM AEST"
+  }
+}

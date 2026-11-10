@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7376.86,
-      "change": 23.13,
-      "change_pct": 0.31,
+      "price": 7549.94,
+      "change": 173.08,
+      "change_pct": 2.35,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24579.43,
-      "change": 264.43,
-      "change_pct": 1.09,
+      "price": 25253.14,
+      "change": 673.71,
+      "change_pct": 2.74,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51285.73,
-      "change": -237.33,
-      "change_pct": -0.46,
-      "trend_5d": "down"
+      "price": 52389.75,
+      "change": 1104.02,
+      "change_pct": 2.15,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 25.64,
-      "change": -2.54,
-      "change_pct": -9.01,
-      "trend_5d": "up"
+      "price": 19.92,
+      "change": -5.72,
+      "change_pct": -22.31,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
       "price": 4.86,
-      "change": 0.02,
-      "change_pct": 0.41,
+      "change": 0.0,
+      "change_pct": 0.0,
       "trend_5d": "down"
     }
   ],
@@ -45,84 +45,95 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 57434.77,
-      "change": -3643.13,
-      "change_pct": -5.96,
-      "trend_5d": "down"
+      "price": 60529.7,
+      "change": 3094.93,
+      "change_pct": 5.39,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24481.86,
-      "change": -315.12,
-      "change_pct": -1.27,
-      "trend_5d": "up"
+      "price": 24493.0,
+      "change": 11.14,
+      "change_pct": 0.05,
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3649.18,
-      "change": -40.73,
-      "change_pct": -1.1,
-      "trend_5d": "up"
+      "price": 3667.71,
+      "change": 18.53,
+      "change_pct": 0.51,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5059.69,
-      "change": -324.11,
-      "change_pct": -6.02,
-      "trend_5d": "down"
+      "price": 5243.38,
+      "change": 183.69,
+      "change_pct": 3.63,
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4075.0,
-      "change_pct": 0.0
+      "price": 4133.8,
+      "change_pct": 1.45
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 97.45,
-      "change_pct": -0.88
+      "price": 92.1,
+      "change_pct": -6.33
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 90.34,
-      "change_pct": -0.54
+      "price": 86.18,
+      "change_pct": -5.12
     }
   ],
   "asx200": {
-    "level": 9020.6,
-    "change_pct": -0.0
+    "level": 9130.0,
+    "change_pct": 1.21
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6873,
-      "change_pct": -0.8404
+      "current_rate": 0.6925,
+      "change_pct": 0.8227
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5565,
-      "change_pct": -0.5387
+      "current_rate": 0.5635,
+      "change_pct": 1.3852
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2346,
-      "change_pct": -0.3189
+      "current_rate": 1.2286,
+      "change_pct": -0.5802
     }
   ],
   "world_news": [
     {
-      "headline": "Lopez double fires Barcelona to win at Atletico Madrid",
-      "summary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
+      "headline": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+      "summary": "<p>Tasmanian premier leads tributes for Russell, who earlier this month returned home to \u2018see out his days\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health.</p><p>The Tasmanian premier, Jeremy Rockliff, led the tributes on Tuesday morning, saying his thoughts were with Russell\u2019s loved ones.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Cameroon sets date for twice-delayed legislative and local elections",
+      "summary": "President Paul Biya, the world&#039;s oldest leader, sets February 7 for Cameroon&#039;s delayed legislative and local polls.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +143,8 @@
       ]
     },
     {
-      "headline": "President Milei welcomes Pope Leo during historic visit to Argentina",
-      "summary": "Pope Leo XIV&#039;s visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
+      "headline": "Israel\u2019s Shin Bet finds no evidence of foreign election interference",
+      "summary": "Israel&#039;s internal security service has found no evidence of foreign interference in last month\u2019s election.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +154,8 @@
       ]
     },
     {
-      "headline": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-      "summary": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
+      "headline": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+      "summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump&#039;s military goals in Iran.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +165,8 @@
       ]
     },
     {
-      "headline": "Doctor who treated victims of Krakow shooting speaks to the BBC",
-      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,30 +176,8 @@
       ]
     },
     {
-      "headline": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
-      "summary": "<p>Footscray man charged over death of 47-year-old Feng Jianming in the CBD on Friday night</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man has been charged with murder after a delivery rider was stabbed to death while working, leaving his family bereft and a city in mourning.</p><p>On Friday night, HungryPanda delivery rider Feng Jianming, 47, and another rider confronted a man allegedly tampering with their bikes in Melbourne\u2019s city centre.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Why Trump wants UFC chief Dana White as his new White House press secretary",
-      "summary": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Khawaja says one state was best at ball tampering in Sheffield Shield",
-      "summary": "Usman Khawaja says players went as far as using super glue to tamper with the ball in the Sheffield Shield.",
+      "headline": "Clive Palmer says dilapidated luxury resort will reopen after decade in mothballs",
+      "summary": "The billionaire has repeatedly promised to revamp the rundown five-star Coolum resort he shut in 2015. Will this time be different?",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +187,30 @@
       ]
     },
     {
-      "headline": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia\u2019s south-east",
-      "summary": "<p>Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Snow blanketed parts of New South Wales, Victoria and Tasmania across the weekend as an unseasonal cold blast whipped through Australia\u2019s south-east, but forecasters say warm temperatures and thunderstorms are on the way.</p><p>Thredbo, Perisher and Mount Hotham all recorded falls on Saturday and Sunday, while snow also fell on Kunanyi/Mount Wellington in Hobart.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino\">Continue reading...</a>",
+      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+      "summary": "<p>Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A teenager who admitted to planning a terrorist attack in Sydney in 2024 has told the court he was radicalised online after first seeing extremist material on TikTok and used ChatGPT to form his plans.</p><p>The 16-year-old, known under the pseudonym as RK due to his age, pleaded guilty to acts in preparation for, or planning, a terrorist act. In a sentencing ruling on Monday, he avoided jail time, with the New South Wales supreme court ordering him into a three-year community corrections order.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,19 +220,8 @@
       ]
     },
     {
-      "headline": "Two police officers hailed as heroes for confronting Krak\u00f3w gunman",
-      "summary": "<p>Jakub Kulik critically injured and Artur Mora\u0144ski also wounded after actions that \u2018prevented further casualties\u2019</p><p>Two Polish police officers who were injured as they pursued and detained the gunman in Krak\u00f3w on Saturday have been hailed as heroes.</p><p>One of them is Jakub Kulik, a former paratrooper and volunteer firefighter, who was left critically injured after a close-range exchange of fire with the suspect, <a href=\"https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman\">a 24-year-old Polish national who killed six and injured 17</a> in an attack believed to have been inspired by far-right ideologies.</p> <a href=\"https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Deadly sand cliff collapses on displaced families in Gaza",
-      "summary": "Deadly sand cliff collapses on displaced families in Gaza",
+      "headline": "France blames Iran for October supermarket cyberattack",
+      "summary": "French Foreign Minister Jean-No\u00ebl Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-11-09T10:25:16.156280+11:00",
-    "date": "2026-11-09",
-    "display_date": "Monday 09 November 2026",
-    "display_time": "10:25 AM AEST"
+    "generated_at": "2026-11-10T13:31:51.317089+11:00",
+    "date": "2026-11-10",
+    "display_date": "Tuesday 10 November 2026",
+    "display_time": "01:31 PM AEST"
   }
 }
