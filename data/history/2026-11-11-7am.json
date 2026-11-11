@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7520.93,
+      "change": -29.01,
+      "change_pct": -0.38,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 25065.88,
+      "change": -187.26,
+      "change_pct": -0.74,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 52231.89,
+      "change": -157.86,
+      "change_pct": -0.3,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 19.46,
+      "change": -0.46,
+      "change_pct": -2.31,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.98,
+      "change": 0.12,
+      "change_pct": 2.47,
+      "trend_5d": "up"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 60580.31,
+      "change": 1804.81,
+      "change_pct": 3.07,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 24448.95,
+      "change": -32.91,
+      "change_pct": -0.13,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 5225.7,
+      "change": 206.85,
+      "change_pct": 4.12,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 4049.2,
+      "change_pct": -1.59
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 91.84,
+      "change_pct": -0.79
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 86.24,
+      "change_pct": -0.7
+    }
+  ],
+  "asx200": {
+    "level": 9117.8,
+    "change_pct": 0.98
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.687,
+      "change_pct": -0.7467
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5607,
+      "change_pct": -0.5052
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2252,
+      "change_pct": -0.2532
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+      "summary": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Fire contained on platform in Iran\u2019s South Pars gas field",
+      "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Massive fire as Israeli settlers burn down business near Nablus",
+      "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "French far-right author Zemmour launches second presidential bid",
+      "summary": "Zemmour seeks to expel &#039;foreign unemployed people&#039; after last month&#039;s violent protests.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Russia expels Moldovan diplomat in tit-for-tat move",
+      "summary": "Relations between Moscow and Chisinau have worsened since Russia&#039;s full-scale invasion of Ukraine in 2022.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US House Republicans reject effort to impeach Pentagon chief Pete Hegseth",
+      "summary": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "UNIFIL patrol comes under fire in southern Lebanon",
+      "summary": "UNIFIL said on Tuesday that &#039;about a dozen rounds&#039; were fired at one of its patrols, without identifying the assailants.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "US poll shows death penalty lost majority support for first time since 1971",
+      "summary": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-11T11:24:33.073143+11:00",
+    "date": "2026-11-11",
+    "display_date": "Wednesday 11 November 2026",
+    "display_time": "11:24 AM AEST"
+  }
+}

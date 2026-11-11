@@ -3,75 +3,75 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7549.94,
-      "change": 173.08,
-      "change_pct": 2.35,
+      "price": 7520.93,
+      "change": -29.01,
+      "change_pct": -0.38,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 25253.14,
-      "change": 673.71,
-      "change_pct": 2.74,
+      "price": 25065.88,
+      "change": -187.26,
+      "change_pct": -0.74,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 52389.75,
-      "change": 1104.02,
-      "change_pct": 2.15,
-      "trend_5d": "up"
+      "price": 52231.89,
+      "change": -157.86,
+      "change_pct": -0.3,
+      "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 19.92,
-      "change": -5.72,
-      "change_pct": -22.31,
-      "trend_5d": "down"
+      "price": 19.46,
+      "change": -0.46,
+      "change_pct": -2.31,
+      "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.86,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "trend_5d": "down"
+      "price": 4.98,
+      "change": 0.12,
+      "change_pct": 2.47,
+      "trend_5d": "up"
     }
   ],
   "asia_markets": [
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 60529.7,
-      "change": 3094.93,
-      "change_pct": 5.39,
+      "price": 60580.31,
+      "change": 1804.81,
+      "change_pct": 3.07,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 24493.0,
-      "change": 11.14,
-      "change_pct": 0.05,
+      "price": 24448.95,
+      "change": -32.91,
+      "change_pct": -0.13,
       "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3667.71,
-      "change": 18.53,
-      "change_pct": 0.51,
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN,
       "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5243.38,
-      "change": 183.69,
-      "change_pct": 3.63,
+      "price": 5225.7,
+      "change": 206.85,
+      "change_pct": 4.12,
       "trend_5d": "flat"
     }
   ],
@@ -79,61 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4133.8,
-      "change_pct": 1.45
+      "price": 4049.2,
+      "change_pct": -1.59
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 92.1,
-      "change_pct": -6.33
+      "price": 91.84,
+      "change_pct": -0.79
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 86.18,
-      "change_pct": -5.12
+      "price": 86.24,
+      "change_pct": -0.7
     }
   ],
   "asx200": {
-    "level": 9130.0,
-    "change_pct": 1.21
+    "level": 9117.8,
+    "change_pct": 0.98
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6925,
-      "change_pct": 0.8227
+      "current_rate": 0.687,
+      "change_pct": -0.7467
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5635,
-      "change_pct": 1.3852
+      "current_rate": 0.5607,
+      "change_pct": -0.5052
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2286,
-      "change_pct": -0.5802
+      "current_rate": 1.2252,
+      "change_pct": -0.2532
     }
   ],
   "world_news": [
     {
-      "headline": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-      "summary": "<p>Tasmanian premier leads tributes for Russell, who earlier this month returned home to \u2018see out his days\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health.</p><p>The Tasmanian premier, Jeremy Rockliff, led the tributes on Tuesday morning, saying his thoughts were with Russell\u2019s loved ones.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Cameroon sets date for twice-delayed legislative and local elections",
-      "summary": "President Paul Biya, the world&#039;s oldest leader, sets February 7 for Cameroon&#039;s delayed legislative and local polls.",
+      "headline": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+      "summary": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +132,8 @@
       ]
     },
     {
-      "headline": "Israel\u2019s Shin Bet finds no evidence of foreign election interference",
-      "summary": "Israel&#039;s internal security service has found no evidence of foreign interference in last month\u2019s election.",
+      "headline": "Fire contained on platform in Iran\u2019s South Pars gas field",
+      "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,8 +143,8 @@
       ]
     },
     {
-      "headline": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
-      "summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump&#039;s military goals in Iran.",
+      "headline": "Massive fire as Israeli settlers burn down business near Nablus",
+      "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +154,19 @@
       ]
     },
     {
-      "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "headline": "French far-right author Zemmour launches second presidential bid",
+      "summary": "Zemmour seeks to expel &#039;foreign unemployed people&#039; after last month&#039;s violent protests.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,19 +176,30 @@
       ]
     },
     {
-      "headline": "Clive Palmer says dilapidated luxury resort will reopen after decade in mothballs",
-      "summary": "The billionaire has repeatedly promised to revamp the rundown five-star Coolum resort he shut in 2015. Will this time be different?",
+      "headline": "Russia expels Moldovan diplomat in tit-for-tat move",
+      "summary": "Relations between Moscow and Chisinau have worsened since Russia&#039;s full-scale invasion of Ukraine in 2022.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "headline": "US House Republicans reject effort to impeach Pentagon chief Pete Hegseth",
+      "summary": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,30 +209,19 @@
       ]
     },
     {
-      "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "headline": "UNIFIL patrol comes under fire in southern Lebanon",
+      "summary": "UNIFIL said on Tuesday that &#039;about a dozen rounds&#039; were fired at one of its patrols, without identifying the assailants.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
-      "summary": "<p>Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A teenager who admitted to planning a terrorist attack in Sydney in 2024 has told the court he was radicalised online after first seeing extremist material on TikTok and used ChatGPT to form his plans.</p><p>The 16-year-old, known under the pseudonym as RK due to his age, pleaded guilty to acts in preparation for, or planning, a terrorist act. In a sentencing ruling on Monday, he avoided jail time, with the New South Wales supreme court ordering him into a three-year community corrections order.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "France blames Iran for October supermarket cyberattack",
-      "summary": "French Foreign Minister Jean-No\u00ebl Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
+      "headline": "US poll shows death penalty lost majority support for first time since 1971",
+      "summary": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-11-10T13:31:51.317089+11:00",
-    "date": "2026-11-10",
-    "display_date": "Tuesday 10 November 2026",
-    "display_time": "01:31 PM AEST"
+    "generated_at": "2026-11-11T11:24:33.073143+11:00",
+    "date": "2026-11-11",
+    "display_date": "Wednesday 11 November 2026",
+    "display_time": "11:24 AM AEST"
   }
 }
