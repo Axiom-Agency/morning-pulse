@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7416.59,
-      "change": -145.08,
-      "change_pct": -1.92,
+      "price": 7340.53,
+      "change": -76.06,
+      "change_pct": -1.03,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24509.76,
-      "change": -626.51,
-      "change_pct": -2.49,
+      "price": 24328.38,
+      "change": -181.38,
+      "change_pct": -0.74,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51608.17,
-      "change": -739.38,
-      "change_pct": -1.41,
+      "price": 50759.42,
+      "change": -848.75,
+      "change_pct": -1.64,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 22.91,
-      "change": 3.61,
-      "change_pct": 18.7,
+      "price": 25.46,
+      "change": 2.55,
+      "change_pct": 11.13,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.12,
-      "change": -0.03,
-      "change_pct": -0.58,
+      "price": 5.1,
+      "change": -0.02,
+      "change_pct": -0.39,
       "trend_5d": "up"
     }
   ],
@@ -45,84 +45,139 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 58956.67,
-      "change": -705.35,
-      "change_pct": -1.18,
-      "trend_5d": "down"
+      "price": 58560.67,
+      "change": -1101.35,
+      "change_pct": -1.85,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23492.79,
-      "change": -261.05,
-      "change_pct": -1.1,
-      "trend_5d": "down"
+      "price": 23362.47,
+      "change": -391.37,
+      "change_pct": -1.65,
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3574.28,
-      "change": -28.29,
-      "change_pct": -0.79,
-      "trend_5d": "down"
+      "price": 3582.31,
+      "change": -20.26,
+      "change_pct": -0.56,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5026.57,
-      "change": -73.93,
-      "change_pct": -1.45,
-      "trend_5d": "down"
+      "price": 5001.06,
+      "change": -99.44,
+      "change_pct": -1.95,
+      "trend_5d": "flat"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 3865.6,
-      "change_pct": -0.53
+      "price": 3809.9,
+      "change_pct": -1.12
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 91.32,
-      "change_pct": -4.72
+      "price": 92.88,
+      "change_pct": 0.48
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 84.74,
-      "change_pct": -4.31
+      "price": 85.4,
+      "change_pct": -0.37
     }
   ],
   "asx200": {
-    "level": 8904.4,
-    "change_pct": -1.55
+    "level": 8857.4,
+    "change_pct": -2.07
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6742,
-      "change_pct": -0.5431
+      "current_rate": 0.6725,
+      "change_pct": -0.1766
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5487,
-      "change_pct": -0.7473
+      "current_rate": 0.5497,
+      "change_pct": -0.0797
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2287,
-      "change_pct": 0.1982
+      "current_rate": 1.2237,
+      "change_pct": -0.0759
     }
   ],
   "world_news": [
     {
-      "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "headline": "Live: Cricket Australia CEO addresses media as Sandpapergate saga continues",
+      "summary": "Cricket Australia CEO Todd Greenberg, and board member David Boon are addressing media in Hobart ahead of Australia's third ODI against England this afternoon.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "What is Trump hoping to achieve at APEC meeting in China?",
+      "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Prosecutors allege man \u2018destroyed\u2019 US military plane at Irish airport",
+      "summary": "Daithi O&#039;Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Man charged over \u2018brutal attack\u2019 on Somali-American in Minnesota",
+      "summary": "Rideshare driver Mohamed Yusuf is in a critical condition after he was allegedly assaulted by a passenger.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Protests as Jason Arday\u2019s accuser speaks at Oxford University",
+      "summary": "Hundreds protested outside Oxford University as Nathan Cofnas, who accused Jason Arday of plagiarism, spoke at an event.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,102 +187,47 @@
       ]
     },
     {
-      "headline": "David Jones\u2019 total debt is over $400m including millions owed to staff, administrators confirm",
-      "summary": "<p>Creditors meeting hears upmarket retailer owes $11m to employees and recorded a net loss of $228m last financial year</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Upmarket retailer David Jones collapsed into administration earlier this month owing well over $400m, after accelerating financial losses and reputational damage threatened its ability to stock shelves for Christmas.</p><p>About 500 creditors attended its first meeting on Tuesday, where administrators McGrathNicol broke down the 188-year-old chain\u2019s massive debt pile, including an estimated $180m owed to suppliers and $11m to employees.</p> <a href=\"https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators\">Continue reading...</a>",
+      "headline": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+      "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Ecuadorian fishermen sue Trump administration over drone strike",
+      "summary": "Crew say their boat was attacked by drones launched from US-operated vessel as part of &#039;manifestly unlawful&#039; campaign.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "DR Congo\u2019s rival peace efforts fail to halt violence in the east",
+      "summary": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "One Nation says it would cut Australia\u2019s refugee intake by 90% under \u2018tough stance\u2019",
+      "summary": "<p>Pauline Hanson opens new war of words on immigration as Penny Wong accuses populist party of \u2018dividing Australians\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>One Nation has vowed to cut Australia\u2019s refugee intake by 90% and scrap the permanent parent visa program under its latest hardline plan to slash migration.</p><p>Pauline Hanson announced the policy on Tuesday, labelling it a \u201ctough\u201d approach to migration.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia\u2019s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "The Guardian"
-      ]
-    },
-    {
-      "headline": "Rio Tinto agrees to pay US$250m to begin repairing \u2018devastation\u2019 left by Panguna mine",
-      "summary": "<p>Community leader says fund gives chance to find solutions to \u2018huge problems we have been living with since the days of the mine\u2019s operation\u2019</p><p>Anglo-Australian miner Rio Tinto has agreed to pay a quarter-of-a-billion dollars to begin the clean-up of the toxic Panguna mine site it abandoned more than three decades ago.</p><p>Panguna, once one of the world\u2019s most profitable gold and copper mines, was shuttered in 1989 after violent protests over environmental damage and the inequitable division of the mine\u2019s profits sparked a decade-long civil war on the Papua New Guinean island of Bougainville.</p> <a href=\"https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-      "summary": "Yemen&#039;s army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Truck driver fired for \u2018unsafe\u2019 use of smartglasses in first reported sacking over device in Australia",
-      "summary": "<p>Toll employee Ricardo Martins Silva used smartglasses to take photos at an LPG terminal despite the risk of an explosion caused by an electrical spark, a court heard </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Toll truck driver was fired from work in Victoria after using smartglasses to snap photos at an LPG terminal, in what was described as an \u201cintrinsically unsafe\u201d incident.</p><p>It is the first reported case in Australia of a worker dismissed for using smartglasses in a workplace.</p> <a href=\"https://www.theguardian.com/technology/2026/nov/17/toll-truck-driver-fired-sacked-smartglasses-australia-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Irish court jails man for life over Dublin knife attack that sparked riots",
-      "summary": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Five EU states announce plans for immigration \u2018return hubs\u2019 in Rwanda",
-      "summary": "<p>Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as \u2018grave moral failing\u2019</p><p>Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as \u201ca grave moral failing\u201d.</p><p>The five countries \u2013 Germany, Austria, the Netherlands, Denmark and Greece \u2013 are the first to seek to use the EU\u2019s <a href=\"https://www.theguardian.com/world/2026/mar/26/meps-back-plans-for-return-hubs-raising-fears-of-human-rights-black-holes\">newly agreed returns law</a> that allows<em> </em>people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country.</p> <a href=\"https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Ukraine holds peace talks with US, Europe as conflict escalates",
-      "summary": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "UK seeks closer ties with EU after Brexit fail",
-      "summary": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-11-17T13:45:58.339655+11:00",
-    "date": "2026-11-17",
-    "display_date": "Tuesday 17 November 2026",
-    "display_time": "01:45 PM AEST"
+    "generated_at": "2026-11-18T13:05:35.629785+11:00",
+    "date": "2026-11-18",
+    "display_date": "Wednesday 18 November 2026",
+    "display_time": "01:05 PM AEST"
   }
 }
