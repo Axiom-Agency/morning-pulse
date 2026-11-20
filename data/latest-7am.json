@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7323.63,
-      "change": -16.9,
-      "change_pct": -0.23,
+      "price": 7175.83,
+      "change": -147.8,
+      "change_pct": -2.02,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24429.88,
-      "change": 101.5,
-      "change_pct": 0.42,
+      "price": 23879.2,
+      "change": -550.68,
+      "change_pct": -2.25,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50198.17,
-      "change": -561.25,
-      "change_pct": -1.11,
+      "price": 49097.06,
+      "change": -1101.11,
+      "change_pct": -2.19,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 24.56,
-      "change": -0.9,
-      "change_pct": -3.53,
+      "price": 28.44,
+      "change": 3.88,
+      "change_pct": 15.8,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.07,
-      "change": -0.03,
-      "change_pct": -0.59,
+      "price": 5.05,
+      "change": -0.02,
+      "change_pct": -0.39,
       "trend_5d": "down"
     }
   ],
@@ -45,33 +45,33 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 59097.69,
-      "change": 237.26,
-      "change_pct": 0.4,
+      "price": 57052.12,
+      "change": -1972.16,
+      "change_pct": -3.34,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 23508.17,
-      "change": -245.67,
-      "change_pct": -1.03,
+      "price": 23294.75,
+      "change": -213.42,
+      "change_pct": -0.91,
       "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3584.58,
-      "change": -17.99,
-      "change_pct": -0.5,
+      "price": 3587.83,
+      "change": 3.25,
+      "change_pct": 0.09,
       "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5009.07,
-      "change": 40.59,
-      "change_pct": 0.82,
+      "price": 4951.72,
+      "change": -115.72,
+      "change_pct": -2.28,
       "trend_5d": "flat"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 3742.2,
-      "change_pct": -3.16
+      "price": 3577.8,
+      "change_pct": -4.39
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 89.46,
-      "change_pct": -3.95
+      "price": 89.83,
+      "change_pct": -2.31
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 82.48,
-      "change_pct": -4.1
+      "price": 82.81,
+      "change_pct": -0.54
     }
   ],
   "asx200": {
-    "level": 8751.1,
-    "change_pct": -1.49
+    "level": 8605.8,
+    "change_pct": -2.45
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6684,
-      "change_pct": -0.8202
+      "current_rate": 0.6657,
+      "change_pct": -0.8327
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5496,
-      "change_pct": -0.0374
+      "current_rate": 0.549,
+      "change_pct": 0.0203
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2162,
-      "change_pct": -0.7921
+      "current_rate": 1.2124,
+      "change_pct": -0.87
     }
   ],
   "world_news": [
     {
-      "headline": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-      "summary": "A new report alleges that injuries on Epstein&#039;s body were overlooked by medical examiners during his 2019 autopsy.",
+      "headline": "Democrats say law firm gave $11.8m worth of service to Trump administration",
+      "summary": "Three top Democrats called Trump&#039;s dealings with law firms a case of &#039;official coercion&#039; and pledged investigations.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "Settler rams into Palestinians at multiple locations in central Israel",
-      "summary": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
+      "headline": "\u2018Completely messed up everything\u2019: Malawi\u2019s fuel crisis causes chaos",
+      "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,41 +143,8 @@
       ]
     },
     {
-      "headline": "Pre-Christmas rate hike unlikely as unemployment rate jumps to highest level in five years",
-      "summary": "<p>Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia may already have \u201cone foot in recession\u201d after unemployment surged to 4.9% in October, from 4.7%, in a shock increase that will add to rising worries this year\u2019s five interest rate hikes have pushed the economy past a tipping point.</p><p>New figures from the Australian Bureau of Statistics showed the number of employed people dropped by 43,500 in the month, confounding forecasts for jobs growth and a steady jobless rate.</p> <a href=\"https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Crimean Bridge attacked again, Russian official says",
-      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Beau Lamarre-Condon\u2019s testimony about Jesse Baird and Luke Davies\u2019 deaths \u2018fanciful in the extreme\u2019, crown alleges",
-      "summary": "<p>Prosecutor argues accused could be convicted on strength of forensic and ballistics evidence alone in closing statement</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Beau Lamarre-Condon\u2019s claims about the deaths of Jesse Baird and Luke Davies are \u201cfanciful in the extreme\u201d, a court has heard.</p><p>The former police officer is accused of fatally shooting Baird and his new partner, Davies, with his police service weapon in Baird\u2019s Paddington home in Sydney on 19 February 2024.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Four Aussies chasing biggest payday in history of women's golf",
-      "summary": "Major winners Hannah Green and Grace Kim are among four Australians chasing the biggest payday in women's golf history at the mega-money Tour Championship in Florida.",
+      "headline": "NRL and NRLW 2027 draw released, with lengthy wait for grand final rematch",
+      "summary": "The NRL has announced the schedule for the 2027 season, and there are marquee match-ups throughout the season.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +154,8 @@
       ]
     },
     {
-      "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "summary": "Ch\u00e2taigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,8 +165,8 @@
       ]
     },
     {
-      "headline": "German FA backs France\u2019s Diallo for FIFA presidency",
-      "summary": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
+      "headline": "Haiti police say 34 gang members killed in capital raid",
+      "summary": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -209,8 +176,8 @@
       ]
     },
     {
-      "headline": "Kenya\u2019s milk shortage deepens as drought hits farmers and pushes up prices",
-      "summary": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
+      "headline": "El Salvador\u2019s Bukele expected to formalise bid for third presidential term",
+      "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -220,14 +187,47 @@
       ]
     },
     {
-      "headline": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-      "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "headline": "Religion should be removed from terrorism definition under Australian law as it gives \u2018false credibility\u2019, watchdog says",
+      "summary": "<p>Independent National Security Legislation Monitor says reference to religion has \u2018contributed to discrimination and violence against religious minorities\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Religion should be removed from Australia\u2019s terrorism definition and making bomb threats should not result in life imprisonment, the country\u2019s national security laws watchdog has said.</p><p>The highly anticipated report from the Independent National Security Legislation Monitor (INSLM), released Thursday, reviewed how terrorism has been defined in Australia over the past 25 years after a suite of laws were introduced following the September 11 attacks in the United States.</p> <a href=\"https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for \u2018many years\u2019",
+      "summary": "<p>Congressional Budget Office also questions whether Australian-flagged vessels could be compelled into a conflict with China under Aukus deal</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Providing nuclear-powered submarines to Australia would diminish the US navy\u2019s own fleet for \u201cmany years\u201d, a new report for the US Congress has cautioned, questioning whether Australian-flagged vessels could be compelled into service in a conflict with China.</p><p>The US navy\u2019s <a href=\"https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF\">latest shipbuilding plan</a> does not countenance the Aukus agreement in its forecasts at all, noting only in a footnote that the transfer of any Virginia-class submarine to Australia \u201chas not been factored into the plan\u201d, the report says.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+      "summary": "Search for survivors continues near Yenne as migrant arrivals in Spain&#039;s Canary Islands surge by nearly two-thirds.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-11-19T12:41:56.811452+11:00",
-    "date": "2026-11-19",
-    "display_date": "Thursday 19 November 2026",
-    "display_time": "12:41 PM AEST"
+    "generated_at": "2026-11-20T12:38:23.745080+11:00",
+    "date": "2026-11-20",
+    "display_date": "Friday 20 November 2026",
+    "display_time": "12:38 PM AEST"
   }
 }

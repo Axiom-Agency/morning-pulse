@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7175.83,
+      "change": -147.8,
+      "change_pct": -2.02,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 23879.2,
+      "change": -550.68,
+      "change_pct": -2.25,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 49097.06,
+      "change": -1101.11,
+      "change_pct": -2.19,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 28.44,
+      "change": 3.88,
+      "change_pct": 15.8,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 5.05,
+      "change": -0.02,
+      "change_pct": -0.39,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 57052.12,
+      "change": -1972.16,
+      "change_pct": -3.34,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 23294.75,
+      "change": -213.42,
+      "change_pct": -0.91,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3587.83,
+      "change": 3.25,
+      "change_pct": 0.09,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 4951.72,
+      "change": -115.72,
+      "change_pct": -2.28,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 3577.8,
+      "change_pct": -4.39
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 89.83,
+      "change_pct": -2.31
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 82.81,
+      "change_pct": -0.54
+    }
+  ],
+  "asx200": {
+    "level": 8605.8,
+    "change_pct": -2.45
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6657,
+      "change_pct": -0.8327
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.549,
+      "change_pct": 0.0203
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2124,
+      "change_pct": -0.87
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Democrats say law firm gave $11.8m worth of service to Trump administration",
+      "summary": "Three top Democrats called Trump&#039;s dealings with law firms a case of &#039;official coercion&#039; and pledged investigations.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "\u2018Completely messed up everything\u2019: Malawi\u2019s fuel crisis causes chaos",
+      "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "NRL and NRLW 2027 draw released, with lengthy wait for grand final rematch",
+      "summary": "The NRL has announced the schedule for the 2027 season, and there are marquee match-ups throughout the season.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Haiti police say 34 gang members killed in capital raid",
+      "summary": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "El Salvador\u2019s Bukele expected to formalise bid for third presidential term",
+      "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Religion should be removed from terrorism definition under Australian law as it gives \u2018false credibility\u2019, watchdog says",
+      "summary": "<p>Independent National Security Legislation Monitor says reference to religion has \u2018contributed to discrimination and violence against religious minorities\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Religion should be removed from Australia\u2019s terrorism definition and making bomb threats should not result in life imprisonment, the country\u2019s national security laws watchdog has said.</p><p>The highly anticipated report from the Independent National Security Legislation Monitor (INSLM), released Thursday, reviewed how terrorism has been defined in Australia over the past 25 years after a suite of laws were introduced following the September 11 attacks in the United States.</p> <a href=\"https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for \u2018many years\u2019",
+      "summary": "<p>Congressional Budget Office also questions whether Australian-flagged vessels could be compelled into a conflict with China under Aukus deal</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Providing nuclear-powered submarines to Australia would diminish the US navy\u2019s own fleet for \u201cmany years\u201d, a new report for the US Congress has cautioned, questioning whether Australian-flagged vessels could be compelled into service in a conflict with China.</p><p>The US navy\u2019s <a href=\"https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF\">latest shipbuilding plan</a> does not countenance the Aukus agreement in its forecasts at all, noting only in a footnote that the transfer of any Virginia-class submarine to Australia \u201chas not been factored into the plan\u201d, the report says.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+      "summary": "Search for survivors continues near Yenne as migrant arrivals in Spain&#039;s Canary Islands surge by nearly two-thirds.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-20T12:38:23.745080+11:00",
+    "date": "2026-11-20",
+    "display_date": "Friday 20 November 2026",
+    "display_time": "12:38 PM AEST"
+  }
+}
