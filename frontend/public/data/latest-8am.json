@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7323.63,
-      "change": -16.9,
-      "change_pct": -0.23,
+      "price": 7175.83,
+      "change": -147.8,
+      "change_pct": -2.02,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24429.88,
-      "change": 101.5,
-      "change_pct": 0.42,
+      "price": 23879.2,
+      "change": -550.68,
+      "change_pct": -2.25,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50198.17,
-      "change": -561.25,
-      "change_pct": -1.11,
+      "price": 49097.06,
+      "change": -1101.11,
+      "change_pct": -2.19,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 24.56,
-      "change": -0.9,
-      "change_pct": -3.53,
+      "price": 28.44,
+      "change": 3.88,
+      "change_pct": 15.8,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 5.07,
-      "change": -0.03,
-      "change_pct": -0.59,
+      "price": 5.05,
+      "change": -0.02,
+      "change_pct": -0.39,
       "trend_5d": "down"
     }
   ],
@@ -45,33 +45,33 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 59011.73,
-      "change": 151.3,
-      "change_pct": 0.26,
+      "price": 56920.0,
+      "change": -2104.28,
+      "change_pct": -3.57,
       "trend_5d": "flat"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 22877.07,
-      "change": -631.1,
-      "change_pct": -2.68,
+      "price": 22507.72,
+      "change": -787.03,
+      "change_pct": -3.38,
       "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3558.62,
-      "change": -25.96,
-      "change_pct": -0.72,
+      "price": 3524.88,
+      "change": -62.95,
+      "change_pct": -1.75,
       "trend_5d": "flat"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5021.11,
-      "change": 52.63,
-      "change_pct": 1.06,
+      "price": 4911.99,
+      "change": -155.45,
+      "change_pct": -3.07,
       "trend_5d": "flat"
     }
   ],
@@ -80,14 +80,10 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 93995,
-      "change_24h_pct": -1.76,
-      "yoy_change_pct": -34.03,
+      "current_price": 92464,
+      "change_24h_pct": -1.55,
+      "yoy_change_pct": -31.15,
       "history": [
-        {
-          "date": "2025-11-20",
-          "price": 141752.42
-        },
         {
           "date": "2025-11-21",
           "price": 134209.0
@@ -1545,28 +1541,1498 @@
           "price": 93851.32
         },
         {
-          "date": "2026-11-19",
-          "price": 93517.71
+          "date": "2026-11-20",
+          "price": 93037.71
+        },
+        {
+          "date": "2026-11-20",
+          "price": 92405.15
         }
       ]
     },
     {
       "coin_id": "ethereum",
-      "error": "429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/ethereum/market_chart?vs_currency=aud&days=365&interval=daily"
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "current_price": 2605.72,
+      "change_24h_pct": -1.97,
+      "yoy_change_pct": -40.63,
+      "history": [
+        {
+          "date": "2025-11-21",
+          "price": 4388.8
+        },
+        {
+          "date": "2025-11-22",
+          "price": 4282.46
+        },
+        {
+          "date": "2025-11-23",
+          "price": 4283.71
+        },
+        {
+          "date": "2025-11-24",
+          "price": 4327.99
+        },
+        {
+          "date": "2025-11-25",
+          "price": 4563.69
+        },
+        {
+          "date": "2025-11-26",
+          "price": 4534.38
+        },
+        {
+          "date": "2025-11-27",
+          "price": 4631.07
+        },
+        {
+          "date": "2025-11-28",
+          "price": 4611.93
+        },
+        {
+          "date": "2025-11-29",
+          "price": 4637.06
+        },
+        {
+          "date": "2025-11-30",
+          "price": 4564.35
+        },
+        {
+          "date": "2025-12-01",
+          "price": 4570.59
+        },
+        {
+          "date": "2025-12-02",
+          "price": 4254.53
+        },
+        {
+          "date": "2025-12-03",
+          "price": 4539.3
+        },
+        {
+          "date": "2025-12-04",
+          "price": 4828.13
+        },
+        {
+          "date": "2025-12-05",
+          "price": 4717.08
+        },
+        {
+          "date": "2025-12-06",
+          "price": 4546.56
+        },
+        {
+          "date": "2025-12-07",
+          "price": 4575.02
+        },
+        {
+          "date": "2025-12-08",
+          "price": 4619.04
+        },
+        {
+          "date": "2025-12-09",
+          "price": 4704.56
+        },
+        {
+          "date": "2025-12-10",
+          "price": 4971.61
+        },
+        {
+          "date": "2025-12-11",
+          "price": 4988.09
+        },
+        {
+          "date": "2025-12-12",
+          "price": 4866.14
+        },
+        {
+          "date": "2025-12-13",
+          "price": 4640.31
+        },
+        {
+          "date": "2025-12-14",
+          "price": 4686.2
+        },
+        {
+          "date": "2025-12-15",
+          "price": 4612.28
+        },
+        {
+          "date": "2025-12-16",
+          "price": 4468.37
+        },
+        {
+          "date": "2025-12-17",
+          "price": 4480.52
+        },
+        {
+          "date": "2025-12-18",
+          "price": 4282.53
+        },
+        {
+          "date": "2025-12-19",
+          "price": 4271.2
+        },
+        {
+          "date": "2025-12-20",
+          "price": 4499.36
+        },
+        {
+          "date": "2025-12-21",
+          "price": 4505.31
+        },
+        {
+          "date": "2025-12-22",
+          "price": 4511.59
+        },
+        {
+          "date": "2025-12-23",
+          "price": 4484.85
+        },
+        {
+          "date": "2025-12-24",
+          "price": 4422.26
+        },
+        {
+          "date": "2025-12-25",
+          "price": 4392.86
+        },
+        {
+          "date": "2025-12-26",
+          "price": 4319.88
+        },
+        {
+          "date": "2025-12-27",
+          "price": 4356.81
+        },
+        {
+          "date": "2025-12-28",
+          "price": 4390.26
+        },
+        {
+          "date": "2025-12-29",
+          "price": 4405.16
+        },
+        {
+          "date": "2025-12-30",
+          "price": 4382.14
+        },
+        {
+          "date": "2025-12-31",
+          "price": 4449.64
+        },
+        {
+          "date": "2026-01-01",
+          "price": 4452.71
+        },
+        {
+          "date": "2026-01-02",
+          "price": 4497.74
+        },
+        {
+          "date": "2026-01-03",
+          "price": 4670.65
+        },
+        {
+          "date": "2026-01-04",
+          "price": 4671.63
+        },
+        {
+          "date": "2026-01-05",
+          "price": 4717.7
+        },
+        {
+          "date": "2026-01-06",
+          "price": 4807.5
+        },
+        {
+          "date": "2026-01-07",
+          "price": 4887.83
+        },
+        {
+          "date": "2026-01-08",
+          "price": 4710.74
+        },
+        {
+          "date": "2026-01-09",
+          "price": 4636.8
+        },
+        {
+          "date": "2026-01-10",
+          "price": 4607.15
+        },
+        {
+          "date": "2026-01-11",
+          "price": 4608.22
+        },
+        {
+          "date": "2026-01-12",
+          "price": 4659.72
+        },
+        {
+          "date": "2026-01-13",
+          "price": 4608.95
+        },
+        {
+          "date": "2026-01-14",
+          "price": 4983.7
+        },
+        {
+          "date": "2026-01-15",
+          "price": 5016.34
+        },
+        {
+          "date": "2026-01-16",
+          "price": 4953.39
+        },
+        {
+          "date": "2026-01-17",
+          "price": 4928.29
+        },
+        {
+          "date": "2026-01-18",
+          "price": 4947.74
+        },
+        {
+          "date": "2026-01-19",
+          "price": 4882.5
+        },
+        {
+          "date": "2026-01-20",
+          "price": 4749.76
+        },
+        {
+          "date": "2026-01-21",
+          "price": 4370.19
+        },
+        {
+          "date": "2026-01-22",
+          "price": 4418.14
+        },
+        {
+          "date": "2026-01-23",
+          "price": 4313.87
+        },
+        {
+          "date": "2026-01-24",
+          "price": 4285.27
+        },
+        {
+          "date": "2026-01-25",
+          "price": 4279.69
+        },
+        {
+          "date": "2026-01-26",
+          "price": 4068.41
+        },
+        {
+          "date": "2026-01-27",
+          "price": 4231.84
+        },
+        {
+          "date": "2026-01-28",
+          "price": 4316.24
+        },
+        {
+          "date": "2026-01-29",
+          "price": 4272.4
+        },
+        {
+          "date": "2026-01-30",
+          "price": 4005.24
+        },
+        {
+          "date": "2026-01-31",
+          "price": 3883.5
+        },
+        {
+          "date": "2026-02-01",
+          "price": 3521.07
+        },
+        {
+          "date": "2026-02-02",
+          "price": 3260.99
+        },
+        {
+          "date": "2026-02-03",
+          "price": 3368.2
+        },
+        {
+          "date": "2026-02-04",
+          "price": 3170.19
+        },
+        {
+          "date": "2026-02-05",
+          "price": 3064.25
+        },
+        {
+          "date": "2026-02-06",
+          "price": 2637.16
+        },
+        {
+          "date": "2026-02-07",
+          "price": 2930.96
+        },
+        {
+          "date": "2026-02-08",
+          "price": 2976.88
+        },
+        {
+          "date": "2026-02-09",
+          "price": 2973.97
+        },
+        {
+          "date": "2026-02-10",
+          "price": 2974.16
+        },
+        {
+          "date": "2026-02-11",
+          "price": 2857.7
+        },
+        {
+          "date": "2026-02-12",
+          "price": 2729.56
+        },
+        {
+          "date": "2026-02-13",
+          "price": 2748.14
+        },
+        {
+          "date": "2026-02-14",
+          "price": 2896.38
+        },
+        {
+          "date": "2026-02-15",
+          "price": 2947.99
+        },
+        {
+          "date": "2026-02-16",
+          "price": 2782.4
+        },
+        {
+          "date": "2026-02-17",
+          "price": 2825.32
+        },
+        {
+          "date": "2026-02-18",
+          "price": 2816.12
+        },
+        {
+          "date": "2026-02-19",
+          "price": 2775.23
+        },
+        {
+          "date": "2026-02-20",
+          "price": 2763.13
+        },
+        {
+          "date": "2026-02-21",
+          "price": 2779.56
+        },
+        {
+          "date": "2026-02-22",
+          "price": 2788.34
+        },
+        {
+          "date": "2026-02-23",
+          "price": 2634.01
+        },
+        {
+          "date": "2026-02-24",
+          "price": 2633.5
+        },
+        {
+          "date": "2026-02-25",
+          "price": 2623.91
+        },
+        {
+          "date": "2026-02-26",
+          "price": 2883.92
+        },
+        {
+          "date": "2026-02-27",
+          "price": 2854.67
+        },
+        {
+          "date": "2026-02-28",
+          "price": 2715.3
+        },
+        {
+          "date": "2026-03-01",
+          "price": 2763.8
+        },
+        {
+          "date": "2026-03-02",
+          "price": 2749.16
+        },
+        {
+          "date": "2026-03-03",
+          "price": 2856.4
+        },
+        {
+          "date": "2026-03-04",
+          "price": 2817.1
+        },
+        {
+          "date": "2026-03-05",
+          "price": 3006.99
+        },
+        {
+          "date": "2026-03-06",
+          "price": 2958.05
+        },
+        {
+          "date": "2026-03-07",
+          "price": 2812.39
+        },
+        {
+          "date": "2026-03-08",
+          "price": 2800.86
+        },
+        {
+          "date": "2026-03-09",
+          "price": 2782.91
+        },
+        {
+          "date": "2026-03-10",
+          "price": 2819.97
+        },
+        {
+          "date": "2026-03-11",
+          "price": 2858.63
+        },
+        {
+          "date": "2026-03-12",
+          "price": 2878.26
+        },
+        {
+          "date": "2026-03-13",
+          "price": 2928.0
+        },
+        {
+          "date": "2026-03-14",
+          "price": 2990.09
+        },
+        {
+          "date": "2026-03-15",
+          "price": 2997.54
+        },
+        {
+          "date": "2026-03-16",
+          "price": 3115.07
+        },
+        {
+          "date": "2026-03-17",
+          "price": 3316.12
+        },
+        {
+          "date": "2026-03-18",
+          "price": 3264.85
+        },
+        {
+          "date": "2026-03-19",
+          "price": 3134.2
+        },
+        {
+          "date": "2026-03-20",
+          "price": 3021.75
+        },
+        {
+          "date": "2026-03-21",
+          "price": 3048.25
+        },
+        {
+          "date": "2026-03-22",
+          "price": 2933.63
+        },
+        {
+          "date": "2026-03-23",
+          "price": 2932.44
+        },
+        {
+          "date": "2026-03-24",
+          "price": 3071.34
+        },
+        {
+          "date": "2026-03-25",
+          "price": 3082.83
+        },
+        {
+          "date": "2026-03-26",
+          "price": 3123.48
+        },
+        {
+          "date": "2026-03-27",
+          "price": 2991.2
+        },
+        {
+          "date": "2026-03-28",
+          "price": 2892.59
+        },
+        {
+          "date": "2026-03-29",
+          "price": 2897.26
+        },
+        {
+          "date": "2026-03-30",
+          "price": 2894.28
+        },
+        {
+          "date": "2026-03-31",
+          "price": 2956.71
+        },
+        {
+          "date": "2026-04-01",
+          "price": 3027.91
+        },
+        {
+          "date": "2026-04-02",
+          "price": 3079.2
+        },
+        {
+          "date": "2026-04-03",
+          "price": 2969.62
+        },
+        {
+          "date": "2026-04-04",
+          "price": 2976.77
+        },
+        {
+          "date": "2026-04-05",
+          "price": 2976.6
+        },
+        {
+          "date": "2026-04-06",
+          "price": 3083.08
+        },
+        {
+          "date": "2026-04-07",
+          "price": 3037.6
+        },
+        {
+          "date": "2026-04-08",
+          "price": 3159.51
+        },
+        {
+          "date": "2026-04-09",
+          "price": 3096.68
+        },
+        {
+          "date": "2026-04-10",
+          "price": 3078.32
+        },
+        {
+          "date": "2026-04-11",
+          "price": 3176.8
+        },
+        {
+          "date": "2026-04-12",
+          "price": 3231.5
+        },
+        {
+          "date": "2026-04-13",
+          "price": 3118.84
+        },
+        {
+          "date": "2026-04-14",
+          "price": 3344.08
+        },
+        {
+          "date": "2026-04-15",
+          "price": 3263.45
+        },
+        {
+          "date": "2026-04-16",
+          "price": 3289.18
+        },
+        {
+          "date": "2026-04-17",
+          "price": 3281.45
+        },
+        {
+          "date": "2026-04-18",
+          "price": 3374.62
+        },
+        {
+          "date": "2026-04-19",
+          "price": 3277.23
+        },
+        {
+          "date": "2026-04-20",
+          "price": 3173.3
+        },
+        {
+          "date": "2026-04-21",
+          "price": 3226.57
+        },
+        {
+          "date": "2026-04-22",
+          "price": 3251.18
+        },
+        {
+          "date": "2026-04-23",
+          "price": 3319.09
+        },
+        {
+          "date": "2026-04-24",
+          "price": 3269.74
+        },
+        {
+          "date": "2026-04-25",
+          "price": 3240.81
+        },
+        {
+          "date": "2026-04-26",
+          "price": 3247.82
+        },
+        {
+          "date": "2026-04-27",
+          "price": 3317.0
+        },
+        {
+          "date": "2026-04-28",
+          "price": 3204.04
+        },
+        {
+          "date": "2026-04-29",
+          "price": 3185.26
+        },
+        {
+          "date": "2026-04-30",
+          "price": 3161.38
+        },
+        {
+          "date": "2026-05-01",
+          "price": 3134.43
+        },
+        {
+          "date": "2026-05-02",
+          "price": 3187.42
+        },
+        {
+          "date": "2026-05-03",
+          "price": 3217.85
+        },
+        {
+          "date": "2026-05-04",
+          "price": 3220.73
+        },
+        {
+          "date": "2026-05-05",
+          "price": 3273.49
+        },
+        {
+          "date": "2026-05-06",
+          "price": 3277.76
+        },
+        {
+          "date": "2026-05-07",
+          "price": 3249.59
+        },
+        {
+          "date": "2026-05-08",
+          "price": 3178.39
+        },
+        {
+          "date": "2026-05-09",
+          "price": 3182.28
+        },
+        {
+          "date": "2026-05-10",
+          "price": 3209.0
+        },
+        {
+          "date": "2026-05-11",
+          "price": 3275.83
+        },
+        {
+          "date": "2026-05-12",
+          "price": 3227.49
+        },
+        {
+          "date": "2026-05-13",
+          "price": 3144.49
+        },
+        {
+          "date": "2026-05-14",
+          "price": 3113.43
+        },
+        {
+          "date": "2026-05-15",
+          "price": 3164.14
+        },
+        {
+          "date": "2026-05-16",
+          "price": 3109.97
+        },
+        {
+          "date": "2026-05-17",
+          "price": 3048.22
+        },
+        {
+          "date": "2026-05-18",
+          "price": 2988.42
+        },
+        {
+          "date": "2026-05-19",
+          "price": 2968.88
+        },
+        {
+          "date": "2026-05-20",
+          "price": 2969.15
+        },
+        {
+          "date": "2026-05-21",
+          "price": 2975.8
+        },
+        {
+          "date": "2026-05-22",
+          "price": 2982.97
+        },
+        {
+          "date": "2026-05-23",
+          "price": 2891.62
+        },
+        {
+          "date": "2026-05-24",
+          "price": 2964.6
+        },
+        {
+          "date": "2026-05-25",
+          "price": 2930.94
+        },
+        {
+          "date": "2026-05-26",
+          "price": 2944.41
+        },
+        {
+          "date": "2026-05-27",
+          "price": 2890.08
+        },
+        {
+          "date": "2026-05-28",
+          "price": 2835.56
+        },
+        {
+          "date": "2026-05-29",
+          "price": 2803.49
+        },
+        {
+          "date": "2026-05-30",
+          "price": 2797.56
+        },
+        {
+          "date": "2026-05-31",
+          "price": 2811.77
+        },
+        {
+          "date": "2026-06-01",
+          "price": 2792.51
+        },
+        {
+          "date": "2026-06-02",
+          "price": 2796.52
+        },
+        {
+          "date": "2026-06-03",
+          "price": 2590.7
+        },
+        {
+          "date": "2026-06-04",
+          "price": 2539.55
+        },
+        {
+          "date": "2026-06-05",
+          "price": 2480.81
+        },
+        {
+          "date": "2026-06-06",
+          "price": 2243.67
+        },
+        {
+          "date": "2026-06-07",
+          "price": 2224.48
+        },
+        {
+          "date": "2026-06-08",
+          "price": 2396.7
+        },
+        {
+          "date": "2026-06-09",
+          "price": 2401.7
+        },
+        {
+          "date": "2026-06-10",
+          "price": 2333.0
+        },
+        {
+          "date": "2026-06-11",
+          "price": 2317.52
+        },
+        {
+          "date": "2026-06-12",
+          "price": 2372.27
+        },
+        {
+          "date": "2026-06-13",
+          "price": 2364.5
+        },
+        {
+          "date": "2026-06-14",
+          "price": 2385.1
+        },
+        {
+          "date": "2026-06-15",
+          "price": 2438.86
+        },
+        {
+          "date": "2026-06-16",
+          "price": 2538.3
+        },
+        {
+          "date": "2026-06-17",
+          "price": 2535.58
+        },
+        {
+          "date": "2026-06-18",
+          "price": 2491.75
+        },
+        {
+          "date": "2026-06-19",
+          "price": 2438.52
+        },
+        {
+          "date": "2026-06-20",
+          "price": 2438.12
+        },
+        {
+          "date": "2026-06-21",
+          "price": 2481.85
+        },
+        {
+          "date": "2026-06-22",
+          "price": 2434.75
+        },
+        {
+          "date": "2026-06-23",
+          "price": 2466.62
+        },
+        {
+          "date": "2026-06-24",
+          "price": 2408.75
+        },
+        {
+          "date": "2026-06-25",
+          "price": 2349.32
+        },
+        {
+          "date": "2026-06-26",
+          "price": 2269.45
+        },
+        {
+          "date": "2026-06-27",
+          "price": 2286.71
+        },
+        {
+          "date": "2026-06-28",
+          "price": 2279.82
+        },
+        {
+          "date": "2026-06-29",
+          "price": 2276.83
+        },
+        {
+          "date": "2026-06-30",
+          "price": 2339.18
+        },
+        {
+          "date": "2026-07-01",
+          "price": 2271.17
+        },
+        {
+          "date": "2026-07-02",
+          "price": 2334.28
+        },
+        {
+          "date": "2026-07-03",
+          "price": 2456.1
+        },
+        {
+          "date": "2026-07-04",
+          "price": 2535.33
+        },
+        {
+          "date": "2026-07-05",
+          "price": 2563.97
+        },
+        {
+          "date": "2026-07-06",
+          "price": 2572.36
+        },
+        {
+          "date": "2026-07-07",
+          "price": 2585.99
+        },
+        {
+          "date": "2026-07-08",
+          "price": 2558.75
+        },
+        {
+          "date": "2026-07-09",
+          "price": 2511.78
+        },
+        {
+          "date": "2026-07-10",
+          "price": 2512.79
+        },
+        {
+          "date": "2026-07-11",
+          "price": 2580.48
+        },
+        {
+          "date": "2026-07-12",
+          "price": 2571.48
+        },
+        {
+          "date": "2026-07-13",
+          "price": 2600.87
+        },
+        {
+          "date": "2026-07-14",
+          "price": 2563.89
+        },
+        {
+          "date": "2026-07-15",
+          "price": 2709.54
+        },
+        {
+          "date": "2026-07-16",
+          "price": 2735.22
+        },
+        {
+          "date": "2026-07-17",
+          "price": 2661.49
+        },
+        {
+          "date": "2026-07-18",
+          "price": 2636.45
+        },
+        {
+          "date": "2026-07-19",
+          "price": 2668.08
+        },
+        {
+          "date": "2026-07-20",
+          "price": 2680.6
+        },
+        {
+          "date": "2026-07-21",
+          "price": 2716.73
+        },
+        {
+          "date": "2026-07-22",
+          "price": 2754.97
+        },
+        {
+          "date": "2026-07-23",
+          "price": 2766.07
+        },
+        {
+          "date": "2026-07-24",
+          "price": 2694.8
+        },
+        {
+          "date": "2026-07-25",
+          "price": 2666.15
+        },
+        {
+          "date": "2026-07-26",
+          "price": 2685.47
+        },
+        {
+          "date": "2026-07-27",
+          "price": 2792.14
+        },
+        {
+          "date": "2026-07-28",
+          "price": 2705.71
+        },
+        {
+          "date": "2026-07-29",
+          "price": 2753.63
+        },
+        {
+          "date": "2026-07-30",
+          "price": 2742.83
+        },
+        {
+          "date": "2026-07-31",
+          "price": 2729.68
+        },
+        {
+          "date": "2026-08-01",
+          "price": 2652.68
+        },
+        {
+          "date": "2026-08-02",
+          "price": 2628.23
+        },
+        {
+          "date": "2026-08-03",
+          "price": 2672.5
+        },
+        {
+          "date": "2026-08-04",
+          "price": 2656.09
+        },
+        {
+          "date": "2026-08-05",
+          "price": 2651.86
+        },
+        {
+          "date": "2026-08-06",
+          "price": 2702.83
+        },
+        {
+          "date": "2026-08-07",
+          "price": 2704.57
+        },
+        {
+          "date": "2026-08-08",
+          "price": 2707.31
+        },
+        {
+          "date": "2026-08-09",
+          "price": 2710.41
+        },
+        {
+          "date": "2026-08-10",
+          "price": 2703.1
+        },
+        {
+          "date": "2026-08-11",
+          "price": 2652.53
+        },
+        {
+          "date": "2026-08-12",
+          "price": 2662.15
+        },
+        {
+          "date": "2026-08-13",
+          "price": 2658.23
+        },
+        {
+          "date": "2026-08-14",
+          "price": 2667.8
+        },
+        {
+          "date": "2026-08-15",
+          "price": 2656.58
+        },
+        {
+          "date": "2026-08-16",
+          "price": 2657.1
+        },
+        {
+          "date": "2026-08-17",
+          "price": 2645.58
+        },
+        {
+          "date": "2026-08-18",
+          "price": 2690.15
+        },
+        {
+          "date": "2026-08-19",
+          "price": 2706.27
+        },
+        {
+          "date": "2026-08-20",
+          "price": 3161.31
+        },
+        {
+          "date": "2026-08-21",
+          "price": 3268.08
+        },
+        {
+          "date": "2026-08-22",
+          "price": 3508.6
+        },
+        {
+          "date": "2026-08-23",
+          "price": 3381.35
+        },
+        {
+          "date": "2026-08-24",
+          "price": 3433.58
+        },
+        {
+          "date": "2026-08-25",
+          "price": 3469.2
+        },
+        {
+          "date": "2026-08-26",
+          "price": 3408.58
+        },
+        {
+          "date": "2026-08-27",
+          "price": 3490.04
+        },
+        {
+          "date": "2026-08-28",
+          "price": 3490.19
+        },
+        {
+          "date": "2026-08-29",
+          "price": 3407.85
+        },
+        {
+          "date": "2026-08-30",
+          "price": 3428.82
+        },
+        {
+          "date": "2026-08-31",
+          "price": 3375.04
+        },
+        {
+          "date": "2026-09-01",
+          "price": 3439.75
+        },
+        {
+          "date": "2026-09-02",
+          "price": 3383.35
+        },
+        {
+          "date": "2026-09-03",
+          "price": 3337.31
+        },
+        {
+          "date": "2026-09-04",
+          "price": 3482.66
+        },
+        {
+          "date": "2026-09-05",
+          "price": 3411.23
+        },
+        {
+          "date": "2026-09-06",
+          "price": 3444.93
+        },
+        {
+          "date": "2026-09-07",
+          "price": 3488.62
+        },
+        {
+          "date": "2026-09-08",
+          "price": 3447.44
+        },
+        {
+          "date": "2026-09-09",
+          "price": 3441.45
+        },
+        {
+          "date": "2026-09-10",
+          "price": 3417.01
+        },
+        {
+          "date": "2026-09-11",
+          "price": 3405.86
+        },
+        {
+          "date": "2026-09-12",
+          "price": 3507.46
+        },
+        {
+          "date": "2026-09-13",
+          "price": 3521.01
+        },
+        {
+          "date": "2026-09-14",
+          "price": 3463.21
+        },
+        {
+          "date": "2026-09-15",
+          "price": 3523.39
+        },
+        {
+          "date": "2026-09-16",
+          "price": 3364.66
+        },
+        {
+          "date": "2026-09-17",
+          "price": 3408.69
+        },
+        {
+          "date": "2026-09-18",
+          "price": 3438.15
+        },
+        {
+          "date": "2026-09-19",
+          "price": 3661.23
+        },
+        {
+          "date": "2026-09-20",
+          "price": 3690.42
+        },
+        {
+          "date": "2026-09-21",
+          "price": 3713.71
+        },
+        {
+          "date": "2026-09-22",
+          "price": 3898.72
+        },
+        {
+          "date": "2026-09-23",
+          "price": 3870.23
+        },
+        {
+          "date": "2026-09-24",
+          "price": 3816.72
+        },
+        {
+          "date": "2026-09-25",
+          "price": 3836.37
+        },
+        {
+          "date": "2026-09-26",
+          "price": 3826.17
+        },
+        {
+          "date": "2026-09-27",
+          "price": 3832.88
+        },
+        {
+          "date": "2026-09-28",
+          "price": 3834.42
+        },
+        {
+          "date": "2026-09-29",
+          "price": 3831.49
+        },
+        {
+          "date": "2026-09-30",
+          "price": 3830.94
+        },
+        {
+          "date": "2026-10-01",
+          "price": 3865.25
+        },
+        {
+          "date": "2026-10-02",
+          "price": 3904.62
+        },
+        {
+          "date": "2026-10-03",
+          "price": 3842.65
+        },
+        {
+          "date": "2026-10-04",
+          "price": 3872.16
+        },
+        {
+          "date": "2026-10-05",
+          "price": 3920.72
+        },
+        {
+          "date": "2026-10-06",
+          "price": 3890.6
+        },
+        {
+          "date": "2026-10-07",
+          "price": 3863.97
+        },
+        {
+          "date": "2026-10-08",
+          "price": 3696.28
+        },
+        {
+          "date": "2026-10-09",
+          "price": 3553.15
+        },
+        {
+          "date": "2026-10-10",
+          "price": 3558.63
+        },
+        {
+          "date": "2026-10-11",
+          "price": 3585.79
+        },
+        {
+          "date": "2026-10-12",
+          "price": 3629.12
+        },
+        {
+          "date": "2026-10-13",
+          "price": 3516.32
+        },
+        {
+          "date": "2026-10-14",
+          "price": 3574.71
+        },
+        {
+          "date": "2026-10-15",
+          "price": 3467.85
+        },
+        {
+          "date": "2026-10-16",
+          "price": 3526.89
+        },
+        {
+          "date": "2026-10-17",
+          "price": 3482.32
+        },
+        {
+          "date": "2026-10-18",
+          "price": 3453.18
+        },
+        {
+          "date": "2026-10-19",
+          "price": 3453.74
+        },
+        {
+          "date": "2026-10-20",
+          "price": 3445.71
+        },
+        {
+          "date": "2026-10-21",
+          "price": 3491.96
+        },
+        {
+          "date": "2026-10-22",
+          "price": 3517.57
+        },
+        {
+          "date": "2026-10-23",
+          "price": 3399.88
+        },
+        {
+          "date": "2026-10-24",
+          "price": 3392.25
+        },
+        {
+          "date": "2026-10-25",
+          "price": 3352.16
+        },
+        {
+          "date": "2026-10-26",
+          "price": 3310.19
+        },
+        {
+          "date": "2026-10-27",
+          "price": 3306.12
+        },
+        {
+          "date": "2026-10-28",
+          "price": 3338.83
+        },
+        {
+          "date": "2026-10-29",
+          "price": 3340.93
+        },
+        {
+          "date": "2026-10-30",
+          "price": 3201.32
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3190.35
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3207.35
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3235.31
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3214.78
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3262.94
+        },
+        {
+          "date": "2026-11-05",
+          "price": 3459.56
+        },
+        {
+          "date": "2026-11-06",
+          "price": 3225.99
+        },
+        {
+          "date": "2026-11-07",
+          "price": 3254.19
+        },
+        {
+          "date": "2026-11-08",
+          "price": 3255.79
+        },
+        {
+          "date": "2026-11-09",
+          "price": 3092.94
+        },
+        {
+          "date": "2026-11-10",
+          "price": 3080.59
+        },
+        {
+          "date": "2026-11-11",
+          "price": 2984.79
+        },
+        {
+          "date": "2026-11-12",
+          "price": 3003.14
+        },
+        {
+          "date": "2026-11-13",
+          "price": 2963.67
+        },
+        {
+          "date": "2026-11-14",
+          "price": 2853.77
+        },
+        {
+          "date": "2026-11-15",
+          "price": 2611.8
+        },
+        {
+          "date": "2026-11-16",
+          "price": 2706.32
+        },
+        {
+          "date": "2026-11-17",
+          "price": 2700.92
+        },
+        {
+          "date": "2026-11-18",
+          "price": 2704.86
+        },
+        {
+          "date": "2026-11-19",
+          "price": 2644.51
+        },
+        {
+          "date": "2026-11-20",
+          "price": 2637.8
+        },
+        {
+          "date": "2026-11-20",
+          "price": 2605.79
+        }
+      ]
     }
   ],
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6674,
-      "change_pct": -0.9724,
-      "yoy_change_pct": 2.54,
+      "current_rate": 0.6654,
+      "change_pct": -0.8789,
+      "yoy_change_pct": 2.52,
       "history": [
-        {
-          "date": "2025-11-19",
-          "rate": 0.6509
-        },
         {
           "date": "2025-11-20",
           "rate": 0.649
@@ -2601,21 +4067,21 @@
         },
         {
           "date": "2026-11-19",
-          "rate": 0.6674
+          "rate": 0.6713
+        },
+        {
+          "date": "2026-11-20",
+          "rate": 0.6654
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5491,
-      "change_pct": -0.1307,
-      "yoy_change_pct": -2.97,
+      "current_rate": 0.5485,
+      "change_pct": -0.0729,
+      "yoy_change_pct": -2.31,
       "history": [
-        {
-          "date": "2025-11-19",
-          "rate": 0.5659
-        },
         {
           "date": "2025-11-20",
           "rate": 0.5614
@@ -3650,21 +5116,21 @@
         },
         {
           "date": "2026-11-19",
-          "rate": 0.5491
+          "rate": 0.5489
+        },
+        {
+          "date": "2026-11-20",
+          "rate": 0.5485
         }
       ]
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2152,
-      "change_pct": -0.8696,
-      "yoy_change_pct": 5.66,
+      "current_rate": 1.2134,
+      "change_pct": -0.7906,
+      "yoy_change_pct": 5.04,
       "history": [
-        {
-          "date": "2025-11-19",
-          "rate": 1.1501
-        },
         {
           "date": "2025-11-20",
           "rate": 1.1552
@@ -4699,26 +6165,52 @@
         },
         {
           "date": "2026-11-19",
-          "rate": 1.2152
+          "rate": 1.2231
+        },
+        {
+          "date": "2026-11-20",
+          "rate": 1.2134
         }
       ]
     }
   ],
   "world_news": [
     {
-      "headline": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
-      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "headline": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Bancroft says he is 'freed' as Cummins hits nets with captaincy in question",
-      "summary": "Cameron Bancroft has made his first public statement since alleging the entire Australian cricket team knew of the 2018 ball-tampering plot.",
+      "headline": "Democrats say law firm gave $11.8m in free services to Trump administration",
+      "summary": "Three top Democrats called Trump&#039;s dealings with law firms a case of &#039;official coercion&#039; and pledged investigations.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "\u2018Completely messed up everything\u2019: Malawi\u2019s fuel crisis causes chaos",
+      "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "NRL and NRLW 2027 draw released, with lengthy wait for grand final rematch",
+      "summary": "The NRL has announced the schedule for the 2027 season, and there are marquee match-ups throughout the season.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -4728,8 +6220,8 @@
       ]
     },
     {
-      "headline": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -4739,8 +6231,8 @@
       ]
     },
     {
-      "headline": "Hegseth unveils new US-Venezuela military deal",
-      "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+      "headline": "Haiti police say 34 gang members killed in capital raid",
+      "summary": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -4750,19 +6242,19 @@
       ]
     },
     {
-      "headline": "When is the AFL draft and how does it work? Here's what you need to know",
-      "summary": "Another AFL draft has arrived, offering dozens of teenage footballers the chance to realise their dreams. Here is everything you need to know.",
+      "headline": "El Salvador\u2019s Bukele expected to formalise bid for third presidential term",
+      "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
-      "summary": "<p>Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Youth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk as Australia\u2019s retail sector continues to struggle with cash-strapped shoppers and online-only competitors.</p><p>The collapse comes not long after that of upmarket department store David Jones and premium womenswear brands Cue and Veronika Maine, underscoring the mounting toll of tough economic conditions on established retailers.</p> <a href=\"https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk\">Continue reading...</a>",
+      "headline": "Religion should be removed from terrorism definition under Australian law as it gives \u2018false credibility\u2019, watchdog says",
+      "summary": "<p>Independent National Security Legislation Monitor says reference to religion has \u2018contributed to discrimination and violence against religious minorities\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Religion should be removed from Australia\u2019s terrorism definition and making bomb threats should not result in life imprisonment, the country\u2019s national security laws watchdog has said.</p><p>The highly anticipated report from the Independent National Security Legislation Monitor (INSLM), released Thursday, reviewed how terrorism has been defined in Australia over the past 25 years after a suite of laws were introduced following the September 11 attacks in the United States.</p> <a href=\"https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -4772,30 +6264,8 @@
       ]
     },
     {
-      "headline": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-      "summary": "A new report alleges that injuries on Epstein&#039;s body were overlooked by medical examiners during his 2019 autopsy.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Settler rams into Palestinians at multiple locations in central Israel",
-      "summary": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Australia may have \u2018one foot in recession\u2019 as unemployment surges to five-year high",
-      "summary": "<p>Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia may already have \u201cone foot in recession\u201d after unemployment surged to 4.9% in October, from 4.7%, in a shock increase that will add to rising worries this year\u2019s five interest rate hikes have pushed the economy past a tipping point.</p><p>New figures from the Australian Bureau of Statistics showed the number of employed people dropped by 43,500 in the month, confounding forecasts for jobs growth and a steady jobless rate.</p> <a href=\"https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures\">Continue reading...</a>",
+      "headline": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for \u2018many years\u2019",
+      "summary": "<p>Congressional Budget Office also questions whether Australian-flagged vessels could be compelled into a conflict with China under Aukus deal</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Providing nuclear-powered submarines to Australia would diminish the US navy\u2019s own fleet for \u201cmany years\u201d, a new report for the US Congress has cautioned, questioning whether Australian-flagged vessels could be compelled into service in a conflict with China.</p><p>The US navy\u2019s <a href=\"https://media.defense.gov/2026/May/11/2003928909/-1/-1/1/NAVY%20SHIPBUILDING%20PLAN%20MAY%202026.PDF\">latest shipbuilding plan</a> does not countenance the Aukus agreement in its forecasts at all, noting only in a footnote that the transfer of any Virginia-class submarine to Australia \u201chas not been factored into the plan\u201d, the report says.</p> <a href=\"https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -4805,8 +6275,8 @@
       ]
     },
     {
-      "headline": "Crimean Bridge attacked again, Russian official says",
-      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -4823,174 +6293,174 @@
   "asx_deep_dive": {
     "overview": "AI synthesis unavailable. Showing raw data.",
     "asx200": {
-      "level": 8749.6,
-      "change_pct": -1.5
+      "level": 8605.8,
+      "change_pct": -2.45
     },
     "sectors": [
       {
         "name": "Mining & Resources",
-        "change_pct": -3.03,
+        "change_pct": -0.72,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "S32",
-            "name": "S32.AX",
-            "price": 4.05,
-            "change_pct": -4.93,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "BHP",
             "name": "BHP.AX",
-            "price": 52.16,
-            "change_pct": -4.01,
+            "price": 51.35,
+            "change_pct": -1.89,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "RIO",
-            "name": "RIO.AX",
-            "price": 136.29,
-            "change_pct": -3.15,
+            "ticker": "MIN",
+            "name": "MIN.AX",
+            "price": 38.91,
+            "change_pct": -1.89,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "FMG",
+            "name": "FMG.AX",
+            "price": 13.3,
+            "change_pct": 1.06,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Banks & Financials",
-        "change_pct": -0.07,
+        "change_pct": -1.41,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
+            "ticker": "WBC",
+            "name": "WBC.AX",
+            "price": 36.01,
+            "change_pct": -2.04,
+            "explanation": "No AI analysis available"
+          },
+          {
             "ticker": "MQG",
             "name": "MQG.AX",
-            "price": 226.96,
-            "change_pct": -1.54,
+            "price": 221.0,
+            "change_pct": -1.74,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "CBA",
-            "name": "CBA.AX",
-            "price": 172.79,
-            "change_pct": 1.12,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "NAB",
-            "name": "NAB.AX",
-            "price": 36.92,
-            "change_pct": -0.32,
+            "ticker": "ANZ",
+            "name": "ANZ.AX",
+            "price": 38.33,
+            "change_pct": -1.72,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Tech",
-        "change_pct": -0.47,
+        "change_pct": -3.27,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "TNE",
-            "name": "TNE.AX",
-            "price": 32.64,
-            "change_pct": -1.09,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "REA",
-            "name": "REA.AX",
-            "price": 162.78,
-            "change_pct": -0.85,
+            "ticker": "XRO",
+            "name": "XRO.AX",
+            "price": 74.14,
+            "change_pct": -6.57,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "WTC",
             "name": "WTC.AX",
-            "price": 46.66,
-            "change_pct": -0.7,
+            "price": 44.04,
+            "change_pct": -5.39,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "REA",
+            "name": "REA.AX",
+            "price": 158.41,
+            "change_pct": -2.75,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Healthcare",
-        "change_pct": 1.0,
+        "change_pct": -1.29,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "SHL",
-            "name": "SHL.AX",
-            "price": 20.74,
-            "change_pct": 3.34,
+            "ticker": "COH",
+            "name": "COH.AX",
+            "price": 149.99,
+            "change_pct": -2.52,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "RMD",
             "name": "RMD.AX",
-            "price": 36.35,
-            "change_pct": 2.39,
+            "price": 35.56,
+            "change_pct": -2.33,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "PME",
-            "name": "PME.AX",
-            "price": 192.38,
-            "change_pct": -0.52,
+            "ticker": "CSL",
+            "name": "CSL.AX",
+            "price": 196.73,
+            "change_pct": -1.56,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Energy",
-        "change_pct": -0.72,
+        "change_pct": -0.67,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "STO",
             "name": "STO.AX",
-            "price": 8.53,
-            "change_pct": -1.5,
+            "price": 8.41,
+            "change_pct": -1.06,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "AGL",
+            "name": "AGL.AX",
+            "price": 9.03,
+            "change_pct": -0.99,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "WDS",
             "name": "WDS.AX",
-            "price": 30.44,
-            "change_pct": -1.14,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "ORG",
-            "name": "ORG.AX",
-            "price": 12.58,
-            "change_pct": -0.24,
+            "price": 30.07,
+            "change_pct": -0.4,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "REITs / Property",
-        "change_pct": 0.49,
+        "change_pct": -0.7,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "CHC",
-            "name": "CHC.AX",
-            "price": 22.25,
-            "change_pct": 1.55,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "SCG",
-            "name": "SCG.AX",
-            "price": 3.56,
-            "change_pct": 1.14,
+            "ticker": "MGR",
+            "name": "MGR.AX",
+            "price": 1.88,
+            "change_pct": -1.83,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "GPT",
             "name": "GPT.AX",
-            "price": 5.11,
-            "change_pct": 0.79,
+            "price": 5.02,
+            "change_pct": -1.18,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "CHC",
+            "name": "CHC.AX",
+            "price": 21.99,
+            "change_pct": -0.9,
             "explanation": "No AI analysis available"
           }
         ]
@@ -5001,9 +6471,9 @@
     {
       "ticker": "AMC",
       "name": "Amcor",
-      "price": 65.58,
-      "change_pct": 1.23,
-      "volume_vs_avg": 0.27,
+      "price": 63.85,
+      "change_pct": -2.24,
+      "volume_vs_avg": 0.54,
       "week52_high": 68.6,
       "week52_low": 49.84,
       "news_digest": "AI synthesis unavailable",
@@ -5012,9 +6482,9 @@
     {
       "ticker": "IHVV",
       "name": "iShares S&P500 ETF",
-      "price": 64.41,
-      "change_pct": 0.05,
-      "volume_vs_avg": 0.66,
+      "price": 62.55,
+      "change_pct": -3.1,
+      "volume_vs_avg": 1.29,
       "week52_high": 68.68,
       "week52_low": 55.76,
       "news_digest": "AI synthesis unavailable",
@@ -5023,9 +6493,9 @@
     {
       "ticker": "JHX",
       "name": "James Hardie",
-      "price": 40.92,
-      "change_pct": 4.1,
-      "volume_vs_avg": 0.39,
+      "price": 39.95,
+      "change_pct": -2.08,
+      "volume_vs_avg": 0.68,
       "week52_high": 43.85,
       "week52_low": 26.02,
       "news_digest": "AI synthesis unavailable",
@@ -5034,53 +6504,53 @@
     {
       "ticker": "LTR",
       "name": "Liontown Resources",
-      "price": 0.59,
-      "change_pct": 0.0,
-      "volume_vs_avg": 0.42,
+      "price": 0.56,
+      "change_pct": -3.45,
+      "volume_vs_avg": 0.53,
       "week52_high": 2.64,
-      "week52_low": 0.59,
+      "week52_low": 0.56,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
     {
       "ticker": "MQG",
       "name": "Macquarie Group",
-      "price": 227.08,
-      "change_pct": -1.49,
-      "volume_vs_avg": 0.51,
+      "price": 220.97,
+      "change_pct": -1.76,
+      "volume_vs_avg": 0.93,
       "week52_high": 263.8,
-      "week52_low": 184.21,
+      "week52_low": 185.79,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
     {
       "ticker": "NIC",
       "name": "Nickel Industries",
-      "price": 0.57,
-      "change_pct": -3.39,
-      "volume_vs_avg": 0.34,
+      "price": 0.56,
+      "change_pct": -2.61,
+      "volume_vs_avg": 0.31,
       "week52_high": 1.1,
-      "week52_low": 0.57,
+      "week52_low": 0.56,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
     {
       "ticker": "PLS",
       "name": "Pilbara Minerals",
-      "price": 2.59,
-      "change_pct": -0.38,
-      "volume_vs_avg": 0.27,
+      "price": 2.47,
+      "change_pct": -3.52,
+      "volume_vs_avg": 0.42,
       "week52_high": 6.68,
-      "week52_low": 2.59,
+      "week52_low": 2.47,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
     {
       "ticker": "QRE",
       "name": "Qualitas Real Estate",
-      "price": 8.83,
-      "change_pct": -3.81,
-      "volume_vs_avg": 0.51,
+      "price": 8.65,
+      "change_pct": -2.04,
+      "volume_vs_avg": 1.06,
       "week52_high": 11.04,
       "week52_low": 7.87,
       "news_digest": "AI synthesis unavailable",
@@ -5089,9 +6559,9 @@
     {
       "ticker": "TLS",
       "name": "Telstra",
-      "price": 5.2,
-      "change_pct": 0.97,
-      "volume_vs_avg": 0.31,
+      "price": 5.18,
+      "change_pct": -0.96,
+      "volume_vs_avg": 0.6,
       "week52_high": 5.43,
       "week52_low": 4.52,
       "news_digest": "AI synthesis unavailable",
@@ -5100,9 +6570,9 @@
     {
       "ticker": "WEB",
       "name": "Webjet",
-      "price": 3.82,
-      "change_pct": 1.06,
-      "volume_vs_avg": 0.26,
+      "price": 3.65,
+      "change_pct": -5.93,
+      "volume_vs_avg": 0.55,
       "week52_high": 5.03,
       "week52_low": 2.23,
       "news_digest": "AI synthesis unavailable",
@@ -5111,20 +6581,20 @@
     {
       "ticker": "WOW",
       "name": "Woolworths",
-      "price": 41.99,
-      "change_pct": -0.0,
-      "volume_vs_avg": 0.25,
+      "price": 42.15,
+      "change_pct": -0.24,
+      "volume_vs_avg": 0.49,
       "week52_high": 42.47,
-      "week52_low": 27.17,
+      "week52_low": 27.25,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
     {
       "ticker": "WQG",
       "name": "WCM Quality Global Growth",
-      "price": 1.96,
-      "change_pct": -1.01,
-      "volume_vs_avg": 0.58,
+      "price": 1.94,
+      "change_pct": -1.02,
+      "volume_vs_avg": 0.86,
       "week52_high": 2.17,
       "week52_low": 1.59,
       "news_digest": "AI synthesis unavailable",
@@ -5134,9 +6604,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-11-19T13:22:48.203245+11:00",
-    "date": "2026-11-19",
-    "display_date": "Thursday 19 November 2026",
-    "display_time": "01:22 PM AEST"
+    "generated_at": "2026-11-20T13:06:06.488957+11:00",
+    "date": "2026-11-20",
+    "display_date": "Friday 20 November 2026",
+    "display_time": "01:06 PM AEST"
   }
 }
