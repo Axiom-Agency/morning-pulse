@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 6910.39,
+      "change": -265.44,
+      "change_pct": -3.7,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 22617.73,
+      "change": -1261.47,
+      "change_pct": -5.28,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 48147.33,
+      "change": -949.73,
+      "change_pct": -1.93,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 35.89,
+      "change": 7.45,
+      "change_pct": 26.2,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.91,
+      "change": -0.14,
+      "change_pct": -2.77,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 56436.65,
+      "change": -3007.56,
+      "change_pct": -5.06,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 22410.8,
+      "change": -430.82,
+      "change_pct": -1.89,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3533.79,
+      "change": -43.83,
+      "change_pct": -1.23,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 4869.96,
+      "change": -267.93,
+      "change_pct": -5.21,
+      "trend_5d": "flat"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 3573.4,
+      "change_pct": 1.65
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 89.28,
+      "change_pct": -3.55
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 82.82,
+      "change_pct": -1.38
+    }
+  ],
+  "asx200": {
+    "level": 8591.7,
+    "change_pct": -0.01
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6643,
+      "change_pct": -0.2019
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5476,
+      "change_pct": -0.1019
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2129,
+      "change_pct": -0.1153
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Australian politics live: Hanson calls Coalition and Labor a \u2018uni\u2019 party; Liberals demand Bowen resign over Cop \u2018disaster\u2019",
+      "summary": "<ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Very difficult to bridge that divide\u2019: Murray Watt</strong></p><p>Cabinet minister <strong>Murray Watt</strong> says it\u2019s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn\u2019t reach a final agreement.</p><p>It\u2019s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations.</p><p>I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you\u2019ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change.</p><p>We\u2019re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan.</p><p>Even though I think it doesn\u2019t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Cameroon\u2019s ex-rebels caught between hiding and broken promises",
+      "summary": "Cameroon\u2019s former rebels face arrest fears and failed reintegration.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great",
+      "summary": "<p>Peter Andre, Richard Wilkins and Kate Ceberano share memories of \u2018a truly unique character\u2019 and \u2018the fan all artists wish to have\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83\">Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83</a></p></li><li><p><a href=\"https://www.theguardian.com/music/gallery/2026/nov/23/molly-meldrum-gallery-photos-life-in-pictures\">Molly Meldrum \u2013 a life in pictures</a></p></li><li><p><a href=\"https://www.theguardian.com/music/2026/nov/23/ian-molly-meldrum-champion-australian-music\">Ian \u2018Molly\u2019 Meldrum \u2013 obituary</a></p></li></ul><p>Friends and fans of Molly Meldrum have remembered the music industry great, <a href=\"https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83\">who died on Monday at the age of 83</a>.</p><p>Meldrum spent more than a decade hosting the ABC music show Countdown, leaving a lasting legacy on the Australian music landscape.</p> <a href=\"https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+      "summary": "Iran&#039;s navy claims tankers contravening its rules were set ablaze, while the IRGC said &#039;enemies&#039; sought to stoke unrest.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Mystery of the red stream in Turkiye",
+      "summary": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Lion on the loose in Turkiye sparks fear among residents",
+      "summary": "Lion on the loose in Turkiye sparks fear among residents",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+      "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Trump to host private dinner for largest owners of his meme coin",
+      "summary": "Sunday&#039;s dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-23T11:35:37.124426+11:00",
+    "date": "2026-11-23",
+    "display_date": "Monday 23 November 2026",
+    "display_time": "11:35 AM AEST"
+  }
+}
