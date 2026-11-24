@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 6910.39,
-      "change": -265.44,
-      "change_pct": -3.7,
+      "price": 7237.17,
+      "change": 326.78,
+      "change_pct": 4.73,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 22617.73,
-      "change": -1261.47,
-      "change_pct": -5.28,
+      "price": 24089.56,
+      "change": 1471.83,
+      "change_pct": 6.51,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 48147.33,
-      "change": -949.73,
-      "change_pct": -1.93,
+      "price": 49595.31,
+      "change": 1447.98,
+      "change_pct": 3.01,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 35.89,
-      "change": 7.45,
-      "change_pct": 26.2,
+      "price": 26.62,
+      "change": -9.27,
+      "change_pct": -25.83,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.91,
-      "change": -0.14,
-      "change_pct": -2.77,
+      "price": 4.92,
+      "change": 0.01,
+      "change_pct": 0.2,
       "trend_5d": "down"
     }
   ],
@@ -45,95 +45,84 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 56436.65,
-      "change": -3007.56,
-      "change_pct": -5.06,
+      "price": 58629.58,
+      "change": 2192.93,
+      "change_pct": 3.89,
       "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 22410.8,
-      "change": -430.82,
-      "change_pct": -1.89,
+      "price": 22295.94,
+      "change": -87.8,
+      "change_pct": -0.39,
       "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3533.79,
-      "change": -43.83,
-      "change_pct": -1.23,
+      "price": 3555.49,
+      "change": 16.54,
+      "change_pct": 0.47,
       "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 4869.96,
-      "change": -267.93,
-      "change_pct": -5.21,
-      "trend_5d": "flat"
+      "price": 5040.61,
+      "change": 332.07,
+      "change_pct": 7.05,
+      "trend_5d": "down"
     }
   ],
   "commodities": [
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 3573.4,
-      "change_pct": 1.65
+      "price": 3628.3,
+      "change_pct": 3.21
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 89.28,
-      "change_pct": -3.55
+      "price": 86.39,
+      "change_pct": -6.68
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 82.82,
-      "change_pct": -1.38
+      "price": 79.84,
+      "change_pct": -4.93
     }
   ],
   "asx200": {
-    "level": 8591.7,
-    "change_pct": -0.01
+    "level": 8703.5,
+    "change_pct": 1.55
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6643,
-      "change_pct": -0.2019
+      "current_rate": 0.6626,
+      "change_pct": -0.224
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5476,
-      "change_pct": -0.1019
+      "current_rate": 0.5449,
+      "change_pct": -0.4969
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2129,
-      "change_pct": -0.1153
+      "current_rate": 1.2158,
+      "change_pct": 0.254
     }
   ],
   "world_news": [
     {
-      "headline": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "BBC World"
-      ]
-    },
-    {
-      "headline": "Australian politics live: Hanson calls Coalition and Labor a \u2018uni\u2019 party; Liberals demand Bowen resign over Cop \u2018disaster\u2019",
-      "summary": "<ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>\u2018Very difficult to bridge that divide\u2019: Murray Watt</strong></p><p>Cabinet minister <strong>Murray Watt</strong> says it\u2019s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn\u2019t reach a final agreement.</p><p>It\u2019s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations.</p><p>I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you\u2019ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change.</p><p>We\u2019re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan.</p><p>Even though I think it doesn\u2019t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb\">Continue reading...</a>",
+      "headline": "Australian politics live: Government lacks \u2018moral authority\u2019 on decarbonisation, Monique Ryan says; Labor MP kicked out of question time",
+      "summary": "<ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The government will save more than it spends, says <strong>Jim Chalmers</strong>, but it won\u2019t be a \u201cslash and burn\u201d budget update.</p><p>Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo).</p><p>There\u2019s still a fair bit of work to do to finalise it all, but we\u2019ve made enough progress to be confident that at this stage there will be a modest net save in the budget.</p><p>We\u2019re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven\u2019t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times.</p><p>You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it\u2019s a bit of a symbol of the quite extraordinary volatility, unpredictability that we\u2019re seeing play out in markets in the AI sector, but more broadly as well.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,19 +132,8 @@
       ]
     },
     {
-      "headline": "Cameroon\u2019s ex-rebels caught between hiding and broken promises",
-      "summary": "Cameroon\u2019s former rebels face arrest fears and failed reintegration.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great",
-      "summary": "<p>Peter Andre, Richard Wilkins and Kate Ceberano share memories of \u2018a truly unique character\u2019 and \u2018the fan all artists wish to have\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83\">Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83</a></p></li><li><p><a href=\"https://www.theguardian.com/music/gallery/2026/nov/23/molly-meldrum-gallery-photos-life-in-pictures\">Molly Meldrum \u2013 a life in pictures</a></p></li><li><p><a href=\"https://www.theguardian.com/music/2026/nov/23/ian-molly-meldrum-champion-australian-music\">Ian \u2018Molly\u2019 Meldrum \u2013 obituary</a></p></li></ul><p>Friends and fans of Molly Meldrum have remembered the music industry great, <a href=\"https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83\">who died on Monday at the age of 83</a>.</p><p>Meldrum spent more than a decade hosting the ABC music show Countdown, leaving a lasting legacy on the Australian music landscape.</p> <a href=\"https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes\">Continue reading...</a>",
+      "headline": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+      "summary": "<p>The order was issued after aircraft entered the country\u2019s air defence identification zone over the island of Ulleungdo</p><p>Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airspace, prompting a pre-emptive alert from the military that anticipated a violation.</p><p>The defence ministry said it would summon the Russian defence attach\u00e9 on Tuesday afternoon to lodge a strong protest.</p> <a href=\"https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,8 +143,30 @@
       ]
     },
     {
-      "headline": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-      "summary": "Iran&#039;s navy claims tankers contravening its rules were set ablaze, while the IRGC said &#039;enemies&#039; sought to stoke unrest.",
+      "headline": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
+      "summary": "<p>Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb\">Follow our Australia politics live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Big tech companies may face \u201cmultibillion-dollar\u201d fines and individuals could sue social media companies in court under <a href=\"https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics\">Australia\u2019s new digital duty of care</a> laws, with the Greens to support the bill\u2019s passage after extracting major amendments from Labor.</p><p>From late 2027, Australians will also be able opt out of addictive online algorithms under the new legislation, while <a href=\"https://www.theguardian.com/australia-news/2026/sep/09/labor-australians-opt-out-online-algorithms-how-change-feed#:~:text=A%20few%20features%20will%20be%20classified%20as%20having%20%E2%80%9Cnegative%20behavioural%20impacts%E2%80%9D%3A%20endless%20scroll\">the \u201cendless scroll\u201d of social media feeds</a> may also cease.</p> <a href=\"https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Munster calls Storm contract offer 'disappointing'",
+      "summary": "Melbourne's fight to keep Cameron Munster and Harry Grant has been made harder after the former rejected the club's latest offer.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Mexico to try \u2018El Chapo Isidro\u2019 despite US extradition request",
+      "summary": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -176,8 +176,19 @@
       ]
     },
     {
-      "headline": "Mystery of the red stream in Turkiye",
-      "summary": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+      "headline": "China sentences official to death for spying for foreign country",
+      "summary": "<p>Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says</p><p>A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said.</p><p>Gold Wall Press, a publishing company associated with China\u2019s national administration of state secrets protection, said the convicted person was surnamed Ma and was approached and recruited by an unnamed foreign intelligence service while working abroad.</p> <a href=\"https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Excavator threatens sacred alpine lake in the Himalayas",
+      "summary": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -187,8 +198,8 @@
       ]
     },
     {
-      "headline": "Lion on the loose in Turkiye sparks fear among residents",
-      "summary": "Lion on the loose in Turkiye sparks fear among residents",
+      "headline": "UN chief calls for world to agree on AI oversight within a year",
+      "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -198,36 +209,25 @@
       ]
     },
     {
-      "headline": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-      "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+      "headline": "Why there's no time to waste for Matildas ahead of World Cup",
+      "summary": "With Mary Fowler and Kyra Cooney-Cross returning to the squad, Matildas skipper Sam Kerr says it is time for the side to crack the whip ahead of next year's World Cup.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
+        "ABC Australia"
       ]
     },
     {
-      "headline": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "headline": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
-      ]
-    },
-    {
-      "headline": "Trump to host private dinner for largest owners of his meme coin",
-      "summary": "Sunday&#039;s dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-11-23T11:35:37.124426+11:00",
-    "date": "2026-11-23",
-    "display_date": "Monday 23 November 2026",
-    "display_time": "11:35 AM AEST"
+    "generated_at": "2026-11-24T15:35:17.199755+11:00",
+    "date": "2026-11-24",
+    "display_date": "Tuesday 24 November 2026",
+    "display_time": "03:35 PM AEST"
   }
 }
