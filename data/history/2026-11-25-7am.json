@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7201.09,
+      "change": -36.08,
+      "change_pct": -0.5,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 23733.54,
+      "change": -356.02,
+      "change_pct": -1.48,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 50018.7,
+      "change": 423.39,
+      "change_pct": 0.85,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 26.36,
+      "change": -0.26,
+      "change_pct": -0.98,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.9,
+      "change": -0.02,
+      "change_pct": -0.41,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 56710.43,
+      "change": -1934.2,
+      "change_pct": -3.3,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 22335.03,
+      "change": 115.38,
+      "change_pct": 0.52,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3509.86,
+      "change": -38.51,
+      "change_pct": -1.09,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 4700.75,
+      "change": -305.28,
+      "change_pct": -6.1,
+      "trend_5d": "down"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 3557.5,
+      "change_pct": -2.57
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 87.47,
+      "change_pct": -2.13
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 80.7,
+      "change_pct": 0.66
+    }
+  ],
+  "asx200": {
+    "level": 8683.9,
+    "change_pct": -0.49
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6618,
+      "change_pct": -0.1747
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.547,
+      "change_pct": 0.366
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2096,
+      "change_pct": -0.5541
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Politics live: Chalmers says economy faces \u2018serious moment\u2019 amid inflation; NSW \u2018scaling up\u2019 response after fire ants found in Sydney",
+      "summary": "<ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Wells says AI investment and creative protections not a \u2018zero-sum game\u2019</strong></p><p>Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, <strong>Anika Wells</strong> says it\u2019s not a \u2018zero-sum\u2019 game.</p><p>I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they\u2019re not. They have no control and often no payment for their work.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+      "summary": "<p>Jury finds former police officer guilty of killing couple in Baird\u2019s Sydney home in 2024</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon.</p><p>A New South Wales supreme court jury delivered its verdicts on Wednesday, finding Lamarre-Condon guilty of two counts of murder after two hours of deliberation.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "The Russian army\u2019s secret death toll \u2013 podcast",
+      "summary": "<p>Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions to <a href=\"mailto:tif.questions@theguardian.com\"><strong>tif.questions@theguardian.com</strong></a></p><p>Russia has kept the death toll of its soldiers in the Ukraine war a carefully guarded secret. Now documents leaked to the Guardian have <a href=\"https://www.theguardian.com/world/series/russias-war-dead\">revealed its true scale</a>. The Guardian\u2019s Russia affairs correspondent, <strong>Pjotr Sauer</strong>, tells <strong>Helen Pidd</strong> what reporters have discovered.</p><p>Two groups of hackers accessed Russia\u2019s main statistics database last month and discovered a cache of 11m death certificates that revealed nearly 500,000 Russian losses in Ukraine since 2022. Among these were 1,000 \u2013 the equivalent of a whole regiment \u2013 who took their own lives.</p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Pakistani astronaut launches into space aboard Chinese rocket",
+      "summary": "Pakistani astronaut Muhammad Zeeshan Ali has launched into space aboard a Chinese rocket.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+      "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia&#039;s safe departure to Spain as a &#039;free man&#039;.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "WHO chief urges end to US fuel blockade on Cuba",
+      "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Australia\u2019s security pact with Solomon Islands a blow to China\u2019s influence in the Pacific",
+      "summary": "<p>Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer \u2018a source of uncertainty and doubt in the region\u2019</p><p>The Solomon Islands prime minister says the days of his country being an uncertain partner <a href=\"https://www.theguardian.com/australia-news/2025/oct/02/australia-papua-new-guinea-pukpuk-mutual-defence-treaty-approval-new-alliance-png\">in the Pacific</a> are over as he signed a sweeping agreement to make Australia the primary security partner and limit ties with China.</p><p>Matthew Wale signed the new treaty with Australia\u2019s prime minister, Anthony Albanese, in Canberra on Wednesday after Solomon Islands earlier this week announced it was terminating a landmark security pact with Beijing.</p> <a href=\"https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Inflation rate jumps to 4.9% as Australia\u2019s cost-of-living crisis intensifies",
+      "summary": "<p>Figure up from 4.3% annual rate in September and nearly double Reserve Bank\u2019s official target of 2.5%</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb\">Follow our Australia politics live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Surging fuel costs and the end of electricity rebates have helped drive inflation to 4.9% in the year to October, from 4.3%, as cost-of-living pressures peak in the lead-up to Christmas.</p><p>Alongside a 6.3% increase in fuel costs last month, the latest figures from the Australian Bureau of Statistics showed electricity prices were 25% higher than a year earlier.</p> <a href=\"https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "summary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-25T14:21:41.072213+11:00",
+    "date": "2026-11-25",
+    "display_date": "Wednesday 25 November 2026",
+    "display_time": "02:21 PM AEST"
+  }
+}

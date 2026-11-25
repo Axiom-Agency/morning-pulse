@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7237.17,
-      "change": 326.78,
-      "change_pct": 4.73,
+      "price": 7201.09,
+      "change": -36.08,
+      "change_pct": -0.5,
       "trend_5d": "down"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 24089.56,
-      "change": 1471.83,
-      "change_pct": 6.51,
+      "price": 23733.54,
+      "change": -356.02,
+      "change_pct": -1.48,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 49595.31,
-      "change": 1447.98,
-      "change_pct": 3.01,
+      "price": 50018.7,
+      "change": 423.39,
+      "change_pct": 0.85,
       "trend_5d": "down"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 26.62,
-      "change": -9.27,
-      "change_pct": -25.83,
+      "price": 26.36,
+      "change": -0.26,
+      "change_pct": -0.98,
       "trend_5d": "up"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.92,
-      "change": 0.01,
-      "change_pct": 0.2,
+      "price": 4.9,
+      "change": -0.02,
+      "change_pct": -0.41,
       "trend_5d": "down"
     }
   ],
@@ -45,33 +45,33 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 58629.58,
-      "change": 2192.93,
-      "change_pct": 3.89,
+      "price": 56710.43,
+      "change": -1934.2,
+      "change_pct": -3.3,
       "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 22295.94,
-      "change": -87.8,
-      "change_pct": -0.39,
+      "price": 22335.03,
+      "change": 115.38,
+      "change_pct": 0.52,
       "trend_5d": "down"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3555.49,
-      "change": 16.54,
-      "change_pct": 0.47,
+      "price": 3509.86,
+      "change": -38.51,
+      "change_pct": -1.09,
       "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 5040.61,
-      "change": 332.07,
-      "change_pct": 7.05,
+      "price": 4700.75,
+      "change": -305.28,
+      "change_pct": -6.1,
       "trend_5d": "down"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 3628.3,
-      "change_pct": 3.21
+      "price": 3557.5,
+      "change_pct": -2.57
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 86.39,
-      "change_pct": -6.68
+      "price": 87.47,
+      "change_pct": -2.13
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 79.84,
-      "change_pct": -4.93
+      "price": 80.7,
+      "change_pct": 0.66
     }
   ],
   "asx200": {
-    "level": 8703.5,
-    "change_pct": 1.55
+    "level": 8683.9,
+    "change_pct": -0.49
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6626,
-      "change_pct": -0.224
+      "current_rate": 0.6618,
+      "change_pct": -0.1747
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5449,
-      "change_pct": -0.4969
+      "current_rate": 0.547,
+      "change_pct": 0.366
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2158,
-      "change_pct": 0.254
+      "current_rate": 1.2096,
+      "change_pct": -0.5541
     }
   ],
   "world_news": [
     {
-      "headline": "Australian politics live: Government lacks \u2018moral authority\u2019 on decarbonisation, Monique Ryan says; Labor MP kicked out of question time",
-      "summary": "<ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The government will save more than it spends, says <strong>Jim Chalmers</strong>, but it won\u2019t be a \u201cslash and burn\u201d budget update.</p><p>Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo).</p><p>There\u2019s still a fair bit of work to do to finalise it all, but we\u2019ve made enough progress to be confident that at this stage there will be a modest net save in the budget.</p><p>We\u2019re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven\u2019t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times.</p><p>You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it\u2019s a bit of a symbol of the quite extraordinary volatility, unpredictability that we\u2019re seeing play out in markets in the AI sector, but more broadly as well.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb\">Continue reading...</a>",
+      "headline": "Politics live: Chalmers says economy faces \u2018serious moment\u2019 amid inflation; NSW \u2018scaling up\u2019 response after fire ants found in Sydney",
+      "summary": "<ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Wells says AI investment and creative protections not a \u2018zero-sum game\u2019</strong></p><p>Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, <strong>Anika Wells</strong> says it\u2019s not a \u2018zero-sum\u2019 game.</p><p>I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they\u2019re not. They have no control and often no payment for their work.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,8 @@
       ]
     },
     {
-      "headline": "South Korea tells island residents to take shelter after Russian military aircraft approach",
-      "summary": "<p>The order was issued after aircraft entered the country\u2019s air defence identification zone over the island of Ulleungdo</p><p>Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airspace, prompting a pre-emptive alert from the military that anticipated a violation.</p><p>The defence ministry said it would summon the Russian defence attach\u00e9 on Tuesday afternoon to lodge a strong protest.</p> <a href=\"https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach\">Continue reading...</a>",
+      "headline": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+      "summary": "<p>Jury finds former police officer guilty of killing couple in Baird\u2019s Sydney home in 2024</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon.</p><p>A New South Wales supreme court jury delivered its verdicts on Wednesday, finding Lamarre-Condon guilty of two counts of murder after two hours of deliberation.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,8 +143,8 @@
       ]
     },
     {
-      "headline": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
-      "summary": "<p>Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb\">Follow our Australia politics live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Big tech companies may face \u201cmultibillion-dollar\u201d fines and individuals could sue social media companies in court under <a href=\"https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics\">Australia\u2019s new digital duty of care</a> laws, with the Greens to support the bill\u2019s passage after extracting major amendments from Labor.</p><p>From late 2027, Australians will also be able opt out of addictive online algorithms under the new legislation, while <a href=\"https://www.theguardian.com/australia-news/2026/sep/09/labor-australians-opt-out-online-algorithms-how-change-feed#:~:text=A%20few%20features%20will%20be%20classified%20as%20having%20%E2%80%9Cnegative%20behavioural%20impacts%E2%80%9D%3A%20endless%20scroll\">the \u201cendless scroll\u201d of social media feeds</a> may also cease.</p> <a href=\"https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws\">Continue reading...</a>",
+      "headline": "The Russian army\u2019s secret death toll \u2013 podcast",
+      "summary": "<p>Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions to <a href=\"mailto:tif.questions@theguardian.com\"><strong>tif.questions@theguardian.com</strong></a></p><p>Russia has kept the death toll of its soldiers in the Ukraine war a carefully guarded secret. Now documents leaked to the Guardian have <a href=\"https://www.theguardian.com/world/series/russias-war-dead\">revealed its true scale</a>. The Guardian\u2019s Russia affairs correspondent, <strong>Pjotr Sauer</strong>, tells <strong>Helen Pidd</strong> what reporters have discovered.</p><p>Two groups of hackers accessed Russia\u2019s main statistics database last month and discovered a cache of 11m death certificates that revealed nearly 500,000 Russian losses in Ukraine since 2022. Among these were 1,000 \u2013 the equivalent of a whole regiment \u2013 who took their own lives.</p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -154,80 +154,80 @@
       ]
     },
     {
-      "headline": "Munster calls Storm contract offer 'disappointing'",
-      "summary": "Melbourne's fight to keep Cameron Munster and Harry Grant has been made harder after the former rejected the club's latest offer.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Mexico to try \u2018El Chapo Isidro\u2019 despite US extradition request",
-      "summary": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "China sentences official to death for spying for foreign country",
-      "summary": "<p>Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says</p><p>A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said.</p><p>Gold Wall Press, a publishing company associated with China\u2019s national administration of state secrets protection, said the convicted person was surnamed Ma and was approached and recruited by an unnamed foreign intelligence service while working abroad.</p> <a href=\"https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Excavator threatens sacred alpine lake in the Himalayas",
-      "summary": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "UN chief calls for world to agree on AI oversight within a year",
-      "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Why there's no time to waste for Matildas ahead of World Cup",
-      "summary": "With Mary Fowler and Kyra Cooney-Cross returning to the squad, Matildas skipper Sam Kerr says it is time for the side to crack the whip ahead of next year's World Cup.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
-      ]
-    },
-    {
-      "headline": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "headline": "Pakistani astronaut launches into space aboard Chinese rocket",
+      "summary": "Pakistani astronaut Muhammad Zeeshan Ali has launched into space aboard a Chinese rocket.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+      "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia&#039;s safe departure to Spain as a &#039;free man&#039;.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "WHO chief urges end to US fuel blockade on Cuba",
+      "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Australia\u2019s security pact with Solomon Islands a blow to China\u2019s influence in the Pacific",
+      "summary": "<p>Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer \u2018a source of uncertainty and doubt in the region\u2019</p><p>The Solomon Islands prime minister says the days of his country being an uncertain partner <a href=\"https://www.theguardian.com/australia-news/2025/oct/02/australia-papua-new-guinea-pukpuk-mutual-defence-treaty-approval-new-alliance-png\">in the Pacific</a> are over as he signed a sweeping agreement to make Australia the primary security partner and limit ties with China.</p><p>Matthew Wale signed the new treaty with Australia\u2019s prime minister, Anthony Albanese, in Canberra on Wednesday after Solomon Islands earlier this week announced it was terminating a landmark security pact with Beijing.</p> <a href=\"https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Inflation rate jumps to 4.9% as Australia\u2019s cost-of-living crisis intensifies",
+      "summary": "<p>Figure up from 4.3% annual rate in September and nearly double Reserve Bank\u2019s official target of 2.5%</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb\">Follow our Australia politics live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Surging fuel costs and the end of electricity rebates have helped drive inflation to 4.9% in the year to October, from 4.3%, as cost-of-living pressures peak in the lead-up to Christmas.</p><p>Alongside a 6.3% increase in fuel costs last month, the latest figures from the Australian Bureau of Statistics showed electricity prices were 25% higher than a year earlier.</p> <a href=\"https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "summary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-11-24T15:35:17.199755+11:00",
-    "date": "2026-11-24",
-    "display_date": "Tuesday 24 November 2026",
-    "display_time": "03:35 PM AEST"
+    "generated_at": "2026-11-25T14:21:41.072213+11:00",
+    "date": "2026-11-25",
+    "display_date": "Wednesday 25 November 2026",
+    "display_time": "02:21 PM AEST"
   }
 }
