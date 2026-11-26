@@ -3,41 +3,41 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7201.09,
-      "change": -36.08,
-      "change_pct": -0.5,
-      "trend_5d": "down"
+      "price": 7182.78,
+      "change": -18.31,
+      "change_pct": -0.25,
+      "trend_5d": "flat"
     },
     {
       "ticker": "^IXIC",
       "name": "NASDAQ",
-      "price": 23733.54,
-      "change": -356.02,
-      "change_pct": -1.48,
+      "price": 23585.8,
+      "change": -147.74,
+      "change_pct": -0.62,
       "trend_5d": "down"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 50018.7,
-      "change": 423.39,
-      "change_pct": 0.85,
-      "trend_5d": "down"
+      "price": 50182.95,
+      "change": 164.25,
+      "change_pct": 0.33,
+      "trend_5d": "up"
     },
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 26.36,
-      "change": -0.26,
-      "change_pct": -0.98,
-      "trend_5d": "up"
+      "price": 28.29,
+      "change": 1.93,
+      "change_pct": 7.32,
+      "trend_5d": "down"
     },
     {
       "ticker": "^TNX",
       "name": "US 10yr Yield",
-      "price": 4.9,
-      "change": -0.02,
-      "change_pct": -0.41,
+      "price": 4.85,
+      "change": -0.05,
+      "change_pct": -1.02,
       "trend_5d": "down"
     }
   ],
@@ -45,33 +45,33 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 56710.43,
-      "change": -1934.2,
-      "change_pct": -3.3,
+      "price": 57957.86,
+      "change": 946.24,
+      "change_pct": 1.66,
       "trend_5d": "down"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 22335.03,
-      "change": 115.38,
-      "change_pct": 0.52,
-      "trend_5d": "down"
+      "price": 22406.16,
+      "change": 440.15,
+      "change_pct": 2.0,
+      "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3509.86,
-      "change": -38.51,
-      "change_pct": -1.09,
+      "price": 3494.04,
+      "change": 17.57,
+      "change_pct": 0.51,
       "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 4700.75,
-      "change": -305.28,
-      "change_pct": -6.1,
+      "price": 4754.15,
+      "change": 56.64,
+      "change_pct": 1.21,
       "trend_5d": "down"
     }
   ],
@@ -79,50 +79,50 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 3557.5,
-      "change_pct": -2.57
+      "price": 3607.4,
+      "change_pct": 1.28
     },
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 87.47,
-      "change_pct": -2.13
+      "price": 90.62,
+      "change_pct": -0.85
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 80.7,
-      "change_pct": 0.66
+      "price": 83.85,
+      "change_pct": 2.19
     }
   ],
   "asx200": {
-    "level": 8683.9,
-    "change_pct": -0.49
+    "level": 8764.3,
+    "change_pct": 0.83
   },
   "fx": [
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6618,
-      "change_pct": -0.1747
+      "current_rate": 0.6645,
+      "change_pct": 0.1721
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.547,
-      "change_pct": 0.366
+      "current_rate": 0.5488,
+      "change_pct": 0.1965
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2096,
-      "change_pct": -0.5541
+      "current_rate": 1.2106,
+      "change_pct": -0.0413
     }
   ],
   "world_news": [
     {
-      "headline": "Politics live: Chalmers says economy faces \u2018serious moment\u2019 amid inflation; NSW \u2018scaling up\u2019 response after fire ants found in Sydney",
-      "summary": "<ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Wells says AI investment and creative protections not a \u2018zero-sum game\u2019</strong></p><p>Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, <strong>Anika Wells</strong> says it\u2019s not a \u2018zero-sum\u2019 game.</p><p>I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they\u2019re not. They have no control and often no payment for their work.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb\">Continue reading...</a>",
+      "headline": "Australian politics live: Blyth did not \u2018feel safe\u2019 in the Liberal party before One Nation defection; \u2018coal must be replaced\u2019, Bowen says",
+      "summary": "<ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Pauline Hanson</strong> has released a statement this morning <a href=\"https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb\">welcoming South Australian senator </a><strong><a href=\"https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb\">Leah Blyth</a></strong><a href=\"https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb\"> to her party</a>.</p><p>Blyth is the second high-profile federal defection from the Coalition to One Nation \u2013 after <strong>Barnaby Joyce</strong>.</p><p>Senator Blyth will be One Nation\u2019s first South Australian Senator and will build on One Nation\u2019s expanding support within the state.</p><p>My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation.</p><p>We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They\u2019re all anti-worker, they\u2019re all extreme \u2026 this demonstrates, I think, more disunity in the Liberal party under <strong>Angus Taylor</strong>.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -132,8 +132,30 @@
       ]
     },
     {
-      "headline": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-      "summary": "<p>Jury finds former police officer guilty of killing couple in Baird\u2019s Sydney home in 2024</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon.</p><p>A New South Wales supreme court jury delivered its verdicts on Wednesday, finding Lamarre-Condon guilty of two counts of murder after two hours of deliberation.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb\">Continue reading...</a>",
+      "headline": "David Warner takes aim at 'bullying' journalists",
+      "summary": "David Warner has delivered further barbs on social media amid the sandpaper scandal, accusing journalists of perpetuating speculation instead of finding facts.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+      "summary": "North Korean leader warns attempts to deny country&#039;s nuclear status will be seen as &quot;an open declaration of war&quot;.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Out-of-control bushfire with flames 10-metres high destroys at least six homes on Flinders Island",
+      "summary": "<p>Fire making a \u2018significant run\u2019 towards the south-west of Flinders Island on Thursday, Tasmania Fire Service says</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Residents in the north of Flinders Island in Tasmania have been told to take shelter, as an out-of-control bushfire destroys homes and sends smoke hundreds of kilometres south.</p><p>By Thursday midday, the uncontrolled fire involving 10-metre high flames had burned through 14,500 hectares \u2013 about 10% of the island \u2013 with at least six properties damaged or destroyed and authorities warning more were at risk.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -143,19 +165,52 @@
       ]
     },
     {
-      "headline": "The Russian army\u2019s secret death toll \u2013 podcast",
-      "summary": "<p>Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions to <a href=\"mailto:tif.questions@theguardian.com\"><strong>tif.questions@theguardian.com</strong></a></p><p>Russia has kept the death toll of its soldiers in the Ukraine war a carefully guarded secret. Now documents leaked to the Guardian have <a href=\"https://www.theguardian.com/world/series/russias-war-dead\">revealed its true scale</a>. The Guardian\u2019s Russia affairs correspondent, <strong>Pjotr Sauer</strong>, tells <strong>Helen Pidd</strong> what reporters have discovered.</p><p>Two groups of hackers accessed Russia\u2019s main statistics database last month and discovered a cache of 11m death certificates that revealed nearly 500,000 Russian losses in Ukraine since 2022. Among these were 1,000 \u2013 the equivalent of a whole regiment \u2013 who took their own lives.</p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast\">Continue reading...</a>",
+      "headline": "Photos: Storms and an El Nino-charged king tide batter California\u2019s coast",
+      "summary": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "The Guardian"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
+      "headline": "Ukraine attacks Russian military base, says five planes struck",
+      "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "ICE officers smash car window, pepper spray bystanders",
+      "summary": "Masked ICE agents smashed a car window and forcibly opened its door to arrest a man in California.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "North star's path from family tragedy to a fourth AFLW flag tilt",
+      "summary": "Jenna Bruton and her Kangaroos will be aiming for a third straight premiership on Friday night.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "California warns of flooding as king tides peak over Thanksgiving",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -165,69 +220,14 @@
       ]
     },
     {
-      "headline": "Pakistani astronaut launches into space aboard Chinese rocket",
-      "summary": "Pakistani astronaut Muhammad Zeeshan Ali has launched into space aboard a Chinese rocket.",
+      "headline": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
-      "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia&#039;s safe departure to Spain as a &#039;free man&#039;.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "WHO chief urges end to US fuel blockade on Cuba",
-      "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "headline": "Australia\u2019s security pact with Solomon Islands a blow to China\u2019s influence in the Pacific",
-      "summary": "<p>Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer \u2018a source of uncertainty and doubt in the region\u2019</p><p>The Solomon Islands prime minister says the days of his country being an uncertain partner <a href=\"https://www.theguardian.com/australia-news/2025/oct/02/australia-papua-new-guinea-pukpuk-mutual-defence-treaty-approval-new-alliance-png\">in the Pacific</a> are over as he signed a sweeping agreement to make Australia the primary security partner and limit ties with China.</p><p>Matthew Wale signed the new treaty with Australia\u2019s prime minister, Anthony Albanese, in Canberra on Wednesday after Solomon Islands earlier this week announced it was terminating a landmark security pact with Beijing.</p> <a href=\"https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Inflation rate jumps to 4.9% as Australia\u2019s cost-of-living crisis intensifies",
-      "summary": "<p>Figure up from 4.3% annual rate in September and nearly double Reserve Bank\u2019s official target of 2.5%</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb\">Follow our Australia politics live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Surging fuel costs and the end of electricity rebates have helped drive inflation to 4.9% in the year to October, from 4.3%, as cost-of-living pressures peak in the lead-up to Christmas.</p><p>Alongside a 6.3% increase in fuel costs last month, the latest figures from the Australian Bureau of Statistics showed electricity prices were 25% higher than a year earlier.</p> <a href=\"https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "Senegal fans celebrate AFCON legal victory over Morocco",
-      "summary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "Al Jazeera"
+        "BBC World"
       ]
     }
   ],
@@ -237,9 +237,9 @@
   },
   "meta": {
     "briefing_type": "7am",
-    "generated_at": "2026-11-25T14:21:41.072213+11:00",
-    "date": "2026-11-25",
-    "display_date": "Wednesday 25 November 2026",
-    "display_time": "02:21 PM AEST"
+    "generated_at": "2026-11-26T13:37:37.954256+11:00",
+    "date": "2026-11-26",
+    "display_date": "Thursday 26 November 2026",
+    "display_time": "01:37 PM AEST"
   }
 }

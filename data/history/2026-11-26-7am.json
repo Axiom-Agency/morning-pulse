@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7182.78,
+      "change": -18.31,
+      "change_pct": -0.25,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 23585.8,
+      "change": -147.74,
+      "change_pct": -0.62,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 50182.95,
+      "change": 164.25,
+      "change_pct": 0.33,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 28.29,
+      "change": 1.93,
+      "change_pct": 7.32,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.85,
+      "change": -0.05,
+      "change_pct": -1.02,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 57957.86,
+      "change": 946.24,
+      "change_pct": 1.66,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 22406.16,
+      "change": 440.15,
+      "change_pct": 2.0,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3494.04,
+      "change": 17.57,
+      "change_pct": 0.51,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 4754.15,
+      "change": 56.64,
+      "change_pct": 1.21,
+      "trend_5d": "down"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 3607.4,
+      "change_pct": 1.28
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 90.62,
+      "change_pct": -0.85
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 83.85,
+      "change_pct": 2.19
+    }
+  ],
+  "asx200": {
+    "level": 8764.3,
+    "change_pct": 0.83
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6645,
+      "change_pct": 0.1721
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5488,
+      "change_pct": 0.1965
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2106,
+      "change_pct": -0.0413
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "Australian politics live: Blyth did not \u2018feel safe\u2019 in the Liberal party before One Nation defection; \u2018coal must be replaced\u2019, Bowen says",
+      "summary": "<ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Pauline Hanson</strong> has released a statement this morning <a href=\"https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb\">welcoming South Australian senator </a><strong><a href=\"https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb\">Leah Blyth</a></strong><a href=\"https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb\"> to her party</a>.</p><p>Blyth is the second high-profile federal defection from the Coalition to One Nation \u2013 after <strong>Barnaby Joyce</strong>.</p><p>Senator Blyth will be One Nation\u2019s first South Australian Senator and will build on One Nation\u2019s expanding support within the state.</p><p>My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation.</p><p>We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They\u2019re all anti-worker, they\u2019re all extreme \u2026 this demonstrates, I think, more disunity in the Liberal party under <strong>Angus Taylor</strong>.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "David Warner takes aim at 'bullying' journalists",
+      "summary": "David Warner has delivered further barbs on social media amid the sandpaper scandal, accusing journalists of perpetuating speculation instead of finding facts.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+      "summary": "North Korean leader warns attempts to deny country&#039;s nuclear status will be seen as &quot;an open declaration of war&quot;.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Out-of-control bushfire with flames 10-metres high destroys at least six homes on Flinders Island",
+      "summary": "<p>Fire making a \u2018significant run\u2019 towards the south-west of Flinders Island on Thursday, Tasmania Fire Service says</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Residents in the north of Flinders Island in Tasmania have been told to take shelter, as an out-of-control bushfire destroys homes and sends smoke hundreds of kilometres south.</p><p>By Thursday midday, the uncontrolled fire involving 10-metre high flames had burned through 14,500 hectares \u2013 about 10% of the island \u2013 with at least six properties damaged or destroyed and authorities warning more were at risk.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Photos: Storms and an El Nino-charged king tide batter California\u2019s coast",
+      "summary": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Ukraine attacks Russian military base, says five planes struck",
+      "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "ICE officers smash car window, pepper spray bystanders",
+      "summary": "Masked ICE agents smashed a car window and forcibly opened its door to arrest a man in California.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "North star's path from family tragedy to a fourth AFLW flag tilt",
+      "summary": "Jenna Bruton and her Kangaroos will be aiming for a third straight premiership on Friday night.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "ABC Australia"
+      ]
+    },
+    {
+      "headline": "California warns of flooding as king tides peak over Thanksgiving",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-26T13:37:37.954256+11:00",
+    "date": "2026-11-26",
+    "display_date": "Thursday 26 November 2026",
+    "display_time": "01:37 PM AEST"
+  }
+}
