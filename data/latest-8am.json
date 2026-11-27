@@ -27,9 +27,9 @@
     {
       "ticker": "^VIX",
       "name": "VIX",
-      "price": 28.29,
-      "change": 1.93,
-      "change_pct": 7.32,
+      "price": 26.8,
+      "change": -1.49,
+      "change_pct": -5.27,
       "trend_5d": "down"
     },
     {
@@ -45,34 +45,34 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 57886.95,
-      "change": 875.33,
-      "change_pct": 1.54,
-      "trend_5d": "down"
+      "price": 58172.04,
+      "change": 672.88,
+      "change_pct": 1.17,
+      "trend_5d": "up"
     },
     {
       "ticker": "^HSI",
       "name": "Hang Seng",
-      "price": 22441.84,
-      "change": 475.83,
-      "change_pct": 2.17,
+      "price": 22365.32,
+      "change": 138.44,
+      "change_pct": 0.62,
       "trend_5d": "flat"
     },
     {
       "ticker": "000001.SS",
       "name": "Shanghai Composite",
-      "price": 3486.97,
-      "change": 10.5,
-      "change_pct": 0.3,
+      "price": 3484.27,
+      "change": 7.39,
+      "change_pct": 0.21,
       "trend_5d": "down"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "price": 4722.84,
-      "change": 25.33,
-      "change_pct": 0.54,
-      "trend_5d": "down"
+      "price": 4856.15,
+      "change": 144.94,
+      "change_pct": 3.08,
+      "trend_5d": "up"
     }
   ],
   "crypto": [
@@ -80,14 +80,10 @@
       "coin_id": "bitcoin",
       "name": "Bitcoin",
       "symbol": "BTC",
-      "current_price": 91510,
-      "change_24h_pct": 1.79,
-      "yoy_change_pct": -33.82,
+      "current_price": 92323,
+      "change_24h_pct": 1.06,
+      "yoy_change_pct": -33.6,
       "history": [
-        {
-          "date": "2025-11-27",
-          "price": 138508.58
-        },
         {
           "date": "2025-11-28",
           "price": 139702.59
@@ -806,7 +802,7 @@
         },
         {
           "date": "2026-05-26",
-          "price": 107780.33
+          "price": 107490.41
         },
         {
           "date": "2026-05-27",
@@ -814,7 +810,7 @@
         },
         {
           "date": "2026-05-28",
-          "price": 104226.3
+          "price": 104221.91
         },
         {
           "date": "2026-05-29",
@@ -1545,8 +1541,12 @@
           "price": 91108.82
         },
         {
-          "date": "2026-11-26",
-          "price": 91666.49
+          "date": "2026-11-27",
+          "price": 91187.41
+        },
+        {
+          "date": "2026-11-27",
+          "price": 92758.14
         }
       ]
     },
@@ -1554,14 +1554,10 @@
       "coin_id": "ethereum",
       "name": "Ethereum",
       "symbol": "ETH",
-      "current_price": 2555.94,
-      "change_24h_pct": 1.6,
-      "yoy_change_pct": -44.72,
+      "current_price": 2593.29,
+      "change_24h_pct": 1.64,
+      "yoy_change_pct": -43.5,
       "history": [
-        {
-          "date": "2025-11-27",
-          "price": 4631.07
-        },
         {
           "date": "2025-11-28",
           "price": 4611.93
@@ -2280,15 +2276,15 @@
         },
         {
           "date": "2026-05-26",
-          "price": 2944.41
+          "price": 2944.5
         },
         {
           "date": "2026-05-27",
-          "price": 2890.08
+          "price": 2890.2
         },
         {
           "date": "2026-05-28",
-          "price": 2835.56
+          "price": 2835.87
         },
         {
           "date": "2026-05-29",
@@ -3019,8 +3015,12 @@
           "price": 2551.11
         },
         {
-          "date": "2026-11-26",
-          "price": 2560.2
+          "date": "2026-11-27",
+          "price": 2543.65
+        },
+        {
+          "date": "2026-11-27",
+          "price": 2605.63
         }
       ]
     }
@@ -3029,14 +3029,10 @@
     {
       "ticker": "AUDUSD=X",
       "name": "AUD/USD",
-      "current_rate": 0.6641,
-      "change_pct": 0.1056,
-      "yoy_change_pct": 2.64,
+      "current_rate": 0.6664,
+      "change_pct": 0.5514,
+      "yoy_change_pct": 2.14,
       "history": [
-        {
-          "date": "2025-11-26",
-          "rate": 0.647
-        },
         {
           "date": "2025-11-27",
           "rate": 0.6525
@@ -4071,21 +4067,21 @@
         },
         {
           "date": "2026-11-26",
-          "rate": 0.6641
+          "rate": 0.6628
+        },
+        {
+          "date": "2026-11-27",
+          "rate": 0.6664
         }
       ]
     },
     {
       "ticker": "NZDUSD=X",
       "name": "NZD/USD",
-      "current_rate": 0.5486,
-      "change_pct": 0.1525,
-      "yoy_change_pct": -2.47,
+      "current_rate": 0.5494,
+      "change_pct": 0.1472,
+      "yoy_change_pct": -3.74,
       "history": [
-        {
-          "date": "2025-11-26",
-          "rate": 0.5624
-        },
         {
           "date": "2025-11-27",
           "rate": 0.5707
@@ -5121,20 +5117,20 @@
         {
           "date": "2026-11-26",
           "rate": 0.5486
+        },
+        {
+          "date": "2026-11-27",
+          "rate": 0.5494
         }
       ]
     },
     {
       "ticker": "AUDNZD=X",
       "name": "AUD/NZD",
-      "current_rate": 1.2104,
-      "change_pct": -0.0627,
-      "yoy_change_pct": 5.22,
+      "current_rate": 1.2127,
+      "change_pct": 0.3691,
+      "yoy_change_pct": 6.05,
       "history": [
-        {
-          "date": "2025-11-26",
-          "rate": 1.1503
-        },
         {
           "date": "2025-11-27",
           "rate": 1.1435
@@ -6169,26 +6165,19 @@
         },
         {
           "date": "2026-11-26",
-          "rate": 1.2104
+          "rate": 1.2083
+        },
+        {
+          "date": "2026-11-27",
+          "rate": 1.2127
         }
       ]
     }
   ],
   "world_news": [
     {
-      "headline": "Australian politics live: Liberals \u2018tossing up whether to leave or remain\u2019, Albanese says; Coalition warns energy prices to cause Christmas \u2018pain\u2019",
-      "summary": "<ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Pauline Hanson</strong> has released a statement this morning <a href=\"https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb\">welcoming South Australian senator </a><strong><a href=\"https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb\">Leah Blyth</a></strong><a href=\"https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb\"> to her party</a>.</p><p>Blyth is the second high-profile federal defection from the Coalition to One Nation \u2013 after <strong>Barnaby Joyce</strong>.</p><p>Senator Blyth will be One Nation\u2019s first South Australian Senator and will build on One Nation\u2019s expanding support within the state.</p><p>My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation.</p><p>We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They\u2019re all anti-worker, they\u2019re all extreme \u2026 this demonstrates, I think, more disunity in the Liberal party under <strong>Angus Taylor</strong>.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "US announces new tariffs on host of countries including China",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "headline": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6198,8 +6187,8 @@
       ]
     },
     {
-      "headline": "FIFA turns to influencers to promote U17 World Cup",
-      "summary": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
+      "headline": "Spain and Morocco under-17 stars target World Cup 2030",
+      "summary": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6209,8 +6198,8 @@
       ]
     },
     {
-      "headline": "Spain\u2019s election: the end of a leftwing icon? - podcast",
-      "summary": "<p>Madrid correspondent <strong>Sam Jones </strong>and European community affairs correspondent <strong>Ashifa Kassam </strong>report on a pivotal election in Spain this weekend, which could see longtime PM Pedro S\u00e1nchez replaced by a conservative coalition including the far right</p><p>He has become an icon of the European left. A great political survivor, Spain\u2019s Pedro S\u00e1nchez has been in power for eight years while \u2013 across the continent \u2013 the right has been on the march.</p><p>The Socialist party leader has championed immigration, stood up to Donald Trump and been a notable voice for Palestinians in Gaza.</p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast\">Continue reading...</a>",
+      "headline": "New Zealand election: final results show ruling coalition needs minor party to govern",
+      "summary": "<p>Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election</p><p>The final results of New Zealand\u2019s general election show the incumbent rightwing coalition will need the support of a centrist newcomer party to form a government, and to avoid sending the country back to the polls.</p><p><a href=\"https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count\">Preliminary results</a> on 7 November handed the National party and its two coalition partners, the populist New Zealand First and libertarian Act parties, a slim two-seat majority, <a href=\"https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand\">making the election too close to call</a> until final votes were tallied.</p> <a href=\"https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6220,8 +6209,8 @@
       ]
     },
     {
-      "headline": "NRL scraps All Stars game for 2027 preseason",
-      "summary": "The NRL will not launch the 2027 season with the All Stars match, but the game could still be played if room can be found in rugby league's increasingly congested calendar.",
+      "headline": "Lyon's career in limbo as he faces Test axe",
+      "summary": "Nathan Lyon's long Test career is at the crossroads, with the spinner set to miss selection for the four-match series against New Zealand.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6231,19 +6220,52 @@
       ]
     },
     {
-      "headline": "Kurtley Beale back in Wallabies team for first time in five years",
-      "summary": "The return of Kurtley Beale to the Wallabies team for cap number 96 after a five-year absence is a reward for his continuing excellence, coach Les Kiss insists.",
+      "headline": "Zelenskyy warns of major Russian attack as Trump urges Putin to \u2018pull back\u2019",
+      "summary": "Trump says he urged Putin to &#039;pull back&#039; military aggression in Europe amid escalating Russian and Ukrainian attacks.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
-        "ABC Australia"
+        "Al Jazeera"
       ]
     },
     {
-      "headline": "Coalition would privatise Melbourne\u2019s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
-      "summary": "<p>Liberal and Nationals\u2019 pre-election policy costings also reveal that \u2018air rights\u2019 between Richmond train station and the MCG would be sold</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb\">Follow our Australia politics live blog for latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/nov/25/victorian-election-2026-when-is-it-how-to-vote-date-where-victoria-state-polls-candidates-voting-near-count-ntwnfb\">Victorian election 2026 guide: what you need to know</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/nov/25/victoria-election-2026-who-to-vote-for-should-policies-summary-state-victorian-vic-labor-liberal-greens-one-nation-ntwnfb\">Confused about who to vote for? Check the parties\u2019 key promises and policies</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Victorian Coalition government would privatise two sewage plants and sell off state-owned land, renewable energy assets and the \u201cair rights\u201d between Richmond train station and the Melbourne Cricket Ground if elected.</p><p>The opposition leader, Jess Wilson, announced a $14.47bn \u201casset recycling\u201d plan as part of the Liberal and National parties\u2019 pre-election policy costings on Thursday.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia\u2019s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy\">Continue reading...</a>",
+      "headline": "Trump says the US has \u2018close to 50%\u2019 of world\u2019s oil",
+      "summary": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not \u2018need Middle East oil&#039;.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Clashes halt match as Turkiye football fans raise Palestinian flags",
+      "summary": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "summary": "France&#039;s cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Threat from China looms large over Taiwan\u2019s local elections",
+      "summary": "<p>Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party</p><p>Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage.</p><p>Saturday\u2019s vote will choose mayors, council members and other local leaders across 22 districts. Unlike the presidential elections, in which foreign policy is often a key issue, the local elections, held <a href=\"https://www.theguardian.com/world/2022/oct/10/taiwan-president-calls-for-unity-to-tackle-chinese-disinformation-ahead-of-elections\">every four years</a>, are largely focused on bread-and-butter issues such as housing affordability and wealth distribution.</p> <a href=\"https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections\">Continue reading...</a>",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
@@ -6253,36 +6275,14 @@
       ]
     },
     {
-      "headline": "Australia projected to completely miss 2035 emissions target without new climate policies",
-      "summary": "<p>New official projections show country nearly on track for 2030 goal but Chris Bowen warns of \u2018undeniable headwinds\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton\u2019s free Clear Air newsletter here</a></p></li></ul><p>Australia is nearly on track to reach its 2030 emissions reduction target but will fall massively short of a 2035 target unless the federal government substantially ramps up its climate policies, according to new official projections.</p><p>Under existing policies, the country is on track by 2035 to cut climate pollution by only 48% compared with 2005 levels \u2013 far below its target reduction of between 62% and 70% by that date, climate department projections suggest.</p><p><strong><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=copyembed\">Sign up to get climate and environment editor Adam Morton\u2019s Clear Air column as a free newsletter</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies\">Continue reading...</a>",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "The Guardian"
-      ]
-    },
-    {
-      "headline": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
-      "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
+      "headline": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
       "severity": "medium",
       "region": "Global",
       "aus_impact": false,
       "aus_impact_note": "",
       "sources": [
         "BBC World"
-      ]
-    },
-    {
-      "headline": "David Warner takes aim at 'bullying' journalists",
-      "summary": "David Warner has delivered further barbs on social media amid the sandpaper scandal, accusing journalists of perpetuating speculation instead of finding facts.",
-      "severity": "medium",
-      "region": "Global",
-      "aus_impact": false,
-      "aus_impact_note": "",
-      "sources": [
-        "ABC Australia"
       ]
     }
   ],
@@ -6293,174 +6293,174 @@
   "asx_deep_dive": {
     "overview": "AI synthesis unavailable. Showing raw data.",
     "asx200": {
-      "level": 8774.6,
-      "change_pct": 0.95
+      "level": 8823.7,
+      "change_pct": 0.68
     },
     "sectors": [
       {
         "name": "Mining & Resources",
-        "change_pct": 3.38,
+        "change_pct": 2.49,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "BHP",
-            "name": "BHP.AX",
-            "price": 54.18,
-            "change_pct": 3.75,
+            "ticker": "S32",
+            "name": "S32.AX",
+            "price": 4.42,
+            "change_pct": 3.27,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "MIN",
+            "name": "MIN.AX",
+            "price": 40.2,
+            "change_pct": 2.97,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "RIO",
             "name": "RIO.AX",
-            "price": 140.1,
-            "change_pct": 3.75,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "S32",
-            "name": "S32.AX",
-            "price": 4.3,
-            "change_pct": 3.61,
+            "price": 142.93,
+            "change_pct": 2.25,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Banks & Financials",
-        "change_pct": 0.33,
+        "change_pct": -0.17,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "MQG",
             "name": "MQG.AX",
-            "price": 226.93,
-            "change_pct": 0.88,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "ANZ",
-            "name": "ANZ.AX",
-            "price": 38.78,
-            "change_pct": 0.54,
+            "price": 228.76,
+            "change_pct": 1.02,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "WBC",
             "name": "WBC.AX",
-            "price": 35.64,
-            "change_pct": 0.11,
+            "price": 35.46,
+            "change_pct": -0.73,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "CBA",
+            "name": "CBA.AX",
+            "price": 168.94,
+            "change_pct": -0.62,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Tech",
-        "change_pct": 0.47,
+        "change_pct": 2.67,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "WTC",
             "name": "WTC.AX",
-            "price": 46.47,
-            "change_pct": 2.56,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "REA",
-            "name": "REA.AX",
-            "price": 160.15,
-            "change_pct": -0.96,
+            "price": 54.14,
+            "change_pct": 15.66,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "TNE",
             "name": "TNE.AX",
-            "price": 32.68,
-            "change_pct": 0.72,
+            "price": 32.05,
+            "change_pct": -1.57,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "CPU",
+            "name": "CPU.AX",
+            "price": 46.82,
+            "change_pct": -1.51,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Healthcare",
-        "change_pct": -0.84,
+        "change_pct": 0.23,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "SHL",
-            "name": "SHL.AX",
-            "price": 21.7,
-            "change_pct": -1.32,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "PME",
             "name": "PME.AX",
-            "price": 200.43,
-            "change_pct": -1.12,
+            "price": 203.24,
+            "change_pct": 1.16,
             "explanation": "No AI analysis available"
           },
           {
-            "ticker": "COH",
-            "name": "COH.AX",
-            "price": 150.1,
-            "change_pct": -1.03,
+            "ticker": "RMD",
+            "name": "RMD.AX",
+            "price": 36.36,
+            "change_pct": 0.58,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "SHL",
+            "name": "SHL.AX",
+            "price": 21.6,
+            "change_pct": -0.55,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "Energy",
-        "change_pct": 1.47,
+        "change_pct": 0.83,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
             "ticker": "WDS",
             "name": "WDS.AX",
-            "price": 30.92,
-            "change_pct": 3.65,
+            "price": 31.39,
+            "change_pct": 1.92,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "STO",
             "name": "STO.AX",
-            "price": 8.61,
-            "change_pct": 2.01,
+            "price": 8.72,
+            "change_pct": 1.75,
             "explanation": "No AI analysis available"
           },
           {
             "ticker": "AGL",
             "name": "AGL.AX",
-            "price": 9.13,
-            "change_pct": 0.22,
+            "price": 9.1,
+            "change_pct": -0.33,
             "explanation": "No AI analysis available"
           }
         ]
       },
       {
         "name": "REITs / Property",
-        "change_pct": -0.09,
+        "change_pct": 0.27,
         "summary": "AI synthesis unavailable",
         "movers": [
           {
-            "ticker": "MGR",
-            "name": "MGR.AX",
-            "price": 1.9,
-            "change_pct": -1.04,
-            "explanation": "No AI analysis available"
-          },
-          {
-            "ticker": "CHC",
-            "name": "CHC.AX",
-            "price": 22.19,
-            "change_pct": 0.36,
-            "explanation": "No AI analysis available"
-          },
-          {
             "ticker": "GMG",
             "name": "GMG.AX",
-            "price": 28.2,
-            "change_pct": 0.21,
+            "price": 28.31,
+            "change_pct": 1.0,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "SCG",
+            "name": "SCG.AX",
+            "price": 3.62,
+            "change_pct": 0.56,
+            "explanation": "No AI analysis available"
+          },
+          {
+            "ticker": "GPT",
+            "name": "GPT.AX",
+            "price": 5.07,
+            "change_pct": -0.39,
             "explanation": "No AI analysis available"
           }
         ]
@@ -6471,10 +6471,10 @@
     {
       "ticker": "AMC",
       "name": "Amcor",
-      "price": 67.69,
-      "change_pct": 1.97,
+      "price": 68.07,
+      "change_pct": 0.84,
       "volume_vs_avg": 0.39,
-      "week52_high": 67.69,
+      "week52_high": 68.07,
       "week52_low": 49.12,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
@@ -6482,9 +6482,9 @@
     {
       "ticker": "IHVV",
       "name": "iShares S&P500 ETF",
-      "price": 63.2,
-      "change_pct": 1.17,
-      "volume_vs_avg": 0.92,
+      "price": 63.74,
+      "change_pct": 0.7,
+      "volume_vs_avg": 0.81,
       "week52_high": 68.68,
       "week52_low": 55.76,
       "news_digest": "AI synthesis unavailable",
@@ -6493,9 +6493,9 @@
     {
       "ticker": "JHX",
       "name": "James Hardie",
-      "price": 42.92,
-      "change_pct": 2.19,
-      "volume_vs_avg": 0.48,
+      "price": 43.1,
+      "change_pct": 1.29,
+      "volume_vs_avg": 0.22,
       "week52_high": 43.85,
       "week52_low": 26.02,
       "news_digest": "AI synthesis unavailable",
@@ -6504,9 +6504,9 @@
     {
       "ticker": "LTR",
       "name": "Liontown Resources",
-      "price": 0.54,
-      "change_pct": 1.89,
-      "volume_vs_avg": 0.54,
+      "price": 0.57,
+      "change_pct": 6.54,
+      "volume_vs_avg": 0.52,
       "week52_high": 2.64,
       "week52_low": 0.53,
       "news_digest": "AI synthesis unavailable",
@@ -6515,9 +6515,9 @@
     {
       "ticker": "MQG",
       "name": "Macquarie Group",
-      "price": 227.17,
-      "change_pct": 0.99,
-      "volume_vs_avg": 0.56,
+      "price": 228.96,
+      "change_pct": 1.11,
+      "volume_vs_avg": 0.46,
       "week52_high": 263.8,
       "week52_low": 185.79,
       "news_digest": "AI synthesis unavailable",
@@ -6526,9 +6526,9 @@
     {
       "ticker": "NIC",
       "name": "Nickel Industries",
-      "price": 0.56,
-      "change_pct": 0.9,
-      "volume_vs_avg": 0.3,
+      "price": 0.58,
+      "change_pct": 2.65,
+      "volume_vs_avg": 0.48,
       "week52_high": 1.1,
       "week52_low": 0.56,
       "news_digest": "AI synthesis unavailable",
@@ -6537,8 +6537,8 @@
     {
       "ticker": "PLS",
       "name": "Pilbara Minerals",
-      "price": 2.59,
-      "change_pct": 1.17,
+      "price": 2.67,
+      "change_pct": 2.69,
       "volume_vs_avg": 0.54,
       "week52_high": 6.68,
       "week52_low": 2.56,
@@ -6548,8 +6548,8 @@
     {
       "ticker": "QRE",
       "name": "Qualitas Real Estate",
-      "price": 9.05,
-      "change_pct": 3.43,
+      "price": 9.25,
+      "change_pct": 1.98,
       "volume_vs_avg": 0.21,
       "week52_high": 11.04,
       "week52_low": 8.14,
@@ -6559,9 +6559,9 @@
     {
       "ticker": "TLS",
       "name": "Telstra",
-      "price": 5.22,
+      "price": 5.2,
       "change_pct": -0.57,
-      "volume_vs_avg": 0.27,
+      "volume_vs_avg": 0.21,
       "week52_high": 5.43,
       "week52_low": 4.52,
       "news_digest": "AI synthesis unavailable",
@@ -6570,9 +6570,9 @@
     {
       "ticker": "WEB",
       "name": "Webjet",
-      "price": 2.62,
-      "change_pct": 0.77,
-      "volume_vs_avg": 2.64,
+      "price": 2.63,
+      "change_pct": 5.2,
+      "volume_vs_avg": 0.76,
       "week52_high": 5.03,
       "week52_low": 2.23,
       "news_digest": "AI synthesis unavailable",
@@ -6581,20 +6581,20 @@
     {
       "ticker": "WOW",
       "name": "Woolworths",
-      "price": 42.28,
-      "change_pct": -0.96,
-      "volume_vs_avg": 0.22,
+      "price": 41.78,
+      "change_pct": -0.07,
+      "volume_vs_avg": 0.24,
       "week52_high": 42.69,
-      "week52_low": 27.68,
+      "week52_low": 27.69,
       "news_digest": "AI synthesis unavailable",
       "has_announcement": false
     },
     {
       "ticker": "WQG",
       "name": "WCM Quality Global Growth",
-      "price": 2.01,
-      "change_pct": 2.29,
-      "volume_vs_avg": 0.61,
+      "price": 2.05,
+      "change_pct": 1.99,
+      "volume_vs_avg": 0.29,
       "week52_high": 2.17,
       "week52_low": 1.59,
       "news_digest": "AI synthesis unavailable",
@@ -6604,9 +6604,9 @@
   "culture": [],
   "meta": {
     "briefing_type": "8am",
-    "generated_at": "2026-11-26T14:25:40.989992+11:00",
-    "date": "2026-11-26",
-    "display_date": "Thursday 26 November 2026",
-    "display_time": "02:25 PM AEST"
+    "generated_at": "2026-11-27T14:32:56.602608+11:00",
+    "date": "2026-11-27",
+    "display_date": "Friday 27 November 2026",
+    "display_time": "02:32 PM AEST"
   }
 }
