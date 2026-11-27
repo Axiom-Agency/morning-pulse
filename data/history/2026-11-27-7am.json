@@ -1,0 +1,245 @@
+{
+  "us_markets": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7182.78,
+      "change": -18.31,
+      "change_pct": -0.25,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "NASDAQ",
+      "price": 23585.8,
+      "change": -147.74,
+      "change_pct": -0.62,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "price": 50182.95,
+      "change": 164.25,
+      "change_pct": 0.33,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^VIX",
+      "name": "VIX",
+      "price": 26.8,
+      "change": -1.49,
+      "change_pct": -5.27,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "US 10yr Yield",
+      "price": 4.85,
+      "change": -0.05,
+      "change_pct": -1.02,
+      "trend_5d": "down"
+    }
+  ],
+  "asia_markets": [
+    {
+      "ticker": "^N225",
+      "name": "Nikkei 225",
+      "price": 58049.97,
+      "change": 550.81,
+      "change_pct": 0.96,
+      "trend_5d": "up"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "Hang Seng",
+      "price": 22364.09,
+      "change": 137.21,
+      "change_pct": 0.62,
+      "trend_5d": "flat"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "Shanghai Composite",
+      "price": 3471.04,
+      "change": -5.84,
+      "change_pct": -0.17,
+      "trend_5d": "down"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "price": 4820.59,
+      "change": 109.38,
+      "change_pct": 2.32,
+      "trend_5d": "up"
+    }
+  ],
+  "commodities": [
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "price": 3642.3,
+      "change_pct": 3.01
+    },
+    {
+      "ticker": "BZ=F",
+      "name": "Brent Crude",
+      "price": 92.3,
+      "change_pct": -2.44
+    },
+    {
+      "ticker": "CL=F",
+      "name": "WTI Crude",
+      "price": 85.73,
+      "change_pct": 2.45
+    }
+  ],
+  "asx200": {
+    "level": 8818.2,
+    "change_pct": 0.62
+  },
+  "fx": [
+    {
+      "ticker": "AUDUSD=X",
+      "name": "AUD/USD",
+      "current_rate": 0.6668,
+      "change_pct": 0.6051
+    },
+    {
+      "ticker": "NZDUSD=X",
+      "name": "NZD/USD",
+      "current_rate": 0.5502,
+      "change_pct": 0.307
+    },
+    {
+      "ticker": "AUDNZD=X",
+      "name": "AUD/NZD",
+      "current_rate": 1.2116,
+      "change_pct": 0.2748
+    }
+  ],
+  "world_news": [
+    {
+      "headline": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Zelenskyy warns of major Russian attack as Trump urges Putin to \u2018pull back\u2019",
+      "summary": "Trump says he urged Putin to &#039;pull back&#039; military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Trump says the US has \u2018close to 50%\u2019 of world\u2019s oil",
+      "summary": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not \u2018need Middle East oil&#039;.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "New Zealand election: final results show ruling coalition needs minor party to govern",
+      "summary": "<p>Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election</p><p>The final results of New Zealand\u2019s general election show the incumbent rightwing coalition will need the support of a centrist newcomer party to form a government, and to avoid sending the country back to the polls.</p><p><a href=\"https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count\">Preliminary results</a> on 7 November handed the National party and its two coalition partners, the populist New Zealand First and libertarian Act parties, a slim two-seat majority, <a href=\"https://www.theguardian.com/world/2026/nov/08/nz-election-who-won-results-explained-overhang-special-votes-new-zealand\">making the election too close to call</a> until final votes were tallied.</p> <a href=\"https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Clashes halt match as Turkiye football fans raise Palestinian flags",
+      "summary": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "summary": "France&#039;s cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "headline": "Threat from China looms large over Taiwan\u2019s local elections",
+      "summary": "<p>Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party</p><p>Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage.</p><p>Saturday\u2019s vote will choose mayors, council members and other local leaders across 22 districts. Unlike the presidential elections, in which foreign policy is often a key issue, the local elections, held <a href=\"https://www.theguardian.com/world/2022/oct/10/taiwan-president-calls-for-unity-to-tackle-chinese-disinformation-ahead-of-elections\">every four years</a>, are largely focused on bread-and-butter issues such as housing affordability and wealth distribution.</p> <a href=\"https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections\">Continue reading...</a>",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "The Guardian"
+      ]
+    },
+    {
+      "headline": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    },
+    {
+      "headline": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+      "severity": "medium",
+      "region": "Global",
+      "aus_impact": false,
+      "aus_impact_note": "",
+      "sources": [
+        "BBC World"
+      ]
+    }
+  ],
+  "narrative": {
+    "us_narrative": "Market narrative unavailable.",
+    "asia_narrative": "Market narrative unavailable."
+  },
+  "meta": {
+    "briefing_type": "7am",
+    "generated_at": "2026-11-27T13:38:51.539546+11:00",
+    "date": "2026-11-27",
+    "display_date": "Friday 27 November 2026",
+    "display_time": "01:38 PM AEST"
+  }
+}
